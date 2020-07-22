@@ -5,6 +5,10 @@ main {
   align-items: center;
   color: var(--white);
 }
+.background {
+  background: url("images/background-laptop-paper.jpg");
+  background-size: cover;
+}
 .logo {
   width: 600px;
   max-width: 100%;
