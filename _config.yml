@@ -1,0 +1,10 @@
+# site-wide variables
+title: The Greene Lab
+email: casey@greenelab.com
+location: https://greenelab.com
+themeColor: #009688
+
+# build settings
+theme: minima
+plugins:
+  - jekyll-feed
