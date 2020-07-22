@@ -1,0 +1,40 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: var(--white);
+}
+.logo {
+  width: 600px;
+  max-width: 100%;
+  animation: logo_move 2s ease;
+}
+h2 {
+  animation: header_fade_in 2s ease;
+}
+
+/* animations */
+@keyframes logo_move {
+  /* center of rings are 14.66% of image width away from image center*/
+  0% {
+    transform: scale(1.5) translate(14.66%, 0);
+  }
+  50% {
+    transform: scale(1) translate(14.66%, 0);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+@keyframes header_fade_in {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
