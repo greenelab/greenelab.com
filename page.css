@@ -1,20 +1,33 @@
-main {
+header {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   color: var(--white);
+  min-height: 400px;
+  transition: min-height 0.5s ease;
+}
+header[data-fullscreen="true"] {
+  min-height: 100vh;
 }
 .background {
   background: url("images/background-laptop-paper.jpg");
   background-size: cover;
 }
 .logo {
-  width: 600px;
+  width: 300px;
   max-width: 100%;
+  margin-top: -30px;
   animation: logo_move 2s ease;
 }
 h2 {
+  font-size: 1.25em;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.1;
+  text-align: center;
+  margin: 0;
+  letter-spacing: 1px;
   animation: header_fade_in 2s ease;
 }
 

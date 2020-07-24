@@ -17,30 +17,37 @@ body {
   min-height: 100vh;
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
 }
 body {
   font-size: 11pt;
   display: flex;
   flex-direction: column;
+}
+
+/* sections */
+main,
+header,
+footer {
+  box-sizing: border-box;
+  position: relative;
+  padding: 40px;
+}
+header,
+footer {
   background: var(--black);
 }
 main {
-  box-sizing: border-box;
-  position: relative;
   flex-grow: 1;
-  padding: 20px;
+  max-width: 600px;
+  margin: auto;
 }
 
-/* headings */
-h2 {
-  font-size: 2em;
-  font-weight: 400;
-  font-style: italic;
-  line-height: 1.1;
-  text-align: center;
-  margin: 0;
-  letter-spacing: 1px;
+/* built-in components */
+button {
+  padding: 5px 10px;
+  border: none;
+  background: none;
+  cursor: pointer;
 }
 
 /* util classes */
@@ -52,7 +59,7 @@ h2 {
   right: 0;
   bottom: 0;
   opacity: 0.15;
-  z-index: -1;
+  pointer-events: none;
   animation: background_fade_in 2s ease;
 }
 
