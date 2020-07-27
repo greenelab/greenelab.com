@@ -1,14 +1,21 @@
-@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,600&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,400;1,600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,400;1,600&display=swap');
 
 /* basic */
 * {
   /* color variables */
   --white: #ffffff;
   --black: #000000;
+  --green: #009688;
+  --light-green: #80cbc4;
+  --blue: #00bcd4;
+
   /* font variables */
-  --serif: "EB Garamond", serif;
-  --sans: "Montserrat", sans-serif;
+  --serif: 'EB Garamond', serif;
+  --sans: 'Montserrat', sans-serif;
+
+  /* transition variables */
+  --quick: 0.1s ease;
 
   font-family: var(--serif);
 }
@@ -48,6 +55,10 @@ button {
   border: none;
   background: none;
   cursor: pointer;
+}
+a {
+  color: var(--green);
+  transition: color var(--quick);
 }
 
 /* util classes */
