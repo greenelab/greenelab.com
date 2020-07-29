@@ -1,0 +1,43 @@
+header[data-fullscreen="true"] {
+  min-height: 100vh;
+}
+header[data-fullscreen="true"] nav {
+  display: none;
+}
+header[data-fullscreen="true"] .logo {
+  height: 150px;
+  margin-top: -30px;
+  animation: logo_move var(--gradual);
+}
+h1 {
+  animation: heading_fade_in var(--gradual);
+}
+header:not([data-fullscreen]) h1,
+header[data-fullscreen="false"] h1 {
+  display: none;
+}
+
+/* animations */
+@keyframes logo_move {
+  /* center of rings are 14.66% of image width away from image center*/
+  0% {
+    transform: scale(2) translate(14.66%, 0);
+  }
+  50% {
+    transform: scale(1) translate(14.66%, 0);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+@keyframes heading_fade_in {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,22 @@
+<div>
+  <img
+    src="images/logo-animated.svg"
+    class="logo"
+    title="Greene Lab"
+    alt="Greene Lab"
+  />
+  <h1>{{ page.title }}</h1>
+</div>
+<script>
+  // trick to prevent browser from loading cached svg and not re-animating
+  document.querySelector("img.logo").src += "?" + Math.random();
+  // set header to take up whole screen, ie "fullscreen"
+  const header = document.querySelector("header");
+  header.dataset.fullscreen = true;
+  // listen for any user interaction to exit "fullscreen"
+  const exitFullscreen = (event) => (header.dataset.fullscreen = false);
+  window.addEventListener("mousedown", exitFullscreen);
+  window.addEventListener("touchstart", exitFullscreen);
+  window.addEventListener("keydown", exitFullscreen);
+  window.addEventListener("scroll", exitFullscreen);
+</script>

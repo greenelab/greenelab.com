@@ -107,7 +107,7 @@
     <g
       aria-label="Greene"
       transform="translate(16.5,0) scale(1.65)"
-      fill="#000000"
+      fill="#ffffff"
     >
       <!-- add inner "caret"/"hook" to capital G, missing in Montserrat -->
       <path d="M -23 -0.5 H -18.770625 v 1.8 H -23 z" />
@@ -136,7 +136,7 @@
     <g
       aria-label="Lab"
       transform="translate(37.15,21) scale(1.5)"
-      fill="#000000"
+      fill="#ffffff"
     >
       <path
         d="M -13.61279,-5.7266086 H -12.42879 V 4.4493914 H -6.1567904 V 5.4733914 H -13.61279 Z"

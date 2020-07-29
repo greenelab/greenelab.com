@@ -1,8 +1,11 @@
 # site-wide variables
 title: The Greene Lab
-email: casey@greenelab.com
 location: https://greenelab.com
 themeColor: "#009688"
+email: casey@greenelab.com
+github: greenelab
+twitter: GreeneScientist
+instagram:  greenelab
 
 # build settings
 theme: minima

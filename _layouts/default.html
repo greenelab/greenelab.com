@@ -1,0 +1,12 @@
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <main>
+      {% if page.home %} {% else %}
+      <h2>{{ page.title }}</h2>
+      {% endif %} {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
