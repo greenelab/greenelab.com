@@ -182,7 +182,7 @@ header > *:not(.background) {
   z-index: 1;
 }
 .icon {
-  margin-right: 10px;
+  margin: 0 0.5em;
 }
 
 /* header */

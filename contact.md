@@ -26,6 +26,14 @@ Philadelphia, PA 19104-5158<br>
 USA
 </p>
 
+<p class="center">
+  <a href="https://www.google.com/maps/?q=Smilow+Center+for+Translational+Research">
+    on Google Maps<i class="fas fa-external-link-alt icon fa-sm"></i>
+  </a>
+</p>
+
 ### <i class="fas fa-phone icon"></i>Phone
 
-<p class="center">(215) 573-2991</p>
+<p class="center">
+  <a href="tel:+1-215-573-2991">(215) 573-2991</a>
+</p>
