@@ -2,29 +2,30 @@
 layout: default
 title: Contact
 backgroundImage: images/background-smilow.jpg
+css: contact.css
 ---
 
 Our lab is part of the [Department of Systems Pharmacology and Translational Therapeutics](https://www.med.upenn.edu/syspharmatt/) at the [Perelman School of Medicine](https://www.med.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/).
+We are located on the 10th Floor of the [Smilow Center for Translational Research](https://www.facilities.upenn.edu/maps/locations/smilow-center-translational-research).
 
-<i class="far fa-envelope icon"></i> Email
+![Smilow Center for Translational Research](images/smilow.jpg)
 
-[{{ site.email }}](mailto:{{ site.email }})
+### <i class="far fa-envelope icon"></i>Email
 
-<i class="fab fa-github icon"></i> GitHub
+<p class="center">
+  <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
+  <a href="mailto:{{ site.email2 }}">{{ site.email2 }}</a>
+</p>
 
-[@{{ site.github }}](https://github.com/{{ site.github }})
+### <i class="far fa-address-book icon"></i>Mailing Address
 
-<i class="fab fa-twitter icon"></i> Twitter
-
-[@{{ site.twitter }}](https://twitter.com/{{ site.twitter }})
-
-<i class="fab fa-instagram icon"></i> Instagram
-
-[@{{ site.instagram }}](https://instagram.com/{{ site.instagram }})
-
-#### <i class="far fa-address-book icon"></i> Mailing Address
-
-3400 Civic Center Blvd.  
-10-131 SCTR  
-Philadelphia, PA 19104-5158  
+<p class="center">
+3400 Civic Center Blvd.<br>
+10-131 SCTR<br>
+Philadelphia, PA 19104-5158<br>
 USA
+</p>
+
+### <i class="fas fa-phone icon"></i>Phone
+
+<p class="center">(215) 573-2991</p>

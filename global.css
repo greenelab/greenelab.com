@@ -74,12 +74,6 @@ main {
 footer {
   padding: 40px;
 }
-nav {
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
-  flex-grow: 1;
-}
 
 /* headings */
 h1 {
@@ -95,7 +89,7 @@ h1 {
 h2 {
   font-family: var(--sans);
   font-size: var(--large);
-  font-weight: 400;
+  font-weight: 500;
   margin: 0;
   margin-bottom: 40px;
   text-align: center;
@@ -103,9 +97,18 @@ h2 {
   letter-spacing: 2px;
   text-transform: uppercase;
 }
-h4 {
+h3 {
+  font-size: var(--medium);
+  text-align: center;
   font-weight: 500;
-  margin: 20px 0;
+  margin: 0;
+  margin-top: 30px;
+}
+h4 {
+  font-size: var(--medium);
+  font-weight: 500;
+  margin: 0;
+  margin-top: 30px;
 }
 
 /* blocks */
@@ -113,9 +116,13 @@ p {
   margin: 0;
 }
 p:not(:first-child) {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 p:not(:last-child) {
+  margin-bottom: 10px;
+}
+p > img {
+  margin-top: 20px;
   margin-bottom: 20px;
 }
 
@@ -129,6 +136,11 @@ button {
 a {
   color: var(--green);
   transition: color var(--fast);
+}
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
 }
 
 /* animations */
@@ -150,6 +162,9 @@ a {
 }
 
 /* general classes */
+.center {
+  text-align: center;
+}
 .background {
   box-sizing: border-box;
   position: absolute;
@@ -166,12 +181,23 @@ a {
 header > *:not(.background) {
   z-index: 1;
 }
+.icon {
+  margin-right: 10px;
+}
+
+/* header */
 .logo {
   max-width: 100%;
   height: 100px;
 }
-.nav_link {
-  margin: 10px;
+nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-grow: 1;
+}
+nav > a {
+  padding: 10px;
   font-family: var(--sans);
   font-size: var(--tiny);
   font-weight: 500;
@@ -180,24 +206,28 @@ header > *:not(.background) {
   letter-spacing: 1px;
   transition: opacity var(--fast);
 }
-nav:hover .nav_link {
+nav:hover a {
   opacity: 0.25;
 }
-.nav_link:hover {
+nav > a:hover {
   opacity: 1 !important;
 }
-.social_link {
-  margin: 10px;
+
+/* footer */
+.social_links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.social_links > a {
+  padding: 10px;
   transition: opacity var(--fast);
 }
-.social_link:hover .social_link {
+.social_links:hover > a {
   opacity: 0.25;
 }
-.social_link:hover {
+.social_links > a:hover {
   opacity: 1 !important;
-}
-.icon {
-  margin-right: 5px;
 }
 
 /* mobile styles */
