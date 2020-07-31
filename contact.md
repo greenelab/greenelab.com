@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Contact
 backgroundImage: images/background-smilow.jpg
-css: contact.css
 ---
 
 Our lab is part of the [Department of Systems Pharmacology and Translational Therapeutics](https://www.med.upenn.edu/syspharmatt/) at the [Perelman School of Medicine](https://www.med.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/).
@@ -10,30 +8,24 @@ We are located on the 10th Floor of the [Smilow Center for Translational Researc
 
 ![Smilow Center for Translational Research](images/smilow.jpg)
 
-### <i class="far fa-envelope icon"></i>Email
+## <i class="far fa-envelope icon"></i>Email
 
-<p class="center">
-  <a href="mailto:{{ site.email }}">{{ site.email }}</a><br>
-  <a href="mailto:{{ site.email2 }}">{{ site.email2 }}</a>
-</p>
+{:.center}
+[{{ site.email }}](mailto:{{ site.email }})  
+[{{ site.email2 }}](mailto:{{ site.email }})
 
-### <i class="far fa-address-book icon"></i>Mailing Address
+## <i class="far fa-address-book icon"></i>Mailing Address
 
-<p class="center">
-3400 Civic Center Blvd.<br>
-10-131 SCTR<br>
-Philadelphia, PA 19104-5158<br>
+{:.center}
+3400 Civic Center Blvd.  
+10-131 SCTR  
+Philadelphia, PA 19104-5158  
 USA
-</p>
 
-<p class="center">
-  <a href="https://www.google.com/maps/?q=Smilow+Center+for+Translational+Research">
-    on Google Maps<i class="fas fa-external-link-alt icon fa-sm"></i>
-  </a>
-</p>
+{:.center}
+[on Google Maps<i class="fas fa-external-link-alt icon fa-sm"></i>](https://www.google.com/maps/?q=Smilow+Center+for+Translational+Research)
 
-### <i class="fas fa-phone icon"></i>Phone
+## <i class="fas fa-phone icon"></i>Phone
 
-<p class="center">
-  <a href="tel:+1-215-573-2991">(215) 573-2991</a>
-</p>
+{:.center}
+[(215) 573-2991](tel:+1-215-573-2991)

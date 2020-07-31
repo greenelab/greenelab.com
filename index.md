@@ -1,9 +1,10 @@
 ---
-layout: default
 title: Where data and biology meet
 home: true
 css: home.css
 ---
+
+{% include fullscreen.html %}
 
 The Greene Lab is a team of researchers at the [Perelman School of Medicine](https://www.med.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/) dedicated to answering important questions in biology and medicine with computation.
 

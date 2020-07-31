@@ -1,8 +1,10 @@
 <header>
-  <div
-    class="background"
-    style="background-image: url('{{ page.backgroundImage | default: 'images/background-laptop-paper.jpg' }}')"
-  ></div>
-  {% if page.home %} {% include home-logo.html %} {% else %} {% include
-  logo.html %} {% endif %} {% include nav.html %}
+  {% include background.html %}
+  <div>
+    {% include logo.html %}
+    {% if page.home %}
+    <div class="title">{{ page.title }}</div>
+    {% endif %}
+  </div>
+  {% include nav.html %}
 </header>

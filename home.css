@@ -1,3 +1,6 @@
+header {
+  transition: min-height var(--fast);
+}
 header[data-fullscreen="true"] {
   min-height: 100vh;
 }
@@ -9,12 +12,11 @@ header[data-fullscreen="true"] .logo {
   margin-top: -30px;
   animation: logo_move var(--gradual);
 }
-h1 {
-  animation: heading_fade_in var(--gradual);
+.title {
+  animation: title_fade_in var(--gradual);
 }
-header:not([data-fullscreen]) h1,
-header[data-fullscreen="false"] h1 {
-  display: none;
+header[data-fullscreen="true"] .title {
+  display: block;
 }
 
 /* animations */
@@ -30,7 +32,7 @@ header[data-fullscreen="false"] h1 {
     transform: translate(0, 0);
   }
 }
-@keyframes heading_fade_in {
+@keyframes title_fade_in {
   0% {
     opacity: 0;
   }

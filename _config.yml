@@ -8,6 +8,18 @@ github: greenelab
 twitter: GreeneScientist
 instagram:  greenelab
 
+# test with /greenelab.com appended to url for gh-pages
+# (remove when we transfer site to greenelab.com)
+baseurl: /greenelab.com
+
+# default front matter parameters
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+
 # build settings
 theme: minima
 plugins:

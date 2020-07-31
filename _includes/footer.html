@@ -1,10 +1,7 @@
 <footer>
-  <div
-    class="background"
-    style="background-image: url('{{ page.backgroundImage | default: 'images/background-laptop-paper.jpg' }}')"
-  ></div>
+  {% include background.html %}
   <div class="social_links">
-    <a href="contact" title="Contact"><i class="far fa-envelope fa-lg"></i></a>
+    <a href="{{ site.baseurl }}/contact" title="Contact"><i class="far fa-envelope fa-lg"></i></a>
     <a href="https://github.com/{{ site.github }}" title="GitHub"
       ><i class="fab fa-github fa-lg"></i
     ></a>
