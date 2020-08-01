@@ -6,3 +6,7 @@
     alt="Greene Lab"
   />
 </a>
+<script>
+  // trick to prevent browser from loading cached svg and not re-animating
+  document.querySelector("img.logo").src += "?" + Math.random();
+</script>

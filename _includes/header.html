@@ -1,4 +1,7 @@
 <header>
+  {% if page.home %}
+  {% include fullscreen.html %}
+  {% endif %}
   {% include background.html %}
   <div>
     {% include logo.html %}
@@ -6,5 +9,6 @@
     <div class="title">{{ page.title }}</div>
     {% endif %}
   </div>
+  <div class="header_spacer"></div>
   {% include nav.html %}
 </header>

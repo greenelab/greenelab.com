@@ -1,22 +1,21 @@
-header {
+header[data-fullscreen="false"] {
   transition: min-height var(--fast);
 }
 header[data-fullscreen="true"] {
   min-height: 100vh;
-}
-header[data-fullscreen="true"] nav {
-  display: none;
 }
 header[data-fullscreen="true"] .logo {
   height: 200px;
   margin-top: -30px;
   animation: logo_move var(--gradual);
 }
-.title {
-  animation: title_fade_in var(--gradual);
-}
 header[data-fullscreen="true"] .title {
   display: block;
+  animation: title_fade_in var(--gradual);
+}
+header[data-fullscreen="true"] nav,
+header[data-fullscreen="true"] .header_spacer {
+  display: none;
 }
 
 /* animations */

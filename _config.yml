@@ -21,6 +21,6 @@ defaults:
       layout: default
 
 # build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
