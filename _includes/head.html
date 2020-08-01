@@ -3,6 +3,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   {% include meta.html %}
   {% include icons.html %}
+  {% include fonts.html %}
   <link href="{{ site.baseurl }}/global.css" rel="stylesheet" />
+  {% if page.css %}
   <link href="{{ site.baseurl }}/{{ page.css }}" rel="stylesheet" />
+  {% endif %}
 </head>

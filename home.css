@@ -9,9 +9,9 @@ header[data-fullscreen="true"] .logo {
   margin-top: -30px;
   animation: logo_move var(--gradual);
 }
-header[data-fullscreen="true"] .title {
+header[data-fullscreen="true"] .slogan {
   display: block;
-  animation: title_fade_in var(--gradual);
+  animation: slogan_fade_in var(--gradual);
 }
 header[data-fullscreen="true"] nav,
 header[data-fullscreen="true"] .header_spacer {
@@ -31,7 +31,7 @@ header[data-fullscreen="true"] .header_spacer {
     transform: translate(0, 0);
   }
 }
-@keyframes title_fade_in {
+@keyframes slogan_fade_in {
   0% {
     opacity: 0;
   }
