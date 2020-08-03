@@ -126,11 +126,11 @@ h3 {
 p,
 ul,
 li,
-figure{
+figure {
   margin: 20px 0;
 }
 ul {
-  padding-left: 0;
+  padding-left: 20px;
 }
 hr {
   background: var(--light-gray);
@@ -216,6 +216,13 @@ header > *:not(.background) {
 .details > * {
   margin: 0 10px;
   white-space: nowrap;
+}
+.mini_details {
+  color: var(--gray);
+  font-style: italic;
+}
+.mini_details > * {
+  margin-right: 10px;
 }
 
 /* header */
