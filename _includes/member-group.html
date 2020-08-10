@@ -1,0 +1,5 @@
+{% for member in site.members %}
+  {% if member.role contains include.role and member.alum == include.alum %}
+    {% include member.html member=member %}
+  {% endif %}
+{% endfor %}

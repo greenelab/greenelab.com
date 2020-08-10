@@ -10,13 +10,11 @@
   --light-green: #80cbc4;
   --blue: #00bcd4;
   --red: #e91e63;
+  --shadow: 0 0 10px 0 #00000020;
 
   /* font variables */
   --serif: "EB Garamond", serif;
   --sans: "Montserrat", sans-serif;
-  --tiny: 0.85em;
-  --medium: 1.35em;
-  --large: 1.4em;
   --regular: 400;
   --semi-bold: 500;
   --bold: 600;
@@ -58,10 +56,6 @@ footer {
   background: var(--dark-gray);
   text-align: center;
 }
-header a,
-footer a {
-  color: var(--white) !important;
-}
 header {
   padding: 20px;
   min-height: 150px;
@@ -80,7 +74,7 @@ footer {
 /* headings */
 h1 {
   font-family: var(--sans);
-  font-size: var(--large);
+  font-size: 1.4em;
   font-weight: var(--semi-bold);
   margin: 0;
   margin-bottom: 20px;
@@ -94,7 +88,7 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: var(--medium);
+  font-size: 1.3em;
   text-align: center;
   font-weight: var(--semi-bold);
   margin: 0;
@@ -115,11 +109,17 @@ h2:after {
   margin-left: 40px;
 }
 h3 {
-  font-size: var(--medium);
+  font-size: 1.3em;
   font-weight: var(--semi-bold);
   margin: 0;
   margin-top: 40px;
   margin-bottom: 20px;
+}
+h4 {
+  font-size: 1em;
+  font-weight: var(--semi-bold);
+  margin: 20px 0;
+  text-align: center;
 }
 
 /* blocks */
@@ -163,10 +163,14 @@ img {
   max-width: 100%;
   max-height: 100%;
 }
-figure > img {
+figure img {
   display: block;
   margin: 0 auto;
-  max-height: 400px;
+  max-height: 300px;
+  box-shadow: var(--shadow);
+}
+figure[data-full="true"] img {
+  max-height: unset;
 }
 figcaption {
   margin-top: 10px;
@@ -174,22 +178,12 @@ figcaption {
   text-align: center;
 }
 
-/* animations */
-@keyframes background_fade_in {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 0.15;
-  }
-}
-
 /* general classes */
 .center {
   text-align: center;
 }
 .icon {
-  margin: 0 0.5em;
+  margin-right: 0.5em;
 }
 .background {
   box-sizing: border-box;
@@ -209,7 +203,6 @@ header > *:not(.background) {
 }
 .details {
   color: var(--gray);
-  margin-bottom: 40px;
   text-align: center;
   font-style: italic;
 }
@@ -217,12 +210,22 @@ header > *:not(.background) {
   margin: 0 10px;
   white-space: nowrap;
 }
-.mini_details {
+.social_link {
+  display: inline-block;
+  margin: 1em 0.25em 0 0.25em;
   color: var(--gray);
-  font-style: italic;
+  transition: color var(--fast);
 }
-.mini_details > * {
-  margin-right: 10px;
+.social_link:hover { 
+  color: var(--black);
+}
+.big_link {
+  display: inline-block;
+  margin: 20px;
+  font-family: var(--sans);
+  font-size: 0.9em;
+  font-weight: var(--semi-bold);
+  text-decoration: none;
 }
 
 /* header */
@@ -233,15 +236,6 @@ header > *:not(.background) {
   max-width: 100%;
   height: 100px;
 }
-.slogan {
-  display: none;
-  font-family: var(--serif);
-  font-size: var(--medium);
-  font-style: italic;
-  text-align: center;
-  letter-spacing: 1px;
-  line-height: 1.1;
-}
 nav {
   display: flex;
   justify-content: flex-end;
@@ -249,15 +243,17 @@ nav {
 }
 nav > a {
   padding: 10px;
+  color: var(--white);
   font-family: var(--sans);
-  font-size: var(--tiny);
+  font-size: 0.9em;
   font-weight: var(--semi-bold);
   text-transform: uppercase;
   text-decoration: none;
   letter-spacing: 1px;
   transition: opacity var(--fast);
 }
-nav:hover a {
+nav:hover > a {
+  color: var(--white);
   opacity: 0.25;
 }
 nav > a:hover {
@@ -265,20 +261,23 @@ nav > a:hover {
 }
 
 /* footer */
-.social_links {
+.footer_links {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.social_links > a {
+.footer_links > a {
   padding: 10px;
   transition: opacity var(--fast);
 }
-.social_links:hover > a {
+.footer_links:hover > a {
   opacity: 0.25;
 }
-.social_links > a:hover {
+.footer_links > a:hover {
   opacity: 1 !important;
+}
+.footer_links > a > i {
+  color: var(--white);
 }
 
 /* mobile styles */
@@ -294,5 +293,15 @@ nav > a:hover {
 @media screen and (max-width: 600px) {
   nav {
     flex-direction: column;
+  }
+}
+
+/* animations */
+@keyframes background_fade_in {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0.15;
   }
 }

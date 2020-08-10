@@ -1,5 +1,4 @@
 ---
 title: Research
-redirect_from:
-  - /publications
+redirect_from: /publications
 ---

@@ -1,4 +1,8 @@
-<figure>
-  <img src="{{ site.baseurl }}/images/{{ include.url }}" alt="{{ include.description }}" />
+<figure data-full="{{ include.full }}">
+  <a href="{{ site.baseurl }}/images/{{ include.url }}" target="_blank">
+    <img src="{{ site.baseurl }}/images/{{ include.url }}" alt="{{ include.description }}" />
+  </a>
+  {% if include.description %}
   <figcaption>{{ include.description }}</figcaption>
+  {% endif %}
 </figure>

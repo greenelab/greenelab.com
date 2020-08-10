@@ -1,7 +1,7 @@
 ---
 title: "Infant in arms: Some thoughts from a father traveling solo with an infant"
 author: Casey Greene
-redirect_from: musings/2019/1/29/infant-in-arms-some-thoughts-from-a-father-traveling-solo-with-an-infant
+redirect_from: /musings/2019/1/29/infant-in-arms-some-thoughts-from-a-father-traveling-solo-with-an-infant
 ---
 
 ## Brief Context
@@ -173,4 +173,4 @@ In one case, a flight attendant walked my daughter up and down the aisle of the 
 Even fellow passengers seemed less irritated by a fussy infant with me: in all of this travel I can only think of one dirty look that I got from a fellow passenger while I was traveling alone with my daughter.
 When you travel, offer assistance and understanding to women who need it as well.
 
-![Ada crawling]({{ site.baseurl }}/images/blog/ada-1.jpg)
+{% include figure.html url="blog/ada-1.jpg" full="true" %}

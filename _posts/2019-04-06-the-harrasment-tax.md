@@ -1,7 +1,7 @@
 ---
 title: The Harrasment Tax
 author: Casey Greene
-redirect_from: musings/2019/4/6/the-harassment-tax
+redirect_from: /musings/2019/4/6/the-harassment-tax
 ---
 
 _TL;DR: [This twitter thread from Michael Hendricks](https://twitter.com/mhendr1cks/status/1112893604010262530) is on the money._

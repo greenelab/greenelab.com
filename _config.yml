@@ -8,6 +8,10 @@ github: greenelab
 twitter: GreeneScientist
 instagram:  greenelab
 
+collections:
+  members:
+    output: true
+
 # test with /greenelab.com appended to url for gh-pages
 # (remove when we transfer site to greenelab.com)
 baseurl: /greenelab.com
@@ -19,6 +23,16 @@ defaults:
       path: ""
     values:
       layout: default
+  -
+    scope:
+      type: "members"
+    values:
+      layout: member
+  -
+    scope:
+      type: "posts"
+    values:
+      layout: post
 
 # build settings
 plugins:

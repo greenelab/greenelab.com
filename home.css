@@ -18,6 +18,16 @@ header[data-fullscreen="true"] .header_spacer {
   display: none;
 }
 
+.slogan {
+  display: none;
+  font-family: var(--serif);
+  font-size: 1.3em;
+  font-style: italic;
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.1;
+}
+
 /* animations */
 @keyframes logo_move {
   /* center of rings are 14.66% of image width away from image center*/

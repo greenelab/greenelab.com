@@ -4,18 +4,6 @@
     {% include header.html %}
     <main>
       <h1>{{ page.title }}</h1>
-      <p class="details">
-        {% if page.author %}
-        <span>
-          <i class="fas fa-feather-alt fa-fw icon"></i>{{ page.author }}
-        </span>
-        {% endif %}
-        {% if page.date %}
-        <span>
-          <i class="far fa-calendar-alt fa-fw icon"></i>{{ page.date | date: '%B %d, %Y' }}
-        </span>
-        {% endif %}
-      </p>
       {{ content }}
     </main>
     {% include footer.html %}

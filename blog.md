@@ -1,9 +1,12 @@
 ---
 title: Blog
-redirect_from: musings
+redirect_from: /musings
+css: blog.css
 ---
 
 {% for post in site.posts %}
+---
+
 **[{{ post.title }}]({{ site.baseurl }}{{ post.url }})**
 
 <p class="mini_details">

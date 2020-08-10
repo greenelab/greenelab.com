@@ -1,7 +1,7 @@
 ---
 title: Why do we have application fees?
 author: Casey Greene
-redirect_from: musings/2019/5/1/why-do-we-have-application-fees
+redirect_from: /musings/2019/5/1/why-do-we-have-application-fees
 ---
 
 ## Context

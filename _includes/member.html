@@ -1,0 +1,9 @@
+<a href="{{ site.baseurl }}{{ include.member.url }}" class="member_card" data-mini="{{ include.member.alum }}">
+  <span class="member_thumbnail">
+    <img src="{{ site.baseurl }}/images/team/{{ include.member.image }}" title="{{ include.member.title }}"/>
+  </span>
+  {% include role-icon.html role=include.member.role %}
+  <span class="member_title">
+    {{ include.member.title }}
+  </span>
+</a>
