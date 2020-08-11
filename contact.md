@@ -23,7 +23,7 @@ Philadelphia, PA 19104-5158
 USA
 
 {:.center}
-[on Google Maps<i class="fas fa-external-link-alt icon fa-sm"></i>](https://www.google.com/maps/?q=Smilow+Center+for+Translational+Research)
+[<i class="fas fa-external-link-alt icon fa-sm"></i>on Google Maps](https://www.google.com/maps/?q=Smilow+Center+for+Translational+Research)
 
 ## <i class="fas fa-phone icon"></i>Phone
 

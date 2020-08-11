@@ -17,14 +17,13 @@
 .member_card[data-mini="true"] {
   width: 100px;
   margin: 10px;
-  font-size: 0.9em;
+  font-size: 0.9rem;
 }
 .member_thumbnail {
   width: 150px;
   height: 150px;
   border-radius: 999px;
   overflow: hidden;
-  box-shadow: var(--shadow);
 }
 .member_card[data-mini="true"] > .member_thumbnail {
   width: 100px;
@@ -48,16 +47,17 @@
   justify-content: center;
   align-items: center;
   position: absolute;
-  left: 5px;
-  top: 5px;
+  left: 0;
+  top: 0;
   border-radius: 999px;
   background: var(--white);
-  width: 30px;
-  height: 30px;
+  width: 35px;
+  height: 35px;
   color: var(--gray);
-  box-shadow: var(--shadow);
 }
 .member_card[data-mini="true"] > i {
   left: 0;
   top: 0;
+  width: 25px;
+  height: 25px;
 }

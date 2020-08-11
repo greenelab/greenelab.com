@@ -21,7 +21,7 @@ header[data-fullscreen="true"] .header_spacer {
 .slogan {
   display: none;
   font-family: var(--serif);
-  font-size: 1.3em;
+  font-size: 1.3rem;
   font-style: italic;
   text-align: center;
   letter-spacing: 1px;
