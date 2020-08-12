@@ -1,0 +1,1653 @@
+[
+  {
+    "type": "article-journal",
+    "id": "xaJQMfCp",
+    "author": [
+      {
+        "family": "Millstein",
+        "given": "J."
+      },
+      {
+        "family": "Budden",
+        "given": "T."
+      },
+      {
+        "family": "Goode",
+        "given": "E.L."
+      },
+      {
+        "family": "Anglesio",
+        "given": "M.S."
+      },
+      {
+        "family": "Talhouk",
+        "given": "A."
+      },
+      {
+        "family": "Intermaggio",
+        "given": "M.P."
+      },
+      {
+        "family": "Leong",
+        "given": "H.S."
+      },
+      {
+        "family": "Chen",
+        "given": "S."
+      },
+      {
+        "family": "Elatre",
+        "given": "W."
+      },
+      {
+        "family": "Gilks",
+        "given": "B."
+      },
+      {
+        "family": "Nazeran",
+        "given": "T."
+      },
+      {
+        "family": "Volchek",
+        "given": "M."
+      },
+      {
+        "family": "Bentley",
+        "given": "R.C."
+      },
+      {
+        "family": "Wang",
+        "given": "C."
+      },
+      {
+        "family": "Chiu",
+        "given": "D.S."
+      },
+      {
+        "family": "Kommoss",
+        "given": "S."
+      },
+      {
+        "family": "Leung",
+        "given": "S.C.Y."
+      },
+      {
+        "family": "Senz",
+        "given": "J."
+      },
+      {
+        "family": "Lum",
+        "given": "A."
+      },
+      {
+        "family": "Chow",
+        "given": "V."
+      },
+      {
+        "family": "Sudderuddin",
+        "given": "H."
+      },
+      {
+        "family": "Mackenzie",
+        "given": "R."
+      },
+      {
+        "family": "George",
+        "given": "J."
+      },
+      {
+        "family": "Fereday",
+        "given": "S."
+      },
+      {
+        "family": "Hendley",
+        "given": "J."
+      },
+      {
+        "family": "Traficante",
+        "given": "N."
+      },
+      {
+        "family": "Steed",
+        "given": "H."
+      },
+      {
+        "family": "Koziak",
+        "given": "J.M."
+      },
+      {
+        "family": "Köbel",
+        "given": "M."
+      },
+      {
+        "family": "McNeish",
+        "given": "I.A."
+      },
+      {
+        "family": "Goranova",
+        "given": "T."
+      },
+      {
+        "family": "Ennis",
+        "given": "D."
+      },
+      {
+        "family": "Macintyre",
+        "given": "G."
+      },
+      {
+        "family": "Silva De Silva",
+        "given": "D."
+      },
+      {
+        "family": "Ramón y Cajal",
+        "given": "T."
+      },
+      {
+        "family": "García-Donas",
+        "given": "J."
+      },
+      {
+        "family": "Hernando Polo",
+        "given": "S."
+      },
+      {
+        "family": "Rodriguez",
+        "given": "G.C."
+      },
+      {
+        "family": "Cushing-Haugen",
+        "given": "K.L."
+      },
+      {
+        "family": "Harris",
+        "given": "H.R."
+      },
+      {
+        "family": "Greene",
+        "given": "C.S."
+      },
+      {
+        "family": "Zelaya",
+        "given": "R.A."
+      },
+      {
+        "family": "Behrens",
+        "given": "S."
+      },
+      {
+        "family": "Fortner",
+        "given": "R.T."
+      },
+      {
+        "family": "Sinn",
+        "given": "P."
+      },
+      {
+        "family": "Herpel",
+        "given": "E."
+      },
+      {
+        "family": "Lester",
+        "given": "J."
+      },
+      {
+        "family": "Lubiński",
+        "given": "J."
+      },
+      {
+        "family": "Oszurek",
+        "given": "O."
+      },
+      {
+        "family": "Tołoczko",
+        "given": "A."
+      },
+      {
+        "family": "Cybulski",
+        "given": "C."
+      },
+      {
+        "family": "Menkiszak",
+        "given": "J."
+      },
+      {
+        "family": "Pearce",
+        "given": "C.L."
+      },
+      {
+        "family": "Pike",
+        "given": "M.C."
+      },
+      {
+        "family": "Tseng",
+        "given": "C."
+      },
+      {
+        "family": "Alsop",
+        "given": "J."
+      },
+      {
+        "family": "Rhenius",
+        "given": "V."
+      },
+      {
+        "family": "Song",
+        "given": "H."
+      },
+      {
+        "family": "Jimenez-Linan",
+        "given": "M."
+      },
+      {
+        "family": "Piskorz",
+        "given": "A.M."
+      },
+      {
+        "family": "Gentry-Maharaj",
+        "given": "A."
+      },
+      {
+        "family": "Karpinskyj",
+        "given": "C."
+      },
+      {
+        "family": "Widschwendter",
+        "given": "M."
+      },
+      {
+        "family": "Singh",
+        "given": "N."
+      },
+      {
+        "family": "Kennedy",
+        "given": "C.J."
+      },
+      {
+        "family": "Sharma",
+        "given": "R."
+      },
+      {
+        "family": "Harnett",
+        "given": "P.R."
+      },
+      {
+        "family": "Gao",
+        "given": "B."
+      },
+      {
+        "family": "Johnatty",
+        "given": "S.E."
+      },
+      {
+        "family": "Sayer",
+        "given": "R."
+      },
+      {
+        "family": "Boros",
+        "given": "J."
+      },
+      {
+        "family": "Winham",
+        "given": "S.J."
+      },
+      {
+        "family": "Keeney",
+        "given": "G.L."
+      },
+      {
+        "family": "Kaufmann",
+        "given": "S.H."
+      },
+      {
+        "family": "Larson",
+        "given": "M.C."
+      },
+      {
+        "family": "Luk",
+        "given": "H."
+      },
+      {
+        "family": "Hernandez",
+        "given": "B.Y."
+      },
+      {
+        "family": "Thompson",
+        "given": "P.J."
+      },
+      {
+        "family": "Wilkens",
+        "given": "L.R."
+      },
+      {
+        "family": "Carney",
+        "given": "M.E."
+      },
+      {
+        "family": "Trabert",
+        "given": "B."
+      },
+      {
+        "family": "Lissowska",
+        "given": "J."
+      },
+      {
+        "family": "Brinton",
+        "given": "L."
+      },
+      {
+        "family": "Sherman",
+        "given": "M.E."
+      },
+      {
+        "family": "Bodelon",
+        "given": "C."
+      },
+      {
+        "family": "Hinsley",
+        "given": "S."
+      },
+      {
+        "family": "Lewsley",
+        "given": "L.A."
+      },
+      {
+        "family": "Glasspool",
+        "given": "R."
+      },
+      {
+        "family": "Banerjee",
+        "given": "S.N."
+      },
+      {
+        "family": "Stronach",
+        "given": "E.A."
+      },
+      {
+        "family": "Haluska",
+        "given": "P."
+      },
+      {
+        "family": "Ray-Coquard",
+        "given": "I."
+      },
+      {
+        "family": "Mahner",
+        "given": "S."
+      },
+      {
+        "family": "Winterhoff",
+        "given": "B."
+      },
+      {
+        "family": "Slamon",
+        "given": "D."
+      },
+      {
+        "family": "Levine",
+        "given": "D.A."
+      },
+      {
+        "family": "Kelemen",
+        "given": "L.E."
+      },
+      {
+        "family": "Benitez",
+        "given": "J."
+      },
+      {
+        "family": "Chang-Claude",
+        "given": "J."
+      },
+      {
+        "family": "Gronwald",
+        "given": "J."
+      },
+      {
+        "family": "Wu",
+        "given": "A.H."
+      },
+      {
+        "family": "Menon",
+        "given": "U."
+      },
+      {
+        "family": "Goodman",
+        "given": "M.T."
+      },
+      {
+        "family": "Schildkraut",
+        "given": "J.M."
+      },
+      {
+        "family": "Wentzensen",
+        "given": "N."
+      },
+      {
+        "family": "Brown",
+        "given": "R."
+      },
+      {
+        "family": "Berchuck",
+        "given": "A."
+      },
+      {
+        "family": "Chenevix-Trench",
+        "given": "G."
+      },
+      {
+        "family": "deFazio",
+        "given": "A."
+      },
+      {
+        "family": "Gayther",
+        "given": "S.A."
+      },
+      {
+        "family": "García",
+        "given": "M.J."
+      },
+      {
+        "family": "Henderson",
+        "given": "M.J."
+      },
+      {
+        "family": "Rossing",
+        "given": "M.A."
+      },
+      {
+        "family": "Beeghly-Fadiel",
+        "given": "A."
+      },
+      {
+        "family": "Fasching",
+        "given": "P.A."
+      },
+      {
+        "family": "Orsulic",
+        "given": "S."
+      },
+      {
+        "family": "Karlan",
+        "given": "B.Y."
+      },
+      {
+        "family": "Konecny",
+        "given": "G.E."
+      },
+      {
+        "family": "Huntsman",
+        "given": "D.G."
+      },
+      {
+        "family": "Bowtell",
+        "given": "D.D."
+      },
+      {
+        "family": "Brenton",
+        "given": "J.D."
+      },
+      {
+        "family": "Doherty",
+        "given": "J.A."
+      },
+      {
+        "family": "Pharoah",
+        "given": "P.D.P."
+      },
+      {
+        "family": "Ramus",
+        "given": "S.J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "container-title": "Annals of Oncology",
+    "DOI": "10.1016/j.annonc.2020.05.019",
+    "publisher": "Elsevier BV",
+    "title": "Prognostic gene expression signature for high-grade serous ovarian cancer",
+    "URL": "https://doi.org/gg4mzh",
+    "PMID": "32473302",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1016/j.annonc.2020.05.019"
+  },
+  {
+    "type": "article-journal",
+    "id": "16nBY5lyO",
+    "author": [
+      {
+        "family": "Crawford",
+        "given": "Jake"
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "container-title": "Current Opinion in Biotechnology",
+    "DOI": "10.1016/j.copbio.2019.12.021",
+    "volume": "63",
+    "page": "126-134",
+    "publisher": "Elsevier BV",
+    "title": "Incorporating biological structure into machine learning models in biomedicine",
+    "URL": "https://doi.org/gg7m47",
+    "PMCID": "PMC7308204",
+    "PMID": "31962244",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1016/j.copbio.2019.12.021"
+  },
+  {
+    "type": "article-journal",
+    "id": "NiAmOQj0",
+    "author": [
+      {
+        "family": "Nicholson",
+        "given": "David N."
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "Computational and Structural Biotechnology Journal",
+    "DOI": "10.1016/j.csbj.2020.05.017",
+    "volume": "18",
+    "page": "1414-1428",
+    "publisher": "Elsevier BV",
+    "title": "Constructing knowledge graphs and their biomedical applications",
+    "URL": "https://doi.org/gg7m48",
+    "PMCID": "PMC7327409",
+    "PMID": "32637040",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1016/j.csbj.2020.05.017"
+  },
+  {
+    "type": "article-journal",
+    "id": "bmdJY6Bt",
+    "author": [
+      {
+        "family": "Segal",
+        "given": "Eran"
+      },
+      {
+        "family": "Zhang",
+        "given": "Feng"
+      },
+      {
+        "family": "Lin",
+        "given": "Xihong"
+      },
+      {
+        "family": "King",
+        "given": "Gary"
+      },
+      {
+        "family": "Shalem",
+        "given": "Ophir"
+      },
+      {
+        "family": "Shilo",
+        "given": "Smadar"
+      },
+      {
+        "family": "Allen",
+        "given": "William E."
+      },
+      {
+        "family": "Alquaddoomi",
+        "given": "Faisal"
+      },
+      {
+        "family": "Altae-Tran",
+        "given": "Han"
+      },
+      {
+        "family": "Anders",
+        "given": "Simon"
+      },
+      {
+        "family": "Balicer",
+        "given": "Ran"
+      },
+      {
+        "family": "Bauman",
+        "given": "Tal"
+      },
+      {
+        "family": "Bonilla",
+        "given": "Ximena"
+      },
+      {
+        "family": "Booman",
+        "given": "Gisel"
+      },
+      {
+        "family": "Chan",
+        "given": "Andrew T."
+      },
+      {
+        "family": "Cohen",
+        "given": "Ori"
+      },
+      {
+        "family": "Coletti",
+        "given": "Silvano"
+      },
+      {
+        "family": "Davidson",
+        "given": "Natalie"
+      },
+      {
+        "family": "Dor",
+        "given": "Yuval"
+      },
+      {
+        "family": "Drew",
+        "given": "David A."
+      },
+      {
+        "family": "Elemento",
+        "given": "Olivier"
+      },
+      {
+        "family": "Evans",
+        "given": "Georgina"
+      },
+      {
+        "family": "Ewels",
+        "given": "Phil"
+      },
+      {
+        "family": "Gale",
+        "given": "Joshua"
+      },
+      {
+        "family": "Gavrieli",
+        "given": "Amir"
+      },
+      {
+        "family": "Geiger",
+        "given": "Benjamin"
+      },
+      {
+        "family": "Grad",
+        "given": "Yonatan H."
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S."
+      },
+      {
+        "family": "Hajirasouliha",
+        "given": "Iman"
+      },
+      {
+        "family": "Jerala",
+        "given": "Roman"
+      },
+      {
+        "family": "Kahles",
+        "given": "Andre"
+      },
+      {
+        "family": "Kallioniemi",
+        "given": "Olli"
+      },
+      {
+        "family": "Keshet",
+        "given": "Ayya"
+      },
+      {
+        "family": "Kocarev",
+        "given": "Ljupco"
+      },
+      {
+        "family": "Landua",
+        "given": "Gregory"
+      },
+      {
+        "family": "Meir",
+        "given": "Tomer"
+      },
+      {
+        "family": "Muller",
+        "given": "Aline"
+      },
+      {
+        "family": "Nguyen",
+        "given": "Long H."
+      },
+      {
+        "family": "Oresic",
+        "given": "Matej"
+      },
+      {
+        "family": "Ovchinnikova",
+        "given": "Svetlana"
+      },
+      {
+        "family": "Peterson",
+        "given": "Hedi"
+      },
+      {
+        "family": "Prodanova",
+        "given": "Jana"
+      },
+      {
+        "family": "Rajagopal",
+        "given": "Jay"
+      },
+      {
+        "family": "Rätsch",
+        "given": "Gunnar"
+      },
+      {
+        "family": "Rossman",
+        "given": "Hagai"
+      },
+      {
+        "family": "Rung",
+        "given": "Johan"
+      },
+      {
+        "family": "Sboner",
+        "given": "Andrea"
+      },
+      {
+        "family": "Sigaras",
+        "given": "Alexandros"
+      },
+      {
+        "family": "Spector",
+        "given": "Tim"
+      },
+      {
+        "family": "Steinherz",
+        "given": "Ron"
+      },
+      {
+        "family": "Stevens",
+        "given": "Irene"
+      },
+      {
+        "family": "Vilo",
+        "given": "Jaak"
+      },
+      {
+        "family": "Wilmes",
+        "given": "Paul"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          2
+        ]
+      ]
+    },
+    "container-title": "Nature Medicine",
+    "DOI": "10.1038/s41591-020-0929-x",
+    "volume": "26",
+    "issue": "8",
+    "page": "1161-1165",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "Building an international consortium for tracking coronavirus health status",
+    "URL": "https://doi.org/gg7qrp",
+    "PMID": "32488218",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1038/s41591-020-0929-x"
+  },
+  {
+    "type": "article-journal",
+    "id": "21gkwGCB",
+    "author": [
+      {
+        "family": "Clay",
+        "given": "Michelle E."
+      },
+      {
+        "family": "Hammond",
+        "given": "John H."
+      },
+      {
+        "family": "Zhong",
+        "given": "Fangfang"
+      },
+      {
+        "family": "Chen",
+        "given": "Xiaolei"
+      },
+      {
+        "family": "Kowalski",
+        "given": "Caitlin H."
+      },
+      {
+        "family": "Lee",
+        "given": "Alexandra J."
+      },
+      {
+        "family": "Porter",
+        "given": "Monique S."
+      },
+      {
+        "family": "Hampton",
+        "given": "Thomas H."
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S."
+      },
+      {
+        "family": "Pletneva",
+        "given": "Ekaterina V."
+      },
+      {
+        "family": "Hogan",
+        "given": "Deborah A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          24
+        ]
+      ]
+    },
+    "abstract": "strains with loss-of-function mutations in the transcription factor LasR are frequently encountered in the clinic and the environment. Among the characteristics common to LasR-defective (LasR−) strains is increased activity of the transcription factor Anr, relative to their LasR+ counterparts, in low-oxygen conditions. One of the Anr-regulated genes found to be highly induced in LasR− strains was ( ), which we named for microoxic hemerythrin. Purified Mhr protein contained the predicted di-iron center and bound molecular oxygen with an apparent of ∼1 µM. Both Anr and Mhr were necessary for fitness in + and mutant strains in colony biofilms grown in microoxic conditions, and the effects were more striking in the mutant. Among genes in the Anr regulon, was most closely coregulated with the Anr-controlled high-affinity cytochrome oxidase genes. In the absence of high-affinity cytochrome oxidases, deletion of no longer caused a fitness disadvantage, suggesting that Mhr works in concert with microoxic respiration. We demonstrate that Anr and Mhr contribute to LasR− strain fitness even in biofilms grown in normoxic conditions. Furthermore, metabolomics data indicate that, in a mutant, expression of Anr-regulated leads to differences in metabolism in cells grown on lysogeny broth or artificial sputum medium. We propose that increased Anr activity leads to higher levels of the oxygen-binding protein Mhr, which confers an advantage to mutants in microoxic conditions.",
+    "container-title": "Proceedings of the National Academy of Sciences",
+    "DOI": "10.1073/pnas.1917576117",
+    "page": "201917576",
+    "publisher": "Proceedings of the National Academy of Sciences",
+    "title": "<i>Pseudomonas aeruginosa lasR</i> mutant fitness in microoxia is supported by an Anr-regulated oxygen-binding hemerythrin",
+    "URL": "https://doi.org/gg7m49",
+    "PMCID": "PMC7022198",
+    "PMID": "31980538",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1073/pnas.1917576117"
+  },
+  {
+    "type": "article-journal",
+    "id": "14d1aNfaC",
+    "author": [
+      {
+        "family": "Brito",
+        "given": "Jaqueline J"
+      },
+      {
+        "family": "Li",
+        "given": "Jun"
+      },
+      {
+        "family": "Moore",
+        "given": "Jason H"
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S"
+      },
+      {
+        "family": "Nogoy",
+        "given": "Nicole A"
+      },
+      {
+        "family": "Garmire",
+        "given": "Lana X"
+      },
+      {
+        "family": "Mangul",
+        "given": "Serghei"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          1
+        ]
+      ]
+    },
+    "abstract": "Biomedical research depends increasingly on computational tools, but mechanisms ensuring open data, open software, and reproducibility are variably enforced by academic institutions, funders, and publishers. Publications may present software for which source code or documentation are or become unavailable; this compromises the role of peer review in evaluating technical strength and scientific contribution. Incomplete ancillary information for an academic software package may bias or limit subsequent work. We provide 8 recommendations to improve reproducibility, transparency, and rigor in computational biology—precisely the values that should be emphasized in life science curricula. Our recommendations for improving software availability, usability, and archival stability aim to foster a sustainable data science ecosystem in life science research.",
+    "container-title": "GigaScience",
+    "DOI": "10.1093/gigascience/giaa056",
+    "volume": "9",
+    "issue": "6",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Recommendations to enhance rigor and reproducibility in biomedical research",
+    "URL": "https://doi.org/ggzr3d",
+    "PMCID": "PMC7263079",
+    "PMID": "32479592",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1093/gigascience/giaa056"
+  },
+  {
+    "type": "article-journal",
+    "id": "e3Qlj1Kg",
+    "author": [
+      {
+        "family": "Hu",
+        "given": "Qiwen"
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S"
+      },
+      {
+        "family": "Heller",
+        "given": "Elizabeth A"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          21
+        ]
+      ]
+    },
+    "abstract": "Alternative splicing (AS) is frequent during early mouse embryonic development. Specific histone post-translational modifications (hPTMs) have been shown to regulate exon splicing by either directly recruiting splice machinery or indirectly modulating transcriptional elongation. In this study, we hypothesized that hPTMs regulate expression of alternatively spliced genes for specific processes during differentiation. To address this notion, we applied an innovative machine learning approach to relate global hPTM enrichment to AS regulation during mammalian tissue development. We found that specific hPTMs, H3K36me3 and H3K4me1, play a role in skipped exon selection among all the tissues and developmental time points examined. In addition, we used iterative random forest model and found that interactions of multiple hPTMs most strongly predicted splicing when they included H3K36me3 and H3K4me1. Collectively, our data demonstrated a link between hPTMs and alternative splicing which will drive further experimental studies on the functional relevance of these modifications to alternative splicing.",
+    "container-title": "Nucleic Acids Research",
+    "DOI": "10.1093/nar/gkaa248",
+    "volume": "48",
+    "issue": "9",
+    "page": "4709-4724",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Specific histone modifications associate with alternative exon selection during mammalian development",
+    "URL": "https://doi.org/gg7m5c",
+    "PMCID": "PMC7229819",
+    "PMID": "32319526",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1093/nar/gkaa248"
+  },
+  {
+    "type": "article-journal",
+    "id": "VNNHRJkv",
+    "author": [
+      {
+        "family": "Crawford",
+        "given": "Jake"
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          1,
+          21
+        ]
+      ]
+    },
+    "abstract": "Recent work suggests that gene expression dependencies can be predicted almost as well by using random networks as by using experimentally derived interaction networks. We hypothesize that this effect is highly variable across genes, as useful and robust experimental evidence exists for some genes but not others. To explore this variation, we take the -core decomposition of the STRING network, and compare it to a degree-matched random model. We show that when low-degree nodes are removed, expression dependencies in the remaining genes can be predicted better by the resulting network than by the random model.",
+    "container-title": "bioRxiv",
+    "DOI": "10.1101/2020.01.17.910703",
+    "publisher": "bioRxiv",
+    "title": "Graph biased feature selection of genes is better than random for many genes",
+    "URL": "https://doi.org/gg7m5p",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1101/2020.01.17.910703"
+  },
+  {
+    "type": "article-journal",
+    "id": "kujYihGc",
+    "author": [
+      {
+        "family": "Talhouk",
+        "given": "Aline"
+      },
+      {
+        "family": "George",
+        "given": "Joshy"
+      },
+      {
+        "family": "Wang",
+        "given": "Chen"
+      },
+      {
+        "family": "Budden",
+        "given": "Timothy"
+      },
+      {
+        "family": "Tan",
+        "given": "Tuan Zea"
+      },
+      {
+        "family": "Chiu",
+        "given": "Derek S."
+      },
+      {
+        "family": "Kommoss",
+        "given": "Stefan"
+      },
+      {
+        "family": "Leong",
+        "given": "Huei San"
+      },
+      {
+        "family": "Chen",
+        "given": "Stephanie"
+      },
+      {
+        "family": "Intermaggio",
+        "given": "Maria P."
+      },
+      {
+        "family": "Gilks",
+        "given": "Blake"
+      },
+      {
+        "family": "Nazeran",
+        "given": "Tayyebeh M."
+      },
+      {
+        "family": "Volchek",
+        "given": "Mila"
+      },
+      {
+        "family": "Elatre",
+        "given": "Wafaa"
+      },
+      {
+        "family": "Bentley",
+        "given": "Rex C."
+      },
+      {
+        "family": "Senz",
+        "given": "Janine"
+      },
+      {
+        "family": "Lum",
+        "given": "Amy"
+      },
+      {
+        "family": "Chow",
+        "given": "Veronica"
+      },
+      {
+        "family": "Sudderuddin",
+        "given": "Hanwei"
+      },
+      {
+        "family": "Mackenzie",
+        "given": "Robertson"
+      },
+      {
+        "family": "Leong",
+        "given": "Samuel C.Y."
+      },
+      {
+        "family": "Liu",
+        "given": "Geyi"
+      },
+      {
+        "family": "Johnson",
+        "given": "Dustin"
+      },
+      {
+        "family": "Chen",
+        "given": "Billy"
+      },
+      {
+        "family": "Group",
+        "given": "AOCS"
+      },
+      {
+        "family": "Alsop",
+        "given": "Jennifer"
+      },
+      {
+        "family": "Banerjee",
+        "given": "Susana N."
+      },
+      {
+        "family": "Behrens",
+        "given": "Sabine"
+      },
+      {
+        "family": "Bodelon",
+        "given": "Clara"
+      },
+      {
+        "family": "Brand",
+        "given": "Alison H."
+      },
+      {
+        "family": "Brinton",
+        "given": "Louise"
+      },
+      {
+        "family": "Carney",
+        "given": "Michael E."
+      },
+      {
+        "family": "Chiew",
+        "given": "Yoke-Eng"
+      },
+      {
+        "family": "Cushing-Haugen",
+        "given": "Kara L."
+      },
+      {
+        "family": "Cybulski",
+        "given": "Cezary"
+      },
+      {
+        "family": "Ennis",
+        "given": "Darren"
+      },
+      {
+        "family": "Fereday",
+        "given": "Sian"
+      },
+      {
+        "family": "Fortner",
+        "given": "Renée T."
+      },
+      {
+        "family": "García-Donas",
+        "given": "Jesús"
+      },
+      {
+        "family": "Gentry-Maharaj",
+        "given": "Aleksandra"
+      },
+      {
+        "family": "Glasspool",
+        "given": "Rosalind"
+      },
+      {
+        "family": "Goranova",
+        "given": "Teodora"
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S."
+      },
+      {
+        "family": "Haluska",
+        "given": "Paul"
+      },
+      {
+        "family": "Harris",
+        "given": "Holly R."
+      },
+      {
+        "family": "Hendley",
+        "given": "Joy"
+      },
+      {
+        "family": "Hernandez",
+        "given": "Brenda Y."
+      },
+      {
+        "family": "Herpel",
+        "given": "Esther"
+      },
+      {
+        "family": "Jimenez-Linan",
+        "given": "Mercedes"
+      },
+      {
+        "family": "Karpinskyj",
+        "given": "Chloe"
+      },
+      {
+        "family": "Kaufmann",
+        "given": "Scott H."
+      },
+      {
+        "family": "Keeney",
+        "given": "Gary L."
+      },
+      {
+        "family": "Kennedy",
+        "given": "Catherine J."
+      },
+      {
+        "family": "Köbel",
+        "given": "Martin"
+      },
+      {
+        "family": "Koziak",
+        "given": "Jennifer M"
+      },
+      {
+        "family": "Larson",
+        "given": "Melissa C."
+      },
+      {
+        "family": "Lester",
+        "given": "Jenny"
+      },
+      {
+        "family": "Lewsley",
+        "given": "Liz-Anne"
+      },
+      {
+        "family": "Lissowska",
+        "given": "Jolanta"
+      },
+      {
+        "family": "Lubiński",
+        "given": "Jan"
+      },
+      {
+        "family": "Luk",
+        "given": "Hugh"
+      },
+      {
+        "family": "Macintyre",
+        "given": "Geoff"
+      },
+      {
+        "family": "Mahner",
+        "given": "Sven"
+      },
+      {
+        "family": "McNeish",
+        "given": "Iain A."
+      },
+      {
+        "family": "Menkiszak",
+        "given": "Janusz"
+      },
+      {
+        "family": "Nevins",
+        "given": "Nikilyn"
+      },
+      {
+        "family": "Osorio",
+        "given": "Ana"
+      },
+      {
+        "family": "Oszurek",
+        "given": "Oleg"
+      },
+      {
+        "family": "Palacios",
+        "given": "José"
+      },
+      {
+        "family": "Hinsley",
+        "given": "Samantha"
+      },
+      {
+        "family": "Pearce",
+        "given": "Celeste L."
+      },
+      {
+        "family": "Pike",
+        "given": "Malcolm C."
+      },
+      {
+        "family": "Piskorz",
+        "given": "Anna M."
+      },
+      {
+        "family": "Ray-Coquard",
+        "given": "Isabelle"
+      },
+      {
+        "family": "Rhenius",
+        "given": "Valerie"
+      },
+      {
+        "family": "Rodriguez-Antona",
+        "given": "Cristina"
+      },
+      {
+        "family": "Sharma",
+        "given": "Raghwa"
+      },
+      {
+        "family": "Sherman",
+        "given": "Mark E."
+      },
+      {
+        "family": "De Silva",
+        "given": "Dilrini"
+      },
+      {
+        "family": "Singh",
+        "given": "Naveena"
+      },
+      {
+        "family": "Sinn",
+        "given": "Peter"
+      },
+      {
+        "family": "Slamon",
+        "given": "Dennis"
+      },
+      {
+        "family": "Song",
+        "given": "Honglin"
+      },
+      {
+        "family": "Steed",
+        "given": "Helen"
+      },
+      {
+        "family": "Stronach",
+        "given": "Euan A."
+      },
+      {
+        "family": "Thompson",
+        "given": "Pamela J."
+      },
+      {
+        "family": "Tołoczko",
+        "given": "Aleksandra"
+      },
+      {
+        "family": "Trabert",
+        "given": "Britton"
+      },
+      {
+        "family": "Traficante",
+        "given": "Nadia"
+      },
+      {
+        "family": "Tseng",
+        "given": "Chiu-Chen"
+      },
+      {
+        "family": "Widschwendter",
+        "given": "Martin"
+      },
+      {
+        "family": "Wilkens",
+        "given": "Lynne R."
+      },
+      {
+        "family": "Winham",
+        "given": "Stacey J."
+      },
+      {
+        "family": "Winterhoff",
+        "given": "Boris"
+      },
+      {
+        "family": "Beeghly-Fadiel",
+        "given": "Alicia"
+      },
+      {
+        "family": "Benitez",
+        "given": "Javier"
+      },
+      {
+        "family": "Berchuck",
+        "given": "Andrew"
+      },
+      {
+        "family": "Brenton",
+        "given": "James D."
+      },
+      {
+        "family": "Brown",
+        "given": "Robert"
+      },
+      {
+        "family": "Chang-Claude",
+        "given": "Jenny"
+      },
+      {
+        "family": "Chenevix-Trench",
+        "given": "Georgia"
+      },
+      {
+        "family": "deFazio",
+        "given": "Anna"
+      },
+      {
+        "family": "Fasching",
+        "given": "Peter A."
+      },
+      {
+        "family": "García",
+        "given": "María J."
+      },
+      {
+        "family": "Gayther",
+        "given": "Simon A."
+      },
+      {
+        "family": "Goodman",
+        "given": "Marc T."
+      },
+      {
+        "family": "Gronwald",
+        "given": "Jacek"
+      },
+      {
+        "family": "Henderson",
+        "given": "Michelle J."
+      },
+      {
+        "family": "Karlan",
+        "given": "Beth Y."
+      },
+      {
+        "family": "Kelemen",
+        "given": "Linda E."
+      },
+      {
+        "family": "Menon",
+        "given": "Usha"
+      },
+      {
+        "family": "Orsulic",
+        "given": "Sandra"
+      },
+      {
+        "family": "Pharoah",
+        "given": "Paul D.P."
+      },
+      {
+        "family": "Wentzensen",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Wu",
+        "given": "Anna H."
+      },
+      {
+        "family": "Schildkraut",
+        "given": "Joellen M."
+      },
+      {
+        "family": "Rossing",
+        "given": "Mary Anne"
+      },
+      {
+        "family": "Konecny",
+        "given": "Gottfried E."
+      },
+      {
+        "family": "Huntsman",
+        "given": "David G."
+      },
+      {
+        "family": "Huang",
+        "given": "Ruby Yun-Ju"
+      },
+      {
+        "family": "Goode",
+        "given": "Ellen L."
+      },
+      {
+        "family": "Ramus",
+        "given": "Susan J."
+      },
+      {
+        "family": "Doherty",
+        "given": "Jennifer A."
+      },
+      {
+        "family": "Bowtell",
+        "given": "David D."
+      },
+      {
+        "family": "Anglesio",
+        "given": "Michael S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          6,
+          17
+        ]
+      ]
+    },
+    "container-title": "Clinical Cancer Research",
+    "DOI": "10.1158/1078-0432.ccr-20-0103",
+    "publisher": "American Association for Cancer Research (AACR)",
+    "title": "Development and Validation of the Gene Expression Predictor of High-grade Serous Ovarian Carcinoma Molecular SubTYPE (PrOTYPE)",
+    "URL": "https://doi.org/gg7qrq",
+    "PMID": "32554541",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1158/1078-0432.ccr-20-0103"
+  },
+  {
+    "type": "article-journal",
+    "id": "NsW0qxZF",
+    "author": [
+      {
+        "family": "Way",
+        "given": "Gregory P."
+      },
+      {
+        "family": "Zietz",
+        "given": "Michael"
+      },
+      {
+        "family": "Rubinetti",
+        "given": "Vincent"
+      },
+      {
+        "family": "Himmelstein",
+        "given": "Daniel S."
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          5,
+          11
+        ]
+      ]
+    },
+    "container-title": "Genome Biology",
+    "DOI": "10.1186/s13059-020-02021-3",
+    "volume": "21",
+    "issue": "1",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "Compressing gene expression data using multiple latent space dimensionalities learns complementary biological representations",
+    "URL": "https://doi.org/gg2mjh",
+    "PMCID": "PMC7212571",
+    "PMID": "32393369",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.1186/s13059-020-02021-3"
+  },
+  {
+    "type": "article-journal",
+    "id": "wv3oXzet",
+    "author": [
+      {
+        "family": "Banerjee",
+        "given": "Jineta"
+      },
+      {
+        "family": "Allaway",
+        "given": "Robert J"
+      },
+      {
+        "family": "Taroni",
+        "given": "Jaclyn N"
+      },
+      {
+        "family": "Baker",
+        "given": "Aaron"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xiaochun"
+      },
+      {
+        "family": "Moon",
+        "given": "Chang In"
+      },
+      {
+        "family": "Pratilas",
+        "given": "Christine A"
+      },
+      {
+        "family": "Blakeley",
+        "given": "Jaishri O"
+      },
+      {
+        "family": "Guinney",
+        "given": "Justin"
+      },
+      {
+        "family": "Hirbe",
+        "given": "Angela"
+      },
+      {
+        "family": "Greene",
+        "given": "Casey S"
+      },
+      {
+        "family": "Gosline",
+        "given": "Sara JC"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          21
+        ]
+      ]
+    },
+    "abstract": "Neurofibromatosis type 1 (NF1) is a monogenic syndrome that gives rise to numerous symptoms including cognitive impairment, skeletal abnormalities, and growth of benign nerve sheath tumors. Nearly all NF1 patients develop cutaneous neurofibromas (cNFs), which occur on the skin surface, whereas 40–60% of patients develop plexiform neurofibromas (pNFs), which are deeply embedded in the peripheral nerves. Patients with pNFs have a ~10% lifetime chance of these tumors becoming malignant peripheral nerve sheath tumors (MPNSTs). These tumors have a severe prognosis and few treatment options other than surgery. Given the lack of therapeutic options available to patients with these tumors, identification of druggable pathways or other key molecular features could aid ongoing therapeutic discovery studies. In this work, we used statistical and machine learning methods to analyze 77 NF1 tumors with genomic data to characterize key signaling pathways that distinguish these tumors and identify candidates for drug development. We identified subsets of latent gene expression variables that may be important in the identification and etiology of cNFs, pNFs, other neurofibromas, and MPNSTs. Furthermore, we characterized the association between these latent variables and genetic variants, immune deconvolution predictions, and protein activity predictions.",
+    "container-title": "Genes",
+    "DOI": "10.3390/genes11020226",
+    "volume": "11",
+    "issue": "2",
+    "page": "226",
+    "publisher": "MDPI AG",
+    "title": "Integrative Analysis Identifies Candidate Tumor Microenvironment and Intracellular Signaling Pathways that Define Tumor Heterogeneity in NF1",
+    "URL": "https://doi.org/gg4rbj",
+    "PMCID": "PMC7073563",
+    "PMID": "32098059",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.4.0 using citation-by-identifier.\nstandard_id: doi:10.3390/genes11020226"
+  }
+]

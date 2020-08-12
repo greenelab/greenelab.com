@@ -30,8 +30,8 @@ We work with a wide range of outstanding groups from around the world, and we're
 We want to push the frontier of data science and train the next generation of data scientists.
 
 {:.center}
-[<i class="fas fa-user-friends fa-fw icon"></i>Other Collaborators]({{ site.baseurl }}/collaborators){:.big_link}
 [<i class="fas fa-hands-helping fa-fw icon"></i>Join the Team]({{ site.baseurl }}/join){:.big_link}
+[<i class="fas fa-user-friends fa-fw icon"></i>Other Collaborators]({{ site.baseurl }}/collaborators){:.big_link}
 
 ## Alumni
 

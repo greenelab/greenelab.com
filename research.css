@@ -1,0 +1,13 @@
+.paper_card {
+  margin: 20px 0;
+  line-height: 1.25;
+}
+.paper_card > * {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.paper_button {
+  padding: 5px 15px;
+}

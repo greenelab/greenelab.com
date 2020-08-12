@@ -7,5 +7,9 @@
       {{ content }}
     </main>
     {% include footer.html %}
+    {% if page.js %}
+    <script src="global.js"></script>
+    <script src="{{ page.js }}"></script>
+    {% endif %}
   </body>
 </html>

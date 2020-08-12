@@ -1,0 +1,19 @@
+{% assign papers = site.data[include.name] %}
+{% for paper in papers %}
+<div class="paper_card">
+  <a class="paper_title" href="{{ paper.URL }}" title="{{ paper.title }}">
+    {{ paper.title }}
+  </a>
+  <div class="paper_authors">
+    {% for author in paper.author %}
+      {{ author.given }} {{ author.family }}
+      {%- if forloop.last == false -%}, {% endif %}
+    {% endfor %}
+  </div>
+  <div class="paper_details">
+    {{ paper.publisher }}
+    &nbsp; · &nbsp;
+    {{ paper.issued["date-parts"] | join: " - " }}
+  </div>
+</div>
+{% endfor %}
