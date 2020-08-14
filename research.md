@@ -4,55 +4,45 @@ redirect_from: /publications
 css: research.css
 ---
 
-{:.center}
-[Preprints](#preprints){:.paper_button}
-[2020](#2020){:.paper_button}
-[2019](#2019){:.paper_button}
-[2018](#2018){:.paper_button}
-[2017](#2017){:.paper_button}
-[2016](#2016){:.paper_button}
-[2015](#2015){:.paper_button}
-[more](#more){:.paper_button}
+<!-- get paper data from json -->
+{% assign papers = site.data.research-output | sort: "date" | reverse %}
 
-## Preprints
+<!-- group data by year -->
+{% assign byyear = papers | group_by_exp:"post", "post.date | date: '%Y'" | sort: "name" | reverse %}
 
-{% include research-section.html name="research-preprints" %}
+<!-- loop through year groups -->
+{% for yeargroup in byyear %}
 
-## 2020
+## {{ yeargroup.name }}
 
-{% include research-section.html name="research-2020" %}
+<!-- loop through all papers in this year group -->
+{% for paper in yeargroup.items %}
 
-## 2019
+<!-- get data from paper ready to display -->
+{% assign url = paper.url %}
+{% assign title = paper.title | normalize_whitespace | strip %}
+{% assign authors = paper.authors | join: ", &nbsp;" %}
+{% capture details %}
+  {{- paper.publisher -}}
+  {%- if paper.publisher != "" -%}&nbsp; · &nbsp;{%- endif -%}
+  {{ paper.date | date: "%d %b %Y" }}
+{% endcapture %}
 
-{% include research-section.html name="research-2019" %}
+<!-- display paper -->
+<div class="paper_card">
+  <a class="paper_title" href="{{ url }}" title="{{ title }}">
+    {{ title }}
+  </a>
+  <div class="paper_authors" title="{{ authors }}">
+    {{ authors }}
+  </div>
+  <div class="paper_details" title="{{ details }}">
+    {{ details }}
+  </div>
+</div>
 
-## 2018
-
-{% include research-section.html name="research-2018" %}
-
-## 2017
-
-{% include research-section.html name="research-2017" %}
-
-## 2016
-
-{% include research-section.html name="research-2016" %}
-
-## 2015
-
-{% include research-section.html name="research-2015" %}
-
-## 2014
-
-{% include research-section.html name="research-2014" %}
-
-## 2013
-
-{% include research-section.html name="research-2013" %}
-
-## 2012
-
-{% include research-section.html name="research-2012" %}
+{% endfor %}
+{% endfor %}
 
 ## More
 
