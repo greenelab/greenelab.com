@@ -1,7 +1,6 @@
 ---
 title: Blog
 redirect_from: /musings
-css: blog.css
 ---
 
 {% for post in site.posts %}

@@ -6,8 +6,6 @@ redirect_from:
   - /mascots
   - /staff
   - /trainees
-
-css: team.css
 ---
 
 Our lab is made up of a highly engaged and collaborative team of researchers.

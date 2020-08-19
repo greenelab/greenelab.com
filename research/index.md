@@ -1,14 +1,13 @@
 ---
 title: Research
 redirect_from: /publications
-css: research.css
 ---
 
 <!-- get paper data from json -->
 {% assign papers = site.data.research-output | sort: "date" | reverse %}
 
 <!-- group data by year -->
-{% assign byyear = papers | group_by_exp:"post", "post.date | date: '%Y'" | sort: "name" | reverse %}
+{% assign byyear = papers | group_by_exp: "post", "post.date | date: '%Y'" | sort: "name" | reverse %}
 
 <!-- loop through year groups -->
 {% for yeargroup in byyear %}
@@ -22,6 +21,9 @@ css: research.css
 {% assign url = paper.url %}
 {% assign title = paper.title | normalize_whitespace | strip %}
 {% assign authors = paper.authors | join: ", &nbsp;" %}
+{% assign thumbnail = paper.thumbnail %}
+{% assign links = paper.links %}
+{% assign tags = paper.tags %}
 {% capture details %}
   {{- paper.publisher -}}
   {%- if paper.publisher != "" -%}&nbsp; · &nbsp;{%- endif -%}
@@ -30,14 +32,41 @@ css: research.css
 
 <!-- display paper -->
 <div class="paper_card">
-  <a class="paper_title" href="{{ url }}" title="{{ title }}">
-    {{ title }}
-  </a>
-  <div class="paper_authors" title="{{ authors }}">
-    {{ authors }}
+  {% if thumbnail %}
+  <div class="paper_thumbnail">
+    <a href="{{ url }}">
+      <img src="{{ thumbnail }}">
+    </a>
   </div>
-  <div class="paper_details" title="{{ details }}">
-    {{ details }}
+  {% endif %}
+  <div class="paper_info">
+    <a class="paper_title" href="{{ url }}" title="{{ title }}">
+      {{ title }}
+    </a>
+    <div class="paper_authors" title="{{ authors }}">
+      {{ authors }}
+    </div>
+    <div class="paper_details" title="{{ details }}">
+      {{ details }}
+    </div>
+    {% if tags %}
+    <div class="paper_tags">
+      {% for tag in tags %}
+      <div class="paper_tag">{{ tag }}</div>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if links %}
+    <div class="paper_links">
+      {% for link in links %}
+        {% for item in link %}
+          {% assign href = item[1] | default: url %}
+          {% assign text = item[0] | default: "link" %}
+          {% include paper-link.html url=href text=text %} 
+        {% endfor %}
+      {% endfor %}
+    </div>
+    {% endif %}
   </div>
 </div>
 

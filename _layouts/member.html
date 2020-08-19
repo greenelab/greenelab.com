@@ -10,27 +10,27 @@ layout: default
   {% include role.html role=page.role %}
   <br>
   {% if page.website %}
-  <a href="{{ page.website }}" class="social_link" data-tooltip="Website">
+  <a href="{{ page.website }}" class="social_link" data-tooltip="Website" aria-label="Website">
     <i class="fas fa-home fa-fw"></i>
   </a>
   {% endif %}
   {% if page.email %}
-  <a href="mailto:{{ page.email }}" class="social_link" data-tooltip="Email">
+  <a href="mailto:{{ page.email }}" class="social_link" data-tooltip="Email" aria-label="Email">
     <i class="far fa-envelope fa-fw"></i>
   </a>
   {% endif %}
   {% if page.google %}
-  <a href="https://scholar.google.com/citations?hl=en&user={{ page.google }}" class="social_link" data-tooltip="Google Scholar">
+  <a href="https://scholar.google.com/citations?hl=en&user={{ page.google }}" class="social_link" data-tooltip="Google Scholar" aria-label="Google Scholar">
     <i class="fab fa-google fa-fw"></i>
   </a>
   {% endif %}
   {% if page.github %}
-  <a href="https://github.com/{{ page.github }}" class="social_link" data-tooltip="GitHub">
+  <a href="https://github.com/{{ page.github }}" class="social_link" data-tooltip="GitHub" aria-label="GitHub">
     <i class="fab fa-github fa-fw"></i>
   </a>
   {% endif %}
   {% if page.twitter %}
-  <a href="https://twitter.com/{{ page.twitter }}" class="social_link" data-tooltip="Twitter">
+  <a href="https://twitter.com/{{ page.twitter }}" class="social_link" data-tooltip="Twitter" aria-label="Twitter">
     <i class="fab fa-twitter fa-fw"></i>
   </a>
   {% endif %}

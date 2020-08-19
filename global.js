@@ -1,3 +1,5 @@
+// site-wide javascript
+
 // give headings ids and link on click
 const headings = document.querySelectorAll("h1, h2, h3, h4");
 for (const heading of headings) {

@@ -1,5 +1,41 @@
+# a minimal input file for the "build research" python script, used to generate
+# a full bibliography for the research page
+
+# PARAMETERS:
+
+# id:
+# an identifier string that Manubot can understand and cite
+# links:
+# a list of link icons and text that will show up next to the citation
+# the key name determines what icon and text will be shown
+# you can add an arbitrary key and it will show up as a generic website icon
+# leave the field blank to use the default url Manubot returns for the citation
+# check the "citation link" include to see what unique icons you can specify
+# links will be shown in the order they are specified
+
+# NOTE:
+# papers will be displayed in order of and grouped by date, regardless of how
+# they are listed here. still, i recommend splitting up this list into chunks
+# so it is less unwieldy
+
 # preprints
 - id: doi:10.1101/2020.05.03.066597
+  thumbnail: https://github.com/dhimmel/psb-manuscript/raw/8842766fe1102701e87826007e423ea1b4820092/thumbnail.jpg
+  links:
+    - Journal: https://specialurl.com
+    - Preprint:
+    - GitHub:
+    - Bitbucket:
+    - Manubot:
+    - Source:
+    - Server:
+    - App:
+    - Data:
+  tags:
+    - genomics
+    - machine learning
+    - networks
+
 - id: doi:10.1101/2020.04.14.927251
 - id: arxiv:2003.00898
 - id: doi:10.1101/2020.02.17.20024133

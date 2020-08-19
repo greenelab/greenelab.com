@@ -11,7 +11,7 @@ For the machine learning aspects of our work, we currently use a technology stac
 For web development, we currently use a technology stack consisting of Postgres, Python, Django, JavaScript, and React.
 Our data processing framework and webservers run on cloud instances, so experience with optimizing workloads for this type of environment is a plus.
 
-[Contact us](contact) to be notified when job postings are available.
+[Contact Casey]({{ site.baseurl }}/contact) to be notified when job postings are available.
 
 ## Postdoctoral Researchers
 
@@ -50,7 +50,7 @@ We welcome graduate students in Penn’s [Genomics and Computational Biology (GC
 Our goal is to help our students to develop both a deep familiarity with the computational methods required for data-intensive science and a strong understanding of one or more biological application areas.
 We provide training in all aspects through group meetings, individual meetings, and a supportive lab environment.
 
-If you are interested in rotating in our lab, please [contact Casey](contact) to set up a time to discuss your interest.
+If you are interested in rotating in our lab, please [contact Casey]({{ site.baseurl }}/contact) to set up a time to discuss your interest.
 
 ## Undergraduate Students
 
@@ -58,7 +58,7 @@ We welcome undergraduate students into our lab.
 Undergraduate researchers have become first authors on papers submitted on research that they performed as part of our group.
 We are happy to train undergraduates in many aspects of data-intensive biology, and we have high expectations for their level of commitment to research.
 
-If you are an undergraduate interested in discussing research opportunities please [contact Casey](contact).
+If you are an undergraduate interested in discussing research opportunities please [contact Casey]({{ site.baseurl }}/contact).
 
 ---
 
