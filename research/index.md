@@ -3,12 +3,12 @@ title: Research
 redirect_from: /publications
 ---
 
-There's a lot of public data about biological systems under various perturbations.
-But they are also noisy.
-Our lab develops algorithms that integrate that data to model complex biological systems.
-We do this because we want to understand how biological systems work.
-This way when we need to intervene to improve health we aren't taking a shot in the dark.
-We recognize that our lab won't have all the answers, or even all of the questions, so we develop systems that any biologist can use.
+There are millions of samples that have been subjected to genome-wide profiling and these data are freely downloadable.
+Our lab develops algorithms that integrate these data to help us understand how biological systems work.
+The breadth of these data help us probe many different biological conditions, including those with limited data, such as rare diseases.
+We recognize that our lab won't have all the answers, or even all of the questions, so we aim to develop systems that any biologist can use to interpret these data.
+We also strive to make our workflows robust and reusable for other computational scientists.
+Our open, rigorous and transparent approach to research facilitates such reuse.
 
 <!-- get paper data from json -->
 {% assign papers = site.data.research-output | sort: "date" | reverse %}
@@ -37,7 +37,3 @@ We recognize that our lab won't have all the answers, or even all of the questio
 [<i class="fab fa-google icon"></i>More on Google Scholar](http://scholar.google.com/citations?hl=en&user=ETJoidYAAAAJ){:.big_link}
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
-
----
-
-{% include figure.html url="team/yoson-sketch.jpg" full="true" description="Our recent research, compressed into sketch form by YoSon Park during the 2016 #PennGenRetreat" %}
