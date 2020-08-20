@@ -1,0 +1,61 @@
+
+<!-- get paper object from params -->
+{% assign paper = include.paper %}
+
+<!-- get data from paper ready to display -->
+{% assign id = paper.id %}
+{% assign url = paper.url %}
+{% assign title = paper.title | normalize_whitespace | strip %}
+{% assign authors = paper.authors | join: ", &nbsp;" | strip %}
+{% assign thumbnail = paper.thumbnail %}
+{% assign links = paper.links %}
+{% assign tags = paper.tags %}
+{% capture details %}
+  {{- paper.publisher -}}
+  &nbsp; · &nbsp;
+  {{- paper.date | date: "%d %b %Y" -}}
+{% endcapture %}
+{% assign details = details | strip %}
+
+<div class="paper_card">
+  <!-- {{ id }} -->
+  {% if thumbnail %}
+  <div class="paper_thumbnail">
+    <a href="{{ url }}">
+      <img src="{{ thumbnail }}">
+    </a>
+  </div>
+  {% endif %}
+  <div class="paper_info">
+    {% if title != "" %}
+    <a class="paper_title" href="{{ url }}" title="{{ title }}">
+      {{ title }}
+    </a>
+    {% endif %}
+    {% if authors != "" %}
+    <div class="paper_authors" title="{{ authors }}">
+      {{ authors }}
+    </div>
+    {% endif %}
+    {% if authors != "" %}
+    <div class="paper_details" title="{{ details }}">
+      {{ details }}
+    </div>
+    {% endif %}
+    {% if tags %}
+    <div class="paper_tags">
+      {% for tag in tags %}
+      <div class="paper_tag">{{ tag }}</div>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if links %}
+    <div class="paper_links">
+      {% for link in links %}
+        {% assign linkurl = link.url | default: url %}
+        {% include paper-link.html type=link.type url=linkurl text=link.text %} 
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>

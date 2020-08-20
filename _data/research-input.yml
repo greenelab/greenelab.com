@@ -5,158 +5,585 @@
 
 # id:
 # an identifier string that Manubot can understand and cite
+
+# thumbnail:
+# url to a striking image or figure from your paper
+
 # links:
-# a list of link icons and text that will show up next to the citation
-# the key name determines what icon and text will be shown
-# you can add an arbitrary key and it will show up as a generic website icon
-# leave the field blank to use the default url Manubot returns for the citation
-# check the "citation link" include to see what unique icons you can specify
-# links will be shown in the order they are specified
+# a list of additional links that will show next to your paper citation
+
+# type:
+# determines icon shown, and used in filters at the top of page
+# look in "paper link types" file to see what unique icons and types can be specified
+# if not specified, link will be treated as generic type and icon
+
+# text:
+# text to show next to icon
+# if not specified, defaults to some text that matches type (see "paper link types")
+
+# url:
+# url to link to
+# if not specified, defaults to url that Manubot returns for citation
+
+# tags:
+# a list of key topics/themes of your paper. aim for 2 to 5. look at other
+# papers and try to use similar tags.
 
 # NOTE:
+
 # papers will be displayed in order of and grouped by date, regardless of how
-# they are listed here. still, i recommend splitting up this list into chunks
+# they are listed here. still, it is recommended to split up this list a bit
 # so it is less unwieldy
 
-# preprints
-- id: doi:10.1101/2020.05.03.066597
-  thumbnail: https://github.com/dhimmel/psb-manuscript/raw/8842766fe1102701e87826007e423ea1b4820092/thumbnail.jpg
+# 2020
+
+- id: doi:10.1016/j.annonc.2020.05.019
+  thumbnail: https://ars.els-cdn.com/content/image/1-s2.0-S0923753420398410-gr3.jpg
+
+- id: doi:10.1038/s41591-020-0929-x
+  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0929-x/MediaObjects/41591_2020_929_Fig2_HTML.png?as=webp
   links:
-    - Journal: https://specialurl.com
-    - Preprint:
-    - GitHub:
-    - Bitbucket:
-    - Manubot:
-    - Source:
-    - Server:
-    - App:
-    - Data:
-  tags:
-    - genomics
-    - machine learning
-    - networks
+    - type: preprint
+      url: https://www.medrxiv.org/content/10.1101/2020.04.02.20051284v1
+
+- id: doi:10.1158/1078-0432.CCR-20-0103
+  links:
+    - type: manubot
+      url: https://greenelab.github.io/knowledge-graph-review/
+
+- id: doi:10.1016/j.copbio.2019.12.021
+  links:
+    - type: manubot
+      url: https://greenelab.github.io/biopriors-review/
+    - url: https://arxiv.org/abs/1910.06738
+      text: arXiv
+
+- id: doi:10.1093/gigascience/giaa056
+  links:
+    - type: manubot
+      url: https://mangul-lab-usc.github.io/enhancing_reproducibility/
+    - url: https://arxiv.org/abs/2001.05127
+      text: arXiv
+
+- id: doi:10.1101/2020.05.03.066597
+  links:
+    - type: preprint
+    - type: source
+      url: https://github.com/greenelab/simulate-expression-compendia
+      text: simulate-expression-compendia
+
+- id: doi:10.1093/nar/gkaa248
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/361816
+    - type: source
+      url: https://github.com/huqiwen0313/HM_splicing
+
+- id: doi:10.1186/s13059-020-02021-3
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/573782
+    - type: source
+      url: https://github.com/greenelab/biobombe
+    - type: website
+      url: https://greenelab.github.io/BioBombe/
 
 - id: doi:10.1101/2020.04.14.927251
-- id: arxiv:2003.00898
-- id: doi:10.1101/2020.02.17.20024133
-- id: doi:10.1101/2020.02.12.945642
-- id: doi:10.1101/730085
-- id: doi:10.1101/836825
-- id: doi:10.1101/833210
-- id: doi:10.1101/814350
-- id: doi:10.1101/786053
-- id: doi:10.1101/787903
-- id: doi:10.1101/793091
-- id: doi:10.1101/055913
-- id: doi:10.1101/118349
+  links:
+    - type: manubot
+      url: https://greenelab.github.io/iscb-diversity-manuscript/
+    - type: source
+      url: https://github.com/greenelab/iscb-diversity
+      text: iscb-diversity
+    - type: source
+      url: https://github.com/greenelab/wiki-nationality-estimate
+      text: wiki-nationality-estimate
+    - type: source
+      url: https://github.com/dhimmel/pubmedpy
+      text: pubmedpy
 
-# 2020
-- id: doi:10.1158/1078-0432.CCR-20-0103
-- id: doi:10.1038/s41591-020-0929-x
-- id: doi:10.1093/gigascience/giaa056
-- id: doi:10.1016/j.copbio.2019.12.021
-- id: doi:10.1093/nar/gkaa248
-- id: doi:10.1186/s13059-020-02021-3
-- id: doi:10.1016/j.annonc.2020.05.019
+- id: arxiv:2003.00898
+  links:
+    - type: preprint
+
 - id: doi:10.3390/genes11020226
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/2020.01.13.904771
+    - type: source
+      url: https://github.com/Sage-Bionetworks/NF_LandscapePaper_2019
+
+- id: doi:10.1101/2020.02.17.20024133
+  links:
+    - type: preprint
+
+- id: doi:10.1101/2020.02.12.945642
+  links:
+    - type: preprint
+
+- id: doi:10.1101/730085
+  links:
+    - type: preprint
+    - type: manubot
+      url: https://greenelab.github.io/text_mined_hetnet_manuscript/
+    - type: source
+      url: https://github.com/greenelab/snorkeling
+
 - id: doi:10.1073/pnas.1917576117
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/802934
+
 - id: doi:10.1101/2020.01.17.910703
+  links:
+    - type: source
+      url: https://github.com/jjc2718/gene-graph-conv
+
 - id: doi:10.1016/j.csbj.2020.05.017
 
 # 2019
-- id: doi:10.1186/s40478-019-0803-6
-- id: doi:10.1186/s13059-019-1835-8
-- id: doi:10.1182/bloodadvances.2019000303
-- id: doi:10.1016/j.celrep.2019.09.071
-- id: doi:10.1002/gepi.22262
+
 - id: doi:10.1038/s41592-019-0585-6
+
 - id: doi:10.1146/annurev-biodatasci-072018-021348
+
 - id: doi:10.1161/CIRCOUTCOMES.118.005122
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/159756
+    - type: source
+      url: https://github.com/greenelab/SPRINT_gan
+
 - id: doi:10.1371/journal.pcbi.1007128
+  links:
+    - type: manubot
+      url: https://greenelab.github.io/meta-review/
+    - type: source
+      url: https://github.com/greenelab/meta-review
+    - type: website
+      url: http://manubot.org/
+
 - id: doi:10.1038/s41587-019-0143-x
-- id: doi:10.1093/bioinformatics/bty828
+
 - id: doi:10.1016/j.cels.2019.04.003
+  links:
+    - type: source
+      url: https://github.com/greenelab/multi-plier
+
+- id: doi:10.1093/bioinformatics/bty828
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/301242
+    - type: source
+      url: https://github.com/aleccrowell/LIMBR
+
 - id: doi:10.1016/j.devcel.2019.03.001
+
+- id: doi:10.1101/836825
+  links:
+    - type: preprint
+
+- id: doi:10.1101/833210
+  links:
+    - type: preprint
+
+- id: doi:10.1186/s40478-019-0803-6
+  links:
+    - type: source
+      url: https://github.com/greenelab/gbm_immune_validation
+    - type: package
+      url: https://hub.docker.com/r/gregway/gbm_immune_validation
+    - url: https://doi.org/10.5281/zenodo.195238
+      text: Zenodo
+
+- id: doi:10.1186/s13059-019-1835-8
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/653105
+
+- id: doi:10.1182/bloodadvances.2019000303
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/563312
+    - type: source
+      url: https://doi.org/10.1101/563312
+      text: Classifier
+
+- id: doi:10.1016/j.celrep.2019.09.071
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/566455
+    - type: data
+      url: https://figshare.com/projects/Genomic_landscape_of_childhood_cancer_patient-derived_xenograft_models/38147
+      text: Intermediate data
+    - type: source
+      url: https://figshare.com/articles/PPTC_RNAseq_and_Genomic_Alterations/7127726
+      text: Classifier
+    - type: data
+      url: https://pedcbioportal.org/study?id=pptc#summary
+      text: Processed data
+    - type: source
+      url: https://github.com/marislab
+
+- id: doi:10.1002/gepi.22262
+  links:
+    - url: https://www.penncil.org/software
+      text: YETI2 Software
+
+- id: doi:10.1101/793091
+  links:
+    - type: preprint
+
+- id: doi:10.1101/787903
+  links:
+    - type: preprint
+
+- id: doi:10.1101/786053
+  links:
+    - type: preprint
+
+- id: doi:10.1101/814350
+  links:
+    - type: preprint
+
 - id: doi:10.1038/d41586-019-00218-6
+
 - id: doi:10.1534/g3.118.200867
-- id: doi:10.1142/9789813279827_0033
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/414565
 
 # 2018
-- id: doi:10.1038/s41592-018-0230-9
-- id: doi:10.1093/gigascience/giy129
-- id: doi:10.1016/j.tig.2018.07.003
+
 - id: doi:10.1186/s13040-018-0175-7
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/147645
+    - type: source
+      url: https://github.com/greenelab/PathCORE-T-analysis
+      text: Analysis
+    - type: source
+      url: https://github.com/greenelab/PathCORE-T
+      text: Software
+    - type: source
+      url: https://github.com/kathyxchen/PathCORE-T-demo
+      text: Server
+    - type: source
+      url: https://github.com/kathyxchen/crosstalk-correction
+      text: Crosstalk correction
+
 - id: doi:10.1097/CCM.0000000000003148
+
 - id: doi:10.1136/annrheumdis-2017-212935
+
 - id: doi:10.1098/rsif.2017.0387
-- id: doi:10.1016/j.cell.2018.03.035
-- id: doi:10.1016/j.celrep.2018.03.046
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/142760
+    - type: source
+      url: http://github.com/greenelab/deep-review
+
 - id: doi:10.1016/j.celrep.2018.03.076
+  links:
+    - type: source
+      url: https://github.com/greenelab/pancancer/blob/master/tp53_analysis.sh
+      text: Source for ML portion
+
+- id: doi:10.1016/j.celrep.2018.03.046
+  links:
+    - type: source
+      url: https://github.com/greenelab/pancancer/blob/master/ras_analysis.sh
+
+- id: doi:10.1016/j.cell.2018.03.035
+
 - id: doi:10.1128/JB.00703-17
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/198481
+
 - id: doi:10.7554/eLife.32822
-- id: pmc:PMC5760988
+  links:
+    - type: preprint
+      url: https://doi.org/10.7287/peerj.preprints.3100v1
+    - type: manubot
+      url: https://greenelab.github.io/scihub-manuscript/
+    - type: source
+      url: https://github.com/greenelab/scihub-manuscript
+      text: Manuscript source
+    - type: source
+      url: https://github.com/greenelab/scihub
+      text: Analyses source
+
+- id: doi:10.1093/gigascience/giy129
+
+- id: doi:10.1038/s41592-018-0230-9
+
+- id: doi:10.1142/9789813279827_0033
+
+- id: doi:10.1016/j.tig.2018.07.003
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/196915
+
 - id: pubmed:29218914
 
+- id: pmc:PMC5760988
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/166207
+    - type: source
+      url: https://github.com/greenelab/GEA_Community_Detection
+
 # 2017
-- id: doi:10.1038/s41598-017-17362-6
-- id: doi:10.1186/s12859-017-1905-4
-- id: doi:10.1534/g3.117.300172
-- id: doi:10.1093/bioinformatics/btx344
-- id: doi:10.1101/174474
+
 - id: doi:10.1038/ejhg.2017.108
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/087718
+    - type: source
+      url: https://github.com/greenelab/tad_pathways
+
 - id: doi:10.1007/s40471-017-0115-y
+
 - id: doi:10.1016/j.cels.2017.06.003
+  links:
+    - type: preprint
+      url: http://dx.doi.org/10.1101/078659
+    - type: source
+      url: https://bitbucket.org/greenelab/eadage
+
 - id: doi:10.1056/NEJMc1705477
+
 - id: doi:10.1038/ng.3830
+
 - id: doi:10.1186/s13073-017-0417-1
+  links:
+    - type: preprint
+      url: http://dx.doi.org/10.1101/038950
+
+- id: doi:10.1101/118349
+  links:
+    - type: preprint
+    - type: source
+      url: https://github.com/greenelab/RNAseq_titration_results
+
 - id: doi:10.1038/nbt.3780
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/056473
+    - type: source
+      url: https://github.com/greenelab/continuous_analysis
+
 - id: doi:10.1126/scitranslmed.aam6058
+  links:
+    - url: http://doi.org/10.1016/j.cels.2016.12.011
+      text: Khurana et al.
+
 - id: doi:10.1186/s12864-017-3519-7
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/075382
+    - type: source
+      url: https://github.com/greenelab/nf1_inactivation
+    - type: package
+      url: https://hub.docker.com/r/gregway/nf1_inactivation/
+
+- id: doi:10.1038/s41598-017-17362-6
+
+- id: doi:10.1186/s12859-017-1905-4
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/156620
+    - type: package
+      url: https://github.com/greenelab/ADAGEpath
+      text: R package
+    - type: source
+      url: https://github.com/greenelab/adage-server
+    - type: app
+      url: https://adage.greenelab.com/
+      text: Updated app
+
+- id: doi:10.1534/g3.117.300172
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/157610
+
+- id: doi:10.1101/055913
+  links:
+    - type: preprint
+    - type: server
+      url: https://github.com/greenelab/tribe
+      text: Tribe server
+    - type: app
+      url: https://github.org/greenelab/tribe-client
+      text: Tribe web app
+
+- id: doi:10.1101/174474
+  links:
+    - type: preprint
+      url: https://doi.org/10.1101/174474
+    - type: source
+      url: https://github.com/greenelab/tybalt
+
+- id: doi:10.1093/bioinformatics/btx344
+
 - id: doi:10.1142/9789813207813_0060
 
 # 2016
-- id: doi:10.1126/scitranslmed.aal3701
-- id: doi:10.1016/j.jbi.2016.10.007
-- id: doi:10.1534/g3.116.033514
-- id: doi:10.1126/scitranslmed.aal0067
-- id: doi:10.1093/hmg/ddw160
-- id: doi:10.1126/scitranslmed.aai8224
+
 - id: doi:10.1007/s40142-016-0102-5
+  links:
+    - type: preprint
+      url: http://dx.doi.org/10.1101/062695
+
 - id: doi:10.1186/s13059-016-1037-6
+  links:
+    - type: preprint
+      url: http://arxiv.org/abs/1601.00891
+
+- id: doi:10.1126/scitranslmed.aai8224
+
 - id: doi:10.1126/scitranslmed.aah5494
+
 - id: doi:10.1126/scitranslmed.aag3101
+
 - id: doi:10.1126/scitranslmed.aaf9196
+
 - id: doi:10.1126/scitranslmed.aaf6940
+
 - id: doi:10.1161/CIRCGENETICS.115.001181
+  links:
+    - type: source
+      url: https://github.com/dhimmel/snplentiful
+    - url: https://circgenetics.ahajournals.org/content/9/2/179.full
+      text: Full text (free)
+
 - id: doi:10.18632/oncotarget.7718
+  links:
+    - type: source
+      url: https://bitbucket.org/greenelab/pdx-dina-manuscript-code
+
 - id: doi:10.1128/mSystems.00025-15
+  links:
+    - type: preprint
+      url: http://biorxiv.org/content/early/2015/11/05/030650
+    - type: source
+      url: https://github.com/greenelab/adage
+
+- id: doi:10.1126/scitranslmed.aal3701
+  links:
+    - url: http://doi.org/10.1038/srep39259
+      text: Tatlow et al.
+
+- id: doi:10.1534/g3.116.033514
+  links:
+    - type: preprint
+      url: http://dx.doi.org/10.1101/030239
+    - type: source
+      url: https://github.com/greenelab/hgsc_subtypes
+    - type: package
+      url: https://hub.docker.com/r/gregway/hgsc_subtypes/
+
+- id: doi:10.1016/j.jbi.2016.10.007
+  links:
+    - type: preprint
+      url: http://dx.doi.org/10.1101/039800
+    - type: source
+      url: https://github.com/greenelab/DAPS
+
+- id: doi:10.1126/scitranslmed.aal0067
+  links:
+    - url: http://doi.org/10.1038/srep39259
+      text: Zhou et al.
+
+- id: doi:10.1093/hmg/ddw160
+  links:
+    - type: preprint
+      url: http://biorxiv.org/content/early/2016/05/03/051524
+
 - id: doi:10.7717/peerj.1621
+  links:
+    - type: preprint
+      url: https://peerj.com/preprints/1460/
+    - type: package
+      url: https://github.com/greenelab/TDM
+      text: R package
+    - type: source
+      url: https://github.com/greenelab/TDMresults
+
 - id: doi:10.1186/s13040-016-0082-8
-- id: doi:10.1093/bib/bbv087
-- id: doi:10.1093/bib/bbv018
+  links:
+    - type: source
+      url: https://github.com/greenelab/adni-netwas
+
 - id: pmc:PMC4832978
+  links:
+    - url: http://psb.stanford.edu/psb-online/proceedings/psb16/greene.pdf
+      text: PDF
+
+- id: doi:10.1093/bib/bbv018
+
+- id: doi:10.1093/bib/bbv087
 
 # 2015
-- id: doi:10.1093/hmg/ddv440
-- id: doi:10.1186/s12864-015-2250-5
+
 - id: doi:10.1038/ncomms9019
+
 - id: doi:10.1186/s13040-015-0050-8
+
 - id: doi:10.1038/ng.3259
-- id: doi:10.1038/nmeth.3249
+  links:
+    - type: data
+      url: http://giant.princeton.edu/download/
+      text: Processed networks
+    - type: data
+      url: http://giant.princeton.edu/static/networks_dab/
+      text: Raw networks
+    - type: app
+      url: http://giant.princeton.edu/
+
+- id: doi:10.1093/hmg/ddv440
+
+- id: doi:10.1186/s12864-015-2250-5
+  links:
+    - type: source
+      url: https://github.com/greenelab/greedy-geneset-selection
+
 - id: doi:10.1371/journal.pcbi.1004005
+
+- id: doi:10.1038/nmeth.3249
+  links:
+    - type: app
+      url: http://seek.princeton.edu/
+
 - id: pmc:PMC4299935
+  links:
+    - type: source
+      url: http://discovery.dartmouth.edu/~cgreene/da-psb2015/
 
 # 2014
-- id: doi:10.1002/jcp.24662
+
 - id: doi:10.1186/1756-0381-7-17
+
+- id: doi:10.1002/jcp.24662
+
 - id: doi:10.1186/gm550
 
 # 2013
-- id: doi:10.1101/gr.155697.113
+
 - id: doi:10.1371/journal.pcbi.1002957
+
+- id: doi:10.1101/gr.155697.113
+  links:
+    - url: http://www.nature.com/nrg/journal/v14/n10/full/nrg3580.html
+      text: Highlighted by Nature Reviews Genetics
+
 - id: doi:10.1007/978-3-642-37189-9_2
 
 # 2012
-- id: doi:10.1371/journal.pcbi.1002816
-- id: doi:10.1093/nar/gks458
+
 - id: doi:10.1111/j.1749-6632.2011.06383.x
+
+- id: doi:10.1093/nar/gks458
+
+- id: doi:10.1371/journal.pcbi.1002816

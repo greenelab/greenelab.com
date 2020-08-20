@@ -2,8 +2,8 @@
 
 # before running:
 # install python                    https://www.python.org/downloads/
-# install pip                         https://pip.pypa.io/en/stable/installing/
-# install manubot                 https://github.com/manubot/manubot#installation
+# install pip                       https://pip.pypa.io/en/stable/installing/
+# install manubot                   https://github.com/manubot/manubot#installation
 
 import os
 import json
@@ -43,7 +43,7 @@ for citation in citations:
         new_author = author.get("given", "") + " " + author.get("family", "")
         new_paper["authors"].append(new_author)
     # paper publisher
-    new_paper["publisher"] = citation.get("publisher", "")
+    new_paper["publisher"] = citation.get("container-title", citation.get("publisher", citation.get("collection-title", "")))
     # paper date
     date_parts = citation.get("issued").get("date-parts")[0]
     date_parts += (3 - len(date_parts)) * [1] # default month and day to 0

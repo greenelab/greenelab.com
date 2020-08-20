@@ -115,7 +115,7 @@ h2:after {
 h3 {
   font-family: var(--sans);
   font-size: 1rem;
-  font-weight: var(--semi-bold);
+  font-weight: var(--regular);
   margin: 20px 0;
 }
 h4 {
@@ -185,7 +185,12 @@ figcaption {
 .center {
   text-align: center;
 }
-.icon {
+.easy_align {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon_with_text {
   margin-right: 0.5rem;
 }
 .background {
@@ -204,18 +209,16 @@ figcaption {
 header > *:not(.background) {
   z-index: 1;
 }
-.details {
+.page_details {
   color: var(--gray);
-  text-align: center;
   font-style: italic;
 }
-.details > * {
-  margin: 0 10px;
-  white-space: nowrap;
+.page_details > * {
+  margin: 5px 10px;
 }
 .social_link {
   display: inline-block;
-  margin: 1em 0.25em 0 0.25rem;
+  padding: 10px;
   color: var(--gray);
   transition: color var(--fast);
 }
@@ -296,13 +299,7 @@ nav > a:hover {
 }
 
 /* footer */
-.footer_links {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 .footer_links > a {
-  padding: 10px;
   transition: opacity var(--fast);
 }
 .footer_links:hover > a {

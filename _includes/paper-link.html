@@ -1,25 +1,21 @@
 <!-- research paper citation link -->
-<a href="{{ include.url }}" class="paper_link" data-tooltip="{{ include.text }}" aria-label="{{ include.text }}">
-  <!-- lower case of text -->
-  {% assign key = include.text | downcase %}
+
+<!-- get icon/paper type from params -->
+{% assign type = include.type | default: "default" %}
+
+<!-- get url from params -->
+{% assign url = include.url | default: "" %}
   
-  <!-- default icon -->
-  {% assign icon = "fas fa-globe" %}
+<!-- get text from params -->
+{% assign text = include.text | default: site.data.paper-link-types[type].text %}
 
-  <!-- unique icons -->
-  {% if key contains "journal" %}{% assign icon = "far fa-newspaper" %}{% endif %}
-  {% if key contains "preprint" %}{% assign icon = "far fa-eye" %}{% endif %}
-  {% if key contains "github" %}{% assign icon = "fab fa-github" %}{% endif %}
-  {% if key contains "bitbucket" %}{% assign icon = "fab fa-bitbucket" %}{% endif %}
-  {% if key contains "source" %}{% assign icon = "fas fa-code" %}{% endif %}
-  {% if key contains "server" %}{% assign icon = "fas fa-server" %}{% endif %}
-  {% if key contains "app" %}{% assign icon = "fas fa-hand-pointer" %}{% endif %}
-  {% if key contains "data" %}{% assign icon = "fas fa-database" %}{% endif %}
+<!-- get font awesome icon -->
+{% assign icon = site.data.paper-link-types[type].icon %}
 
-  <!-- icon -->
-  {% if key contains "manubot" %}
-  {% include manubot-logo.html %}
+<a href="{{ url }}" class="paper_link">
+  {% if type == "manubot" %}
+  {% include manubot-logo.html %}<span>{{ text }}</span>
   {% else %}
-  <i class="{{ icon }} fa-sm fa-fw"></i>
-  {% endif %}
+  <i class="{{ icon }} fa-sm"></i><span>{{ text }}</span>
+  {% endif %}  
 </a>

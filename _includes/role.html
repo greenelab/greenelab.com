@@ -1,5 +1,13 @@
-<!-- single role of member on their bio page -->
-<span>
-  {% include role-icon.html role=include.role %}
-  {% include role-text.html role=include.role %}
-</span>
+<!-- show an appropriate icon and text based on a member's role -->
+
+<!-- get role from params -->
+{% assign role = include.role | strip %}
+
+<!-- get font awesome icon -->
+{% assign icon = site.data.role-types[role].icon %}
+
+<!-- get text -->
+{% assign text = site.data.role-types[role].text %}
+
+<i class="{{ icon }} icon_with_text" data-tooltip="{{ text }}" aria-label="{{ text }}"></i>
+{%- if include.text -%}{{ text }}{%- endif -%}

@@ -1,0 +1,43 @@
+# defines all the unique paper link types for the research page
+# determines the Font Awesome icon and text to use
+# each of these entries results in its own filter button
+
+journal:
+  icon: far fa-newspaper
+  text: Journal
+
+preprint:
+  icon: far fa-eye
+  text: Preprint
+
+manubot:
+  icon: # manubot logo not in Font Awesome, so handle as special case in "paper link" include
+  text: Manubot manuscript
+
+source:
+  icon: fas fa-code
+  text: Source
+
+server:
+  icon: fas fa-server
+  text: Server
+
+app:
+  icon: fas fa-hand-pointer
+  text: App
+
+data:
+  icon: fas fa-database
+  text: Data
+
+package:
+  icon: fas fa-box
+  text: Package
+
+website:
+  icon: fas fa-home
+  text: Website
+
+default:
+  icon: fas fa-external-link-alt
+  text: Link

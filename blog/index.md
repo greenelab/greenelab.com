@@ -8,15 +8,15 @@ redirect_from: /musings
 
 **[{{ post.title }}]({{ site.baseurl }}{{ post.url }})**
 
-<p class="mini_details">
+<p class="page_details">
   {% if post.author %}
-  <span>
-    <i class="fas fa-feather-alt fa-fw icon"></i>{{ post.author }}
+  <span class="easy_align">
+    <i class="fas fa-feather-alt icon_with_text"></i>{{ post.author }}
   </span>
   {% endif %}
   {% if post.date %}
-  <span>
-    <i class="far fa-calendar-alt fa-fw icon"></i>{{ post.date | date: '%B %d, %Y' }}
+  <span class="easy_align">
+    <i class="far fa-calendar-alt icon_with_text"></i>{{ post.date | date: '%B %d, %Y' }}
   </span>
   {% endif %}
 </p>

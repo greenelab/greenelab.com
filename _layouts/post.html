@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<p class="details">
+<p class="center page_details">
   {% if page.author %}
   <span>
-    <i class="fas fa-feather-alt fa-fw icon"></i>{{ page.author }}
+    <i class="fas fa-feather-alt icon_with_text"></i>{{ page.author }}
   </span>
   {% endif %}
   {% if page.date %}
   <span>
-    <i class="far fa-calendar-alt fa-fw icon"></i>{{ page.date | date: '%B %d, %Y' }}
+    <i class="far fa-calendar-alt icon_with_text"></i>{{ page.date | date: '%B %d, %Y' }}
   </span>
   {% endif %}
 </p>

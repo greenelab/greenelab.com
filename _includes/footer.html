@@ -1,10 +1,13 @@
 <!-- footer section that includes social media links -->
 <footer>
   {% include background.html %}
-  <div class="footer_links">
-    <a href="{{ site.baseurl }}/contact" data-tooltip="Contact" aria-label="Contact"><i class="far fa-envelope fa-fw fa-lg"></i></a>
-    <a href="https://github.com/{{ site.github }}" data-tooltip="GitHub" aria-label="GitHub"><i class="fab fa-github fa-fw fa-lg"></i></a>
-    <a href="https://twitter.com/{{ site.twitter }}" data-tooltip="Twitter" aria-label="Twitter"><i class="fab fa-twitter fa-fw fa-lg"></i></a>
-    <a href="https://instagram.com/{{ site.instagram }}" data-tooltip="Instagram" aria-label="Instagram"><i class="fab fa-instagram fa-fw fa-lg"></i></a>
+  <div class="footer_links easy_align">
+    {% capture contact %}
+      {{ site.baseurl }}/contact
+    {% endcapture %}
+    {% include social-link.html type="contact" value=contact large=true %}
+    {% include social-link.html type="github" value=site.github large=true %}
+    {% include social-link.html type="twitter" value=site.twitter large=true %}
+    {% include social-link.html type="instagram" value=site.instagram large=true %}
   </div>
 </footer>

@@ -1,0 +1,37 @@
+# defines all the unique social link types for the team page and footer
+# determines the Font Awesome icon, text, and url to use
+
+website:
+  icon: fas fa-home
+  text: Website
+  url:
+
+contact:
+  icon: far fa-envelope
+  text: Contact
+  url:
+
+email:
+  icon: far fa-envelope
+  text: Email
+  url: 'mailto:'
+
+google:
+  icon: fab fa-google
+  text: Google Scholar
+  url: https://scholar.google.com/citations?hl=en&user=
+
+github:
+  icon: fab fa-github
+  text: GitHub
+  url: https://github.com/
+
+twitter:
+  icon: fab fa-twitter
+  text: Twitter
+  url: https://twitter.com/
+
+instagram:
+  icon: fab fa-instagram
+  text: Instagram
+  url: https://instagram.com/

@@ -1,7 +1,0 @@
-.mini_details {
-  color: var(--gray);
-  font-style: italic;
-}
-.mini_details > * {
-  margin-right: 10px;
-}
