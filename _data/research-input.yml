@@ -37,8 +37,18 @@
 
 # 2020
 
+- id: doi:10.1101/2020.06.09.20126813
+
+- id: doi:10.1038/s41576-020-0257-5
+  thumbnail: /images/sharing-nrg-thumb.png
+  tags:
+    - open science
+
 - id: doi:10.1016/j.annonc.2020.05.019
   thumbnail: https://ars.els-cdn.com/content/image/1-s2.0-S0923753420398410-gr3.jpg
+  tags:
+    - ovarian cancer
+    - genomics
 
 - id: doi:10.1038/s41591-020-0929-x
   thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0929-x/MediaObjects/41591_2020_929_Fig2_HTML.png?as=webp
@@ -47,9 +57,6 @@
       url: https://www.medrxiv.org/content/10.1101/2020.04.02.20051284v1
 
 - id: doi:10.1158/1078-0432.CCR-20-0103
-  links:
-    - type: manubot
-      url: https://greenelab.github.io/knowledge-graph-review/
 
 - id: doi:10.1016/j.copbio.2019.12.021
   links:
@@ -71,6 +78,10 @@
     - type: source
       url: https://github.com/greenelab/simulate-expression-compendia
       text: simulate-expression-compendia
+  tags:
+    - genomics
+    - machine learning
+    - data integration
 
 - id: doi:10.1093/nar/gkaa248
   links:
@@ -78,6 +89,9 @@
       url: https://doi.org/10.1101/361816
     - type: source
       url: https://github.com/huqiwen0313/HM_splicing
+  tags:
+    - genomics
+    - machine learning
 
 - id: doi:10.1186/s13059-020-02021-3
   links:
@@ -87,6 +101,9 @@
       url: https://github.com/greenelab/biobombe
     - type: website
       url: https://greenelab.github.io/BioBombe/
+  tags:
+    - machine learning
+    - genomics
 
 - id: doi:10.1101/2020.04.14.927251
   links:
@@ -101,6 +118,9 @@
     - type: source
       url: https://github.com/dhimmel/pubmedpy
       text: pubmedpy
+  tags:
+    - machine learning
+    - diversity
 
 - id: arxiv:2003.00898
   links:
@@ -112,14 +132,22 @@
       url: https://doi.org/10.1101/2020.01.13.904771
     - type: source
       url: https://github.com/Sage-Bionetworks/NF_LandscapePaper_2019
+  tags:
+    - machine learning
+    - rare diseases
 
 - id: doi:10.1101/2020.02.17.20024133
   links:
     - type: preprint
+  tags:
+    - genetics
 
 - id: doi:10.1101/2020.02.12.945642
   links:
     - type: preprint
+  tags:
+    - genomics
+    - rare diseases
 
 - id: doi:10.1101/730085
   links:
@@ -128,6 +156,9 @@
       url: https://greenelab.github.io/text_mined_hetnet_manuscript/
     - type: source
       url: https://github.com/greenelab/snorkeling
+  tags:
+    - knowledge graphs
+    - open science
 
 - id: doi:10.1073/pnas.1917576117
   links:
@@ -138,8 +169,17 @@
   links:
     - type: source
       url: https://github.com/jjc2718/gene-graph-conv
+  tags:
+    - machine learning
+    - genomics
 
 - id: doi:10.1016/j.csbj.2020.05.017
+  date: 2020-6-2
+  links:
+    - type: manubot
+      url: https://greenelab.github.io/knowledge-graph-review/
+  tags:
+    - knowledge graphs
 
 # 2019
 

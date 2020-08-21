@@ -1,5 +1,68 @@
 [
   {
+    "title": "Population-scale Longitudinal Mapping of COVID-19 Symptoms, Behavior, and Testing Identifies Contributors to Continued Disease Spread in the United States",
+    "authors": [
+      "William E Allen",
+      "Han Altae-Tran",
+      "James Briggs",
+      "Xin Jin",
+      "Glen McGee",
+      "Rumya Raghavan",
+      "Andy Shi",
+      "Mireille Kamariza",
+      "Nicole Nova",
+      "Albert Pereta",
+      "Chris Danford",
+      "Amine Kamel",
+      "Patrik Gothe",
+      "Evrhet Milam",
+      "Jean Aurambault",
+      "Thorben Primke",
+      "Claire Li",
+      "Josh Inkenbrandt",
+      "Tuan Huynh",
+      "Evan Chen",
+      "Christina Lee",
+      "Michael Croatto",
+      "Helen Bentley",
+      "Wendy Lu",
+      "Robert Murray",
+      "Mark Travassos",
+      "John Openshaw",
+      "Brent Coull",
+      "Casey Greene",
+      "Ophir Shalem",
+      "Gary King",
+      "Ryan Probasco",
+      "David Cheng",
+      "Ben Silbermann",
+      "Feng Zhang",
+      "Xihong Lin"
+    ],
+    "publisher": "medRxiv",
+    "date": "2020-6-11",
+    "url": "https://doi.org/gg8skn",
+    "id": "doi:10.1101/2020.06.09.20126813"
+  },
+  {
+    "title": "Responsible, practical genomic data sharing that accelerates research",
+    "authors": [
+      "James Brian Byrd",
+      "Anna C. Greene",
+      "Deepashree Venkatesh Prasad",
+      "Xiaoqian Jiang",
+      "Casey S. Greene"
+    ],
+    "publisher": "Nature Reviews Genetics",
+    "date": "2020-7-21",
+    "url": "https://doi.org/gg7c57",
+    "id": "doi:10.1038/s41576-020-0257-5",
+    "thumbnail": "/images/sharing-nrg-thumb.png",
+    "tags": [
+      "open science"
+    ]
+  },
+  {
     "title": "Prognostic gene expression signature for high-grade serous ovarian cancer",
     "authors": [
       "J. Millstein",
@@ -287,7 +350,11 @@
     "date": "2020-9-1",
     "url": "https://doi.org/gg4mzh",
     "id": "doi:10.1016/j.annonc.2020.05.019",
-    "thumbnail": "https://ars.els-cdn.com/content/image/1-s2.0-S0923753420398410-gr3.jpg"
+    "thumbnail": "https://ars.els-cdn.com/content/image/1-s2.0-S0923753420398410-gr3.jpg",
+    "tags": [
+      "ovarian cancer",
+      "genomics"
+    ]
   },
   {
     "title": "Building an international consortium for tracking coronavirus health status",
@@ -490,13 +557,7 @@
     "publisher": "Clinical Cancer Research",
     "date": "2020-6-17",
     "url": "https://doi.org/gg7qrq",
-    "id": "doi:10.1158/1078-0432.CCR-20-0103",
-    "links": [
-      {
-        "type": "manubot",
-        "url": "https://greenelab.github.io/knowledge-graph-review/"
-      }
-    ]
+    "id": "doi:10.1158/1078-0432.CCR-20-0103"
   },
   {
     "title": "Incorporating biological structure into machine learning models in biomedicine",
@@ -567,6 +628,11 @@
         "url": "https://github.com/greenelab/simulate-expression-compendia",
         "text": "simulate-expression-compendia"
       }
+    ],
+    "tags": [
+      "genomics",
+      "machine learning",
+      "data integration"
     ]
   },
   {
@@ -589,6 +655,10 @@
         "type": "source",
         "url": "https://github.com/huqiwen0313/HM_splicing"
       }
+    ],
+    "tags": [
+      "genomics",
+      "machine learning"
     ]
   },
   {
@@ -617,6 +687,10 @@
         "type": "website",
         "url": "https://greenelab.github.io/BioBombe/"
       }
+    ],
+    "tags": [
+      "machine learning",
+      "genomics"
     ]
   },
   {
@@ -652,6 +726,10 @@
         "url": "https://github.com/dhimmel/pubmedpy",
         "text": "pubmedpy"
       }
+    ],
+    "tags": [
+      "machine learning",
+      "diversity"
     ]
   },
   {
@@ -717,6 +795,10 @@
         "type": "source",
         "url": "https://github.com/Sage-Bionetworks/NF_LandscapePaper_2019"
       }
+    ],
+    "tags": [
+      "machine learning",
+      "rare diseases"
     ]
   },
   {
@@ -760,6 +842,9 @@
       {
         "type": "preprint"
       }
+    ],
+    "tags": [
+      "genetics"
     ]
   },
   {
@@ -795,6 +880,10 @@
       {
         "type": "preprint"
       }
+    ],
+    "tags": [
+      "genomics",
+      "rare diseases"
     ]
   },
   {
@@ -820,6 +909,10 @@
         "type": "source",
         "url": "https://github.com/greenelab/snorkeling"
       }
+    ],
+    "tags": [
+      "knowledge graphs",
+      "open science"
     ]
   },
   {
@@ -863,6 +956,10 @@
         "type": "source",
         "url": "https://github.com/jjc2718/gene-graph-conv"
       }
+    ],
+    "tags": [
+      "machine learning",
+      "genomics"
     ]
   },
   {
@@ -872,9 +969,18 @@
       "Casey S. Greene"
     ],
     "publisher": "Computational and Structural Biotechnology Journal",
-    "date": "2020-1-1",
+    "date": "2020-6-2",
     "url": "https://doi.org/gg7m48",
-    "id": "doi:10.1016/j.csbj.2020.05.017"
+    "id": "doi:10.1016/j.csbj.2020.05.017",
+    "links": [
+      {
+        "type": "manubot",
+        "url": "https://greenelab.github.io/knowledge-graph-review/"
+      }
+    ],
+    "tags": [
+      "knowledge graphs"
+    ]
   },
   {
     "title": "Voices in methods development",
