@@ -80,7 +80,7 @@ h1 {
   font-size: 1.4rem;
   font-weight: var(--semi-bold);
   margin: 0;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
   text-align: center;
   line-height: 1.1;
   letter-spacing: 2px;
@@ -213,6 +213,9 @@ header > *:not(.background) {
   color: var(--gray);
   font-style: italic;
 }
+.page_details:not(.center) {
+  margin-left: -10px;
+}
 .page_details > * {
   margin: 5px 10px;
 }
@@ -300,6 +303,7 @@ nav > a:hover {
 
 /* footer */
 .footer_links > a {
+  margin: 0 5px;
   transition: opacity var(--fast);
 }
 .footer_links:hover > a {

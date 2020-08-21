@@ -33,7 +33,7 @@ Our open, rigorous and transparent approach to research facilitates such reuse.
 ## More
 
 {:.center}
-[<i class="fas fa-book-open icon"></i>More on PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=casey%20s%20greene){:.big_link}
-[<i class="fab fa-google icon"></i>More on Google Scholar](http://scholar.google.com/citations?hl=en&user=ETJoidYAAAAJ){:.big_link}
+[<i class="fas fa-book-open icon_with_text"></i>More on PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=casey%20s%20greene){:.big_link}
+[<i class="fab fa-google icon_with_text"></i>More on Google Scholar](http://scholar.google.com/citations?hl=en&user=ETJoidYAAAAJ){:.big_link}
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
