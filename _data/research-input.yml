@@ -125,6 +125,8 @@
 - id: arxiv:2003.00898
   links:
     - type: preprint
+  tags:
+    - open science
 
 - id: doi:10.3390/genes11020226
   links:
