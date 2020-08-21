@@ -1,4 +1,5 @@
 name: Update Manubot-derived JSON
+on: pull_request
 jobs:
   update_research:
     name: Update research page resources
