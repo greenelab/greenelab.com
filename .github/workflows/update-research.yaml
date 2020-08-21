@@ -1,0 +1,24 @@
+name: Update Manubot-derived JSON
+jobs:
+  update_research:
+    name: Update research page resources
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the ref/SHA that triggered the workflow
+        uses: actions/checkout@v2
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+      - name: Install manubot
+        run: pip install --upgrade manubot
+      - name: Update research file
+        shell: bash --login {0}
+        run: bash build.sh
+      - name: Commit Research JSON file
+        uses: EndBug/add-and-commit@v4
+        with:
+          add: '_data/research-output.json'
+          message: 'Update research JSON file'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
