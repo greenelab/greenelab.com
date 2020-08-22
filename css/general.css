@@ -1,0 +1,10 @@
+.page_details {
+  color: var(--gray);
+  font-style: italic;
+}
+.page_details:not(.center) {
+  margin-left: -10px;
+}
+.page_details > * {
+  margin: 5px 10px;
+}

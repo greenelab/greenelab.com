@@ -1,0 +1,9 @@
+.paper_heading[data-hide="true"] {
+  display: none;
+}
+.paper_search_heading {
+  display: none;
+}
+.paper_search_heading[data-hide="false"] {
+  display: flex;
+}

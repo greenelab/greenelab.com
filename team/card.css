@@ -1,0 +1,19 @@
+.member_card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  width: 150px;
+  margin: 20px;
+  text-decoration: none;
+}
+.member_card[data-mini="true"] {
+  width: 100px;
+  margin: 10px;
+  font-size: 0.9rem;
+}
+.member_title {
+  margin-top: 10px;
+  text-align: center;
+}

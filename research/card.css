@@ -1,0 +1,13 @@
+.paper_card {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 25px 0;
+  line-height: 1.25;
+}
+.paper_card[data-hide="true"],
+h2[data-hide="true"] {
+  display: none;
+}

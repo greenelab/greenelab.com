@@ -28,26 +28,22 @@
   {% endif %}
   <div class="paper_info">
     {% if title != "" %}
-    <a class="paper_title" href="{{ url }}" title="{{ title }}">
+    <a class="paper_title truncate" href="{{ url }}" title="{{ title }}">
       {{ title }}
     </a>
     {% endif %}
     {% if authors != "" %}
-    <div class="paper_authors" title="{{ authors }}">
+    <div class="paper_authors truncate" title="{{ authors }}">
       {{ authors }}
     </div>
     {% endif %}
     {% if authors != "" %}
-    <div class="paper_details" title="{{ details }}">
+    <div class="paper_details truncate" title="{{ details }}">
       {{ details }}
     </div>
     {% endif %}
     {% if tags %}
-    <div class="paper_tags">
-      {% for tag in tags %}
-      <div class="paper_tag">{{ tag }}</div>
-      {% endfor %}
-    </div>
+    {% include paper-tags.html tags=tags %}
     {% endif %}
     {% if links %}
     <div class="paper_links">

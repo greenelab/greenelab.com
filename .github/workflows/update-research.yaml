@@ -3,7 +3,7 @@ name: Update research page
 on:
   pull_request:
     paths:
-      - '_data/research-input.yml'
+      - "_data/research-input.yml"
 
 jobs:
   update_research:
@@ -23,7 +23,7 @@ jobs:
       - name: Commit new research json file
         uses: EndBug/add-and-commit@v4
         with:
-          add: '_data/research-output.json'
-          message: 'update Manubot-generated citations on research page'
+          add: "_data/research-output.json"
+          message: "update Manubot-generated citations on research page"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

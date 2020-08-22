@@ -5,8 +5,16 @@
   {% include meta.html %}
   {% include icons.html %}
   {% include fonts.html %}
-  <!-- site-wide css -->
-  <link href="{{ site.baseurl }}/global.css" rel="stylesheet" />
-  <!-- always look for page-specific css in current folder -->
-  <link href="index.css" rel="stylesheet" />
+  <!-- site-wide and includes css -->
+  {% for file in site.static_files %}
+  {% if file.path contains "css/" and file.path contains ".css" %}
+  <link href="{{ site.baseurl }}{{ file.path }}" rel="stylesheet" />
+  {% endif %}
+  {% endfor %}
+  <!-- look for page-specific css in current folder -->
+  {% for file in site.static_files %}
+  {% if file.path contains page.dir and file.path contains ".css" %}
+  <link href="{{ site.baseurl }}{{ file.path }}" rel="stylesheet" />
+  {% endif %}
+  {% endfor %}
 </head>

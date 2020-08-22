@@ -1,4 +1,4 @@
-<!-- research paper citation link -->
+<!-- research paper link type filter button -->
 
 <!-- get icon/paper type from params -->
 {% assign type = include.type | default: "default" %}
@@ -12,10 +12,17 @@
 <!-- get text from params -->
 {% assign text = include.text | default: site.data.paper-link-types[type].text %}
 
-<a href="{{ url }}" class="paper_link" title="{{ text }}" data-type="{{ type }}">
+<!-- get long text from params -->
+{% assign tooltip = site.data.paper-link-types[type].tooltip %}
+
+<button
+  class="paper_link_button"
+  title="{{ tooltip }}"
+  data-type="{{ type }}"
+>
   {% if type == "manubot" %}
-  {% include manubot-logo.html %}<span class="truncate">{{ text }}</span>
+  {% include manubot-logo.html %}<span>{{ text }}</span>
   {% else %}
-  <i class="{{ icon }} fa-sm icon_with_text"></i><span class="truncate">{{ text }}</span>
+  <i class="{{ icon }} fa-sm icon_with_text"></i><span>{{ text }}</span>
   {% endif %}  
-</a>
+</button>

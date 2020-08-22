@@ -6,8 +6,9 @@ email: casey@greenelab.com
 email2: greenescientist@gmail.com
 github: greenelab
 twitter: GreeneScientist
-instagram:  greenelab
+instagram: greenelab
 
+# make member collection output individual page for each member
 collections:
   members:
     output: true

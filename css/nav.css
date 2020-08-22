@@ -1,0 +1,36 @@
+nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+nav > a {
+  padding: 10px;
+  color: var(--white);
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  font-weight: var(--semi-bold);
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: opacity var(--fast);
+}
+nav:hover > a {
+  color: var(--white);
+  opacity: 0.25;
+}
+nav > a:hover {
+  opacity: 1 !important;
+}
+
+/* mobile styles */
+@media screen and (max-width: 800px) {
+  nav {
+    justify-content: center;
+    margin-top: 10px;
+  }
+}
+@media screen and (max-width: 600px) {
+  nav {
+    flex-direction: column;
+  }
+}

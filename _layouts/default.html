@@ -7,9 +7,11 @@
       {{ content }}
     </main>
     {% include footer.html %}
-    <!-- site-wide javascript -->
-    <script src="{{ site.baseurl }}/global.js"></script>
-      <!-- always look for page-specific javascript in current folder -->
-    <script src="index.js"></script>
+    <!-- look for page-specific javascript in current folder -->
+    {% for file in site.static_files %}
+    {% if file.path contains page.dir and file.path contains ".js" %}
+    <script src="{{ site.baseurl }}{{ file.path }}"></script>
+    {% endif %}
+    {% endfor %}
   </body>
 </html>

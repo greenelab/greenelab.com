@@ -585,6 +585,7 @@
     "date": "2020-6-1",
     "url": "https://doi.org/gg7m47",
     "id": "doi:10.1016/j.copbio.2019.12.021",
+    "thumbnail": "https://ars.els-cdn.com/content/image/1-s2.0-S0958166919301594-gr1.jpg",
     "links": [
       {
         "type": "manubot",
@@ -611,6 +612,7 @@
     "date": "2020-6-1",
     "url": "https://doi.org/ggzr3d",
     "id": "doi:10.1093/gigascience/giaa056",
+    "thumbnail": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/6/10.1093_gigascience_giaa056/1/m_giaa056fig1.jpeg?Expires=1600608874&Signature=vKBY0fvYvV5TcOcCtC9ad0uE~SQ8l1XLZ5nj49vTnBQcsTIeaGmNMxq3EJmLTIKoVSnN109y3rvlNKgujEyGt5NV9IRbUzT4wZqTjPdLBCC7vI2GMDidFGzp5sDOS4POZrNv1QoGXnKjPgRi9~QhkCZ8MXBHjSJo1BJYnwvAhtyLq04HM~FyGshG230kakE3XNW942i3NGPPRAeKLurk7FpaqUJvj8SHpwmpogrOOQA5p11fo7XuI1Ea5n3jjol5mkAX-gspAssWP0hWnJpO1WfFaeDbm8kWHWw68EIu8pzsMlmK9nNAJ2p59iUBIil2Y4D1eL3sJTGX4ZtY51ElPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
     "links": [
       {
         "type": "manubot",
@@ -635,6 +637,7 @@
     "date": "2020-5-3",
     "url": "https://doi.org/gg7m5s",
     "id": "doi:10.1101/2020.05.03.066597",
+    "thumbnail": "https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.03.066597/F3.medium.gif",
     "links": [
       {
         "type": "preprint"
@@ -662,6 +665,7 @@
     "date": "2020-5-21",
     "url": "https://doi.org/gg7m5c",
     "id": "doi:10.1093/nar/gkaa248",
+    "thumbnail": "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/9/10.1093_nar_gkaa248/1/m_gkaa248fig7.jpeg?Expires=1600742402&Signature=a3DVBQf6IPBTbcXdHyusihTzZrA0I9xlwQYnd7s3MxBFYW6rR9IVAPviPEDVjO9bRh1zYrF-GQvFmHqNmYwqLAU4eDGIacdoTQiGSHCRg6mwmLlFu7G47cCxHCcecTdJ-52vP029njoxuwTrvm6nl9EDagSLy4Qip66n0EB6G8qGZPENbG-oqDWyx9qLQRQDM-GrHO57VsWDF4fuZrSKpBqh6Uy8LFE3zEKejBvk56lGLmgaDba6Ym4xYsUDOxdWNqT2sFB9xKA3YUBDDZblHBVddWU-dMHI3gWsT5EIZHgNV632sOJFSX-0QdBJNcBLL3Uxh518FAnzwyAzbn85xA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA",
     "links": [
       {
         "type": "preprint",
@@ -690,6 +694,7 @@
     "date": "2020-5-11",
     "url": "https://doi.org/gg2mjh",
     "id": "doi:10.1186/s13059-020-02021-3",
+    "thumbnail": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02021-3/MediaObjects/13059_2020_2021_Fig1_HTML.png?as=webp",
     "links": [
       {
         "type": "preprint",
@@ -722,6 +727,7 @@
     "date": "2020-4-14",
     "url": "https://doi.org/ggr64p",
     "id": "doi:10.1101/2020.04.14.927251",
+    "thumbnail": "https://raw.githubusercontent.com/greenelab/iscb-diversity/20d21504463c0487aa844be0ff236b3a51c70fa4/figs/2020-01-31_groupings.png",
     "links": [
       {
         "type": "manubot",
@@ -805,6 +811,7 @@
     "date": "2020-2-21",
     "url": "https://doi.org/gg4rbj",
     "id": "doi:10.3390/genes11020226",
+    "thumbnail": "https://www.mdpi.com/genes/genes-11-00226/article_deploy/html/images/genes-11-00226-g001-550.jpg",
     "links": [
       {
         "type": "preprint",
@@ -895,6 +902,7 @@
     "date": "2020-2-13",
     "url": "https://doi.org/gg7m5q",
     "id": "doi:10.1101/2020.02.12.945642",
+    "thumbnail": "https://www.biorxiv.org/content/biorxiv/early/2020/02/13/2020.02.12.945642/F1.medium.gif",
     "links": [
       {
         "type": "preprint"
@@ -916,6 +924,7 @@
     "date": "2020-1-31",
     "url": "https://doi.org/gf6qxh",
     "id": "doi:10.1101/730085",
+    "thumbnail": "https://greenelab.github.io/text_mined_hetnet_manuscript/images/figures/convolutional_neural_network/convolutional_neural_nework.png",
     "links": [
       {
         "type": "preprint"
@@ -953,6 +962,7 @@
     "date": "2020-1-24",
     "url": "https://doi.org/gg7m49",
     "id": "doi:10.1073/pnas.1917576117",
+    "thumbnail": "https://www.pnas.org/content/pnas/117/6/3167/F1.medium.gif",
     "links": [
       {
         "type": "preprint",
@@ -970,6 +980,7 @@
     "date": "2020-1-21",
     "url": "https://doi.org/gg7m5p",
     "id": "doi:10.1101/2020.01.17.910703",
+    "thumbnail": "https://github.com/jjc2718/gene-graph-conv/raw/master/data/img/pipeline.png",
     "links": [
       {
         "type": "source",
@@ -991,6 +1002,7 @@
     "date": "2020-6-2",
     "url": "https://doi.org/gg7m48",
     "id": "doi:10.1016/j.csbj.2020.05.017",
+    "thumbnail": "https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg",
     "links": [
       {
         "type": "manubot",

@@ -1,0 +1,8 @@
+.big_link {
+  display: inline-block;
+  margin: 10px 20px;
+  font-family: var(--sans);
+  font-size: 0.9rem;
+  font-weight: var(--semi-bold);
+  text-decoration: none;
+}

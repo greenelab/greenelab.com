@@ -1,0 +1,5 @@
+.paper_search {
+  width: 300px;
+  max-width: 100%;
+  border: solid 1px var(--black);
+}
