@@ -1,8 +1,9 @@
 name: Update research page
 
-on: pull_request
-  paths:
-  - '_data/research-input.yml'
+on:
+  pull_request:
+    paths:
+      - '_data/research-input.yml'
 
 jobs:
   update_research:
