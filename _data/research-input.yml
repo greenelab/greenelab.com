@@ -59,6 +59,9 @@
       url: https://www.medrxiv.org/content/10.1101/2020.04.02.20051284v1
 
 - id: doi:10.1158/1078-0432.CCR-20-0103
+  tags:
+    - ovarian cancer
+    - genomics
 
 - id: doi:10.1016/j.copbio.2019.12.021
   links:

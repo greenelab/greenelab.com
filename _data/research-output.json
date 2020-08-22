@@ -1,5 +1,17 @@
 [
   {
+    "title": "The National COVID Cohort Collaborative (N3C): Rationale, Design, Infrastructure, and Deployment",
+    "authors": [
+      "Haendel Melissa",
+      "Chute Christopher",
+      "Gersing Kenneth"
+    ],
+    "publisher": "Journal of the American Medical Informatics Association",
+    "date": "2020-8-17",
+    "url": "https://doi.org/gg8v28",
+    "id": "doi:10.1093/jamia/ocaa196"
+  },
+  {
     "title": "Population-scale Longitudinal Mapping of COVID-19 Symptoms, Behavior, and Testing Identifies Contributors to Continued Disease Spread in the United States",
     "authors": [
       "William E Allen",
@@ -557,7 +569,11 @@
     "publisher": "Clinical Cancer Research",
     "date": "2020-6-17",
     "url": "https://doi.org/gg7qrq",
-    "id": "doi:10.1158/1078-0432.CCR-20-0103"
+    "id": "doi:10.1158/1078-0432.CCR-20-0103",
+    "tags": [
+      "ovarian cancer",
+      "genomics"
+    ]
   },
   {
     "title": "Incorporating biological structure into machine learning models in biomedicine",
@@ -615,7 +631,7 @@
       "Deborah A. Hogan",
       "Casey S. Greene"
     ],
-    "publisher": "bioRxiv",
+    "publisher": "Cold Spring Harbor Laboratory",
     "date": "2020-5-3",
     "url": "https://doi.org/gg7m5s",
     "id": "doi:10.1101/2020.05.03.066597",
@@ -764,6 +780,9 @@
       {
         "type": "preprint"
       }
+    ],
+    "tags": [
+      "open science"
     ]
   },
   {
