@@ -38,8 +38,16 @@
 # 2020
 
 - id: doi:10.1093/jamia/ocaa196
+  tags:
+    - COVID19
 
-- id: doi:10.1101/2020.06.09.20126813
+- id: doi:10.1038/s41562-020-00944-2
+  thumbnail: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-020-00944-2/MediaObjects/41562_2020_944_Fig1_HTML.png
+  links:
+    - type: preprint
+      url: doi.org/10.1101/2020.06.09.20126813
+  tags:
+    - COVID19
 
 - id: doi:10.1038/s41576-020-0257-5
   thumbnail: https://user-images.githubusercontent.com/542643/90901663-424c0080-e399-11ea-8ee1-3c4917e62317.png
@@ -59,6 +67,7 @@
       url: https://www.medrxiv.org/content/10.1101/2020.04.02.20051284v1
 
 - id: doi:10.1158/1078-0432.CCR-20-0103
+  thumbnail: https://user-images.githubusercontent.com/542643/91751846-6e366580-eb93-11ea-854d-8f4bb210a46b.png
   tags:
     - ovarian cancer
     - genomics
@@ -149,6 +158,7 @@
     - rare diseases
 
 - id: doi:10.1101/2020.02.17.20024133
+  thumbnail: https://user-images.githubusercontent.com/542643/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png
   links:
     - type: preprint
   tags:

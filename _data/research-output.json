@@ -9,18 +9,21 @@
     "publisher": "Journal of the American Medical Informatics Association",
     "date": "2020-8-17",
     "url": "https://doi.org/gg8v28",
-    "id": "doi:10.1093/jamia/ocaa196"
+    "id": "doi:10.1093/jamia/ocaa196",
+    "tags": [
+      "COVID19"
+    ]
   },
   {
-    "title": "Population-scale Longitudinal Mapping of COVID-19 Symptoms, Behavior, and Testing Identifies Contributors to Continued Disease Spread in the United States",
+    "title": "Population-scale longitudinal mapping of COVID-19 symptoms, behaviour and testing",
     "authors": [
-      "William E Allen",
+      "William E. Allen",
       "Han Altae-Tran",
       "James Briggs",
       "Xin Jin",
       "Glen McGee",
-      "Rumya Raghavan",
       "Andy Shi",
+      "Rumya Raghavan",
       "Mireille Kamariza",
       "Nicole Nova",
       "Albert Pereta",
@@ -30,7 +33,7 @@
       "Evrhet Milam",
       "Jean Aurambault",
       "Thorben Primke",
-      "Claire Li",
+      "Weijie Li",
       "Josh Inkenbrandt",
       "Tuan Huynh",
       "Evan Chen",
@@ -40,21 +43,31 @@
       "Wendy Lu",
       "Robert Murray",
       "Mark Travassos",
+      "Brent A. Coull",
       "John Openshaw",
-      "Brent Coull",
-      "Casey Greene",
+      "Casey S. Greene",
       "Ophir Shalem",
       "Gary King",
       "Ryan Probasco",
-      "David Cheng",
+      "David R. Cheng",
       "Ben Silbermann",
       "Feng Zhang",
       "Xihong Lin"
     ],
-    "publisher": "medRxiv",
-    "date": "2020-6-11",
-    "url": "https://doi.org/gg8skn",
-    "id": "doi:10.1101/2020.06.09.20126813"
+    "publisher": "Nature Human Behaviour",
+    "date": "2020-8-26",
+    "url": "https://doi.org/gg9dfq",
+    "id": "doi:10.1038/s41562-020-00944-2",
+    "thumbnail": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-020-00944-2/MediaObjects/41562_2020_944_Fig1_HTML.png",
+    "links": [
+      {
+        "type": "preprint",
+        "url": "doi.org/10.1101/2020.06.09.20126813"
+      }
+    ],
+    "tags": [
+      "COVID19"
+    ]
   },
   {
     "title": "Responsible, practical genomic data sharing that accelerates research",
@@ -570,6 +583,7 @@
     "date": "2020-6-17",
     "url": "https://doi.org/gg7qrq",
     "id": "doi:10.1158/1078-0432.CCR-20-0103",
+    "thumbnail": "https://user-images.githubusercontent.com/542643/91751846-6e366580-eb93-11ea-854d-8f4bb210a46b.png",
     "tags": [
       "ovarian cancer",
       "genomics"
@@ -786,9 +800,6 @@
       {
         "type": "preprint"
       }
-    ],
-    "tags": [
-      "open science"
     ]
   },
   {
@@ -864,6 +875,7 @@
     "date": "2020-2-20",
     "url": "https://doi.org/gg7m5r",
     "id": "doi:10.1101/2020.02.17.20024133",
+    "thumbnail": "https://user-images.githubusercontent.com/542643/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png",
     "links": [
       {
         "type": "preprint"
