@@ -7,7 +7,7 @@
 }
 .paper_tag {
   margin: 5px;
-  padding: 2px 10px;
+  padding: 1px 8px;
   border-radius: 999px;
   background: var(--light-green);
   white-space: nowrap;

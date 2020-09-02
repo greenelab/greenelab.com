@@ -19,29 +19,29 @@
 
 <div class="paper_card">
   <!-- {{ id }} -->
-  {% if thumbnail %}
   <div class="paper_thumbnail">
     <a href="{{ url }}">
+      {% if thumbnail %}
       <img src="{{ thumbnail }}">
+      {% else %}
+      <img src="{{ site.baseurl }}/images/paper-thumbnail.svg">
+      {% endif %}
     </a>
   </div>
-  {% endif %}
   <div class="paper_info">
     {% if title != "" %}
-    <a class="paper_title truncate" href="{{ url }}" title="{{ title }}">
+    <a class="paper_title" href="{{ url }}" title="{{ title }}">
       {{ title }}
     </a>
     {% endif %}
     {% if authors != "" %}
-    <div class="paper_authors truncate" title="{{ authors }}">
+    <div class="paper_authors truncate" title="{{ authors }}" tabindex="0">
       {{ authors }}
     </div>
     {% endif %}
-    {% if authors != "" %}
-    <div class="paper_details truncate" title="{{ details }}">
+    <div class="paper_details truncate" title="{{ details }}" tabindex="0">
       {{ details }}
     </div>
-    {% endif %}
     {% if tags %}
     {% include paper-tags.html tags=tags %}
     {% endif %}

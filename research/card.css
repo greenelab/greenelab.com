@@ -2,9 +2,9 @@
   position: relative;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   flex-wrap: wrap;
-  margin: 25px 0;
+  margin: 30px 0;
   line-height: 1.25;
 }
 .paper_card[data-hide="true"],

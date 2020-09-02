@@ -10,19 +10,13 @@ We recognize that our lab won't have all the answers, or even all of the questio
 We also strive to make our workflows robust and reusable for other computational scientists.
 Our open, rigorous and transparent approach to research facilitates such reuse.
 
-### Search & Filter
+### <i class="fas fa-search icon_with_text"></i>Search
 
 {:.center}
-<input class="paper_search">
+<input class="paper_search_box">
 
-{% include paper-tags.html tags=alltags %}
-
-<p class="center">
-  {% for item in site.data.paper-link-types %}
-  {% assign type = item[0] %}
-  {% include paper-link-button.html type=type %}
-  {% endfor %}
-</p>
+{:.center .paper_results_info}
+Showing all papers
 
 <!-- get paper data from json -->
 {% assign papers = site.data.research-output | sort: "date" | reverse %}
@@ -32,9 +26,6 @@ Our open, rigorous and transparent approach to research facilitates such reuse.
 
 <!-- loop through year groups -->
 {% for yeargroup in byyear %}
-
-{:.paper_search_heading}
-## Results
 
 {:.paper_heading}
 ## {{ yeargroup.name }}
@@ -56,4 +47,5 @@ Our open, rigorous and transparent approach to research facilitates such reuse.
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
 
+<!-- load mark.js library to highlight when searching -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>

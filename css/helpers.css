@@ -9,8 +9,9 @@
 .icon_with_text {
   margin-right: 0.5rem;
 }
-.truncate {
+.truncate:not(:focus) {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+  cursor: pointer;
 }

@@ -1,75 +1,80 @@
 // get key DOM elements
-const paperSearch = document.querySelector(".paper_search");
-const paperHeadings = Array.from(document.querySelectorAll(".paper_heading"));
-const paperSearchHeading = document.querySelector(".paper_search_heading");
-const paperCards = Array.from(document.querySelectorAll(".paper_card"));
-const paperButtons = Array.from(
-  document.querySelectorAll(".paper_link_button")
-);
+const searchBox = document.querySelector(".paper_search_box");
+const headings = Array.from(document.querySelectorAll(".paper_heading"));
+const resultsInfo = document.querySelector(".paper_results_info");
+const cards = Array.from(document.querySelectorAll(".paper_card"));
 
-const toggleButton = (event) =>
-  (event.currentTarget.dataset.active =
-    event.currentTarget.dataset.active !== "true");
-
+// filter papers
 const filterPapers = () => {
   // get search box text search terms
-  const search = paperSearch.value
+  const query = searchBox.value
     .split(/\s/)
     .map((term) => term.trim().toLowerCase())
     .filter((term) => term);
-  // get selected link types
-  const types = paperButtons
-    .map((button) =>
-      button.dataset.active === "true" ? button.dataset.type : null
-    )
-    .filter((button) => button);
 
   // reset highlights
   resetHighlights();
 
-  // hide headings if there is any filtering being done
-  const anyFilters = search.length || types.length ? true : false;
-  paperSearchHeading.dataset.hide = !anyFilters;
-  paperHeadings.forEach((heading) => (heading.dataset.hide = anyFilters));
-
   // filter paper cards
-  for (const paper of paperCards) {
+  let count = 0;
+  for (const paper of cards) {
     // hide/show paper
-    const matchesSearch =
-      search.length === 0 ||
-      search.every((term) => paper.innerText.toLowerCase().includes(term));
-    const matchesTypes =
-      types.length === 0 ||
-      types.every((type) => paper.querySelector(`[data-type="${type}"`));
-    const show = matchesSearch && matchesTypes;
+    const show =
+      query.length === 0 ||
+      query.every((term) => paper.innerText.toLowerCase().includes(term));
     paper.dataset.hide = !show;
 
-    // to avoid slowdown, only highlight if more than a few letters typed in
-    if (show && search.join(" ").length > 2)
-      // highlight search terms
-      highlightTerms(paper, search);
+    // count if shown
+    if (show) count++;
+
+    // highlight query terms
+    if (show) highlightTerms(paper, query);
   }
+
+  // if there is any filtering being done, hide headings and show result info
+  const anyFilters = query.length ? true : false;
+  headings.forEach((heading) => (heading.dataset.hide = anyFilters));
+
+  // update results info
+  resultsInfo.innerHTML =
+    "Showing " +
+    count.toLocaleString() +
+    " of " +
+    cards.length.toLocaleString() +
+    " papers";
 };
 
+// if mark.js library couldn't load, set dummy functions to avoid errors
+if (typeof Mark === "undefined")
+  Mark = function () {
+    this.unmark = () => null;
+    this.mark = () => null;
+  };
+
 // reset mark.js highlights
-const resetHighlights = () => {
-  try {
-    new Mark(document.body).unmark();
-  } catch (error) {}
-};
+const resetHighlights = () => new Mark(document.body).unmark();
 
 // highlight search terms with mark.js
 const highlightTerms = (element, terms) => {
-  try {
-    terms.forEach((term) => new Mark(element).mark(term));
-  } catch (error) {}
+  // to avoid slowdown, only highlight if more than a few letters typed in
+  for (const term of terms) if (term.length > 2) new Mark(element).mark(term);
+};
+
+// util func to debounce search box
+const debounce = (func, key, delay) => () => {
+  window.clearTimeout(window[key]);
+  window[key] = window.setTimeout(func, delay);
 };
 
 // attach functions in this script to HTML elements
-paperSearch.addEventListener("input", filterPapers);
-paperButtons.forEach((button) =>
-  button.addEventListener("click", (event) => {
-    toggleButton(event);
-    filterPapers(event);
-  })
-);
+searchBox.addEventListener("input", debounce(filterPapers, "filterPapers", 50));
+filterPapers();
+
+// popoluate search box based on url param
+const updateSearch = () => {
+  const query = new URLSearchParams(window.location.search).get("search");
+  if (!query.trim()) return;
+  searchBox.value = query;
+  filterPapers();
+};
+updateSearch();
