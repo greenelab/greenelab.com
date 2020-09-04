@@ -4,6 +4,7 @@ image: olivia.jpg
 role: undergrad
 email: ocheng1@sas.upenn.edu
 github: ocheng1
+alum: true
 ---
 
 Olivia is a junior at Penn majoring in Mathematics and minoring in Computer Science.

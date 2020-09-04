@@ -2,6 +2,7 @@ nav {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  justify-content: center;
 }
 nav > a {
   padding: 10px;
@@ -23,14 +24,9 @@ nav > a:hover {
 }
 
 /* mobile styles */
-@media screen and (max-width: 800px) {
-  nav {
-    justify-content: center;
-    margin-top: 10px;
-  }
-}
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
   nav {
     flex-direction: column;
+    margin-top: 10px;
   }
 }

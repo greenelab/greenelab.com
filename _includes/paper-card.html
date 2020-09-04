@@ -1,3 +1,4 @@
+<!-- paper card on research page -->
 
 <!-- get paper object from params -->
 {% assign paper = include.paper %}
@@ -7,24 +8,33 @@
 {% assign url = paper.url %}
 {% assign title = paper.title | normalize_whitespace | strip %}
 {% assign authors = paper.authors | join: ", &nbsp;" | strip %}
+{% if paper.thumbnail contains "://" %}
 {% assign thumbnail = paper.thumbnail %}
+{% else %}
+{% assign thumbnail = paper.thumbnail | prepend: "/images/" | prepend: site.baseurl %}
+{% endif %}
 {% assign links = paper.links %}
 {% assign tags = paper.tags %}
-{% capture details %}
+{%- capture details -%}
   {{- paper.publisher -}}
   &nbsp; · &nbsp;
   {{- paper.date | date: "%d %b %Y" -}}
-{% endcapture %}
+{%- endcapture -%}
 {% assign details = details | strip %}
+
+<!-- default thumbnail -->
+{%- capture defaultthumbnail -%}
+{{- site.baseurl -}}/images/paper-thumbnail.svg
+{%- endcapture -%}
 
 <div class="paper_card">
   <!-- {{ id }} -->
-  <div class="paper_thumbnail">
+  <div class="paper_thumbnail thumbnail">
     <a href="{{ url }}">
       {% if thumbnail %}
-      <img src="{{ thumbnail }}">
+      <img src="{{ thumbnail }}" onerror="this.src = '{{ defaultthumbnail }}'; this.onerror = null;">
       {% else %}
-      <img src="{{ site.baseurl }}/images/paper-thumbnail.svg">
+      <img src="{{ defaultthumbnail }}">
       {% endif %}
     </a>
   </div>

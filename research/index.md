@@ -1,5 +1,6 @@
 ---
 title: Research
+icon: fas fa-microscope
 redirect_from: /publications
 ---
 

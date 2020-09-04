@@ -72,7 +72,7 @@ filterPapers();
 
 // popoluate search box based on url param
 const updateSearch = () => {
-  const query = new URLSearchParams(window.location.search).get("search");
+  const query = new URLSearchParams(window.location.search).get("search") || "";
   if (!query.trim()) return;
   searchBox.value = query;
   filterPapers();

@@ -3,13 +3,17 @@
   <body>
     {% include header.html %}
     <main>
-      <h1>{{ page.title }}</h1>
+      <h1>
+        {% if page.icon %}<i class="{{ page.icon }} fa-sm icon_with_text"></i>{% endif %}
+        {{ page.title }}
+      </h1>
       {{ content }}
     </main>
     {% include footer.html %}
     <!-- look for page-specific javascript in current folder -->
     {% for file in site.static_files %}
-    {% if file.path contains page.dir and file.path contains ".js" %}
+    {% assign dir = file.path | remove: file.name %}
+    {% if dir == page.dir and file.extname == ".js" %}
     <script src="{{ site.baseurl }}{{ file.path }}"></script>
     {% endif %}
     {% endfor %}

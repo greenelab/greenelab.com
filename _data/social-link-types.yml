@@ -7,12 +7,12 @@ website:
   url:
 
 contact:
-  icon: far fa-envelope
+  icon: fas fa-envelope
   text: Contact
   url:
 
 email:
-  icon: far fa-envelope
+  icon: fas fa-envelope
   text: Email
   url: 'mailto:'
 

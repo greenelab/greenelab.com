@@ -1,3 +1,26 @@
+.center {
+  text-align: center;
+}
+.flex_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inline_flex_center {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.icon_with_text {
+  margin-right: 0.5rem;
+}
+.truncate:not(:focus) {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
 .page_details {
   color: var(--gray);
   font-style: italic;

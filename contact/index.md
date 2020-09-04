@@ -1,5 +1,6 @@
 ---
 title: Contact
+icon: fas fa-envelope
 backgroundImage: images/background-smilow.jpg
 ---
 
@@ -8,13 +9,13 @@ We are located on the 10th Floor of the [Smilow Center for Translational Researc
 
 {% include figure.html url="smilow.jpg" description="Smilow Center for Translational Research" full="true" %}
 
-## <i class="far fa-envelope icon_with_text"></i>Email
+## <i class="fas fa-envelope fa-sm icon_with_text"></i>Email
 
 {:.center}
 [{{ site.email }}](mailto:{{ site.email }})  
 [{{ site.email2 }}](mailto:{{ site.email }})
 
-## <i class="far fa-address-book icon_with_text"></i>Mailing Address
+## <i class="fas fa-map-marked fa-sm icon_with_text"></i>Mailing Address
 
 {:.center}
 3400 Civic Center Blvd.  
@@ -25,7 +26,7 @@ USA
 {:.center}
 [<i class="fas fa-external-link-alt fa-sm icon_with_text"></i>on Google Maps](https://www.google.com/maps/?q=Smilow+Center+for+Translational+Research)
 
-## <i class="fas fa-phone icon_with_text"></i>Phone
+## <i class="fas fa-phone fa-sm icon_with_text"></i>Phone
 
 {:.center}
 [(215) 573-2991](tel:+1-215-573-2991)

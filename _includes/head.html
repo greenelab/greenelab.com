@@ -13,8 +13,10 @@
   {% endfor %}
   <!-- look for page-specific css in current folder -->
   {% for file in site.static_files %}
-  {% if file.path contains page.dir and file.path contains ".css" %}
+  {% assign dir = file.path | remove: file.name %}
+  {% if dir == page.dir and file.extname == ".css" %}
   <link href="{{ site.baseurl }}{{ file.path }}" rel="stylesheet" />
   {% endif %}
   {% endfor %}
+  <link rel="preload" as="image" href="{{ site.baseurl }}/images/background-laptop-paper.jpg">
 </head>

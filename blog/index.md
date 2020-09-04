@@ -1,5 +1,6 @@
 ---
 title: Blog
+icon: fas fa-feather-alt
 redirect_from: /musings
 ---
 
@@ -10,12 +11,12 @@ redirect_from: /musings
 
 <p class="page_details">
   {% if post.author %}
-  <span class="easy_align">
-    <i class="fas fa-feather-alt icon_with_text"></i>{{ post.author }}
+  <span class="inline_flex_center">
+    <i class="fas fa-at icon_with_text"></i>{{ post.author }}
   </span>
   {% endif %}
   {% if post.date %}
-  <span class="easy_align">
+  <span class="inline_flex_center">
     <i class="far fa-calendar-alt icon_with_text"></i>{{ post.date | date: '%B %d, %Y' }}
   </span>
   {% endif %}

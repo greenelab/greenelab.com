@@ -8,7 +8,8 @@ github: greenelab
 twitter: GreeneScientist
 instagram: greenelab
 
-# make member collection output individual page for each member
+# custom collections of items
+# output = true to generate individual page for each item
 collections:
   members:
     output: true

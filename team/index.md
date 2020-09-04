@@ -1,5 +1,6 @@
 ---
 title: Team
+icon: fas fa-users
 redirect_from:
   - /lab-members
   - /alums

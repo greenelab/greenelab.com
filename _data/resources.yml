@@ -1,0 +1,80 @@
+# data file for the resources page
+# items will show up in specified order
+# in general, keep in order from newest to oldest, with legacy items at bottom
+
+- name: Featured
+  size: big
+  list:
+    - title: Adage
+      thumbnail: adage.jpg
+      url: https://adage.greenelab.com/
+      description: Adage helps you explore gene expression data and discover new insights from machine learning models. See how genes relate to each other, other genes, and how they are represented in machine learning signatures. View the activities of samples as a colored heatmap, and cluster them on the fly. Explore the genes that contribute to signatures, the experiments in which they vary the most, and the pathways they significantly overlap with.
+      repo: greenelab/adage-frontend
+
+    - title: Connectivity Search
+      thumbnail: connectivity-search.png
+      url: https://het.io/search/
+      description: Connectivity search allows you to find the most important paths connecting any two nodes in Hetionet, even when they are different types or not known to be related. If you want to investigate how the [eye and breast](https://het.io/search/?source=28127&target=6602&metapaths=AeGaD) cancer may be related, you can. Filter nodes by type, see computed significance data about paths, create graph visualizations with highlighted paths, and more.
+      repo: greenelab/connectivity-search-frontend
+
+    - title: Manubot
+      thumbnail: manubot.png
+      url: https://manubot.org/
+      description: Manubot is a workflow and set of tools for the next generation of scholarly publishing. Write your manuscript in markdown, track it with git, automatically convert it to .html, .pdf, or .docx, and deploy it to your destination of choice.
+      repo: manubot/rootstock
+
+- name: More
+  size: small
+  list:
+    - title: Intro to SVGs
+      thumbnail: https://vincerubinetti.github.io/intro-to-svgs/share-thumbnail.png
+      url: https://vincerubinetti.github.io/intro-to-svgs/
+      description: An introduction to the Scalable Vector Graphics (SVG) image format, aimed at people in academia.
+      repo: vincerubinetti/intro-to-svgs
+      type: other
+
+- name: Older
+  size: small
+  list:
+    - title: Tribe
+      thumbnail: tribe.png
+      url: https://tribe.greenelab.com/
+      description: Seamlessly mine data across bioinformatics systems. Tribe stores the findings of your research as collections of genes, also called gene sets.
+      repo: greenelab/tribe
+      tags:
+        - server
+        - database
+        - gene-sets
+
+    - title: IMP
+      thumbnail: imp.png
+      url: http://imp.princeton.edu/
+      description: IMP helps researchers identify new gene-gene and gene-process associations that are supported by existing data but currently unannotated.
+
+    - title: GIANT
+      thumbnail: giant.png
+      url: http://giant.princeton.edu/
+      description: GIANT helps researchers identify which genes are working together in specific tissues. This tissue-specific lens into human biology helps researchers study complex human diseases.
+
+    - title: Nano-dissection
+      thumbnail: nano-dissection.png
+      url: http://nano.princeton.edu/
+      description: This tool implements the in silico nano-dissection method from [Ju et al](http://genome.cshlp.org/content/early/2013/10/02/gr.155697.113). Nano-dissection allows researchers to identify genes expressed in specific tissues and cell lineages from microarray data that are not resolved to the level of the cell lineage of interest.
+
+- name: Affiliated Software Organizations
+  size: medium
+  list:
+    - title: Childhood Cancer Data Lab
+      thumbnail: ccdl.png
+      url: https://www.ccdatalab.org/projects
+      description: Turning researchers who fight childhood cancer into data wizards.
+
+    - title: Hetio
+      thumbnail: https://het.io/share-thumbnail.png
+      url: https://github.com/hetio
+      description: Hetnet-related research, tools, and datasets including Hetionet.
+
+    - title: Manubot
+      thumbnail: https://manubot.org/share-thumbnail.png
+      url: https://github.com/manubot
+      description: "The next generation of scholarly publishing: open, collaborative, reproducible, free."

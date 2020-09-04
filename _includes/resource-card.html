@@ -1,0 +1,24 @@
+<!-- resource card on resource page -->
+
+<!-- get resource object from params -->
+{% assign resource = include.resource %}
+
+<!-- thumbnail url -->
+{% if resource.thumbnail contains "://" %}
+{% assign thumbnail = resource.thumbnail %}
+{% else %}
+{% assign thumbnail = resource.thumbnail | prepend: "/images/tools/" | prepend: site.baseurl %}
+{% endif %}
+
+<div class="resource_card" data-size="{{ include.size }}">
+  <div class="resource_thumbnail thumbnail">
+    <a href="{{ resource.url }}">
+      <img src="{{ thumbnail }}" />
+    </a>
+  </div>
+  <div class="resource_info">
+    <a href="{{ resource.url }}" class="resource_title">{{ resource.title }}</a>
+    {{ resource.description | markdownify }}
+    {% include resource-tags.html tags=resource.tags repo=resource.repo %}
+  </div>
+</div>

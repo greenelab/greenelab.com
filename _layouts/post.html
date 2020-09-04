@@ -4,12 +4,12 @@ layout: default
 
 <p class="center page_details">
   {% if page.author %}
-  <span class="easy_align">
-    <i class="fas fa-feather-alt icon_with_text"></i>{{ page.author }}
+  <span class="inline_flex_center">
+    <i class="fas fa-at icon_with_text"></i>{{ page.author }}
   </span>
   {% endif %}
   {% if page.date %}
-  <span class="easy_align">
+  <span class="inline_flex_center">
     <i class="far fa-calendar-alt icon_with_text"></i>{{ page.date | date: '%B %d, %Y' }}
   </span>
   {% endif %}

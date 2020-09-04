@@ -1,24 +1,26 @@
-h1 {
+h1,
+h2,
+h3,
+h4 {
+  box-sizing: border-box;
   font-family: var(--sans);
-  font-size: 1.4rem;
+  font-size: 1rem;
   font-weight: var(--semi-bold);
+  line-height: 1.2;
   margin: 0;
-  margin-bottom: 40px;
   text-align: center;
-  line-height: 1.1;
+}
+h1 {
+  font-size: 1.4rem;
   letter-spacing: 2px;
   text-transform: uppercase;
+  margin-bottom: 40px;
 }
 h2 {
-  box-sizing: border-box;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: var(--sans);
   font-size: 1.1rem;
-  text-align: center;
-  font-weight: var(--semi-bold);
-  margin: 0;
   margin-top: 40px;
   margin-bottom: 20px;
 }
@@ -36,14 +38,16 @@ h2:after {
   margin-left: 40px;
 }
 h3 {
-  font-family: var(--sans);
-  font-size: 1rem;
-  font-weight: var(--regular);
   margin: 20px 0;
-  text-align: center;
 }
 h4 {
-  font-size: 1rem;
-  font-weight: var(--semi-bold);
+  font-weight: var(--regular);
   margin: 20px 0;
+  text-align: left;
+}
+h1 i,
+h2 i,
+h3 i,
+h4 i {
+  color: var(--gray);
 }
