@@ -10,6 +10,12 @@
       {{ content }}
     </main>
     {% include footer.html %}
+    <!-- site-wide and includes js -->
+    {% for file in site.static_files %}
+    {% if file.path contains "js/" and file.path contains ".js" %}
+    <script src="{{ site.baseurl }}{{ file.path }}"></script>
+    {% endif %}
+    {% endfor %}
     <!-- look for page-specific javascript in current folder -->
     {% for file in site.static_files %}
     {% assign dir = file.path | remove: file.name %}
