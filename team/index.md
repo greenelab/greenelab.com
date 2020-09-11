@@ -31,7 +31,6 @@ We want to push the frontier of data science and train the next generation of da
 
 {:.center}
 [<i class="fas fa-hands-helping icon_with_text"></i>Join the Team]({{ site.baseurl }}/join){:.big_link}
-[<i class="fas fa-user-friends icon_with_text"></i>Other Collaborators]({{ site.baseurl }}/collaborators){:.big_link}
 
 ## Alumni
 
