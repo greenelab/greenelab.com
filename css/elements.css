@@ -52,13 +52,16 @@ img {
 figure img {
   display: block;
   margin: 0 auto;
+  max-width: 300px;
   max-height: 300px;
 }
 figure[data-full="true"] img {
+  max-width: 100%;
   max-height: unset;
 }
 figcaption {
   margin-top: 10px;
+  margin-bottom: 0;
   font-style: italic;
   text-align: center;
 }

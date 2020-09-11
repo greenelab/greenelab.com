@@ -10,10 +10,19 @@
 {% assign thumbnail = resource.thumbnail | prepend: "/images/tools/" | prepend: site.baseurl %}
 {% endif %}
 
+<!-- default thumbnail -->
+{%- capture defaultthumbnail -%}
+{{- site.baseurl -}}/images/resource-thumbnail.svg
+{%- endcapture -%}
+
 <div class="resource_card" data-size="{{ include.size }}">
   <div class="resource_thumbnail thumbnail">
     <a href="{{ resource.url }}">
-      <img src="{{ thumbnail }}" />
+      {% if thumbnail %}
+      <img src="{{ thumbnail }}" onerror="this.src = '{{ defaultthumbnail }}'; this.onerror = null;">
+      {% else %}
+      <img src="{{ defaultthumbnail }}">
+      {% endif %}
     </a>
   </div>
   <div class="resource_info">

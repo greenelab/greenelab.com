@@ -10,7 +10,8 @@ redirect_from:
 ---
 
 Our lab is made up of a highly engaged and collaborative team of researchers.
-We recognize the value of diversity in the process of discovery, and we foster an environment where team members are treated equally and we respect and admire our differences.
+We recognize that diverse teams do better research.
+We foster an environment where team members are treated equally, and where we respect and admire our differences.
 The team includes postdocs, students at all levels, staff, and our lab mascots.
 
 <div class="team_gallery">
@@ -47,6 +48,53 @@ They have all made lasting contributions to science and to our hearts. ❤️
   {% include member-group.html role="mascot" alum=true %}
 </div>
 
+## Funding
+
+{:.center}
+Our work is made possible by funding from several organizations.
+
+{%
+  include multi-figure.html
+  image1="team/gordon-and-betty-moore-foundation.png"
+  description1="Gordon and Betty Moore Foundation"
+  url1="https://www.moore.org/"
+  image2="team/national-cancer-institute.png"
+  description2="National Cancer Institute"
+  url2="https://www.cancer.gov/"
+  image3="team/alex's-lemonade-stand-foundation-for-childhood-cancer.png"
+  description3="Alex's Lemonade Stand Foundation for Childhood Cancer"
+  url3="https://www.alexslemonade.org/"
+  height="60px"
+%}
+
+{%
+  include multi-figure.html
+  image1="team/chan-zuckerberg-initiative.png"
+  description1="Chan Zuckerberg Initiative"
+  url1="https://chanzuckerberg.com/"
+  image2="team/cystic-fibrosis-foundation.png"
+  description2="Cystic Fibrosis Foundation"
+  url2="https://www.cff.org/"
+  image3="team/alfred-p-sloan-foundation.png"
+  description3="Alfred P. Sloan Foundation"
+  url3="https://sloan.org/"
+  height="60px"
+%}
+
+{%
+  include multi-figure.html
+  image1="team/national-human-genome-research-institute.png"
+  description1="National Human Genome Research Institute"
+  url1="https://www.genome.gov/"
+  image2="team/national-heart-lung-and-blood-institute.png"
+  description2="National Heart, Lung, and Blood Institute"
+  url2="https://www.nhlbi.nih.gov/"
+  image3="team/national-institute-of-neurological-disorders-and-stroke.png"
+  description3="National Institute of Neurological Disorders and Stroke"
+  url3="https://www.ninds.nih.gov/"
+  height="60px"
+%}
+
 ---
 
-{% include figure.html url="team/group-photo-2.jpg" description="The Greene Lab in their natural Philadelphia habitat" full="true" %}
+{% include figure.html image="team/group-photo-2.jpg" description="The Greene Lab in their natural Philadelphia habitat" full="true" %}

@@ -4,7 +4,7 @@
 }
 .anchor i {
   padding: 3px;
-  color: var(--off-white);
+  color: var(--light-gray);
   transition: color var(--fast);
 }
 h2:hover .anchor i,

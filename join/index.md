@@ -1,5 +1,6 @@
 ---
 title: Join the Team
+icon: fas fa-hands-helping
 ---
 
 ## Programmers
@@ -62,4 +63,4 @@ If you are an undergraduate interested in discussing research opportunities plea
 
 ---
 
-{% include figure.html url="team/group-photo-3.jpg" full="true" %}
+{% include figure.html image="team/group-photo-3.jpg" full="true" %}

@@ -1,0 +1,15 @@
+<!-- two images side by side links -->
+<div class="multi_figure">
+  {% if include.image1 %}
+  {% include figure.html image=include.image1 url=include.url1 description=include.description1 height=include.height nocaption=true %}
+  {% endif %}
+  {% if include.image2 %}
+  {% include figure.html image=include.image2 url=include.url2 description=include.description2 height=include.height nocaption=true %}
+  {% endif %}
+  {% if include.image3 %}
+  {% include figure.html image=include.image3 url=include.url3 description=include.description3 height=include.height nocaption=true %}
+  {% endif %}
+  {% if include.image4 %}
+  {% include figure.html image=include.image4 url=include.url4 description=include.description4 height=include.height nocaption=true %}
+  {% endif %}
+</div>

@@ -1,5 +1,6 @@
 ---
 title: Collaborators
+icon: fas fa-user-friends
 ---
 
 Much of our research are made possible through ongoing strong collaborations with outstanding research groups around the world.
