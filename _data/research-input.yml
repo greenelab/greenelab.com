@@ -4,7 +4,10 @@
 # PARAMETERS:
 
 # id:
-# an identifier string that Manubot can understand and cite.
+# an identifier string that Manubot can understand and cite. if the same
+# identifier can be found in the output file, that citation data will be used
+# instead of calling Manubot again, to save time. to clear this "cache", simply
+# delete the output entry - or the whole output file - to re-fetch it.
 
 # thumbnail:
 # url to a striking image or figure from your paper, or issue cover, or journal
@@ -537,7 +540,7 @@
       url: https://github.org/greenelab/tribe-client
       text: Tribe web app
 
-- id: doi:10.1101/174474
+- id: doi:10.1142/9789813235533_0008
   thumbnail: https://www.biorxiv.org/content/biorxiv/early/2017/10/02/174474/F2.medium.gif
   links:
     - type: preprint

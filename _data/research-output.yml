@@ -4483,15 +4483,15 @@
   - type: app
     url: https://github.org/greenelab/tribe-client
     text: Tribe web app
-- title: Extracting a Biologically Relevant Latent Space from Cancer Transcriptomes
-    with Variational Autoencoders
+- title: Extracting a biologically relevant latent space from cancer transcriptomes
+    with variational autoencoders
   authors:
   - Gregory P. Way
   - Casey S. Greene
-  publisher: bioRxiv
-  date: 2017-10-2
-  url: https://doi.org/gcm44d
-  id: doi:10.1101/174474
+  publisher: World Scientific Pub Co Pte Lt
+  date: 2018-1-1
+  url: https://doi.org/gfspsd
+  id: doi:10.1142/9789813235533_0008
   thumbnail: https://www.biorxiv.org/content/biorxiv/early/2017/10/02/174474/F2.medium.gif
   links:
   - type: preprint

@@ -49,7 +49,7 @@ The citations on this page were generated automatically from just identifiers us
 
 ---
 
-{% include figure.html image="team/yoson-sketch.jpg" description="Our recent research, compressed into sketch form by YoSon Park during the 2016 [#PennGenRetreat](https://twitter.com/search?f=tweets&vertical=default&q=%23PennGenRetreat&src=typd)." %}
+{% include figure.html image="team/yoson-sketch.jpg" description="Our recent research, compressed into sketch form by YoSon Park during the 2016 [#PennGenRetreat](https://twitter.com/search?f=tweets&vertical=default&q=%23PennGenRetreat&src=typd)." full=true %}
 
 <!-- load mark.js library to highlight when searching -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>

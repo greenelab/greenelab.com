@@ -18,12 +18,12 @@ jobs:
           python-version: 3.7
       - name: Install manubot
         run: pip install --upgrade manubot
-      - name: Build updated research json file
+      - name: Build updated research output file
         run: python _data/build-research.py
-      - name: Commit new research json file
+      - name: Commit new research output file
         uses: EndBug/add-and-commit@v4
         with:
-          add: "_data/research-output.json"
+          add: "_data/research-output.yml"
           message: "update Manubot-generated citations on research page"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

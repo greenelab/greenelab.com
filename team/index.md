@@ -25,7 +25,6 @@ The team includes postdocs, students at all levels, staff, and our lab mascots.
 
 ---
 
-Our research depends upon more than just our immediate lab members.
 We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
 We want to push the frontier of data science and train the next generation of data scientists.
 
