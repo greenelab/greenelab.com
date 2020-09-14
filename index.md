@@ -18,7 +18,7 @@ In all of our research, we prioritize transparency, rigor, and reproducibility.
   include feature.html
   image="background-laptop-paper.jpg"
   url="research"
-  heading="biological data + machine learning →"
+  heading="biological data + machine learning → insight"
   text=text
 %}
 
