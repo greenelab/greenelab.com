@@ -4,7 +4,7 @@ The website source code for greenelab.com
 
 ## Guide to editing
 
-## Making changes to the site
+### Making changes to the site
 
 To make a change to the site, make a pull request from a branch or your own fork.
 Once you make the PR, [Netlify](https://app.netlify.com/sites/greenelab-website/overview) should automatically make [a preview](https://cdn.netlify.com/4d4d418736774eaea776b4ab08ee07af4a0bc5a9/c6be8/img/blog/deploy-preview-success.png) where you can see and test your changes before merging them.
@@ -35,6 +35,8 @@ Then, run `./start.sh`.
 
 ### Overview of contents
 
+Here are some important directories and files you'll want to know about.
+
 **Directories**
 
 - `/.github` - GitHub Actions config info
@@ -56,7 +58,9 @@ Then, run `./start.sh`.
 
 **Files**
 
-- `/_data/research-input.yml` - The list of publications on the "Research" page
+- `/_data/research-input.yml` - A list of just identifiers (and some sparse metadata) for publications to put on the "Research" page.
+Gets automatically processed into the corresponding output file with full citations.
+- `/_data/research-output.yml` - The generated, actual list of publications that ends up getting displayed on the "Research" page, with full citation data
 - `/_data/resources.yml` - The list of resources on the "Resources" page
 - `_config.yml` - Jekyll configuration
 - `404.md` - Default 404 page for when user navigates to page on the domain that isn't defined

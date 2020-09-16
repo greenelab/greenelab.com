@@ -49,7 +49,7 @@
       description: Convert SVG to PNG right in your browser, reliably and correctly.
       repo: vincerubinetti/svg-to-png
 
-- name: Affiliated Software Organizations
+- name: Affiliated Organizations
   size: medium
   list:
     - title: Childhood Cancer Data Lab
