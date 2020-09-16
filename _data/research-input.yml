@@ -273,10 +273,17 @@
   links:
     - type: preprint
 
-- id: doi:10.1101/833210
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/03/13/833210/F7.medium.gif
+- id: doi:10.1126/sciadv.aba2083
+  thumbnail: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
   links:
     - type: preprint
+      url: https://doi.org/10.1101/833210
+    - type: source
+      url: https://github.com/hakyimlab/phenomexcan
+  tags:
+    - TWAS
+    - PrediXcan
+    - UK Biobank
 
 - id: doi:10.1186/s40478-019-0803-6
   thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40478-019-0803-6/MediaObjects/40478_2019_803_Fig1_HTML.png

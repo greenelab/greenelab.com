@@ -1205,16 +1205,23 @@
   - Owen Melia
   - Lisa Bastarache
   - YoSon Park
+  - GTEx Consortium
   - Xiaoquan Wen
   - Hae K. Im
-  - ' '
-  publisher: bioRxiv
-  date: 2019-11-6
-  url: https://doi.org/gg334k
-  id: doi:10.1101/833210
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/03/13/833210/F7.medium.gif
+  publisher: Science Advances
+  date: 2020-9-1
+  url: https://doi.org/ghbvbf
+  id: doi:10.1126/sciadv.aba2083
+  thumbnail: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
   links:
   - type: preprint
+    url: https://doi.org/10.1101/833210
+  - type: source
+    url: https://github.com/hakyimlab/phenomexcan
+  tags:
+  - TWAS
+  - PrediXcan
+  - UK Biobank
 - title: Immune landscapes associated with different glioblastoma molecular subtypes
   authors:
   - Maria Martinez-Lage
