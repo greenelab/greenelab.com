@@ -1,3 +1,59 @@
+- title: 'SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics'
+  authors:
+  - Halie M. Rando
+  - Casey S. Greene
+  - Michael P. Robson
+  - Simina M. Boca
+  - Nils Wellhausen
+  - Ronan Lordan
+  - Christian Brueffer
+  - Sadipan Ray
+  - Lucy D\'Agostino McGowan
+  - Anthony Gitter
+  - Ronnie M. Russell
+  - Anna Ada Dattoli
+  - Ryan Velazquez
+  - John P. Barton
+  - Jeffrey M. Field
+  - Bharath Ramsundar
+  - Adam L. MacLean
+  - Alexandra J. Lee
+  - Immunology Institute of the Icahn School Medicine
+  - Fengling Hu
+  - Nafisa M. Jadavji
+  - Elizabeth Sell
+  - Jinhui Wang
+  - Diane N. Rafizadeh
+  - Ashwin N. Skelly
+  - Marouen Ben Guebila
+  - Likhitha Kolla
+  - David Manheim
+  - Soumita Ghosh
+  - Matthias Fax
+  - James Brian Byrd
+  - YoSon Park
+  - Vikas Bansal
+  - Stephen Capone
+  - John J. Dziak
+  - YuCheng Sun
+  - Yanjun Qi
+  - Lamonica Shinholster
+  - Sergey Knyazev
+  - Dimitri Perrin
+  - Serghei Mangul
+  - Shikta Das
+  - Gregory L. Szeto
+  publisher: Manubot
+  date: 2020-9-16
+  url: https://greenelab.github.io/covid19-review/
+  id: url:https://greenelab.github.io/covid19-review/
+  thumbnail: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  links:
+  - type: preprint
+  - type: manubot
+    url: https://greenelab.github.io/covid19-review/
+  tags:
+  - COVID19
 - title: 'The National COVID Cohort Collaborative (N3C): Rationale, Design, Infrastructure,
     and Deployment'
   authors:

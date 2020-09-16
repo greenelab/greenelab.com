@@ -41,6 +41,15 @@
 
 # 2020
 
+- id: url:https://greenelab.github.io/covid19-review/
+  thumbnail: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  links:
+    - type: preprint
+    - type: manubot
+      url: https://greenelab.github.io/covid19-review/
+  tags:
+    - COVID19
+
 - id: doi:10.1093/jamia/ocaa196
   thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/Issue/27/7/1/jaminfo_27_7cover.png?Expires=1602076593&Signature=PJtOE-b7zCHoq8TnOebGlkhPQHCusUttK3TTxF2sGkL~5IYtwyFSIN2GGKGxegyiMY1oRLiQAXVkXjkz4Rmp3cHgjavLWo5oVVErdHtHY3l2h1OV~zRXWi5uFYI2jnRnWMH5UI29uoF1QtboyAsivGiW3jlsmV306pArHY43RYG2dfxPqun1x8v76YlSCo87zXJBj0kbrt-gr16QnatK8LVzdVK-w5tJ4YModbKK~P1819Zy4mu-51yqXJ0LrHtzJjpuXHaDDWCZgYOfajcR7fTnHLGTeGc9fy9WQIybQlahxhZ6QaBKEHh9odGQEO10xbdmBYBlwlkStkwD5OoUDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
