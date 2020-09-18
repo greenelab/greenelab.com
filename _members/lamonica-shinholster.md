@@ -1,6 +1,10 @@
 ---
 title: Lamonica Shinholster
 image: lamonica.jpg
+search:
+  - Lamonica Shinholster
+  - Lamonica Y. Shinholster
+  - Lamonica Y Shinholster
 role: undergrad
 alum: true
 ---

@@ -1,6 +1,11 @@
 ---
 title: Halie Rando
 image: halie.jpg
+search:
+  - Halie M. Rando
+  - H.M. Rando
+  - Halie Rando
+  - Halie M Rando
 role: postdoc
 email: halie.rando@pennmedicine.upenn.edu
 google: gWtl3GwAAAAJ

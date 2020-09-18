@@ -2,37 +2,53 @@
 const searchBox = document.querySelector(".paper_search_box");
 const headings = Array.from(document.querySelectorAll(".paper_heading"));
 const resultsInfo = document.querySelector(".paper_results_info");
-const cards = Array.from(document.querySelectorAll(".paper_card"));
+const papers = Array.from(document.querySelectorAll(".paper_card"));
+
+// determine if string is a term (single word) or phrase (quoted multiple words)
+const isPhrase = (str) => /\s/g.test(str);
+
+// determine if paper should show up in results based on query
+const showPaper = (paper, query) => {
+  // if nothing searched, show
+  if (!query.length) return true;
+  // get paper card text content
+  paper = paper.innerText.toLowerCase();
+  // get arrays of terms and phrases
+  let terms = query.filter((string) => !isPhrase(string));
+  let phrases = query.filter((string) => isPhrase(string));
+  // func to check if string is in paper card text
+  const includes = (string) => paper.includes(string);
+  // show paper if all terms match, and at least one phrase matches
+  // pass test if terms or phrases empty
+  terms = terms.length ? terms.every(includes) : true;
+  phrases = phrases.length ? phrases.some(includes) : true;
+  return terms && phrases;
+};
 
 // filter papers
 const filterPapers = () => {
-  // get search box text search terms
-  const query = searchBox.value
-    .split(/\s/)
-    .map((term) => term.trim().toLowerCase())
-    .filter((term) => term);
+  // get search box text
+  const query = (searchBox.value.match(/(".*?"|[^"\s]+)(?=\s*|\s*$)/g) || [])
+    .map((string) => string.split('"').join("").trim().toLowerCase())
+    .filter((string) => string);
 
   // reset highlights
   resetHighlights();
 
-  // filter paper cards
+  // hide/show papers
   let count = 0;
-  for (const paper of cards) {
-    // hide/show paper
-    const show =
-      query.length === 0 ||
-      query.every((term) => paper.innerText.toLowerCase().includes(term));
-    paper.dataset.hide = !show;
-
-    // count if shown
-    if (show) count++;
-
-    // highlight query terms
-    if (show) highlightTerms(paper, query);
+  for (const paper of papers) {
+    if (showPaper(paper, query)) {
+      paper.dataset.hide = false;
+      // count if shown
+      count++;
+      // highlight query words
+      highlightTerms(paper, query);
+    } else paper.dataset.hide = true;
   }
 
   // if there is any filtering being done, hide headings and show result info
-  const anyFilters = query.length ? true : false;
+  const anyFilters = count < papers.length;
   headings.forEach((heading) => (heading.dataset.hide = anyFilters));
 
   // update results info
@@ -40,7 +56,7 @@ const filterPapers = () => {
     "Showing " +
     count.toLocaleString() +
     " of " +
-    cards.length.toLocaleString() +
+    papers.length.toLocaleString() +
     " papers";
 };
 
@@ -55,9 +71,14 @@ if (typeof Mark === "undefined")
 const resetHighlights = () => new Mark(document.body).unmark();
 
 // highlight search terms with mark.js
-const highlightTerms = (element, terms) => {
+const highlightTerms = (element, query) => {
   // to avoid slowdown, only highlight if more than a few letters typed in
-  for (const term of terms) if (term.length > 2) new Mark(element).mark(term);
+  for (const string of query)
+    if (string.length > 2) {
+      new Mark(element).mark(string, {
+        separateWordSearch: isPhrase(string) ? false : true,
+      });
+    }
 };
 
 // util func to debounce search box
@@ -66,15 +87,17 @@ const debounce = (func, key, delay) => () => {
   window[key] = window.setTimeout(func, delay);
 };
 
-// attach functions in this script to HTML elements
-searchBox.addEventListener("input", debounce(filterPapers, "filterPapers", 50));
-filterPapers();
-
-// popoluate search box based on url param
+// populate search box based on url param
 const updateSearch = () => {
   const query = new URLSearchParams(window.location.search).get("search") || "";
   if (!query.trim()) return;
   searchBox.value = query;
   filterPapers();
 };
+
+// attach functions in this script to HTML elements
+searchBox.addEventListener("input", debounce(filterPapers, "filterPapers", 50));
+
+// get url param and search
 updateSearch();
+filterPapers();

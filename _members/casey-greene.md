@@ -1,5 +1,11 @@
 ---
 title: Casey Greene
+search:
+  - Casey S. Greene
+  - Casey Greene
+  - Casey S Greene
+  - C.S. Greene 
+  - C. S. Greene
 image: casey.jpg
 role: pi
 website: https://greenelab.com

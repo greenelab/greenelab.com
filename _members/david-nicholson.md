@@ -1,5 +1,8 @@
 ---
 title: David Nicholson
+search:
+  - David N. Nicholson
+  - D. N. Nicholson
 image: david.jpg
 role: phd
 email: davnic@mail.med.upenn.edu
