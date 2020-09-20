@@ -5,6 +5,8 @@ role: phd
 email: benjamin.heil@pennmedicine.upenn.edu
 github: ben-heil
 twitter: autobencoder
+search:
+    - Benjamin J. Heil
 ---
 
 Ben is a PhD student in the [Genomics and Computational Biology program at Penn](http://www.med.upenn.edu/gcb/).
