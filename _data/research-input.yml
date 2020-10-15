@@ -156,9 +156,10 @@
     - machine learning
     - diversity
 
-- id: arxiv:2003.00898
+- id: doi:10.1038/s41586-020-2766-y
   links:
-    - type: preprint
+    - url: https://arxiv.org/abs/2003.00898
+      text: arXiv
 
 - id: doi:10.3390/genes11020226
   thumbnail: https://www.mdpi.com/genes/genes-11-00226/article_deploy/html/images/genes-11-00226-g001-550.jpg

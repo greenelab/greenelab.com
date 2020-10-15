@@ -743,21 +743,22 @@
   tags:
   - machine learning
   - diversity
-- title: The importance of transparency and reproducibility in artificial intelligence
-    research
+- title: Transparency and reproducibility in artificial intelligence
   authors:
   - Benjamin Haibe-Kains
   - George Alexandru Adam
   - Ahmed Hosny
   - Farnoosh Khodakarami
-  - MAQC Society Board
   - Levi Waldron
   - Bo Wang
   - Chris McIntosh
+  - Anna Goldenberg
   - Anshul Kundaje
   - Casey S. Greene
+  - Tamara Broderick
   - Michael M. Hoffman
   - Jeffrey T. Leek
+  - Keegan Korthauer
   - Wolfgang Huber
   - Alvis Brazma
   - Joelle Pineau
@@ -766,12 +767,14 @@
   - John P. A. Ioannidis
   - John Quackenbush
   - Hugo J. W. L. Aerts
-  publisher: arXiv
-  date: 2020-3-10
-  url: https://arxiv.org/abs/2003.00898
-  id: arxiv:2003.00898
+  - ' '
+  publisher: Nature
+  date: '2020-10-14'
+  url: https://doi.org/ghfq95
+  id: doi:10.1038/s41586-020-2766-y
   links:
-  - type: preprint
+  - url: https://arxiv.org/abs/2003.00898
+    text: arXiv
 - title: Integrative Analysis Identifies Candidate Tumor Microenvironment and Intracellular
     Signaling Pathways that Define Tumor Heterogeneity in NF1
   authors:
