@@ -668,18 +668,19 @@
 - title: Correcting for experiment-specific variability in expression compendia can
     remove underlying signals
   authors:
-  - Alexandra J. Lee
+  - Alexandra J Lee
   - YoSon Park
   - Georgia Doing
-  - Deborah A. Hogan
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: 2020-5-3
-  url: https://doi.org/gg7m5s
-  id: doi:10.1101/2020.05.03.066597
+  - Deborah A Hogan
+  - Casey S Greene
+  publisher: GigaScience
+  date: 2020-11-3
+  url: https://doi.org/ghhtpf
+  id: doi:10.1093/gigascience/giaa117
   thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.03.066597/F3.medium.gif
   links:
   - type: preprint
+    url: 10.1101/2020.05.03.066597
   - type: source
     url: https://github.com/greenelab/simulate-expression-compendia
     text: simulate-expression-compendia

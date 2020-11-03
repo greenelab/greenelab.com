@@ -110,10 +110,11 @@
     - url: https://arxiv.org/abs/2001.05127
       text: arXiv
 
-- id: doi:10.1101/2020.05.03.066597
+- id: doi:10.1093/gigascience/giaa117
   thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.03.066597/F3.medium.gif
   links:
     - type: preprint
+      url: 10.1101/2020.05.03.066597
     - type: source
       url: https://github.com/greenelab/simulate-expression-compendia
       text: simulate-expression-compendia
