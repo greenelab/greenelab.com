@@ -1,3 +1,15 @@
+- title: Biologically Informed Neural Networks Predict Drug Responses
+  authors:
+  - Casey S. Greene
+  - James C. Costello
+  publisher: Cancer Cell
+  date: 2020-10-1
+  url: https://doi.org/ghgd2f
+  id: doi:10.1016/j.ccell.2020.10.014
+  thumbnail: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+  - cancer
+  - machine learning
 - title: 'SARS-CoV-2 and COVID-19: An Evolving Review of Diagnostics and Therapeutics'
   authors:
   - Halie M. Rando

@@ -41,6 +41,13 @@
 
 # 2020
 
+
+- id: doi:10.1016/j.ccell.2020.10.014
+  thumbnail: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  tags:
+    - cancer
+    - machine learning
+
 - id: url:https://greenelab.github.io/covid19-review/
   thumbnail: https://greenelab.github.io/covid19-review/images/N000-overview.png
   links:
