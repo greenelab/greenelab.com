@@ -4,8 +4,8 @@ icon: fas fa-envelope
 backgroundImage: images/background-smilow.jpg
 ---
 
-Our lab is part of the [Department of Systems Pharmacology and Translational Therapeutics](https://www.med.upenn.edu/syspharmatt/) at the [Perelman School of Medicine](https://www.med.upenn.edu/) at the [University of Pennsylvania](https://www.upenn.edu/).
-We are located on the 10th Floor of the [Smilow Center for Translational Research](https://www.facilities.upenn.edu/maps/locations/smilow-center-translational-research).
+Our lab is part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) and Center for Health AI.
+We are a geographically distributed team that is headquartered on the 6th Floor of the [Anschutz Health Sciences Building](https://www.ucdenver.edu/about/departments/FacilitiesManagement/FacilitiesProjects/ActiveProjects/Pages/AnschutzHealthSciencesBldg.aspx).
 
 {% include multi-figure.html image1="perelman-logo.png" image2="smilow.jpg" %}
 
@@ -16,7 +16,7 @@ We are located on the 10th Floor of the [Smilow Center for Translational Researc
 [{{ site.email }}](mailto:{{ site.email }})  
 [{{ site.email2 }}](mailto:{{ site.email }})
 
-
+<!--
 ## <i class="fas fa-phone fa-sm"></i>Phone
 
 {:.center}
@@ -30,6 +30,7 @@ We are located on the 10th Floor of the [Smilow Center for Translational Researc
 10-131 SCTR  
 Philadelphia, PA 19104-5158  
 USA
+-->
 
 {:.center}
-[<i class="fas fa-external-link-alt fa-sm icon_with_text"></i>on Google Maps](https://www.google.com/maps/?q=Smilow+Center+for+Translational+Research)
+[<i class="fas fa-external-link-alt fa-sm icon_with_text"></i>on Google Maps](https://www.google.com/maps/place/Fitzsimons,+Aurora,+CO+80045/@39.7453375,-104.8428738,467m/data=!3m2!1e3!4b1!4m5!3m4!1s0x876c634db1dab039:0x437fc6e3d33aafef!8m2!3d39.7452864!4d-104.8417066)
