@@ -2,8 +2,11 @@
 title: Amy Campbell
 image: amy.jpg
 role: undergrad
+twitter: specific_ames
+github: amyecampbell
 alum: true
 ---
 
-Amy was an awesome analyst who worked for us for a year between graduation and starting a PhD program.
-She owes me more of a bio, but I can summarize her current position by saying that she's a PhD student in the GCB program at Penn!
+Amy worked as an analyst in the Greene Lab for a year between graduating from Oberlin College and beginning a PhD at Penn's very own [GCB Program](https://www.med.upenn.edu/gcb/).
+In Dr. Elizabeth Grice's lab, Amy now studies the genomics of *Staphylococcus aureus* in human wounds.
+In her free time, she enjoys cooking, making pottery, and [suing the state of Pennsylvania to protect mail-in & absentee ballots from being discarded unfairly](https://campaignlegal.org/update/pennsylvania-can-no-longer-reject-ballots-solely-based-signature-match-issues?fbclid=IwAR35GypcjxtNO6bB0ilqvdGWr-xEwNB20M4U4-wgq0cbf4t4sqf2WcVEvyk). 
