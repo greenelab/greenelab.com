@@ -20,7 +20,8 @@ header {
     @include inline-flex-center;
 
     .logo > * {
-      height: 50px;
+      height: 100px;
+      margin: -20px;
     }
 
     .logo_text {
