@@ -1,0 +1,9 @@
+.member_thumbnail {
+  width: 150px;
+  height: 150px;
+  border-radius: 999px;
+}
+.member_card[data-mini="true"] > .member_thumbnail {
+  width: 100px;
+  height: 100px;
+}

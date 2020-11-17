@@ -1,0 +1,20 @@
+<!-- figure with caption -->
+<figure data-full="{{ include.full }}">
+  {% if include.url %}
+  <a href="{{ include.url }}">
+    {% endif %}
+    <img
+      src="{{ site.baseurl }}/images/{{ include.image }}"
+      alt="{{ include.description }}"
+      title="{{ include.description }}"
+      style="max-height: {{ include.height }}"
+    />
+  {% if include.url %}
+  </a>
+  {% endif %}
+  {% if include.description and include.nocaption != true %}
+  <figcaption>
+    {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
+  </figcaption>
+  {% endif %}
+</figure>

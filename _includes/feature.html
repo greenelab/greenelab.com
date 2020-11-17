@@ -1,0 +1,10 @@
+<!-- feature with image and text for home page -->
+<div class="feature">
+  <a class="feature_image thumbnail" href="{{ include.url }}">
+    <img src="{{ site.baseurl }}/images/{{ include.image }}" />
+  </a>
+  <div class="feature_text">
+    <p class="feature_heading">{{ include.heading }}</p>
+    {{ include.text | markdownify }}
+  </div>
+</div>

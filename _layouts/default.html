@@ -1,0 +1,36 @@
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <main>
+      <h1>
+        {%- if page.icon -%}<i class="{{ page.icon }} fa-sm"></i>{%- endif -%}
+        {{- page.title -}}
+      </h1>
+      {{ content }}
+    </main>
+    {% include footer.html %}
+    <!-- site-wide and includes js -->
+    {% for file in site.static_files %}
+    {% if file.path contains "js/" and file.path contains ".js" %}
+    <script src="{{ site.baseurl }}{{ file.path }}"></script>
+    {% endif %}
+    {% endfor %}
+    <!-- look for page-specific javascript in current folder -->
+    {% for file in site.static_files %}
+    {% assign dir = file.path | remove: file.name %}
+    {% if dir == page.dir and file.extname == ".js" %}
+    <script src="{{ site.baseurl }}{{ file.path }}"></script>
+    {% endif %}
+    {% endfor %}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-20583020-15"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "UA-20583020-3");
+  </script>
+
+  </body>
+</html>

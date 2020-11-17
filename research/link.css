@@ -1,0 +1,24 @@
+.paper_links {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-left: -5px;
+}
+.paper_link {
+  display: inline-flex;
+  align-items: center;
+  margin: 5px 10px;
+  max-width: 100%;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 500px) {
+  .paper_links {
+    justify-content: center;
+    margin-left: 0;
+  }
+  .paper_link {
+    margin: 5px !important;
+  }
+}

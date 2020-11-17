@@ -1,0 +1,21 @@
+<!-- research paper citation link -->
+
+<!-- get icon/paper type from params -->
+{% assign type = include.type | default: "default" %}
+
+<!-- get url from params -->
+{% assign url = include.url | default: "" %}
+
+<!-- get font awesome icon -->
+{% assign icon = site.data.paper-link-types[type].icon %}
+
+<!-- get text from params -->
+{% assign text = include.text | default: site.data.paper-link-types[type].text %}
+
+<a href="{{ url }}" class="paper_link" title="{{ text }}" data-type="{{ type }}">
+  {% if type == "manubot" %}
+  {% include manubot-logo.html %}<span class="truncate">{{ text }}</span>
+  {% else %}
+  <i class="{{ icon }} fa-sm icon_with_text"></i><span class="truncate">{{ text }}</span>
+  {% endif %}  
+</a>

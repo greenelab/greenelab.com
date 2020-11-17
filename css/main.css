@@ -1,0 +1,10 @@
+main {
+  box-sizing: border-box;
+  position: relative;
+  padding: 40px;
+  padding-top: 0;
+  flex-grow: 1;
+  margin: auto;
+  width: 100%;
+  max-width: 800px;
+}

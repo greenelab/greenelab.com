@@ -1,0 +1,29 @@
+.multi_figure {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.multi_figure figure {
+  box-sizing: border-box;
+  padding: 0 20px;
+  flex-grow: 1;
+  flex-basis: 0;
+}
+.multi_figure img {
+  max-width: 100%;
+}
+.multi_figure figure:first-child img {
+  margin-left: 0;
+}
+.multi_figure figure:last-child img {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .multi_figure {
+    flex-direction: column;
+  }
+  .multi_figure > * {
+    padding: 0;
+  }
+}

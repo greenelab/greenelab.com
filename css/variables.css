@@ -1,0 +1,26 @@
+:root {
+  /* color variables */
+  --white: #ffffff;
+  --light-gray: #e8e8e8;
+  --gray: #a0a0a0;
+  --dark-gray: #404040;
+  --black: #000000;
+  --green: #009688;
+  --light-green: #00968820;
+  --red: #e91e63;
+  --blue: #00bcd4;
+  --yellow: #ffeb3b;
+  --shadow: 0 2px 5px 0 #00000040;
+
+  /* font variables */
+  --serif: "EB Garamond", serif;
+  --sans: "Montserrat", sans-serif;
+  --regular: 400;
+  --semi-bold: 500;
+  --bold: 600;
+
+  /* transition variables */
+  --fast: 0.2s ease;
+  --slow: 1s ease;
+  --gradual: 2s ease;
+}

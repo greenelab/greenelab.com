@@ -1,0 +1,13 @@
+<!-- footer section that includes social media links -->
+<footer>
+  {% include background.html %}
+  <div class="footer_links inline_flex_center">
+    {% capture contact %}
+      {{ site.baseurl }}/contact
+    {% endcapture %}
+    {% include social-link.html type="contact" value=contact large=true %}
+    {% include social-link.html type="github" value=site.github large=true %}
+    {% include social-link.html type="twitter" value=site.twitter large=true %}
+    {% include social-link.html type="instagram" value=site.instagram large=true %}
+  </div>
+</footer>

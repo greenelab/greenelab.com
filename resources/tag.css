@@ -1,0 +1,27 @@
+.resource_tags {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.resource_tag {
+  margin: 5px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: var(--light-green);
+  white-space: nowrap;
+}
+.resource_card[data-size="small"] .resource_tags {
+  justify-content: flex-start;
+  margin-left: -5px;
+}
+
+@media screen and (max-width: 500px) {
+  .resource_card[data-size="small"] .resource_tags {
+    justify-content: center;
+    margin-left: 0;
+  }
+  .resource_card[data-size="small"] .resource_tag {
+    margin: 5px !important;
+  }
+}

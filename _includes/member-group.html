@@ -1,0 +1,6 @@
+<!-- list a group of members based on role -->
+{% for member in site.members %}
+  {% if member.role contains include.role and member.alum == include.alum %}
+    {% include member-card.html member=member %}
+  {% endif %}
+{% endfor %}

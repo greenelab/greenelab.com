@@ -1,0 +1,12 @@
+.paper_thumbnail {
+  width: 120px;
+  height: 120px;
+  margin-right: 30px;
+}
+
+@media screen and (max-width: 500px) {
+  .paper_thumbnail {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}

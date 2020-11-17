@@ -1,0 +1,38 @@
+# site-wide variables
+title: The Greene Lab
+location: https://greenelab.com
+themeColor: "#009688"
+email: casey@greenelab.com
+github: greenelab
+twitter: GreeneScientist
+instagram: greenelab
+
+# custom collections of items
+# output = true to generate individual page for each item
+collections:
+  members:
+    output: true
+
+# base directory where site is hosted, eg "/somefolder" if hosted at "greenelab.com/somefolder"
+# preprend this to all links to make sure they always work right
+baseurl: ""
+
+# default front matter parameters
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# build settings
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from

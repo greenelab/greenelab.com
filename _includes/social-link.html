@@ -1,0 +1,30 @@
+<!-- social media link -->
+
+<!-- get type from params -->
+{% assign type = include.type | strip %}
+
+<!-- get value from params -->
+{% assign value = include.value | strip %}
+
+<!-- if member doesn't have this particular social media account, don't render -->
+{% if value != "" %}
+
+<!-- get icon -->
+{% assign icon = site.data.social-link-types[type].icon %}
+
+<!-- get text -->
+{% assign text = site.data.social-link-types[type].text %}
+
+<!-- get url -->
+{% assign url = site.data.social-link-types[type].url %}
+
+<a
+  href="{{ url }}{{ value }}"
+  class="social_link {% if include.large %}fa-lg{% endif %}"
+  data-tooltip="{{ text }}"
+  aria-label="{{ text }}"
+>
+  <i class="{{ icon }}"></i>
+</a>
+
+{% endif %}

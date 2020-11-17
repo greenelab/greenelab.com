@@ -1,0 +1,25 @@
+header {
+  box-sizing: border-box;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  min-height: 150px;
+  color: var(--white);
+  background: var(--dark-gray);
+  text-align: center;
+}
+header > *:not(.background) {
+  z-index: 1;
+}
+.header_spacer {
+  flex-grow: 1;
+}
+
+/* mobile styles */
+@media screen and (max-width: 800px) {
+  header {
+    flex-direction: column;
+  }
+}

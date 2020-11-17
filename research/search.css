@@ -1,0 +1,8 @@
+.paper_search_box {
+  width: 300px;
+  max-width: 100%;
+  border: solid 1px var(--black);
+}
+.paper_results_info {
+  font-style: italic;
+}
