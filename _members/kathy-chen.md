@@ -1,8 +1,8 @@
 ---
 title: Kathy Chen
-image: kathy.jpg
+image: images/team/kathy.jpg
 role: undergrad
-alum: true
+group: alum
 ---
 
 Kathy was an undergraduate at the University of Pennsylvania studying [Biochemistry](http://www.sas.upenn.edu/biochem/) and [Computer Science](http://www.cis.upenn.edu/index.php).

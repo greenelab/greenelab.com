@@ -1,8 +1,8 @@
 ---
 title: Myshkin
-image: myshkin.jpg
+image: images/team/myshkin.jpg
 role: mascot
-alum: true
+group: alum
 ---
 
 Myshkin is Greg's cat.

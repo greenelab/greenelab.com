@@ -1,10 +1,10 @@
 ---
 title: Amy Campbell
-image: amy.jpg
+image: images/team/amy.jpg
 role: undergrad
 twitter: specific_ames
 github: amyecampbell
-alum: true
+group: alum
 ---
 
 Amy worked as an analyst in the Greene Lab for a year between graduating from Oberlin College and beginning a PhD at Penn's very own [GCB Program](https://www.med.upenn.edu/gcb/).

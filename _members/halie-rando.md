@@ -1,6 +1,6 @@
 ---
 title: Halie Rando
-image: halie.jpg
+image: images/team/halie.jpg
 search:
   - Halie M. Rando
   - H.M. Rando

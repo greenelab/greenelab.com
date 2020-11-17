@@ -11,9 +11,9 @@
   - Stephanie C. Hicks
   publisher: Cold Spring Harbor Laboratory
   date: 2020-11-7
-  url: https://doi.org/ghjkzq
+  link: https://doi.org/ghjkzq
   id: doi:10.1101/2020.11.06.371963
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
   - cancer
   - single cell
@@ -23,10 +23,10 @@
   - Casey S. Greene
   - James C. Costello
   publisher: Cancer Cell
-  date: 2020-10-1
-  url: https://doi.org/ghgd2f
+  date: 2020-11-1
+  link: https://doi.org/ghgd2f
   id: doi:10.1016/j.ccell.2020.10.014
-  thumbnail: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - cancer
   - machine learning
@@ -39,10 +39,9 @@
   - Nils Wellhausen
   - Ronan Lordan
   - Christian Brueffer
-  - Sadipan Ray
+  - Sandipan Ray
   - Lucy D\'Agostino McGowan
   - Anthony Gitter
-  - Ronnie M. Russell
   - Anna Ada Dattoli
   - Ryan Velazquez
   - John P. Barton
@@ -61,42 +60,43 @@
   - Likhitha Kolla
   - David Manheim
   - Soumita Ghosh
-  - Matthias Fax
   - James Brian Byrd
   - YoSon Park
   - Vikas Bansal
   - Stephen Capone
   - John J. Dziak
-  - YuCheng Sun
+  - Yuchen Sun
   - Yanjun Qi
   - Lamonica Shinholster
+  - Temitayo Lukan
   - Sergey Knyazev
   - Dimitri Perrin
   - Serghei Mangul
   - Shikta Das
   - Gregory L. Szeto
+  - Tiago Lubiana
   publisher: Manubot
-  date: 2020-9-16
-  url: https://greenelab.github.io/covid19-review/
+  date: '2020-11-17'
+  link: https://greenelab.github.io/covid19-review/
   id: url:https://greenelab.github.io/covid19-review/
-  thumbnail: https://greenelab.github.io/covid19-review/images/N000-overview.png
-  links:
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  extra-links:
   - type: preprint
   - type: manubot
-    url: https://greenelab.github.io/covid19-review/
+    link: https://greenelab.github.io/covid19-review/
   tags:
   - COVID19
 - title: 'The National COVID Cohort Collaborative (N3C): Rationale, Design, Infrastructure,
     and Deployment'
   authors:
-  - Haendel Melissa
-  - Chute Christopher
-  - Gersing Kenneth
+  - Melissa A Haendel
+  - Christopher G Chute
+  - Kenneth Gersing
   publisher: Journal of the American Medical Informatics Association
   date: 2020-8-17
-  url: https://doi.org/gg8v28
+  link: https://doi.org/gg8v28
   id: doi:10.1093/jamia/ocaa196
-  thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/Issue/27/7/1/jaminfo_27_7cover.png?Expires=1602076593&Signature=PJtOE-b7zCHoq8TnOebGlkhPQHCusUttK3TTxF2sGkL~5IYtwyFSIN2GGKGxegyiMY1oRLiQAXVkXjkz4Rmp3cHgjavLWo5oVVErdHtHY3l2h1OV~zRXWi5uFYI2jnRnWMH5UI29uoF1QtboyAsivGiW3jlsmV306pArHY43RYG2dfxPqun1x8v76YlSCo87zXJBj0kbrt-gr16QnatK8LVzdVK-w5tJ4YModbKK~P1819Zy4mu-51yqXJ0LrHtzJjpuXHaDDWCZgYOfajcR7fTnHLGTeGc9fy9WQIybQlahxhZ6QaBKEHh9odGQEO10xbdmBYBlwlkStkwD5OoUDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/Issue/27/7/1/jaminfo_27_7cover.png?Expires=1602076593&Signature=PJtOE-b7zCHoq8TnOebGlkhPQHCusUttK3TTxF2sGkL~5IYtwyFSIN2GGKGxegyiMY1oRLiQAXVkXjkz4Rmp3cHgjavLWo5oVVErdHtHY3l2h1OV~zRXWi5uFYI2jnRnWMH5UI29uoF1QtboyAsivGiW3jlsmV306pArHY43RYG2dfxPqun1x8v76YlSCo87zXJBj0kbrt-gr16QnatK8LVzdVK-w5tJ4YModbKK~P1819Zy4mu-51yqXJ0LrHtzJjpuXHaDDWCZgYOfajcR7fTnHLGTeGc9fy9WQIybQlahxhZ6QaBKEHh9odGQEO10xbdmBYBlwlkStkwD5OoUDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   tags:
   - COVID19
 - title: Population-scale longitudinal mapping of COVID-19 symptoms, behaviour and
@@ -140,12 +140,12 @@
   - Xihong Lin
   publisher: Nature Human Behaviour
   date: 2020-8-26
-  url: https://doi.org/gg9dfq
+  link: https://doi.org/gg9dfq
   id: doi:10.1038/s41562-020-00944-2
-  thumbnail: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-020-00944-2/MediaObjects/41562_2020_944_Fig1_HTML.png
-  links:
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-020-00944-2/MediaObjects/41562_2020_944_Fig1_HTML.png
+  extra-links:
   - type: preprint
-    url: doi.org/10.1101/2020.06.09.20126813
+    link: doi.org/10.1101/2020.06.09.20126813
   tags:
   - COVID19
 - title: Responsible, practical genomic data sharing that accelerates research
@@ -157,9 +157,9 @@
   - Casey S. Greene
   publisher: Nature Reviews Genetics
   date: 2020-7-21
-  url: https://doi.org/gg7c57
+  link: https://doi.org/gg7c57
   id: doi:10.1038/s41576-020-0257-5
-  thumbnail: https://user-images.githubusercontent.com/542643/90901663-424c0080-e399-11ea-8ee1-3c4917e62317.png
+  image: https://user-images.githubusercontent.com/542643/90901663-424c0080-e399-11ea-8ee1-3c4917e62317.png
   tags:
   - open science
   - data sharing
@@ -447,9 +447,9 @@
   - N. Zeps
   publisher: Annals of Oncology
   date: 2020-9-1
-  url: https://doi.org/gg4mzh
+  link: https://doi.org/gg4mzh
   id: doi:10.1016/j.annonc.2020.05.019
-  thumbnail: https://ars.els-cdn.com/content/image/1-s2.0-S0923753420398410-gr3.jpg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0923753420398410-gr3.jpg
   tags:
   - ovarian cancer
   - genomics
@@ -510,12 +510,12 @@
   - Paul Wilmes
   publisher: Nature Medicine
   date: 2020-6-2
-  url: https://doi.org/gg7qrp
+  link: https://doi.org/gg7qrp
   id: doi:10.1038/s41591-020-0929-x
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0929-x/MediaObjects/41591_2020_929_Fig2_HTML.png?as=webp
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0929-x/MediaObjects/41591_2020_929_Fig2_HTML.png?as=webp
+  extra-links:
   - type: preprint
-    url: https://www.medrxiv.org/content/10.1101/2020.04.02.20051284v1
+    link: https://www.medrxiv.org/content/10.1101/2020.04.02.20051284v1
 - title: Development and Validation of the Gene Expression Predictor of High-grade
     Serous Ovarian Carcinoma Molecular SubTYPE (PrOTYPE)
   authors:
@@ -646,9 +646,9 @@
   - Michael S. Anglesio
   publisher: Clinical Cancer Research
   date: 2020-6-17
-  url: https://doi.org/gg7qrq
+  link: https://doi.org/gg7qrq
   id: doi:10.1158/1078-0432.CCR-20-0103
-  thumbnail: https://user-images.githubusercontent.com/542643/91751846-6e366580-eb93-11ea-854d-8f4bb210a46b.png
+  image: https://user-images.githubusercontent.com/542643/91751846-6e366580-eb93-11ea-854d-8f4bb210a46b.png
   tags:
   - ovarian cancer
   - genomics
@@ -658,12 +658,12 @@
   - Casey S Greene
   publisher: Current Opinion in Biotechnology
   date: 2020-6-1
-  url: https://doi.org/gg7m47
+  link: https://doi.org/gg7m47
   id: doi:10.1016/j.copbio.2019.12.021
-  thumbnail: https://ars.els-cdn.com/content/image/1-s2.0-S0958166919301594-gr1.jpg
-  links:
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0958166919301594-gr1.jpg
+  extra-links:
   - type: manubot
-    url: https://greenelab.github.io/biopriors-review/
+    link: https://greenelab.github.io/biopriors-review/
   - url: https://arxiv.org/abs/1910.06738
     text: arXiv
 - title: Recommendations to enhance rigor and reproducibility in biomedical research
@@ -677,12 +677,12 @@
   - Serghei Mangul
   publisher: GigaScience
   date: 2020-6-1
-  url: https://doi.org/ggzr3d
+  link: https://doi.org/ggzr3d
   id: doi:10.1093/gigascience/giaa056
-  thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/6/10.1093_gigascience_giaa056/1/m_giaa056fig1.jpeg?Expires=1600608874&Signature=vKBY0fvYvV5TcOcCtC9ad0uE~SQ8l1XLZ5nj49vTnBQcsTIeaGmNMxq3EJmLTIKoVSnN109y3rvlNKgujEyGt5NV9IRbUzT4wZqTjPdLBCC7vI2GMDidFGzp5sDOS4POZrNv1QoGXnKjPgRi9~QhkCZ8MXBHjSJo1BJYnwvAhtyLq04HM~FyGshG230kakE3XNW942i3NGPPRAeKLurk7FpaqUJvj8SHpwmpogrOOQA5p11fo7XuI1Ea5n3jjol5mkAX-gspAssWP0hWnJpO1WfFaeDbm8kWHWw68EIu8pzsMlmK9nNAJ2p59iUBIil2Y4D1eL3sJTGX4ZtY51ElPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  links:
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/6/10.1093_gigascience_giaa056/1/m_giaa056fig1.jpeg?Expires=1600608874&Signature=vKBY0fvYvV5TcOcCtC9ad0uE~SQ8l1XLZ5nj49vTnBQcsTIeaGmNMxq3EJmLTIKoVSnN109y3rvlNKgujEyGt5NV9IRbUzT4wZqTjPdLBCC7vI2GMDidFGzp5sDOS4POZrNv1QoGXnKjPgRi9~QhkCZ8MXBHjSJo1BJYnwvAhtyLq04HM~FyGshG230kakE3XNW942i3NGPPRAeKLurk7FpaqUJvj8SHpwmpogrOOQA5p11fo7XuI1Ea5n3jjol5mkAX-gspAssWP0hWnJpO1WfFaeDbm8kWHWw68EIu8pzsMlmK9nNAJ2p59iUBIil2Y4D1eL3sJTGX4ZtY51ElPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
   - type: manubot
-    url: https://mangul-lab-usc.github.io/enhancing_reproducibility/
+    link: https://mangul-lab-usc.github.io/enhancing_reproducibility/
   - url: https://arxiv.org/abs/2001.05127
     text: arXiv
 - title: Correcting for experiment-specific variability in expression compendia can
@@ -695,14 +695,14 @@
   - Casey S Greene
   publisher: GigaScience
   date: 2020-11-3
-  url: https://doi.org/ghhtpf
+  link: https://doi.org/ghhtpf
   id: doi:10.1093/gigascience/giaa117
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.03.066597/F3.medium.gif
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.03.066597/F3.medium.gif
+  extra-links:
   - type: preprint
-    url: 10.1101/2020.05.03.066597
+    link: 10.1101/2020.05.03.066597
   - type: source
-    url: https://github.com/greenelab/simulate-expression-compendia
+    link: https://github.com/greenelab/simulate-expression-compendia
     text: simulate-expression-compendia
   tags:
   - genomics
@@ -716,14 +716,14 @@
   - Elizabeth A Heller
   publisher: Nucleic Acids Research
   date: 2020-5-21
-  url: https://doi.org/gg7m5c
+  link: https://doi.org/gg7m5c
   id: doi:10.1093/nar/gkaa248
-  thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/9/10.1093_nar_gkaa248/1/m_gkaa248fig7.jpeg?Expires=1600742402&Signature=a3DVBQf6IPBTbcXdHyusihTzZrA0I9xlwQYnd7s3MxBFYW6rR9IVAPviPEDVjO9bRh1zYrF-GQvFmHqNmYwqLAU4eDGIacdoTQiGSHCRg6mwmLlFu7G47cCxHCcecTdJ-52vP029njoxuwTrvm6nl9EDagSLy4Qip66n0EB6G8qGZPENbG-oqDWyx9qLQRQDM-GrHO57VsWDF4fuZrSKpBqh6Uy8LFE3zEKejBvk56lGLmgaDba6Ym4xYsUDOxdWNqT2sFB9xKA3YUBDDZblHBVddWU-dMHI3gWsT5EIZHgNV632sOJFSX-0QdBJNcBLL3Uxh518FAnzwyAzbn85xA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  links:
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/9/10.1093_nar_gkaa248/1/m_gkaa248fig7.jpeg?Expires=1600742402&Signature=a3DVBQf6IPBTbcXdHyusihTzZrA0I9xlwQYnd7s3MxBFYW6rR9IVAPviPEDVjO9bRh1zYrF-GQvFmHqNmYwqLAU4eDGIacdoTQiGSHCRg6mwmLlFu7G47cCxHCcecTdJ-52vP029njoxuwTrvm6nl9EDagSLy4Qip66n0EB6G8qGZPENbG-oqDWyx9qLQRQDM-GrHO57VsWDF4fuZrSKpBqh6Uy8LFE3zEKejBvk56lGLmgaDba6Ym4xYsUDOxdWNqT2sFB9xKA3YUBDDZblHBVddWU-dMHI3gWsT5EIZHgNV632sOJFSX-0QdBJNcBLL3Uxh518FAnzwyAzbn85xA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/361816
+    link: https://doi.org/10.1101/361816
   - type: source
-    url: https://github.com/huqiwen0313/HM_splicing
+    link: https://github.com/huqiwen0313/HM_splicing
   tags:
   - genomics
   - machine learning
@@ -737,16 +737,16 @@
   - Casey S. Greene
   publisher: Genome Biology
   date: 2020-5-11
-  url: https://doi.org/gg2mjh
+  link: https://doi.org/gg2mjh
   id: doi:10.1186/s13059-020-02021-3
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02021-3/MediaObjects/13059_2020_2021_Fig1_HTML.png?as=webp
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02021-3/MediaObjects/13059_2020_2021_Fig1_HTML.png?as=webp
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/573782
+    link: https://doi.org/10.1101/573782
   - type: source
-    url: https://github.com/greenelab/biobombe
+    link: https://github.com/greenelab/biobombe
   - type: website
-    url: https://greenelab.github.io/BioBombe/
+    link: https://greenelab.github.io/BioBombe/
   tags:
   - machine learning
   - genomics
@@ -757,22 +757,22 @@
   - Ariel A. Hippen Anderson
   - Matthew R. Gazzara
   - Casey S. Greene
-  publisher: bioRxiv
-  date: 2020-4-14
-  url: https://doi.org/ggr64p
+  publisher: Cold Spring Harbor Laboratory
+  date: 2020-9-22
+  link: https://doi.org/ggr64p
   id: doi:10.1101/2020.04.14.927251
-  thumbnail: https://raw.githubusercontent.com/greenelab/iscb-diversity/20d21504463c0487aa844be0ff236b3a51c70fa4/figs/2020-01-31_groupings.png
-  links:
+  image: https://raw.githubusercontent.com/greenelab/iscb-diversity/20d21504463c0487aa844be0ff236b3a51c70fa4/figs/2020-01-31_groupings.png
+  extra-links:
   - type: manubot
-    url: https://greenelab.github.io/iscb-diversity-manuscript/
+    link: https://greenelab.github.io/iscb-diversity-manuscript/
   - type: source
-    url: https://github.com/greenelab/iscb-diversity
+    link: https://github.com/greenelab/iscb-diversity
     text: iscb-diversity
   - type: source
-    url: https://github.com/greenelab/wiki-nationality-estimate
+    link: https://github.com/greenelab/wiki-nationality-estimate
     text: wiki-nationality-estimate
   - type: source
-    url: https://github.com/dhimmel/pubmedpy
+    link: https://github.com/dhimmel/pubmedpy
     text: pubmedpy
   tags:
   - machine learning
@@ -804,9 +804,9 @@
   - ' '
   publisher: Nature
   date: '2020-10-14'
-  url: https://doi.org/ghfq95
+  link: https://doi.org/ghfq95
   id: doi:10.1038/s41586-020-2766-y
-  links:
+  extra-links:
   - url: https://arxiv.org/abs/2003.00898
     text: arXiv
 - title: Integrative Analysis Identifies Candidate Tumor Microenvironment and Intracellular
@@ -826,14 +826,14 @@
   - Sara JC Gosline
   publisher: Genes
   date: 2020-2-21
-  url: https://doi.org/gg4rbj
+  link: https://doi.org/gg4rbj
   id: doi:10.3390/genes11020226
-  thumbnail: https://www.mdpi.com/genes/genes-11-00226/article_deploy/html/images/genes-11-00226-g001-550.jpg
-  links:
+  image: https://www.mdpi.com/genes/genes-11-00226/article_deploy/html/images/genes-11-00226-g001-550.jpg
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/2020.01.13.904771
+    link: https://doi.org/10.1101/2020.01.13.904771
   - type: source
-    url: https://github.com/Sage-Bionetworks/NF_LandscapePaper_2019
+    link: https://github.com/Sage-Bionetworks/NF_LandscapePaper_2019
   tags:
   - machine learning
   - rare diseases
@@ -841,41 +841,41 @@
     effector genes for longitudinal pediatric bone accrual through variant-to-gene
     mapping
   authors:
-  - Diana L Cousminer
+  - Diana L. Cousminer
   - Yadav Wagley
-  - James Pippin
+  - James A. Pippin
   - Ahmed Elhakeem
-  - Gregory Way
-  - Shana McCormack
+  - Gregory P. Way
+  - Shana E. McCormack
   - Alessandra Chesi
-  - Jonathan Mitchell
-  - Joeseph Kindler
+  - Jonathan A. Mitchell
+  - Joseph M. Kindler
   - Denis Baird
   - April Hartley
-  - Laura D Howe
-  - Heidi Kalkwarf
-  - Joan Lappe
+  - Laura Howe
+  - Heidi J. Kalkwarf
+  - Joan M. Lappe
   - Sumei Lu
   - Michelle Leonard
-  - Matthew Johnson
+  - Matthew E. Johnson
   - Hakon Hakonarson
   - Vicente Gilsanz
-  - John Shepherd
-  - Sharon Oberfield
-  - Casey Greene
+  - John A. Shepherd
+  - Sharon E. Oberfield
+  - Casey S. Greene
   - Andrea Kelly
   - Deborah Lawlor
-  - Benjamin Franklin Voight
-  - Andrew Wells
-  - Babette Zemel
+  - Benjamin F. Voight
+  - Andrew D. Wells
+  - Babette S. Zemel
   - Kurt Hankenson
-  - Struan Grant
-  publisher: medRxiv
+  - Struan F. A. Grant
+  publisher: Cold Spring Harbor Laboratory
   date: 2020-2-20
-  url: https://doi.org/gg7m5r
+  link: https://doi.org/gg7m5r
   id: doi:10.1101/2020.02.17.20024133
-  thumbnail: https://user-images.githubusercontent.com/542643/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png
-  links:
+  image: https://user-images.githubusercontent.com/542643/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png
+  extra-links:
   - type: preprint
   tags:
   - genetics
@@ -903,12 +903,12 @@
   - Hakon Hakonarson
   - Tom Curran
   - Malay Haldar
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: 2020-2-13
-  url: https://doi.org/gg7m5q
+  link: https://doi.org/gg7m5q
   id: doi:10.1101/2020.02.12.945642
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/02/13/2020.02.12.945642/F1.medium.gif
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/02/13/2020.02.12.945642/F1.medium.gif
+  extra-links:
   - type: preprint
   tags:
   - genomics
@@ -921,15 +921,15 @@
   - Casey S. Greene
   publisher: bioRxiv
   date: 2020-1-31
-  url: https://doi.org/gf6qxh
+  link: https://doi.org/gf6qxh
   id: doi:10.1101/730085
-  thumbnail: https://greenelab.github.io/text_mined_hetnet_manuscript/images/figures/convolutional_neural_network/convolutional_neural_nework.png
-  links:
+  image: https://greenelab.github.io/text_mined_hetnet_manuscript/images/figures/convolutional_neural_network/convolutional_neural_nework.png
+  extra-links:
   - type: preprint
   - type: manubot
-    url: https://greenelab.github.io/text_mined_hetnet_manuscript/
+    link: https://greenelab.github.io/text_mined_hetnet_manuscript/
   - type: source
-    url: https://github.com/greenelab/snorkeling
+    link: https://github.com/greenelab/snorkeling
   tags:
   - knowledge graphs
   - open science
@@ -949,24 +949,24 @@
   - Deborah A. Hogan
   publisher: Proceedings of the National Academy of Sciences
   date: 2020-1-24
-  url: https://doi.org/gg7m49
+  link: https://doi.org/gg7m49
   id: doi:10.1073/pnas.1917576117
-  thumbnail: https://www.pnas.org/content/pnas/117/6/3167/F1.medium.gif
-  links:
+  image: https://www.pnas.org/content/pnas/117/6/3167/F1.medium.gif
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/802934
+    link: https://doi.org/10.1101/802934
 - title: Graph biased feature selection of genes is better than random for many genes
   authors:
   - Jake Crawford
   - Casey S. Greene
   publisher: bioRxiv
   date: 2020-1-21
-  url: https://doi.org/gg7m5p
+  link: https://doi.org/gg7m5p
   id: doi:10.1101/2020.01.17.910703
-  thumbnail: https://github.com/jjc2718/gene-graph-conv/raw/master/data/img/pipeline.png
-  links:
+  image: https://github.com/jjc2718/gene-graph-conv/raw/master/data/img/pipeline.png
+  extra-links:
   - type: source
-    url: https://github.com/jjc2718/gene-graph-conv
+    link: https://github.com/jjc2718/gene-graph-conv
   tags:
   - machine learning
   - genomics
@@ -976,12 +976,12 @@
   - Casey S. Greene
   publisher: Computational and Structural Biotechnology Journal
   date: 2020-6-2
-  url: https://doi.org/gg7m48
+  link: https://doi.org/gg7m48
   id: doi:10.1016/j.csbj.2020.05.017
-  thumbnail: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  links:
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  extra-links:
   - type: manubot
-    url: https://greenelab.github.io/knowledge-graph-review/
+    link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - knowledge graphs
 - title: Voices in methods development
@@ -1027,9 +1027,9 @@
   - Xiaowei Zhuang
   publisher: Nature Methods
   date: 2019-9-27
-  url: https://doi.org/gf92fq
+  link: https://doi.org/gf92fq
   id: doi:10.1038/s41592-019-0585-6
-  thumbnail: https://media.springernature.com/w200/springer-static/cover-hires/journal/41592/16/10
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41592/16/10
 - title: Discovering Pathway and Cell Type Signatures in Transcriptomic Compendia
     with Machine Learning
   authors:
@@ -1037,9 +1037,9 @@
   - Casey S. Greene
   publisher: Annual Review of Biomedical Data Science
   date: 2019-7-20
-  url: https://doi.org/ggns8p
+  link: https://doi.org/ggns8p
   id: doi:10.1146/annurev-biodatasci-072018-021348
-  thumbnail: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
+  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
 - title: Privacy-Preserving Generative Deep Neural Networks Support Clinical Data
     Sharing
   authors:
@@ -1052,14 +1052,14 @@
   - Casey S. Greene
   publisher: 'Circulation: Cardiovascular Quality and Outcomes'
   date: 2019-7-1
-  url: https://doi.org/ggbpgq
+  link: https://doi.org/ggbpgq
   id: doi:10.1161/CIRCOUTCOMES.118.005122
-  thumbnail: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
-  links:
+  image: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/159756
+    link: https://doi.org/10.1101/159756
   - type: source
-    url: https://github.com/greenelab/SPRINT_gan
+    link: https://github.com/greenelab/SPRINT_gan
 - title: Open collaborative writing with Manubot
   authors:
   - Daniel S. Himmelstein
@@ -1071,24 +1071,24 @@
   - Anthony Gitter
   publisher: PLOS Computational Biology
   date: 2019-6-24
-  url: https://doi.org/c7np
+  link: https://doi.org/c7np
   id: doi:10.1371/journal.pcbi.1007128
-  thumbnail: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  links:
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  extra-links:
   - type: manubot
-    url: https://greenelab.github.io/meta-review/
+    link: https://greenelab.github.io/meta-review/
   - type: source
-    url: https://github.com/greenelab/meta-review
+    link: https://github.com/greenelab/meta-review
   - type: website
-    url: http://manubot.org/
+    link: http://manubot.org/
 - title: Show me the models
   authors:
   - Casey S. Greene
   publisher: Nature Biotechnology
   date: 2019-5-28
-  url: https://doi.org/gg7qs3
+  link: https://doi.org/gg7qs3
   id: doi:10.1038/s41587-019-0143-x
-  thumbnail: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41587-019-0143-x/MediaObjects/41587_2019_143_Fig1_HTML.png
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41587-019-0143-x/MediaObjects/41587_2019_143_Fig1_HTML.png
 - title: 'MultiPLIER: A Transfer Learning Framework for Transcriptomics Reveals Systemic
     Features of Rare Disease'
   authors:
@@ -1101,12 +1101,12 @@
   - Casey S. Greene
   publisher: Cell Systems
   date: 2019-5-1
-  url: https://doi.org/gf75g5
+  link: https://doi.org/gf75g5
   id: doi:10.1016/j.cels.2019.04.003
-  thumbnail: https://marlin-prod.literatumonline.com/cms/attachment/4595b12d-3d00-4941-98ba-39b2cfde8c1c/fx1.jpg
-  links:
+  image: https://marlin-prod.literatumonline.com/cms/attachment/4595b12d-3d00-4941-98ba-39b2cfde8c1c/fx1.jpg
+  extra-links:
   - type: source
-    url: https://github.com/greenelab/multi-plier
+    link: https://github.com/greenelab/multi-plier
 - title: Learning and Imputation for Mass-spec Bias Reduction (LIMBR)
   authors:
   - Alexander M Crowell
@@ -1115,14 +1115,14 @@
   - Jay C Dunlap
   publisher: Bioinformatics
   date: 2019-5-1
-  url: https://doi.org/gg7qrs
+  link: https://doi.org/gg7qrs
   id: doi:10.1093/bioinformatics/bty828
-  thumbnail: https://i2.wp.com/retractionwatch.com/wp-content/uploads/2019/02/bioinformatics.png?ssl=1
-  links:
+  image: https://i2.wp.com/retractionwatch.com/wp-content/uploads/2019/02/bioinformatics.png?ssl=1
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/301242
+    link: https://doi.org/10.1101/301242
   - type: source
-    url: https://github.com/aleccrowell/LIMBR
+    link: https://github.com/aleccrowell/LIMBR
 - title: 'The Pediatric Cell Atlas: Defining the Growth Phase of Human Development
     at Single-Cell Resolution'
   authors:
@@ -1201,9 +1201,9 @@
   - Peter S. White
   publisher: Developmental Cell
   date: 2019-4-1
-  url: https://doi.org/gg3jcv
+  link: https://doi.org/gg3jcv
   id: doi:10.1016/j.devcel.2019.03.001
-  thumbnail: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
 - title: Impact of admixture and ancestry on eQTL analysis and GWAS colocalization
     in GTEx
   authors:
@@ -1228,10 +1228,10 @@
   - ' '
   publisher: bioRxiv
   date: 2019-11-9
-  url: https://doi.org/gg7m55
+  link: https://doi.org/gg7m55
   id: doi:10.1101/836825
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
+  extra-links:
   - type: preprint
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
@@ -1247,14 +1247,14 @@
   - Hae K. Im
   publisher: Science Advances
   date: 2020-9-1
-  url: https://doi.org/ghbvbf
+  link: https://doi.org/ghbvbf
   id: doi:10.1126/sciadv.aba2083
-  thumbnail: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
-  links:
+  image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/833210
+    link: https://doi.org/10.1101/833210
   - type: source
-    url: https://github.com/hakyimlab/phenomexcan
+    link: https://github.com/hakyimlab/phenomexcan
   tags:
   - TWAS
   - PrediXcan
@@ -1279,14 +1279,14 @@
   - Nadia Dahmane
   publisher: Acta Neuropathologica Communications
   date: '2019-11-29'
-  url: https://doi.org/gg7qrr
+  link: https://doi.org/gg7qrr
   id: doi:10.1186/s40478-019-0803-6
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40478-019-0803-6/MediaObjects/40478_2019_803_Fig1_HTML.png
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40478-019-0803-6/MediaObjects/40478_2019_803_Fig1_HTML.png
+  extra-links:
   - type: source
-    url: https://github.com/greenelab/gbm_immune_validation
+    link: https://github.com/greenelab/gbm_immune_validation
   - type: package
-    url: https://hub.docker.com/r/gregway/gbm_immune_validation
+    link: https://hub.docker.com/r/gregway/gbm_immune_validation
   - url: https://doi.org/10.5281/zenodo.195238
     text: Zenodo
 - title: The CAFA challenge reports improved protein function prediction and new functional
@@ -1461,12 +1461,12 @@
   - Iddo Friedberg
   publisher: Genome Biology
   date: '2019-11-19'
-  url: https://doi.org/ggnxpz
+  link: https://doi.org/ggnxpz
   id: doi:10.1186/s13059-019-1835-8
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-019-1835-8/MediaObjects/13059_2019_1835_Fig11_HTML.png
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-019-1835-8/MediaObjects/13059_2019_1835_Fig11_HTML.png
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/653105
+    link: https://doi.org/10.1101/653105
 - title: Integrated phosphoproteomics and transcriptional classifiers reveal hidden
     RAS signaling dynamics in multiple myeloma
   authors:
@@ -1482,14 +1482,14 @@
   - Arun P. Wiita
   publisher: Blood Advances
   date: '2019-11-12'
-  url: https://doi.org/gg7m56
+  link: https://doi.org/gg7m56
   id: doi:10.1182/bloodadvances.2019000303
-  thumbnail: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/3/21/10.1182_bloodadvances.2019000303/6/m_advancesadv2019000303absf1.png?Expires=1601620807&Signature=Lf8D4M4EhuKZCHx7TQ~aMJ0OVSEnzbYnXmcDkUY~stjMlEhNAAC5j2rOf~D~1W0sggQDkIAu4nOXAt6i~5Rj68RZk~rB2JupXyDs74bf2tMWDU8lqkz~~70UpGB5zp0uuYKFBbpgyWIH9wMLdm72nZFU5SkAi8MzI6YOE3opIN4ROZ~u9Zmu8LacXEVNFE4GMphBZ6sgSVc4BDH649sBlcuIU5FgoBjKDZmBOBK3SUFUxiCq24yCYA4551dKXWPtU1Otf4k1aQS8TAWNZMTOlGu9SEYI95chJi1uv-rFi~mlHNTFcNTSej9tyc2v8I4mZ7anqEj1KkVkf3v-EEVkZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  links:
+  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/3/21/10.1182_bloodadvances.2019000303/6/m_advancesadv2019000303absf1.png?Expires=1601620807&Signature=Lf8D4M4EhuKZCHx7TQ~aMJ0OVSEnzbYnXmcDkUY~stjMlEhNAAC5j2rOf~D~1W0sggQDkIAu4nOXAt6i~5Rj68RZk~rB2JupXyDs74bf2tMWDU8lqkz~~70UpGB5zp0uuYKFBbpgyWIH9wMLdm72nZFU5SkAi8MzI6YOE3opIN4ROZ~u9Zmu8LacXEVNFE4GMphBZ6sgSVc4BDH649sBlcuIU5FgoBjKDZmBOBK3SUFUxiCq24yCYA4551dKXWPtU1Otf4k1aQS8TAWNZMTOlGu9SEYI95chJi1uv-rFi~mlHNTFcNTSej9tyc2v8I4mZ7anqEj1KkVkf3v-EEVkZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/563312
+    link: https://doi.org/10.1101/563312
   - type: source
-    url: https://doi.org/10.1101/563312
+    link: https://doi.org/10.1101/563312
     text: Classifier
 - title: Genomic Profiling of Childhood Tumor Patient-Derived Xenograft Models to
     Enable Rational Clinical Trial Design
@@ -1565,23 +1565,23 @@
   - John M. Maris
   publisher: Cell Reports
   date: 2019-11-1
-  url: https://doi.org/gg596n
+  link: https://doi.org/gg596n
   id: doi:10.1016/j.celrep.2019.09.071
-  thumbnail: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ed25df6f-6a3d-4f8b-8bc0-99089088d20e/fx1.jpg
-  links:
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ed25df6f-6a3d-4f8b-8bc0-99089088d20e/fx1.jpg
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/566455
+    link: https://doi.org/10.1101/566455
   - type: data
-    url: https://figshare.com/projects/Genomic_landscape_of_childhood_cancer_patient-derived_xenograft_models/38147
+    link: https://figshare.com/projects/Genomic_landscape_of_childhood_cancer_patient-derived_xenograft_models/38147
     text: Intermediate data
   - type: source
-    url: https://figshare.com/articles/PPTC_RNAseq_and_Genomic_Alterations/7127726
+    link: https://figshare.com/articles/PPTC_RNAseq_and_Genomic_Alterations/7127726
     text: Classifier
   - type: data
-    url: https://pedcbioportal.org/study?id=pptc#summary
+    link: https://pedcbioportal.org/study?id=pptc#summary
     text: Processed data
   - type: source
-    url: https://github.com/marislab
+    link: https://github.com/marislab
 - title: "Embracing study heterogeneity for finding genetic interactions in large\u2010\
     scale research consortia"
   authors:
@@ -1596,10 +1596,10 @@
   - Yong Chen
   publisher: Genetic Epidemiology
   date: 2019-10-4
-  url: https://doi.org/gg7m46
+  link: https://doi.org/gg7m46
   id: doi:10.1002/gepi.22262
-  thumbnail: https://onlinelibrary.wiley.com/cms/asset/0182dbee-6bca-4fec-88ee-77210a49db5b/gepi22262-fig-0002-m.png
-  links:
+  image: https://onlinelibrary.wiley.com/cms/asset/0182dbee-6bca-4fec-88ee-77210a49db5b/gepi22262-fig-0002-m.png
+  extra-links:
   - url: https://www.penncil.org/software
     text: YETI2 Software
 - title: Long non-coding RNA gene regulation and trait associations across human tissues
@@ -1626,12 +1626,12 @@
   - K. Kirkegaard
   - S. B. Montgomery
   - ' '
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: 2019-10-3
-  url: https://doi.org/gg7m52
+  link: https://doi.org/gg7m52
   id: doi:10.1101/793091
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2019/10/04/793091/F2.medium.gif
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/04/793091/F2.medium.gif
+  extra-links:
   - type: preprint
 - title: The GTEx Consortium atlas of genetic regulatory effects across human tissues
   authors:
@@ -1690,10 +1690,10 @@
   - ' '
   publisher: bioRxiv
   date: 2019-10-3
-  url: https://doi.org/ggh6rz
+  link: https://doi.org/ggh6rz
   id: doi:10.1101/787903
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/787903/F1.medium.gif
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/787903/F1.medium.gif
+  extra-links:
   - type: preprint
 - title: Diverse transcriptomic signatures across human tissues identify functional
     rare genetic variation
@@ -1723,10 +1723,10 @@
   - ' '
   publisher: bioRxiv
   date: 2019-10-3
-  url: https://doi.org/gg7m5z
+  link: https://doi.org/gg7m5z
   id: doi:10.1101/786053
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
+  extra-links:
   - type: preprint
 - title: Widespread dose-dependent effects of RNA expression and splicing on complex
     diseases and traits
@@ -1761,19 +1761,19 @@
   - Hae Kyung Im
   publisher: bioRxiv
   date: '2019-10-22'
-  url: https://doi.org/gg7m54
+  link: https://doi.org/gg7m54
   id: doi:10.1101/814350
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
+  extra-links:
   - type: preprint
 - title: Technologies to watch in 2019
   authors:
   - Marissa Fessenden
   publisher: Nature
   date: 2019-1-23
-  url: https://doi.org/gftqjj
+  link: https://doi.org/gftqjj
   id: doi:10.1038/d41586-019-00218-6
-  thumbnail: https://media.nature.com/lw800/magazine-assets/d41586-019-00218-6/d41586-019-00218-6_16402666.jpg
+  image: https://media.nature.com/lw800/magazine-assets/d41586-019-00218-6/d41586-019-00218-6_16402666.jpg
 - title: "\n              New\n              \n              Long-Term Memory Genes\
     \ Revealed by Assessing Computational Function Prediction Methods\n          \
     \  "
@@ -1789,12 +1789,12 @@
   - Giovanni Bosco
   publisher: G3&amp;#58; Genes|Genomes|Genetics
   date: 2019-1-1
-  url: https://doi.org/gg7m58
+  link: https://doi.org/gg7m58
   id: doi:10.1534/g3.118.200867
-  thumbnail: https://www.g3journal.org/content/ggg/9/1/251/F2.medium.gif
-  links:
+  image: https://www.g3journal.org/content/ggg/9/1/251/F2.medium.gif
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/414565
+    link: https://doi.org/10.1101/414565
 - title: 'PathCORE-T: identifying and visualizing globally co-occurring pathways in
     large transcriptomic compendia'
   authors:
@@ -1806,23 +1806,23 @@
   - Casey S. Greene
   publisher: BioData Mining
   date: 2018-7-3
-  url: https://doi.org/gdt7f5
+  link: https://doi.org/gdt7f5
   id: doi:10.1186/s13040-018-0175-7
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-018-0175-7/MediaObjects/13040_2018_175_Fig3_HTML.png
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-018-0175-7/MediaObjects/13040_2018_175_Fig3_HTML.png
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/147645
+    link: https://doi.org/10.1101/147645
   - type: source
-    url: https://github.com/greenelab/PathCORE-T-analysis
+    link: https://github.com/greenelab/PathCORE-T-analysis
     text: Analysis
   - type: source
-    url: https://github.com/greenelab/PathCORE-T
+    link: https://github.com/greenelab/PathCORE-T
     text: Software
   - type: source
-    url: https://github.com/kathyxchen/PathCORE-T-demo
+    link: https://github.com/kathyxchen/PathCORE-T-demo
     text: Server
   - type: source
-    url: https://github.com/kathyxchen/crosstalk-correction
+    link: https://github.com/kathyxchen/crosstalk-correction
     text: Crosstalk correction
 - title: Inclusion of Unstructured Clinical Text Improves Early Prediction of Death
     or Prolonged ICU Stay*
@@ -1836,9 +1836,9 @@
   - Scott D. Halpern
   publisher: Critical Care Medicine
   date: 2018-7-1
-  url: https://doi.org/gdr5g6
+  link: https://doi.org/gdr5g6
   id: doi:10.1097/CCM.0000000000003148
-  thumbnail: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6005735/bin/nihms951452f2.jpg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6005735/bin/nihms951452f2.jpg
 - title: Metabolic pathways and immunometabolism in rare kidney diseases
   authors:
   - Peter C Grayson
@@ -1857,9 +1857,9 @@
   - Peter A Merkel
   publisher: Annals of the Rheumatic Diseases
   date: 2018-5-3
-  url: https://doi.org/gdhgh9
+  link: https://doi.org/gdhgh9
   id: doi:10.1136/annrheumdis-2017-212935
-  thumbnail: https://ard.bmj.com/sites/default/files/highwire/annrheumdis/77/8.cover-source.jpg
+  image: https://ard.bmj.com/sites/default/files/highwire/annrheumdis/77/8.cover-source.jpg
 - title: Opportunities and obstacles for deep learning in biology and medicine
   authors:
   - Travers Ching
@@ -1900,14 +1900,14 @@
   - Casey S. Greene
   publisher: Journal of The Royal Society Interface
   date: 2018-4-4
-  url: https://doi.org/gddkhn
+  link: https://doi.org/gddkhn
   id: doi:10.1098/rsif.2017.0387
-  thumbnail: https://royalsocietypublishing.org/cms/asset/1b0430b1-5a66-4523-83be-29b435eddf86/rsif20170387f01.jpg
-  links:
+  image: https://royalsocietypublishing.org/cms/asset/1b0430b1-5a66-4523-83be-29b435eddf86/rsif20170387f01.jpg
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/142760
+    link: https://doi.org/10.1101/142760
   - type: source
-    url: http://github.com/greenelab/deep-review
+    link: http://github.com/greenelab/deep-review
 - title: Genomic and Molecular Landscape of DNA Damage Repair Deficiency across The
     Cancer Genome Atlas
   authors:
@@ -2676,12 +2676,12 @@
   - Armaz Mariamidze
   publisher: Cell Reports
   date: 2018-4-1
-  url: https://doi.org/gfspsc
+  link: https://doi.org/gfspsc
   id: doi:10.1016/j.celrep.2018.03.076
-  thumbnail: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f320090c-144a-4c2a-add9-ce2283658b93/fx1.jpg
-  links:
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f320090c-144a-4c2a-add9-ce2283658b93/fx1.jpg
+  extra-links:
   - type: source
-    url: https://github.com/greenelab/pancancer/blob/master/tp53_analysis.sh
+    link: https://github.com/greenelab/pancancer/blob/master/tp53_analysis.sh
     text: Source for ML portion
 - title: Machine Learning Detects Pan-cancer Ras Pathway Activation in The Cancer
     Genome Atlas
@@ -3426,12 +3426,12 @@
   - Armaz Mariamidze
   publisher: Cell Reports
   date: 2018-4-1
-  url: https://doi.org/gfspsb
+  link: https://doi.org/gfspsb
   id: doi:10.1016/j.celrep.2018.03.046
-  thumbnail: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4c2909b3-3e15-4723-a8b2-1f94166415e6/fx1.jpg
-  links:
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4c2909b3-3e15-4723-a8b2-1f94166415e6/fx1.jpg
+  extra-links:
   - type: source
-    url: https://github.com/greenelab/pancancer/blob/master/ras_analysis.sh
+    link: https://github.com/greenelab/pancancer/blob/master/ras_analysis.sh
 - title: Oncogenic Signaling Pathways in The Cancer Genome Atlas
   authors:
   - Francisco Sanchez-Vega
@@ -4215,9 +4215,9 @@
   - Armaz Mariamidze
   publisher: Cell
   date: 2018-4-1
-  url: https://doi.org/gc7r9b
+  link: https://doi.org/gc7r9b
   id: doi:10.1016/j.cell.2018.03.035
-  thumbnail: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7bca2f8c-30f0-44cb-962a-cac5497cb225/fx1.jpg
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7bca2f8c-30f0-44cb-962a-cac5497cb225/fx1.jpg
 - title: A Multimodal Strategy Used by a Large c-di-GMP Network
   authors:
   - Kurt M. Dahlstrom
@@ -4230,12 +4230,12 @@
   - George A. O'Toole
   publisher: Journal of Bacteriology
   date: 2018-3-26
-  url: https://doi.org/gg7qrt
+  link: https://doi.org/gg7qrt
   id: doi:10.1128/JB.00703-17
-  thumbnail: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
-  links:
+  image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/198481
+    link: https://doi.org/10.1101/198481
 - title: Sci-Hub provides access to nearly all scholarly literature
   authors:
   - Daniel S Himmelstein
@@ -4247,19 +4247,19 @@
   - Casey S Greene
   publisher: eLife
   date: 2018-3-1
-  url: https://doi.org/ckcj
+  link: https://doi.org/ckcj
   id: doi:10.7554/eLife.32822
-  thumbnail: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  links:
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.7287/peerj.preprints.3100v1
+    link: https://doi.org/10.7287/peerj.preprints.3100v1
   - type: manubot
-    url: https://greenelab.github.io/scihub-manuscript/
+    link: https://greenelab.github.io/scihub-manuscript/
   - type: source
-    url: https://github.com/greenelab/scihub-manuscript
+    link: https://github.com/greenelab/scihub-manuscript
     text: Manuscript source
   - type: source
-    url: https://github.com/greenelab/scihub
+    link: https://github.com/greenelab/scihub
     text: Analyses source
 - title: A parasite's perspective on data sharing
   authors:
@@ -4267,18 +4267,18 @@
   - Casey S Greene
   publisher: GigaScience
   date: 2018-11-5
-  url: https://doi.org/gg7m5b
+  link: https://doi.org/gg7m5b
   id: doi:10.1093/gigascience/giy129
-  thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/11/10.1093_gigascience_giy129/1/m_giy129fig1.jpeg?Expires=1601648405&Signature=XSCUsfUsGfH2J7gEDa5xpcocENrfaaI-ole5zEg6u27lRJgtAr3vw1jixN5AqDtXJZjSZZc2mF1EGrUyzA~i40w6Nfc92ZuBeDuFOrDbZzk40MH~~IbNVHPDloZUXJrjRCjjIuNfh8irL1addlgeIRvfaO2GoeH~MubiyYSZPmb6aek-WhxNcaSzvgkFwMokMJ9IbfIH2WnHxLok5sa-2p0SCegIW32QksWOTx8mBCyCeuT57er8ov22e6VRjj0~iWDxEmdO0HhNSWZb1sEvnFv~FI1DxtQXCbR7JqBy02Aon5713sVzVOcDLKZ3-64IaM0htgHVzlBEYWFTHYW6rw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/11/10.1093_gigascience_giy129/1/m_giy129fig1.jpeg?Expires=1601648405&Signature=XSCUsfUsGfH2J7gEDa5xpcocENrfaaI-ole5zEg6u27lRJgtAr3vw1jixN5AqDtXJZjSZZc2mF1EGrUyzA~i40w6Nfc92ZuBeDuFOrDbZzk40MH~~IbNVHPDloZUXJrjRCjjIuNfh8irL1addlgeIRvfaO2GoeH~MubiyYSZPmb6aek-WhxNcaSzvgkFwMokMJ9IbfIH2WnHxLok5sa-2p0SCegIW32QksWOTx8mBCyCeuT57er8ov22e6VRjj0~iWDxEmdO0HhNSWZb1sEvnFv~FI1DxtQXCbR7JqBy02Aon5713sVzVOcDLKZ3-64IaM0htgHVzlBEYWFTHYW6rw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: Bayesian deep learning for single-cell analysis
   authors:
   - Gregory P. Way
   - Casey S. Greene
   publisher: Nature Methods
   date: '2018-11-30'
-  url: https://doi.org/ggjn34
+  link: https://doi.org/ggjn34
   id: doi:10.1038/s41592-018-0230-9
-  thumbnail: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-018-0230-9/MediaObjects/41592_2018_230_Fig1_HTML.png
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-018-0230-9/MediaObjects/41592_2018_230_Fig1_HTML.png
 - title: Parameter tuning is a key part of dimensionality reduction via deep variational
     autoencoders for single cell RNA transcriptomics
   authors:
@@ -4286,9 +4286,9 @@
   - Casey S. Greene
   publisher: World Scientific Pub Co Pte Lt
   date: 2018-11-1
-  url: https://doi.org/gf5pc7
+  link: https://doi.org/gf5pc7
   id: doi:10.1142/9789813279827_0033
-  thumbnail: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/11263/11263/20181129-01/11263.cover.jpg
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/11263/11263/20181129-01/11263.cover.jpg
 - title: 'Enter the Matrix: Factorization Uncovers Knowledge from Omics'
   authors:
   - "Genevieve L. Stein-O\u2019Brien"
@@ -4305,12 +4305,12 @@
   - Elana J. Fertig
   publisher: Trends in Genetics
   date: 2018-10-1
-  url: https://doi.org/gd93tk
+  link: https://doi.org/gd93tk
   id: doi:10.1016/j.tig.2018.07.003
-  thumbnail: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ea974986-ac13-4ba3-91c1-b0adba5b7ea9/gr5.jpg
-  links:
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ea974986-ac13-4ba3-91c1-b0adba5b7ea9/gr5.jpg
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/196915
+    link: https://doi.org/10.1101/196915
 - title: Advances in Text Mining and Visualization for Precision Medicine.
   authors:
   - Graciela Gonzalez-Hernandez
@@ -4320,9 +4320,9 @@
   - Hongfang Liu
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: 2018-1-1
-  url: https://www.ncbi.nlm.nih.gov/pubmed/29218914
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29218914
   id: pubmed:29218914
-  thumbnail: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/10864/10864/20171025-01/10864.cover.jpg
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/10864/10864/20171025-01/10864.cover.jpg
 - title: Functional network community detection can disaggregate and filter multiple
     underlying pathways in enrichment analyses
   authors:
@@ -4332,14 +4332,14 @@
   - Casey S Greene
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: 2018-1-1
-  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/
   id: pmc:PMC5760988
-  thumbnail: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/bin/nihms921846f2.jpg
-  links:
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/bin/nihms921846f2.jpg
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/166207
+    link: https://doi.org/10.1101/166207
   - type: source
-    url: https://github.com/greenelab/GEA_Community_Detection
+    link: https://github.com/greenelab/GEA_Community_Detection
 - title: Implicating candidate genes at GWAS signals by leveraging topologically associating
     domains
   authors:
@@ -4350,14 +4350,14 @@
   - Struan FA Grant
   publisher: European Journal of Human Genetics
   date: 2017-8-9
-  url: https://doi.org/gbq2j6
+  link: https://doi.org/gbq2j6
   id: doi:10.1038/ejhg.2017.108
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fejhg.2017.108/MediaObjects/41431_2017_Article_BFejhg2017108_Fig1_HTML.jpg
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fejhg.2017.108/MediaObjects/41431_2017_Article_BFejhg2017108_Fig1_HTML.jpg
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/087718
+    link: https://doi.org/10.1101/087718
   - type: source
-    url: https://github.com/greenelab/tad_pathways
+    link: https://github.com/greenelab/tad_pathways
 - title: Challenges and Opportunities in Studying the Epidemiology of Ovarian Cancer
     Subtypes
   authors:
@@ -4369,9 +4369,9 @@
   - Joellen M. Schildkraut
   publisher: Current Epidemiology Reports
   date: 2017-7-10
-  url: https://doi.org/gg7qrv
+  link: https://doi.org/gg7qrv
   id: doi:10.1007/s40471-017-0115-y
-  thumbnail: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40471-017-0115-y/MediaObjects/40471_2017_115_Fig1_HTML.gif
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40471-017-0115-y/MediaObjects/40471_2017_115_Fig1_HTML.gif
 - title: Unsupervised Extraction of Stable Expression Signatures from Public Compendia
     with an Ensemble of Neural Networks
   authors:
@@ -4387,21 +4387,21 @@
   - Casey S. Greene
   publisher: Cell Systems
   date: 2017-7-1
-  url: https://doi.org/gcw9f4
+  link: https://doi.org/gcw9f4
   id: doi:10.1016/j.cels.2017.06.003
-  thumbnail: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/465ca2b3-1520-4417-861c-b34d6fb47193/fx1.jpg
-  links:
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/465ca2b3-1520-4417-861c-b34d6fb47193/fx1.jpg
+  extra-links:
   - type: preprint
-    url: http://dx.doi.org/10.1101/078659
+    link: http://dx.doi.org/10.1101/078659
   - type: source
-    url: https://bitbucket.org/greenelab/eadage
+    link: https://bitbucket.org/greenelab/eadage
 - title: Data-Sharing Models
   authors: []
   publisher: New England Journal of Medicine
   date: 2017-6-8
-  url: https://doi.org/gftw32
+  link: https://doi.org/gftw32
   id: doi:10.1056/NEJMc1705477
-  thumbnail: https://fertility-media.womenandinfants.org/logo-nejm.png
+  image: https://fertility-media.womenandinfants.org/logo-nejm.png
 - title: Celebrating parasites
   authors:
   - Casey S Greene
@@ -4411,9 +4411,9 @@
   - Lawrence E Hunter
   publisher: Nature Genetics
   date: 2017-4-1
-  url: https://doi.org/gcgk8d
+  link: https://doi.org/gcgk8d
   id: doi:10.1038/ng.3830
-  thumbnail: https://media.springernature.com/w200/springer-static/cover-hires/journal/41588/49/4
+  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41588/49/4
 - title: A novel multi-network approach reveals tissue-specific cellular modulators
     of fibrosis in systemic sclerosis
   authors:
@@ -4431,26 +4431,26 @@
   - Michael L. Whitfield
   publisher: Genome Medicine
   date: 2017-3-23
-  url: https://doi.org/gfsptx
+  link: https://doi.org/gfsptx
   id: doi:10.1186/s13073-017-0417-1
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-017-0417-1/MediaObjects/13073_2017_417_Fig1_HTML.gif
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-017-0417-1/MediaObjects/13073_2017_417_Fig1_HTML.gif
+  extra-links:
   - type: preprint
-    url: http://dx.doi.org/10.1101/038950
+    link: http://dx.doi.org/10.1101/038950
 - title: Cross-Platform Normalization Enables Machine Learning Model Training On Microarray
     And RNA-Seq Data Simultaneously
   authors:
   - Jaclyn N Taroni
   - Casey S Greene
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: 2017-3-21
-  url: https://doi.org/gg7m5f
+  link: https://doi.org/gg7m5f
   id: doi:10.1101/118349
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2017/03/21/118349/F1.medium.gif
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/03/21/118349/F1.medium.gif
+  extra-links:
   - type: preprint
   - type: source
-    url: https://github.com/greenelab/RNAseq_titration_results
+    link: https://github.com/greenelab/RNAseq_titration_results
 - title: Reproducibility of computational workflows is automated using continuous
     analysis
   authors:
@@ -4458,23 +4458,23 @@
   - Casey S Greene
   publisher: Nature Biotechnology
   date: 2017-3-13
-  url: https://doi.org/f9ttx6
+  link: https://doi.org/f9ttx6
   id: doi:10.1038/nbt.3780
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnbt.3780/MediaObjects/41587_2017_Article_BFnbt3780_Fig5_ESM.jpg
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnbt.3780/MediaObjects/41587_2017_Article_BFnbt3780_Fig5_ESM.jpg
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/056473
+    link: https://doi.org/10.1101/056473
   - type: source
-    url: https://github.com/greenelab/continuous_analysis
+    link: https://github.com/greenelab/continuous_analysis
 - title: Tell me your neighbors, and I will tell you what you are
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: 2017-2-8
-  url: https://doi.org/gg7qrw
+  link: https://doi.org/gg7qrw
   id: doi:10.1126/scitranslmed.aam6058
-  thumbnail: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/9/376.cover-source.gif
-  links:
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/9/376.cover-source.gif
+  extra-links:
   - url: http://doi.org/10.1016/j.cels.2016.12.011
     text: Khurana et al.
 - title: A machine learning classifier trained on cancer transcriptomes detects NF1
@@ -4488,16 +4488,16 @@
   - Casey S. Greene
   publisher: BMC Genomics
   date: 2017-2-6
-  url: https://doi.org/gg7qr9
+  link: https://doi.org/gg7qr9
   id: doi:10.1186/s12864-017-3519-7
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/075382
+    link: https://doi.org/10.1101/075382
   - type: source
-    url: https://github.com/greenelab/nf1_inactivation
+    link: https://github.com/greenelab/nf1_inactivation
   - type: package
-    url: https://hub.docker.com/r/gregway/nf1_inactivation/
+    link: https://hub.docker.com/r/gregway/nf1_inactivation/
 - title: A Pilot Characterization of the Human Chronobiome
   authors:
   - Carsten Skarke
@@ -4519,9 +4519,9 @@
   - Garret A. FitzGerald
   publisher: Scientific Reports
   date: 2017-12-7
-  url: https://doi.org/gcqtpp
+  link: https://doi.org/gcqtpp
   id: doi:10.1038/s41598-017-17362-6
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
 - title: 'ADAGE signature analysis: differential expression analysis with data-defined
     gene sets'
   authors:
@@ -4533,19 +4533,19 @@
   - Casey S. Greene
   publisher: BMC Bioinformatics
   date: '2017-11-22'
-  url: https://doi.org/gg7m57
+  link: https://doi.org/gg7m57
   id: doi:10.1186/s12859-017-1905-4
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-017-1905-4/MediaObjects/12859_2017_1905_Fig5_HTML.gif
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-017-1905-4/MediaObjects/12859_2017_1905_Fig5_HTML.gif
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/156620
+    link: https://doi.org/10.1101/156620
   - type: package
-    url: https://github.com/greenelab/ADAGEpath
+    link: https://github.com/greenelab/ADAGEpath
     text: R package
   - type: source
-    url: https://github.com/greenelab/adage-server
+    link: https://github.com/greenelab/adage-server
   - type: app
-    url: https://adage.greenelab.com/
+    link: https://adage.greenelab.com/
     text: Updated app
 - title: Machine Learning Analysis Identifies <i>Drosophila Grunge/Atrophin</i> as
     an Important Learning and Memory Gene Required for Memory Retention and Social
@@ -4556,12 +4556,12 @@
   - Giovanni Bosco
   publisher: G3&#58; Genes|Genomes|Genetics
   date: 2017-11-1
-  url: https://doi.org/gg7qrx
+  link: https://doi.org/gg7qrx
   id: doi:10.1534/g3.117.300172
-  thumbnail: https://www.g3journal.org/content/ggg/7/11/3705/F2.medium.gif
-  links:
+  image: https://www.g3journal.org/content/ggg/7/11/3705/F2.medium.gif
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/157610
+    link: https://doi.org/10.1101/157610
 - title: 'Tribe: The collaborative platform for reproducible web-based analysis of
     gene sets'
   authors:
@@ -4570,18 +4570,18 @@
   - Alex T. Frase
   - Marylyn D. Ritchie
   - Casey S. Greene
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: 2017-10-9
-  url: https://doi.org/gg7qrn
+  link: https://doi.org/gg7qrn
   id: doi:10.1101/055913
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
+  extra-links:
   - type: preprint
   - type: server
-    url: https://github.com/greenelab/tribe
+    link: https://github.com/greenelab/tribe
     text: Tribe server
   - type: app
-    url: https://github.org/greenelab/tribe-client
+    link: https://github.org/greenelab/tribe-client
     text: Tribe web app
 - title: Extracting a biologically relevant latent space from cancer transcriptomes
     with variational autoencoders
@@ -4590,14 +4590,14 @@
   - Casey S. Greene
   publisher: World Scientific Pub Co Pte Lt
   date: 2018-1-1
-  url: https://doi.org/gfspsd
+  link: https://doi.org/gfspsd
   id: doi:10.1142/9789813235533_0008
-  thumbnail: https://www.biorxiv.org/content/biorxiv/early/2017/10/02/174474/F2.medium.gif
-  links:
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/02/174474/F2.medium.gif
+  extra-links:
   - type: preprint
-    url: https://doi.org/10.1101/174474
+    link: https://doi.org/10.1101/174474
   - type: source
-    url: https://github.com/greenelab/tybalt
+    link: https://github.com/greenelab/tybalt
 - title: Tissue-specific network-based genome wide study of amygdala imaging phenotypes
     to identify functional interaction modules
   authors:
@@ -4614,9 +4614,9 @@
   - ' '
   publisher: Bioinformatics
   date: '2017-10-15'
-  url: https://doi.org/gb4nps
+  link: https://doi.org/gb4nps
   id: doi:10.1093/bioinformatics/btx344
-  thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/33/20/10.1093_bioinformatics_btx344/5/m_btx344f3.png?Expires=1601577677&Signature=0Lb8YXeMA0JlFqxJzfyC9L97ZO6xeWRJgP8MUK5g~ULMl1~6O6bulHBPgUYjJT-eh~CRiHvt3loMSLg4BltxVyNEPcudUjXkc7jCxtNtE9gNNKiL-1skXFx~5AECSuNiNVWeK94SOyTHJD-Gl-~9~bD9AHAxqP2YapeWGDheAVJYctH3Fedcmg71wQAONSkOhGN7h6xqB-DzZ6G1omRzN-sRbSJ7stwUFW3X55judpYt4wSeFt-HW1-s4qmmRRdIjx4dV~Ek9lWxi3quf~htrYzaM4RlMfomaOxLDF7kA6dWA2EJKr~vnl3uKb1BQTIpi1CsBBn5HscriMRhosQMyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/33/20/10.1093_bioinformatics_btx344/5/m_btx344f3.png?Expires=1601577677&Signature=0Lb8YXeMA0JlFqxJzfyC9L97ZO6xeWRJgP8MUK5g~ULMl1~6O6bulHBPgUYjJT-eh~CRiHvt3loMSLg4BltxVyNEPcudUjXkc7jCxtNtE9gNNKiL-1skXFx~5AECSuNiNVWeK94SOyTHJD-Gl-~9~bD9AHAxqP2YapeWGDheAVJYctH3Fedcmg71wQAONSkOhGN7h6xqB-DzZ6G1omRzN-sRbSJ7stwUFW3X55judpYt4wSeFt-HW1-s4qmmRRdIjx4dV~Ek9lWxi3quf~htrYzaM4RlMfomaOxLDF7kA6dWA2EJKr~vnl3uKb1BQTIpi1CsBBn5HscriMRhosQMyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: NO-BOUNDARY THINKING IN BIOINFORMATICS
   authors:
   - JASON H. MOORE
@@ -4630,9 +4630,9 @@
   - XIUZHEN HUANG
   publisher: World Scientific Pub Co Pte Lt
   date: 2017-1-1
-  url: https://doi.org/gg7qr8
+  link: https://doi.org/gg7qr8
   id: doi:10.1142/9789813207813_0060
-  thumbnail: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2017/10388/10388/20161122/10388.cover.jpg
+  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2017/10388/10388/20161122/10388.cover.jpg
 - title: "Integrative Networks Illuminate Biological Factors Underlying Gene\u2013\
     Disease Associations"
   authors:
@@ -4641,12 +4641,12 @@
   - Casey S. Greene
   publisher: Current Genetic Medicine Reports
   date: 2016-9-9
-  url: https://doi.org/ggpcr7
+  link: https://doi.org/ggpcr7
   id: doi:10.1007/s40142-016-0102-5
-  thumbnail: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40142-016-0102-5/MediaObjects/40142_2016_102_Fig1_HTML.gif
-  links:
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40142-016-0102-5/MediaObjects/40142_2016_102_Fig1_HTML.gif
+  extra-links:
   - type: preprint
-    url: http://dx.doi.org/10.1101/062695
+    link: http://dx.doi.org/10.1101/062695
 - title: An expanded evaluation of protein function prediction methods shows an improvement
     in accuracy
   authors:
@@ -4799,52 +4799,52 @@
   - Predrag Radivojac
   publisher: Genome Biology
   date: 2016-9-7
-  url: https://doi.org/gg7qsc
+  link: https://doi.org/gg7qsc
   id: doi:10.1186/s13059-016-1037-6
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1037-6/MediaObjects/13059_2016_1037_Fig1_HTML.gif
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1037-6/MediaObjects/13059_2016_1037_Fig1_HTML.gif
+  extra-links:
   - type: preprint
-    url: http://arxiv.org/abs/1601.00891
+    link: http://arxiv.org/abs/1601.00891
 - title: A stromal focus reveals tumor immune signatures
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: 2016-9-28
-  url: https://doi.org/gg7qr5
+  link: https://doi.org/gg7qr5
   id: doi:10.1126/scitranslmed.aai8224
-  thumbnail: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/358.cover-source.gif
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/358.cover-source.gif
 - title: Gut check
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: 2016-8-17
-  url: https://doi.org/gg7qr4
+  link: https://doi.org/gg7qr4
   id: doi:10.1126/scitranslmed.aah5494
-  thumbnail: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/352.cover-source.gif
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/352.cover-source.gif
 - title: The future is unsupervised
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: 2016-7-6
-  url: https://doi.org/gg7qr3
+  link: https://doi.org/gg7qr3
   id: doi:10.1126/scitranslmed.aag3101
-  thumbnail: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/346.cover-source.gif
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/346.cover-source.gif
 - title: Nothing but a hound dog
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: 2016-5-25
-  url: https://doi.org/gg7qr2
+  link: https://doi.org/gg7qr2
   id: doi:10.1126/scitranslmed.aaf9196
-  thumbnail: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/340.cover-source.gif
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/340.cover-source.gif
 - title: 'CoINcIDE: All together now'
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: 2016-4-13
-  url: https://doi.org/gg7qrz
+  link: https://doi.org/gg7qrz
   id: doi:10.1126/scitranslmed.aaf6940
-  thumbnail: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/334.cover-source.gif
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/334.cover-source.gif
 - title: "Genetic Association\u2013Guided Analysis of Gene Networks for the Study\
     \ of Complex Traits"
   authors:
@@ -4852,12 +4852,12 @@
   - Daniel S. Himmelstein
   publisher: 'Circulation: Cardiovascular Genetics'
   date: 2016-4-1
-  url: https://doi.org/bffr
+  link: https://doi.org/bffr
   id: doi:10.1161/CIRCGENETICS.115.001181
-  thumbnail: https://www.ahajournals.org/cms/asset/16c0b7fc-c17d-4ed8-9c9c-bdbb46211d77/179fig01.jpg
-  links:
+  image: https://www.ahajournals.org/cms/asset/16c0b7fc-c17d-4ed8-9c9c-bdbb46211d77/179fig01.jpg
+  extra-links:
   - type: source
-    url: https://github.com/dhimmel/snplentiful
+    link: https://github.com/dhimmel/snplentiful
   - url: https://circgenetics.ahajournals.org/content/9/2/179.full
     text: Full text (free)
 - title: Genomic characterization of patient-derived xenograft models established
@@ -4888,12 +4888,12 @@
   - Kerrington D. Smith
   publisher: Oncotarget
   date: 2016-2-25
-  url: https://doi.org/gg7qsf
+  link: https://doi.org/gg7qsf
   id: doi:10.18632/oncotarget.7718
-  thumbnail: https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117357
-  links:
+  image: https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117357
+  extra-links:
   - type: source
-    url: https://bitbucket.org/greenelab/pdx-dina-manuscript-code
+    link: https://bitbucket.org/greenelab/pdx-dina-manuscript-code
 - title: ADAGE-Based Integration of Publicly Available <i>Pseudomonas aeruginosa</i>
     Gene Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions
   authors:
@@ -4903,23 +4903,23 @@
   - Casey S. Greene
   publisher: mSystems
   date: 2016-2-23
-  url: https://doi.org/gcgmbq
+  link: https://doi.org/gcgmbq
   id: doi:10.1128/mSystems.00025-15
-  thumbnail: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
-  links:
+  image: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
+  extra-links:
   - type: preprint
-    url: http://biorxiv.org/content/early/2015/11/05/030650
+    link: http://biorxiv.org/content/early/2015/11/05/030650
   - type: source
-    url: https://github.com/greenelab/adage
+    link: https://github.com/greenelab/adage
 - title: Cheap-seq
   authors:
   - C. S. Greene
   publisher: Science Translational Medicine
   date: '2016-12-21'
-  url: https://doi.org/gg7qr7
+  link: https://doi.org/gg7qr7
   id: doi:10.1126/scitranslmed.aal3701
-  thumbnail: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/370.cover-source.gif
-  links:
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/370.cover-source.gif
+  extra-links:
   - url: http://doi.org/10.1038/srep39259
     text: Tatlow et al.
 - title: Comprehensive Cross-Population Analysis of High-Grade Serous Ovarian Cancer
@@ -4936,39 +4936,39 @@
   - Jennifer A. Doherty
   publisher: G3&#58; Genes|Genomes|Genetics
   date: 2016-12-1
-  url: https://doi.org/gg7qsd
+  link: https://doi.org/gg7qsd
   id: doi:10.1534/g3.116.033514
-  thumbnail: https://www.g3journal.org/content/ggg/6/12/4097/F3.medium.gif
-  links:
+  image: https://www.g3journal.org/content/ggg/6/12/4097/F3.medium.gif
+  extra-links:
   - type: preprint
-    url: http://dx.doi.org/10.1101/030239
+    link: http://dx.doi.org/10.1101/030239
   - type: source
-    url: https://github.com/greenelab/hgsc_subtypes
+    link: https://github.com/greenelab/hgsc_subtypes
   - type: package
-    url: https://hub.docker.com/r/gregway/hgsc_subtypes/
+    link: https://hub.docker.com/r/gregway/hgsc_subtypes/
 - title: Semi-supervised learning of the electronic health record for phenotype stratification
   authors:
   - Brett K. Beaulieu-Jones
   - Casey S. Greene
   publisher: Journal of Biomedical Informatics
   date: 2016-12-1
-  url: https://doi.org/gbw7bv
+  link: https://doi.org/gbw7bv
   id: doi:10.1016/j.jbi.2016.10.007
-  thumbnail: https://ars.els-cdn.com/content/image/1-s2.0-S153204641630140X-gr5.jpg
-  links:
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S153204641630140X-gr5.jpg
+  extra-links:
   - type: preprint
-    url: http://dx.doi.org/10.1101/039800
+    link: http://dx.doi.org/10.1101/039800
   - type: source
-    url: https://github.com/greenelab/DAPS
+    link: https://github.com/greenelab/DAPS
 - title: How to know what we dont
   authors:
   - C. S. Greene
   publisher: Science Translational Medicine
   date: 2016-11-9
-  url: https://doi.org/gg7qr6
+  link: https://doi.org/gg7qr6
   id: doi:10.1126/scitranslmed.aal0067
-  thumbnail: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/364.cover-source.gif
-  links:
+  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/364.cover-source.gif
+  extra-links:
   - url: http://doi.org/10.1038/srep39259
     text: Zhou et al.
 - title: Pathway and network-based strategies to translate genetic discoveries into
@@ -4978,12 +4978,12 @@
   - Benjamin F. Voight
   publisher: Human Molecular Genetics
   date: 2016-10-1
-  url: https://doi.org/f9ppwj
+  link: https://doi.org/f9ppwj
   id: doi:10.1093/hmg/ddw160
-  thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/hmg/25/R2/10.1093_hmg_ddw160/3/m_ddw160f1p.png?Expires=1601769334&Signature=K2jmIC5xYLrHG8-37EmtkiSQ9yTClOrLyJZT5X3zp1PZg0ZLOha6z-ThS2ps~tlmzex8dLv9803lQzq-Cv-uJ3hn3rfjlyEp-kIENK4r0WdSkbSFtCItGgSfnQh5gH58vmh5MxAfw7EnMOXISQjOubndFfoiKxqfr0Cqp3Cm5UgNlW4NRCAFnEzvDzpcWoYKc-T2R~dkN1cXowMBafqvBe8~vsNnD9g473Ijryd-k5CPrW4g8~YwOhBsGlcRj64atYo4P9Kz-i-jn9JTr~UtxOUXaVcQVAQeqKXs877rLfzDjp58yWx2UeNuqGbS5oRWn~5Ljo80oIZHxIEIC-DcRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  links:
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/hmg/25/R2/10.1093_hmg_ddw160/3/m_ddw160f1p.png?Expires=1601769334&Signature=K2jmIC5xYLrHG8-37EmtkiSQ9yTClOrLyJZT5X3zp1PZg0ZLOha6z-ThS2ps~tlmzex8dLv9803lQzq-Cv-uJ3hn3rfjlyEp-kIENK4r0WdSkbSFtCItGgSfnQh5gH58vmh5MxAfw7EnMOXISQjOubndFfoiKxqfr0Cqp3Cm5UgNlW4NRCAFnEzvDzpcWoYKc-T2R~dkN1cXowMBafqvBe8~vsNnD9g473Ijryd-k5CPrW4g8~YwOhBsGlcRj64atYo4P9Kz-i-jn9JTr~UtxOUXaVcQVAQeqKXs877rLfzDjp58yWx2UeNuqGbS5oRWn~5Ljo80oIZHxIEIC-DcRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  extra-links:
   - type: preprint
-    url: http://biorxiv.org/content/early/2016/05/03/051524
+    link: http://biorxiv.org/content/early/2016/05/03/051524
 - title: Cross-platform normalization of microarray and RNA-seq data for machine learning
     applications
   authors:
@@ -4992,17 +4992,17 @@
   - Casey S. Greene
   publisher: PeerJ
   date: 2016-1-21
-  url: https://doi.org/gg7qsg
+  link: https://doi.org/gg7qsg
   id: doi:10.7717/peerj.1621
-  thumbnail: https://dfzljdn9uc3pi.cloudfront.net/2016/1621/1/fig-3-2x.jpg
-  links:
+  image: https://dfzljdn9uc3pi.cloudfront.net/2016/1621/1/fig-3-2x.jpg
+  extra-links:
   - type: preprint
-    url: https://peerj.com/preprints/1460/
+    link: https://peerj.com/preprints/1460/
   - type: package
-    url: https://github.com/greenelab/TDM
+    link: https://github.com/greenelab/TDM
     text: R package
   - type: source
-    url: https://github.com/greenelab/TDMresults
+    link: https://github.com/greenelab/TDMresults
 - title: "Network-based analysis of genetic variants associated with hippocampal volume\
     \ in Alzheimer\u2019s disease: a study of ADNI cohorts"
   authors:
@@ -5016,12 +5016,12 @@
   - Casey S. Greene
   publisher: BioData Mining
   date: 2016-1-19
-  url: https://doi.org/gg7qsb
+  link: https://doi.org/gg7qsb
   id: doi:10.1186/s13040-016-0082-8
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-016-0082-8/MediaObjects/13040_2016_82_Fig2_HTML.gif?as=webp
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-016-0082-8/MediaObjects/13040_2016_82_Fig2_HTML.gif?as=webp
+  extra-links:
   - type: source
-    url: https://github.com/greenelab/adni-netwas
+    link: https://github.com/greenelab/adni-netwas
 - title: COMPUTATIONAL APPROACHES TO STUDY MICROBES AND MICROBIOMES
   authors:
   - Casey S Greene
@@ -5031,10 +5031,10 @@
   - Yana Bromberg
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: 2016-1-1
-  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/
   id: pmc:PMC4832978
-  thumbnail: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/bin/nihms774628f1.jpg
-  links:
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/bin/nihms774628f1.jpg
+  extra-links:
   - url: http://psb.stanford.edu/psb-online/proceedings/psb16/greene.pdf
     text: PDF
 - title: Adapting bioinformatics curricula for big data
@@ -5045,9 +5045,9 @@
   - Jason H. Moore
   publisher: Briefings in Bioinformatics
   date: 2016-1-1
-  url: https://doi.org/f78jms
+  link: https://doi.org/f78jms
   id: doi:10.1093/bib/bbv018
-  thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1602101879&Signature=IYi5bePZ81JyUSLBS1QBu5PYoNpQKT8wIvgSvye7q3cWTS7s7DtN0UK8RO-CS0HsdkgSzPb-84yOEqESiyEO2ItquI0dBSt039MK0eeIBypBMvyT6N-qVc56IqO7JZczrKZLmNKs1LKUo3cWVuXijFTDhKI5BIDVkY8nVP8~-QOrMyEjxZ9SEYgvztC4nLUPyYijRyzzIa6O0pkSSfxnK3yAV53S3QLyJlXErjzIcHkUB8xnlfHF5CptEwhAmfbVRvhG3RVjzPpgkk35HroLcHH~j5SlJM88F5nIlOcwSF6eSbrK1RksXMq1ccT6aO4Fkjmb~-j2VJ2AnCrl51h5Jg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1602101879&Signature=IYi5bePZ81JyUSLBS1QBu5PYoNpQKT8wIvgSvye7q3cWTS7s7DtN0UK8RO-CS0HsdkgSzPb-84yOEqESiyEO2ItquI0dBSt039MK0eeIBypBMvyT6N-qVc56IqO7JZczrKZLmNKs1LKUo3cWVuXijFTDhKI5BIDVkY8nVP8~-QOrMyEjxZ9SEYgvztC4nLUPyYijRyzzIa6O0pkSSfxnK3yAV53S3QLyJlXErjzIcHkUB8xnlfHF5CptEwhAmfbVRvhG3RVjzPpgkk35HroLcHH~j5SlJM88F5nIlOcwSF6eSbrK1RksXMq1ccT6aO4Fkjmb~-j2VJ2AnCrl51h5Jg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: Recent Advances and Emerging Applications in Text and Data Mining for Biomedical
     Discovery
   authors:
@@ -5058,9 +5058,9 @@
   - Casey S. Greene
   publisher: Briefings in Bioinformatics
   date: 2016-1-1
-  url: https://doi.org/f78v8s
+  link: https://doi.org/f78v8s
   id: doi:10.1093/bib/bbv087
-  thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: International genome-wide meta-analysis identifies new primary biliary cirrhosis
     risk loci and targetable pathogenic pathways
   authors:
@@ -5092,9 +5092,9 @@
   - ' '
   publisher: Nature Communications
   date: 2015-9-22
-  url: https://doi.org/gg7qsh
+  link: https://doi.org/gg7qsh
   id: doi:10.1038/ncomms9019
-  thumbnail: https://sharma.me.uh.edu/wp-content/uploads/2014/03/nature-communications.png
+  image: https://sharma.me.uh.edu/wp-content/uploads/2014/03/nature-communications.png
 - title: Testing multiple hypotheses through IMP weighted FDR based on a genetic functional
     network with application to a new zebrafish transcriptome study
   authors:
@@ -5106,9 +5106,9 @@
   - Carol Kim
   publisher: BioData Mining
   date: 2015-6-17
-  url: https://doi.org/gb5fp5
+  link: https://doi.org/gb5fp5
   id: doi:10.1186/s13040-015-0050-8
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-015-0050-8/MediaObjects/13040_2015_50_Fig1_HTML.gif
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-015-0050-8/MediaObjects/13040_2015_50_Fig1_HTML.gif
 - title: Understanding multicellular function and disease with human tissue-specific
     networks
   authors:
@@ -5129,18 +5129,18 @@
   - Olga G Troyanskaya
   publisher: Nature Genetics
   date: 2015-4-27
-  url: https://doi.org/f7dvkv
+  link: https://doi.org/f7dvkv
   id: doi:10.1038/ng.3259
-  thumbnail: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fng.3259/MediaObjects/41588_2015_Article_BFng3259_Fig2_HTML.jpg
-  links:
+  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fng.3259/MediaObjects/41588_2015_Article_BFng3259_Fig2_HTML.jpg
+  extra-links:
   - type: data
-    url: http://giant.princeton.edu/download/
+    link: http://giant.princeton.edu/download/
     text: Processed networks
   - type: data
-    url: http://giant.princeton.edu/static/networks_dab/
+    link: http://giant.princeton.edu/static/networks_dab/
     text: Raw networks
   - type: app
-    url: http://giant.princeton.edu/
+    link: http://giant.princeton.edu/
 - title: Identification of shared and unique susceptibility pathways among cancers
     of the lung, breast, and prostate from genome-wide association studies and tissue-specific
     protein interactions
@@ -5170,9 +5170,9 @@
   - Christopher I. Amos
   publisher: Human Molecular Genetics
   date: '2015-12-20'
-  url: https://doi.org/f77xg8
+  link: https://doi.org/f77xg8
   id: doi:10.1093/hmg/ddv440
-  thumbnail: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664175/bin/ddv44001.jpg
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664175/bin/ddv44001.jpg
 - title: Leveraging global gene expression patterns to predict expression of unmeasured
     genes
   authors:
@@ -5184,12 +5184,12 @@
   - Jennifer A. Doherty
   publisher: BMC Genomics
   date: '2015-12-15'
-  url: https://doi.org/gb3hpw
+  link: https://doi.org/gb3hpw
   id: doi:10.1186/s12864-015-2250-5
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-015-2250-5/MediaObjects/12864_2015_2250_Fig3_HTML.gif
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-015-2250-5/MediaObjects/12864_2015_2250_Fig3_HTML.gif
+  extra-links:
   - type: source
-    url: https://github.com/greenelab/greedy-geneset-selection
+    link: https://github.com/greenelab/greedy-geneset-selection
 - title: Systems Level Analysis of Systemic Sclerosis Shows a Network of Immune and
     Profibrotic Pathways Connected with Genetic Polymorphisms
   authors:
@@ -5203,9 +5203,9 @@
   - Michael L. Whitfield
   publisher: PLoS Computational Biology
   date: 2015-1-8
-  url: https://doi.org/gg7qsj
+  link: https://doi.org/gg7qsj
   id: doi:10.1371/journal.pcbi.1004005
-  thumbnail: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1004005.g006
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1004005.g006
 - title: Targeted exploration and analysis of large cross-platform human transcriptomic
     compendia
   authors:
@@ -5224,12 +5224,12 @@
   - Olga G Troyanskaya
   publisher: Nature Methods
   date: 2015-1-12
-  url: https://doi.org/ggfb5t
+  link: https://doi.org/ggfb5t
   id: doi:10.1038/nmeth.3249
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnmeth.3249/MediaObjects/41592_2015_Article_BFnmeth3249_Fig5_ESM.jpg
-  links:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnmeth.3249/MediaObjects/41592_2015_Article_BFnmeth3249_Fig5_ESM.jpg
+  extra-links:
   - type: app
-    url: http://seek.princeton.edu/
+    link: http://seek.princeton.edu/
 - title: Unsupervised feature construction and knowledge extraction from genome-wide
     assays of breast cancer with denoising autoencoders
   authors:
@@ -5239,12 +5239,12 @@
   - Casey S Greene
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: 2015-1-1
-  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/
   id: pmc:PMC4299935
-  thumbnail: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/bin/nihms-642080-f0001.jpg
-  links:
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/bin/nihms-642080-f0001.jpg
+  extra-links:
   - type: source
-    url: http://discovery.dartmouth.edu/~cgreene/da-psb2015/
+    link: http://discovery.dartmouth.edu/~cgreene/da-psb2015/
 - title: "Computational genetics analysis of grey matter density in Alzheimer\u2019\
     s disease"
   authors:
@@ -5259,9 +5259,9 @@
   - ' '
   publisher: BioData Mining
   date: 2014-8-22
-  url: https://doi.org/gb5fnc
+  link: https://doi.org/gb5fnc
   id: doi:10.1186/1756-0381-7-17
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1756-0381-7-17/MediaObjects/13040_2014_Article_115_Fig1_HTML.jpg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1756-0381-7-17/MediaObjects/13040_2014_Article_115_Fig1_HTML.jpg
 - title: Big Data Bioinformatics
   authors:
   - Casey S. Greene
@@ -5271,9 +5271,9 @@
   - Chao Cheng
   publisher: Journal of Cellular Physiology
   date: 2014-12-1
-  url: https://doi.org/gg7qsk
+  link: https://doi.org/gg7qsk
   id: doi:10.1002/jcp.24662
-  thumbnail: https://onlinelibrary.wiley.com/cms/asset/d463a6c3-1a39-4c6b-91f9-43046991a462/jcp.v229.12.cover.jpg
+  image: https://onlinelibrary.wiley.com/cms/asset/d463a6c3-1a39-4c6b-91f9-43046991a462/jcp.v229.12.cover.jpg
 - title: Predicting targeted drug combinations based on Pareto optimal patterns of
     coexpression network connectivity
   authors:
@@ -5282,9 +5282,9 @@
   - Jason H Moore
   publisher: Genome Medicine
   date: 2014-1-1
-  url: https://doi.org/gg7qsm
+  link: https://doi.org/gg7qsm
   id: doi:10.1186/gm550
-  thumbnail: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgm550/MediaObjects/13073_2013_Article_556_Fig4_HTML.jpg
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgm550/MediaObjects/13073_2013_Article_556_Fig4_HTML.jpg
 - title: Functional Knowledge Transfer for High-accuracy Prediction of Under-studied
     Biological Processes
   authors:
@@ -5298,9 +5298,9 @@
   - Olga G. Troyanskaya
   publisher: PLoS Computational Biology
   date: 2013-3-14
-  url: https://doi.org/f4qtp9
+  link: https://doi.org/f4qtp9
   id: doi:10.1371/journal.pcbi.1002957
-  thumbnail: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1002957.g001
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1002957.g001
 - title: Defining cell-type specificity at the transcriptional level in human disease
   authors:
   - Wenjun Ju
@@ -5320,10 +5320,10 @@
   - Matthias Kretzler
   publisher: Genome Research
   date: 2013-11-1
-  url: https://doi.org/f5g4hm
+  link: https://doi.org/f5g4hm
   id: doi:10.1101/gr.155697.113
-  thumbnail: https://genome.cshlp.org/content/23/11/1862/F2.large.jpg
-  links:
+  image: https://genome.cshlp.org/content/23/11/1862/F2.large.jpg
+  extra-links:
   - url: http://www.nature.com/nrg/journal/v14/n10/full/nrg3580.html
     text: Highlighted by Nature Reviews Genetics
 - title: Time-Point Specific Weighting Improves Coexpression Networks from Time-Course
@@ -5335,18 +5335,18 @@
   - Casey S. Greene
   publisher: Lecture Notes in Computer Science
   date: 2013-1-1
-  url: https://doi.org/gg7qsn
+  link: https://doi.org/gg7qsn
   id: doi:10.1007/978-3-642-37189-9_2
-  thumbnail: https://media.springernature.com/w306/springer-static/cover/book/978-3-642-37189-9.jpg
+  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-642-37189-9.jpg
 - title: Accurate evaluation and analysis of functional genomics data and methods
   authors:
   - Casey S. Greene
   - Olga G. Troyanskaya
   publisher: Annals of the New York Academy of Sciences
   date: 2012-7-1
-  url: https://doi.org/fxwvwd
+  link: https://doi.org/fxwvwd
   id: doi:10.1111/j.1749-6632.2011.06383.x
-  thumbnail: https://nyaspubs.onlinelibrary.wiley.com/cms/asset/14e45db3-4d64-4d0c-9cf6-73172d45242f/nyas.2012.1260.issue-1.cover.gif
+  image: https://nyaspubs.onlinelibrary.wiley.com/cms/asset/14e45db3-4d64-4d0c-9cf6-73172d45242f/nyas.2012.1260.issue-1.cover.gif
 - title: 'IMP: a multi-species functional genomics portal for integration, visualization
     and prediction of protein functions and networks'
   authors:
@@ -5358,15 +5358,15 @@
   - Olga G. Troyanskaya
   publisher: Nucleic Acids Research
   date: 2012-7-1
-  url: https://doi.org/gg7qsq
+  link: https://doi.org/gg7qsq
   id: doi:10.1093/nar/gks458
-  thumbnail: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/Issue/40/W1/1/m_cover.gif?Expires=1601999470&Signature=Q2NOjEoX0jcl9eWLTHkXNaCRT2TNG3fWyJCMInmS2TIOqI5F0IvesRQm4Whc6JC~wzeR9Tjy25OxhJkIYEDBSYu9v4MVrA34r5POVBDcw2zCnNP-3G7CNaFar8g9N5AjzuxsC93tWtq7XUSd3NV4fC5BoyblYb9OYXVUfLIvy-GIYp4D6-wdgs1SyqaDcDrANy~VpQJdNn4Hs0wMLMfd1zcPFvbK-~DFEZ6joshnHYHRbECR7is7a-~-JYqeSqDS2~ZH2cwYO3heAgicnuC0sFltn7DJb8CLTLnpiaHs6yFpyHuKv-XOnVh7zcX~rFnvJEgFmDlUNDEHYAuvsFzwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/Issue/40/W1/1/m_cover.gif?Expires=1601999470&Signature=Q2NOjEoX0jcl9eWLTHkXNaCRT2TNG3fWyJCMInmS2TIOqI5F0IvesRQm4Whc6JC~wzeR9Tjy25OxhJkIYEDBSYu9v4MVrA34r5POVBDcw2zCnNP-3G7CNaFar8g9N5AjzuxsC93tWtq7XUSd3NV4fC5BoyblYb9OYXVUfLIvy-GIYp4D6-wdgs1SyqaDcDrANy~VpQJdNn4Hs0wMLMfd1zcPFvbK-~DFEZ6joshnHYHRbECR7is7a-~-JYqeSqDS2~ZH2cwYO3heAgicnuC0sFltn7DJb8CLTLnpiaHs6yFpyHuKv-XOnVh7zcX~rFnvJEgFmDlUNDEHYAuvsFzwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - title: 'Chapter 2: Data-Driven View of Disease Biology'
   authors:
   - Casey S. Greene
   - Olga G. Troyanskaya
   publisher: PLoS Computational Biology
   date: '2012-12-27'
-  url: https://doi.org/f4hnd3
+  link: https://doi.org/f4hnd3
   id: doi:10.1371/journal.pcbi.1002816
-  thumbnail: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1002816.g004
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1002816.g004

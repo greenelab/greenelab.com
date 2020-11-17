@@ -1,8 +1,8 @@
 ---
 title: Sophie
-image: sophie.jpg
+image: images/team/sophie.jpg
 role: mascot
-alum: true
+group: alum
 ---
 
 Sophie is a bichon-poodle-shih tzu mix.

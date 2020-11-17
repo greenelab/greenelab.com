@@ -1,13 +1,12 @@
-<!-- footer section that includes social media links -->
 <footer>
-  {% include background.html %}
-  <div class="footer_links inline_flex_center">
-    {% capture contact %}
-      {{ site.baseurl }}/contact
-    {% endcapture %}
-    {% include social-link.html type="contact" value=contact large=true %}
-    {% include social-link.html type="github" value=site.github large=true %}
-    {% include social-link.html type="twitter" value=site.twitter large=true %}
-    {% include social-link.html type="instagram" value=site.instagram large=true %}
+  <div class="footer_row">
+    {%- include social-link.html type="contact" large=true -%}
+    {%- include social-link.html type="github" large=true -%}
+    {%- include social-link.html type="twitter" large=true -%}
+    {%- include social-link.html type="instagram" large=true -%}
+    {%- comment -%}
+    {%- include social-link.html type="rss" large=true -%}
+    {%- endcomment -%}
   </div>
+  <!-- &copy; <script>document.write(new Date().getFullYear())</script> {{ site.title }} -->
 </footer>

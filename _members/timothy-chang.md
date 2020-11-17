@@ -1,8 +1,8 @@
 ---
 title: Timothy Chang
-image: timothy.jpg
+image: images/team/timothy.jpg
 role: undergrad
-alum: true
+group: alum
 ---
 
 Timothy was an undergraduate at the University of Pennsylvania who studied Biochemistry, Finance, and Operations and Information Management.

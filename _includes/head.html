@@ -1,22 +1,12 @@
-<!-- invisible head component for specifying metadata and including CSS -->
 <head>
-  <title>{{ site.title }} - {{ page.title }}</title>
+  <title>
+    {{ site.title }}{% if page.title %} - {% endif %}{{ page.title }}
+  </title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+
   {% include meta.html %}
   {% include icons.html %}
   {% include fonts.html %}
-  <!-- site-wide and includes css -->
-  {% for file in site.static_files %}
-  {% if file.path contains "css/" and file.path contains ".css" %}
-  <link href="{{ site.baseurl }}{{ file.path }}" rel="stylesheet" />
-  {% endif %}
-  {% endfor %}
-  <!-- look for page-specific css in current folder -->
-  {% for file in site.static_files %}
-  {% assign dir = file.path | remove: file.name %}
-  {% if dir == page.dir and file.extname == ".css" %}
-  <link href="{{ site.baseurl }}{{ file.path }}" rel="stylesheet" />
-  {% endif %}
-  {% endfor %}
-  <link rel="preload" as="image" href="{{ site.baseurl }}/images/background-laptop-paper.jpg">
+  {% include styles.html %}
+  {% include scripts.html %}
 </head>

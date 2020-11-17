@@ -3,7 +3,7 @@ title: David Nicholson
 search:
   - David N. Nicholson
   - D. N. Nicholson
-image: david.jpg
+image: images/team/david.jpg
 role: phd
 email: davnic@mail.med.upenn.edu
 github: danich1

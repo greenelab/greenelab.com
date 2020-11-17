@@ -1,4 +1,4 @@
-# a script to build the full bibliography of papers for the research page
+# a script to automatically generate citations for papers the research list component
 
 # before running:
 # install python                    https://www.python.org/downloads/
@@ -65,10 +65,10 @@ for index, input_paper in enumerate(input_papers, start=1):
         new_paper["publisher"] = citation.get("container-title", citation.get("publisher", citation.get("collection-title", "")))
         # output_ date
         date_parts = citation.get("issued").get("date-parts")[0]
-        date_parts += (3 - len(date_parts)) * [1] # default month and day to 0
+        date_parts += (3 - len(date_parts)) * [1] # default month and day to 1
         new_paper["date"] = "-".join([str(part) for part in date_parts])
-        # output_ url
-        new_paper["url"] = citation.get("URL", "")
+        # output_ link
+        new_paper["link"] = citation.get("URL", "")
         # add to list
         new_papers.append(new_paper)
 

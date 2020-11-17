@@ -1,9 +1,9 @@
 ---
 title: Brett Beaulieu-Jones
-image: brett.jpg
+image: images/team/brett.jpg
 role: phd
 website: http://wymsee.com/
-alum: true
+group: alum
 ---
 
 Brett graduated in 2011 with a B.S. in Computer Science from Boston College.

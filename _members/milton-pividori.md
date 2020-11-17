@@ -1,6 +1,6 @@
 ---
 title: Milton Pividori
-image: milton.jpg
+image: images/team/milton.jpg
 role: postdoc
 email: miltondp@gmail.com
 google: servJtkAAAAJ

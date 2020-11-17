@@ -1,9 +1,9 @@
 ---
 title: Qiwen Hu
-image: qiwen.jpg
+image: images/team/qiwen.jpg
 role: postdoc
 website: https://dbmi.hms.harvard.edu/people/qiwen-hu
-alum: true
+group: alum
 ---
 
 Qiwen was Postdoctoral Researcher at the University of Pennsylvania Perelman School of Medicine.

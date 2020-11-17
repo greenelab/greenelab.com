@@ -1,6 +1,6 @@
 ---
 title: Jake Crawford
-image: jake.jpg
+image: images/team/jake.jpg
 role: phd
 website: http://jjc2718.github.io/
 email: jjc2718@gmail.com

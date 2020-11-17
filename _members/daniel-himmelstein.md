@@ -1,8 +1,8 @@
 ---
 title: Daniel Himmelstein
-image: daniel.jpg
+image: images/team/daniel.jpg
 role: postdoc
-alum: true
+group: alum
 website: https://dhimmel.com/
 email: daniel.himmelstein@gmail.com
 google: x9OwD9oAAAAJ

@@ -1,8 +1,8 @@
 ---
 title: Roshan Ravishankar
-image: roshan.jpg
+image: images/team/roshan.jpg
 role: undergrad
-alum: true
+group: alum
 ---
 
 Roshan was a senior in the [Life Sciences and Management program](http://lsm.upenn.edu/) at Penn studying mathematical biology and statistics.

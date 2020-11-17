@@ -1,9 +1,9 @@
 ---
 title: Kurt Wheeler
-image: kurt.jpg
+image: images/team/kurt.jpg
 role: programmer
 github: kurtwheeler
-alum: true
+group: alum
 ---
 
 Kurt graduated from Drexel University in 2014 with a B.S. in Computer Science.

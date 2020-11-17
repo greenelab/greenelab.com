@@ -1,8 +1,8 @@
 ---
 title: Doodle
-image: doodle.jpg
+image: images/team/doodle.jpg
 role: mascot
-alum: true
+group: alum
 ---
 
 Doodle is Jie's toy poodle. Despite weighting less than 10lbs, he is an accomplished high jumper and routinely reaches altitudes of three feet while leaping.

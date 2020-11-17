@@ -1,9 +1,9 @@
 ---
 title: Michael Zietz
-image: michael.jpg
+image: images/team/michael.jpg
 role: undergrad
 github: zietzm
-alum: true
+group: alum
 ---
 
 Michael was an undergraduate at Penn who worked in the Greene Lab.

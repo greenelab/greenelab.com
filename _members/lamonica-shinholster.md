@@ -1,12 +1,12 @@
 ---
 title: Lamonica Shinholster
-image: lamonica.jpg
+image: images/team/lamonica.jpg
 search:
   - Lamonica Shinholster
   - Lamonica Y. Shinholster
   - Lamonica Y Shinholster
 role: undergrad
-alum: true
+group: alum
 ---
 
 Lamonica is a senior majoring in biology with a minor in chemistry at [Mercer University](https://www.mercer.edu/).

@@ -1,6 +1,7 @@
 ---
 title: "Infant in arms: Some thoughts from a father traveling solo with an infant"
 author: Casey Greene
+member-page: casey-greene
 redirect_from: /musings/2019/1/29/infant-in-arms-some-thoughts-from-a-father-traveling-solo-with-an-infant
 ---
 
@@ -15,7 +16,11 @@ What works for us is that I will take the baby with me when I travel for trips w
 In our daughter’s first six months, I traveled roughly 25,000 miles with her via air, car, and Amtrak.
 Here I’m compiling some observations from my travel that may be informative or helpful to others.
 
-{% include figure.html image="blog/ada-2.jpg" description="Visiting the Broad Institute on the first solo trip I took with our daughter, which we did via Amtrak." %}
+{%
+  include figure.html
+  image="images/blog/ada-2.jpg"
+  caption="Visiting the Broad Institute on the first solo trip I took with our daughter, which we did via Amtrak."
+%}
 
 ## Travel Supplies
 
@@ -24,7 +29,11 @@ I received an [Aer Travel Pack 2](https://www.aersf.com/travel-pack-2-black/) as
 It was fine for that, but it makes a great travel diaper bag.
 The features that I have found most important are that 1) electronics get stored in a separate, padded compartment; 2) the separate “shoe compartment” can be used for soiled clothes (or diapers if you haven’t found a place to dispose of them) wrapped in a plastic bag; 3) it opens like a clamshell, so you can access different contents easily: I store diapers and wipes at the bottom, a couple changes of clothes above that, and then bottles, formula, and toys at the top; and 4) it fits under the seats of nearly all aircraft (there are a few aircraft types that have very narrow underseat storage for the aisle seat where it won’t fit).
 
-{% include figure.html image="blog/ada-3.jpg" description="Napping on the Boppy pillow." %}
+{%
+  include figure.html
+  image="images/blog/ada-3.jpg"
+  caption="Napping on the Boppy pillow."
+%}
 
 **Have a support for the baby on your lap.**
 I’ve had good success with a [Boppy pillow](https://www.boppy.com/nursing-pillows/).
@@ -32,7 +41,11 @@ These things look like a huge neck pillow for the waist.
 I’ve found this helps with feeding, but it also gives our baby something to sleep on during the flight.
 For me, it reduces the discomfort from having her on my lap for long stretches.
 
-{% include figure.html image="blog/ada-4.jpg" description="Everything’s a toy! This cup was a big hit with me in Houston." %}
+{%
+  include figure.html
+  image="images/blog/ada-4.jpg"
+  caption="Everything’s a toy! This cup was a big hit with me in Houston."
+%}
 
 **Bring a few toys, but find a bunch more.**
 Our baby’s philosophy seems to be that an object is just a toy she hasn’t figured out how to have fun with yet.
@@ -40,7 +53,10 @@ Travel leads to lots of new objects.
 We’ve had fun with snack mix bags, plastic cups, spoons, and many other items.
 I’ve had good luck bringing a few toys and planning to find more along the way.
 
-{% include figure.html image="blog/ada-5.jpg" description="Car seat, stroller, Boppy in the walking-through-the-airport configuration." %}
+{%
+  include figure.html image="images/blog/ada-5.jpg"
+  caption="Car seat, stroller, Boppy in the walking-through-the-airport configuration."
+%}
 
 **My travel go-to items for baby moving are an Ergobaby carrier, travel stroller, and car seat.**
 I like a travel stroller that the car seat gets attached to via a strap that goes where the seat belt would be.
@@ -80,14 +96,21 @@ When I traveled alone, I preferred the direct flight.
 I’ve found that when traveling with a baby, the opportunity to disembark, walk around a little bit, feed and change the baby in a less cramped space, and then continue to the destination is far more compatible with the happiness of me and our baby.
 As a side benefit, these flights are often a bit cheaper than direct ones.
 
-{% include figure.html image="blog/ada-6.jpg" description="Snack mix bags crinkle, and wow that is fun!" %}
+{%
+  include figure.html
+  image="images/blog/ada-6.jpg"
+  caption="Snack mix bags crinkle, and wow that is fun!"
+%}
 
 **Airline club membership is helpful when traveling with an infant.**
 In 2017, I flew enough that I had complimentary access to Delta’s Sky Clubs in 2018.
 The ability to take my stuff and baby in, set the stuff down, get a bite of food and some water, eat, feed the baby, change the baby, and get to the next flight made all of this far more pleasant.
 
-{% include figure.html image="blog/ada-7.jpg" description="Skyclub membership was helpful.
-This one in SLC let us put our stuff down and recharge mid-itinerary." %}
+{%
+  include figure.html
+  image="images/blog/ada-7.jpg"
+  caption="Skyclub membership was helpful. This one in SLC let us put our stuff down and recharge mid-itinerary." 
+%}
 
 **Certain aircraft do not have changing tables in the restrooms.**
 Delta flies a number of older aircraft (MD-88s, MD-90s, and 717s) and they use them heavily for flights to Philadelphia.
@@ -100,7 +123,11 @@ It’s something you get ok at.
 I highly recommend traveling with the baby in either kimono-style onesies or zippy jamz pajamas.
 Anything that goes over the head is bad news for a standing blowout change.
 
-{% include figure.html image="blog/ada-8.jpg" description="Even as our daughter has grown, the Boppy pillow remains a favorite in the air." %}
+{%
+  include figure.html
+  image="images/blog/ada-8.jpg"
+  caption="Even as our daughter has grown, the Boppy pillow remains a favorite in the air."
+%}
 
 **Ask for more cabin comfort.**
 The time that this most comes to mind for me was an early morning flight out of Houston’s Hobby Airport.
@@ -141,7 +168,11 @@ Then I just had to walk to a store to buy formula before the meeting the next da
 I also want to give a shout out to the folks from [Northwestern Mutual’s HQ](https://www.northwesternmutual.com/) in Milwaukee.
 They hosted [ALSF’s Young Investigator Summit](https://www.alexslemonade.org/young-investigator-summit) and made traveling with the baby a breeze.
 
-{% include figure.html image="blog/ada-9.jpg" description="Speaker dinner for the Keck Center Research Conference." %}
+{%
+  include figure.html
+  image="images/blog/ada-9.jpg"
+  caption="Speaker dinner for the Keck Center Research Conference."
+%}
 
 **Traveling with an infant may cost you some opportunities.**
 I was invited to give talks both during a symposium and for the community in my area of expertise at the [University of Oslo](https://www.uio.no/english/) that would have involved weekend travel.
@@ -150,7 +181,11 @@ The advice that I’ve gotten from folks on social media who traveled to work-re
 If it’s an opportunity you can’t afford to miss, it sounds like this is still the way to go in 2018.
 However, if missing the event wouldn’t be hugely costly, I’ve found other places to be helpful and willing to ask the hotel for a crib when they make the reservation.
 
-{% include figure.html image="blog/ada-10.jpg" description="Our daughter spending lunch with me at PSB." %}
+{%
+  include figure.html
+  image="images/blog/ada-10.jpg"
+  caption="Our daughter spending lunch with me at PSB."
+%}
 
 **Certain conferences and meetings also have very restrictive policies on children, so before you go it’s probably good to see where your society falls.**
 I mentioned to a colleague that I would be at the [American Association for Cancer Research (AACR)](https://www.aacr.org/MEETINGS/PAGES/GENERAL-INFORMATION-AND-FREQUENTLY-ASKED-QUESTIONS___F7E4E4.ASPX#code) meeting with our daughter, and they mentioned that they had seen a scientist barred from the meeting because they were with a child.
@@ -173,4 +208,8 @@ In one case, a flight attendant walked my daughter up and down the aisle of the 
 Even fellow passengers seemed less irritated by a fussy infant with me: in all of this travel I can only think of one dirty look that I got from a fellow passenger while I was traveling alone with my daughter.
 When you travel, offer assistance and understanding to women who need it as well.
 
-{% include figure.html image="blog/ada-1.jpg" full="true" %}
+{%
+  include figure.html
+  image="images/blog/ada-1.jpg"
+  width="100%"
+%}

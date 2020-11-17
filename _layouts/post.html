@@ -1,18 +1,30 @@
 ---
+# inherits from default layout and builds on top of it
+# this file's contents get inserted into default.html's content
 layout: default
 ---
 
-<p class="center page_details">
-  {% if page.author %}
-  <span class="inline_flex_center">
-    <i class="fas fa-at icon_with_text"></i>{{ page.author }}
-  </span>
-  {% endif %}
-  {% if page.date %}
-  <span class="inline_flex_center">
-    <i class="far fa-calendar-alt icon_with_text"></i>{{ page.date | date: '%B %d, %Y' }}
-  </span>
-  {% endif %}
-</p>
+<h1>{{ page.title }}</h1>
+
+{% capture html %}
+{% include post-info.html post=page %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
+
+{% capture html %}
+{% include tags.html tags=page.tags %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
 
 {{ content }}
+
+<section>
+{% include post-nav.html post=page %}
+
+{% comment %}
+Put comment service plugin code here. If a plugin requires a unique page
+identifier, just use "{{ page.url | absolute_url }}", with the quotes.
+{% endcomment %}
+</section>

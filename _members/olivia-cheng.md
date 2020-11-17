@@ -1,10 +1,10 @@
 ---
 title: Olivia Cheng
-image: olivia.jpg
+image: images/team/olivia.jpg
 role: undergrad
 email: ocheng1@sas.upenn.edu
 github: ocheng1
-alum: true
+group: alum
 ---
 
 Olivia is a junior at Penn majoring in Mathematics and minoring in Computer Science.

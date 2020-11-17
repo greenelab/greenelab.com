@@ -1,9 +1,9 @@
 ---
 title: Yoson Park
-image: yoson.jpg
+image: images/team/yoson.jpg
 role: postdoc
 github: ypar
-alum: true
+group: alum
 ---
 
 YoSon joined the Greene Lab as a Postdoctoral Researcher in 2018.

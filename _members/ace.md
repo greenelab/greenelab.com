@@ -1,6 +1,6 @@
 ---
 title: Ace
-image: ace.jpg
+image: images/team/ace.jpg
 role: mascot
 ---
 

@@ -1,21 +1,63 @@
-<!-- research paper citation link -->
+{%- assign icon = "fas fa-external-link-alt" -%}
+{%- assign text = "Link" -%}
 
-<!-- get icon/paper type from params -->
-{% assign type = include.type | default: "default" %}
+{%- if include.type == "journal" -%}
+{%- assign icon = "far fa-newspaper" -%}
+{%- assign text = include.text | default: "Journal" -%}
+{%- endif -%}
 
-<!-- get url from params -->
-{% assign url = include.url | default: "" %}
+{%- if include.type == "preprint" -%}
+{%- assign icon = "far fa-eye" -%}
+{%- assign text = include.text | default: "Preprint" -%}
+{%- endif -%}
 
-<!-- get font awesome icon -->
-{% assign icon = site.data.paper-link-types[type].icon %}
+{%- if include.type == "manubot" -%}
+{%- assign text = include.text | default: "Manubot" -%}
+{%- endif -%}
 
-<!-- get text from params -->
-{% assign text = include.text | default: site.data.paper-link-types[type].text %}
+{%- if include.type == "source" -%}
+{%- assign icon = "fas fa-code" -%}
+{%- assign text = include.text | default: "Source" -%}
+{%- endif -%}
 
-<a href="{{ url }}" class="paper_link" title="{{ text }}" data-type="{{ type }}">
-  {% if type == "manubot" %}
-  {% include manubot-logo.html %}<span class="truncate">{{ text }}</span>
-  {% else %}
-  <i class="{{ icon }} fa-sm icon_with_text"></i><span class="truncate">{{ text }}</span>
-  {% endif %}  
+{%- if include.type == "server" -%}
+{%- assign icon = "fas fa-server" -%}
+{%- assign text = include.text | default: "Server" -%}
+{%- endif -%}
+
+{%- if include.type == "app" -%}
+{%- assign icon = "fas fa-hand-pointer" -%}
+{%- assign text = include.text | default: "App" -%}
+{%- endif -%}
+
+{%- if include.type == "data" -%}
+{%- assign icon = "fas fa-database" -%}
+{%- assign text = include.text | default: "Data" -%}
+{%- endif -%}
+
+{%- if include.type == "package" -%}
+{%- assign icon = "fas fa-box" -%}
+{%- assign text = include.text | default: "Package" -%}
+{%- endif -%}
+
+{%- if include.type == "website" -%}
+{%- assign icon = "fas fa-home" -%}
+{%- assign text = include.text | default: "Website" -%}
+{%- endif -%}
+
+{%- comment -%}
+To add more options for icons, see:
+https://fontawesome.com/icons?d=gallery&q=icon&m=free
+{%- endcomment -%}
+
+<a
+  href="{{ include.link }}"
+  class="paper_link"
+>
+  {%- if include.type == "manubot" -%}
+  {%- include manubot-logo.svg -%}
+  {%- else -%}
+  <i class="{{ icon }}"></i>
+  {%- endif -%}
+  {{- text -}}
 </a>

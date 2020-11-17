@@ -6,7 +6,7 @@ search:
   - Casey S Greene
   - C.S. Greene 
   - C. S. Greene
-image: casey.jpg
+image: images/team/casey.jpg
 role: pi
 website: https://greenelab.com
 email: greenescientist@gmail.com

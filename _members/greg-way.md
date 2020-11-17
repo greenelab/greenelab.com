@@ -1,10 +1,10 @@
 ---
 title: Greg Way
-image: greg.jpg
+image: images/team/greg.jpg
 role: phd
 website: http://www.gway-genomics.com/
 github: gwaygenomics
-alum: true
+group: alum
 ---
 
 Greg was a Ph.D. candidate in the Greene Lab through Penn's [Genomics and Computational Biology (GCB) PhD program](http://www.med.upenn.edu/gcb/).

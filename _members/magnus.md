@@ -1,8 +1,8 @@
 ---
 title: Magnus
-image: magnus.jpg
+image: images/team/magnus.jpg
 role: mascot
-alum: true
+group: alum
 ---
 
 Magnus joined the team of mascots in 2014.

@@ -1,8 +1,8 @@
 ---
 title: Irene Song
-image: irene.jpg
+image: images/team/irene.jpg
 role: undergrad
-alum: true
+group: alum
 ---
 
 Irene is a Biomedical Engineering major and Statistics minor at [Dartmouth College](http://dartmouth.edu/).

@@ -1,9 +1,9 @@
 ---
 title: Matt Hyuck
-image: matt.jpg
+image: images/team/matt.jpg
 role: programmer
 email: mhuyck+greenelab@fgtech.com
-alum: true
+group: alum
 ---
 
 Matt has been translating questions posed by biologists and businesses into software that computers can contemplate for over 20 years.

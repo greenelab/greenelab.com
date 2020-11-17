@@ -1,8 +1,8 @@
 ---
 title: René Zelaya
-image: rene.jpg
+image: images/team/rene.jpg
 role: programmer
-alum: true
+group: alum
 ---
 
 René graduated in 2012 with a B.A. in Engineering Sciences from Dartmouth College.

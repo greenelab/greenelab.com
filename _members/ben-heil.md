@@ -1,6 +1,6 @@
 ---
 title: Ben Heil
-image: ben.jpg
+image: images/team/ben.jpg
 role: phd
 email: benjamin.heil@pennmedicine.upenn.edu
 github: ben-heil

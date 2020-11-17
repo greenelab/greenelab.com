@@ -1,6 +1,6 @@
 ---
 title: Dongbo Hu
-image: dongbo.jpg
+image: images/team/dongbo.jpg
 role: programmer
 email: dongbo.hu@gmail.com
 github: dongbohu

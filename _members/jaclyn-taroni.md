@@ -1,11 +1,11 @@
 ---
 title: Jaclyn Taroni
-image: jaclyn.jpg
+image: images/team/jaclyn.jpg
 role: postdoc
 website: http://www.jaclyn-taroni.com/
 email: jaclyn.n.taroni@gmail.com
 github: jaclyn-taroni
-alum: true
+group: alum
 ---
 
 Jaclyn joined the Greene Lab as a Postdoctoral Researcher in May 2016.

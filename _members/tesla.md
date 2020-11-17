@@ -1,8 +1,8 @@
 ---
 title: Tesla
-image: tesla.jpg
+image: images/team/tesla.jpg
 role: mascot
-alum: true
+group: alum
 ---
 
 Tesla is Jaclyn’s pineapple green-cheeked conure.

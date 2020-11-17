@@ -1,7 +1,8 @@
 ---
 title: Join the Team
-icon: fas fa-hands-helping
 ---
+
+# <i class="fas fa-hands-helping"></i>Join the Team
 
 ## Programmers
 

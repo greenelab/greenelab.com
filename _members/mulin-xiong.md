@@ -1,8 +1,8 @@
 ---
 title: Mulin Xiong
-image: mulin.jpg
+image: images/team/mulin.jpg
 role: undergrad
-alum: true
+group: alum
 ---
 
 Mulin was a [Biology](http://biology.dartmouth.edu/) major and [AMES](http://www.dartmouth.edu/~asia/) minor on the premed track at Dartmouth College.

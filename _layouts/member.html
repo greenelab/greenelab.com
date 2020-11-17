@@ -1,25 +1,44 @@
 ---
+# inherits from default layout and builds on top of it
+# this file's contents get inserted into default.html's content
 layout: default
 ---
 
-<figure>
-  <img src="{{ site.baseurl }}/images/team/{{ page.image }}" alt="{{ page.data-tooltip }}" />
-</figure>
+<h1>{{ page.title }}</h1>
 
-<p class="center page_details">
-  <span class="inline_flex_center">
-  {% include role.html role=page.role text=true %}
-  </span>
-  <br>
-  <span class="inline_flex_center">
-    {% include social-link.html type="website" value=page.website %}
-    {% include social-link.html type="email" value=page.email %}
-    {% include social-link.html type="google" value=page.google %}
-    {% include social-link.html type="github" value=page.github %}
-    {% include social-link.html type="twitter" value=page.twitter %}
-    {% include social-link.html type="instagram" value=page.instagram %}
-  </span>
-</p>
+{% include figure.html image=page.image %}
+
+{% capture html %}
+{% include role.html type=page.role text=true %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
+
+{% capture html %}
+{% if page.website %}
+{% include social-link.html type="website" link=page.website %}
+{% endif %}
+{% if page.email %}
+{% include social-link.html type="email" link=page.email %}
+{% endif %}
+{% if page.google %}
+{% include social-link.html type="google" link=page.google %}
+{% endif %}
+{% if page.github %}
+{% include social-link.html type="github" link=page.github %}
+{% endif %}
+{% if page.twitter %}
+{% include social-link.html type="twitter" link=page.twitter %}
+{% endif %}
+{% if page.instagram %}
+{% include social-link.html type="instagram" link=page.instagram %}
+{% endif %}
+{% if page.youtube %}
+{% include social-link.html type="youtube" link=page.youtube %}
+{% endif %}
+{% endcapture %}
+
+{% include centerer.html html=html %}
 
 {{ content }}
 
@@ -37,11 +56,14 @@ layout: default
 {% for name in names %}"{{ name }}" {% endfor %}
 {% endcapture %}
 
-<p class="center">
-  <a
-    href='{{ site.baseurl }}/research/?search={{ search | strip }}'
-    class="big_link"
-  >
-    <i class="fas fa-book-open icon_with_text"></i>{{ page.title }}'s papers with the Greene Lab
-  </a>
-</p>
+{% assign search =  search | strip | prepend: "/research/?search=" %}
+
+{% capture text %}
+{{ page.title }}'s papers
+{% endcapture %}
+
+{% capture html %}
+{% include big-link.html icon="fas fa-book-open" link=search text=text %}
+{% endcapture %}
+
+{% include centerer.html html=html %}

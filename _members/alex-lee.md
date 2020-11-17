@@ -3,7 +3,7 @@ title: Alex Lee
 search:
   - Alexandra J. Lee
   - Alex J. Lee
-image: alex.jpg
+image: images/team/alex.jpg
 role: phd
 email: alexjlee.21@gmail.com
 github: ajlee21

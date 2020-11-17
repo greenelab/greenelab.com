@@ -1,9 +1,9 @@
 ---
 title: Jie Tan
-image: jie.jpg
+image: images/team/jie.jpg
 role: phd
 email: jie.tan.gr@dartmouth.edu
-alum: true
+group: alum
 ---
 
 Jie was a Ph.D. student in Dartmouth's [Molecular and Cellular Biology program](https://graduate.dartmouth.edu/mcb/).

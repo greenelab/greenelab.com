@@ -1,6 +1,6 @@
 ---
 title: Vincent Rubinetti
-image: vince.jpg
+image: images/team/vince.jpg
 role: programmer
 website: https://www.vincentrubinetti.com/
 email: vince.rubinetti@gmail.com
