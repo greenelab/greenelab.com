@@ -47,12 +47,12 @@ These are past lab members who have moved on to the [Childhood Cancer Data Lab](
 They have all made lasting contributions to science and to our hearts. ❤️
 
 {% capture html %}
-{% include team-list.html role="pi" group="alum" %}
-{% include team-list.html role="postdoc" group="alum" %}
-{% include team-list.html role="phd" group="alum" %}
-{% include team-list.html role="undergrad" group="alum" %}
-{% include team-list.html role="programmer" group="alum" %}
-{% include team-list.html role="mascot" group="alum" %}
+{% include team-list.html role="pi" group="alum" mini="true" %}
+{% include team-list.html role="postdoc" group="alum" mini="true" %}
+{% include team-list.html role="phd" group="alum" mini="true" %}
+{% include team-list.html role="undergrad" group="alum" mini="true" %}
+{% include team-list.html role="programmer" group="alum" mini="true" %}
+{% include team-list.html role="mascot" group="alum" mini="true" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}

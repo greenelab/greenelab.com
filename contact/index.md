@@ -16,6 +16,8 @@ We are a geographically distributed team that is headquartered on the 6th Floor 
   image2="images/smilow.jpg"
 %}
 
+<!-- section break -->
+
 ## <i class="fas fa-envelope fa-sm"></i>Email
 
 [{{ site.email }}](mailto:{{ site.email }})  
