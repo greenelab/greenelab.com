@@ -10,17 +10,26 @@ layout: default
 {% include post-info.html post=page %}
 {% endcapture %}
 
+{% assign html = html | strip %}
+{% if html != empty %}
 {% include centerer.html html=html %}
+{% endif %}
 
 {% capture html %}
 {% include tags.html tags=page.tags %}
 {% endcapture %}
 
+{% assign html = html | strip %}
+{% if html != empty %}
 {% include centerer.html html=html %}
+{% endif %}
+
+<!-- section break -->
 
 {{ content }}
 
-<section>
+<!-- section break -->
+
 {% include post-nav.html post=page %}
 
 {% comment %}
