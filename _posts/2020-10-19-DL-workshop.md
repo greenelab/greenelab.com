@@ -52,10 +52,12 @@ Registration can be found [here](https://ben-heil.github.io/2020-10-08-workshop/
   include figure.html
   image="images/blog/DL_workshop_pca.jpg"
   width="100%"
+  flat="true"
 %}
 
 {%
   include figure.html
   image="images/blog/DL_workshop_rnn.jpg"
   width="100%"
+  flat="true"
 %}

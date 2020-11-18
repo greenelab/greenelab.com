@@ -26,7 +26,7 @@ The team includes postdocs, students at all levels, staff, and our lab mascots.
 
 {% include centerer.html html=html %}
 
----
+<!-- section break -->
 
 We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
 We want to push the frontier of data science and train the next generation of data scientists.
@@ -37,6 +37,8 @@ We want to push the frontier of data science and train the next generation of da
   text="Join the Team"
   link="join"
 %}{:.center}
+
+<!-- section break -->
 
 ## Alumni
 
@@ -54,6 +56,8 @@ They have all made lasting contributions to science and to our hearts. ❤️
 {% endcapture %}
 
 {% include centerer.html html=html %}
+
+<!-- section break -->
 
 ## Funding
 
@@ -102,7 +106,7 @@ Our work is made possible by funding from several organizations.
   tooltip9="National Institute of Neurological Disorders and Stroke"
 %}
 
----
+<!-- section break -->
 
 {%
   include figure.html

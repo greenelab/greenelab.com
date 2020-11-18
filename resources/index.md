@@ -12,6 +12,8 @@ All of our software, tools, datasets, etc. are 100% open-source, and free for an
 We strive to make resources that are high quality in every aspect:
 cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable, and as effective as possible in real-world use.
 
+<!-- section break -->
+
 ## Featured
 
 {% capture html %}
@@ -19,6 +21,8 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 {% endcapture %}
 
 {% include centerer.html html=html %}
+
+<!-- section break -->
 
 ## More
 
@@ -28,6 +32,8 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 
 {% include centerer.html html=html %}
 
+<!-- section break -->
+
 ## Affiliated Organizations
 
 {% capture html %}
@@ -35,6 +41,8 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 {% endcapture %}
 
 {% include centerer.html html=html %}
+
+<!-- section break -->
 
 ## Legacy
 

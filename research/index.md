@@ -11,9 +11,13 @@ Doing this allows us to investigate many different biological conditions, includ
 We recognize that our lab won't have all the answers, or even all of the questions, so we aim to develop tools and processes that any biologist can reuse.
 Our approach to research prioritizes transparency, rigor, and reproducibility.
 
+<!-- section break -->
+
 {% include card-search.html subject="papers" %}
 
 {% include research-list.html %}
+
+<!-- section break -->
 
 ## More
 
@@ -36,7 +40,7 @@ Our approach to research prioritizes transparency, rigor, and reproducibility.
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
 
----
+<!-- section break -->
 
 {%
   include figure.html
