@@ -25,7 +25,7 @@ defaults:
       path: ""
     values:
       description: Where data and biology # description that will show under search engine results
-      background: images/background-laptop-paper.jpg # background image in header and footer
+      background: images/backgrounds/laptop-paper.jpg # background image in header and footer
       layout: default
   # markdown files in /_members
   - scope:

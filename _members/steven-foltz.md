@@ -1,5 +1,7 @@
 ---
 title: Steven Foltz
+search:
+  - Steven M. Foltz
 image: images/team/steven.jpg
 role: postdoc
 email: steven.foltz@pennmedicine.upenn.edu

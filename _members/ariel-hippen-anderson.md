@@ -2,6 +2,7 @@
 title: Ariel Hippen Anderson
 search:
   - Ariel A. Hippen Anderson
+  - Ariel A. Hippen
 image: images/team/ariel.jpg
 role: phd
 email: ariel.hippen@gmail.com

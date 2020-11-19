@@ -1,5 +1,8 @@
 ---
 title: Milton Pividori
+search:
+  - Milton Pividori
+  - Milton D Pividori
 image: images/team/milton.jpg
 role: postdoc
 email: miltondp@gmail.com

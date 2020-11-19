@@ -18,7 +18,7 @@ In all of our research, we prioritize transparency, rigor, and reproducibility.
 {% endcapture %}
 {%
   include feature.html
-  image="images/background-laptop-paper.jpg"
+  image="images/backgrounds/laptop-paper.jpg"
   link="research"
   heading="biological data + machine learning → insight"
   text=text
@@ -33,7 +33,7 @@ We push to make software, tools, datasets, etc. that are freely available and op
 {% endcapture %}
 {%
   include feature.html
-  image="images/code-photo.jpg"
+  image="images/home/code-photo.jpg"
   link="resources"
   heading="Open source, all the way"
   text=text
