@@ -1,13 +1,14 @@
 ---
-title: Ariel Hippen Anderson
+title: Ariel Hippen
 search:
   - Ariel A. Hippen Anderson
+  - Ariel Hippen Anderson
   - Ariel A. Hippen
 image: images/team/ariel.jpg
 role: phd
 email: ariel.hippen@gmail.com
 github: arielah
-twitter: AHippenAnderson
+twitter: ariel_hippen
 ---
 
 Ariel is a Ph.D. student through [Penn’s Genomics and Computational Biology (GCB) PhD program](https://www.med.upenn.edu/gcb/).
