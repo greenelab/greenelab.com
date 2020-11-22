@@ -3,3 +3,5 @@
 
 This website was generated from the Greene Lab's own [`lab-website-template`](https://github.com/greenelab/lab-website-template).
 See its readme for documentation on how to work with this site.
+
+[⭐ GreeneLab.com ⭐](https://greenelab.com/)
