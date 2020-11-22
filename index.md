@@ -16,6 +16,8 @@ We focus on bringing together publicly available [big data](https://en.wikipedia
 
 <!-- section break -->
 
+# Highlights
+
 {% capture text %}
 We use data science to answer important questions in biology and medicine.
 In all of our research, we prioritize transparency, rigor, and reproducibility.
