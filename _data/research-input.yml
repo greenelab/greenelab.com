@@ -50,6 +50,13 @@
 
 # 2020
 
+- id: doi:10.1016/j.trecan.2020.10.011
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7c909dce-6109-48f1-89c9-07353cf36512/gr1.jpg
+  tags:
+    - cancer
+    - open science
+    - machine learning
+
 - id: doi:10.1101/2020.11.06.371963
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:

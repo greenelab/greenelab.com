@@ -1,3 +1,16 @@
+- title: Expanding and Remixing the Metadata Landscape
+  authors:
+  - Ariel A. Hippen
+  - Casey S. Greene
+  publisher: Trends in Cancer
+  date: '2020-11-01'
+  link: https://doi.org/ghk5xh
+  id: doi:10.1016/j.trecan.2020.10.011
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7c909dce-6109-48f1-89c9-07353cf36512/gr1.jpg
+  tags:
+  - cancer
+  - open science
+  - machine learning
 - title: Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer
     facilitates effective experimental design
   authors:
@@ -10,7 +23,7 @@
   - Casey S. Greene
   - Stephanie C. Hicks
   publisher: Cold Spring Harbor Laboratory
-  date: 2020-11-7
+  date: '2020-11-07'
   link: https://doi.org/ghjkzq
   id: doi:10.1101/2020.11.06.371963
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
@@ -23,7 +36,7 @@
   - Casey S. Greene
   - James C. Costello
   publisher: Cancer Cell
-  date: 2020-11-1
+  date: '2020-11-01'
   link: https://doi.org/ghgd2f
   id: doi:10.1016/j.ccell.2020.10.014
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
@@ -93,7 +106,7 @@
   - Christopher G Chute
   - Kenneth Gersing
   publisher: Journal of the American Medical Informatics Association
-  date: 2020-8-17
+  date: '2020-08-17'
   link: https://doi.org/gg8v28
   id: doi:10.1093/jamia/ocaa196
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/Issue/27/7/1/jaminfo_27_7cover.png?Expires=1602076593&Signature=PJtOE-b7zCHoq8TnOebGlkhPQHCusUttK3TTxF2sGkL~5IYtwyFSIN2GGKGxegyiMY1oRLiQAXVkXjkz4Rmp3cHgjavLWo5oVVErdHtHY3l2h1OV~zRXWi5uFYI2jnRnWMH5UI29uoF1QtboyAsivGiW3jlsmV306pArHY43RYG2dfxPqun1x8v76YlSCo87zXJBj0kbrt-gr16QnatK8LVzdVK-w5tJ4YModbKK~P1819Zy4mu-51yqXJ0LrHtzJjpuXHaDDWCZgYOfajcR7fTnHLGTeGc9fy9WQIybQlahxhZ6QaBKEHh9odGQEO10xbdmBYBlwlkStkwD5OoUDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -139,7 +152,7 @@
   - Feng Zhang
   - Xihong Lin
   publisher: Nature Human Behaviour
-  date: 2020-8-26
+  date: '2020-08-26'
   link: https://doi.org/gg9dfq
   id: doi:10.1038/s41562-020-00944-2
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-020-00944-2/MediaObjects/41562_2020_944_Fig1_HTML.png
@@ -156,7 +169,7 @@
   - Xiaoqian Jiang
   - Casey S. Greene
   publisher: Nature Reviews Genetics
-  date: 2020-7-21
+  date: '2020-07-21'
   link: https://doi.org/gg7c57
   id: doi:10.1038/s41576-020-0257-5
   image: https://user-images.githubusercontent.com/542643/90901663-424c0080-e399-11ea-8ee1-3c4917e62317.png
@@ -446,7 +459,7 @@
   - D. Whiteman
   - N. Zeps
   publisher: Annals of Oncology
-  date: 2020-9-1
+  date: '2020-09-01'
   link: https://doi.org/gg4mzh
   id: doi:10.1016/j.annonc.2020.05.019
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0923753420398410-gr3.jpg
@@ -509,7 +522,7 @@
   - Jaak Vilo
   - Paul Wilmes
   publisher: Nature Medicine
-  date: 2020-6-2
+  date: '2020-06-02'
   link: https://doi.org/gg7qrp
   id: doi:10.1038/s41591-020-0929-x
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0929-x/MediaObjects/41591_2020_929_Fig2_HTML.png?as=webp
@@ -645,7 +658,7 @@
   - David D. Bowtell
   - Michael S. Anglesio
   publisher: Clinical Cancer Research
-  date: 2020-6-17
+  date: '2020-06-17'
   link: https://doi.org/gg7qrq
   id: doi:10.1158/1078-0432.CCR-20-0103
   image: https://user-images.githubusercontent.com/542643/91751846-6e366580-eb93-11ea-854d-8f4bb210a46b.png
@@ -657,7 +670,7 @@
   - Jake Crawford
   - Casey S Greene
   publisher: Current Opinion in Biotechnology
-  date: 2020-6-1
+  date: '2020-06-01'
   link: https://doi.org/gg7m47
   id: doi:10.1016/j.copbio.2019.12.021
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0958166919301594-gr1.jpg
@@ -676,7 +689,7 @@
   - Lana X Garmire
   - Serghei Mangul
   publisher: GigaScience
-  date: 2020-6-1
+  date: '2020-06-01'
   link: https://doi.org/ggzr3d
   id: doi:10.1093/gigascience/giaa056
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/6/10.1093_gigascience_giaa056/1/m_giaa056fig1.jpeg?Expires=1600608874&Signature=vKBY0fvYvV5TcOcCtC9ad0uE~SQ8l1XLZ5nj49vTnBQcsTIeaGmNMxq3EJmLTIKoVSnN109y3rvlNKgujEyGt5NV9IRbUzT4wZqTjPdLBCC7vI2GMDidFGzp5sDOS4POZrNv1QoGXnKjPgRi9~QhkCZ8MXBHjSJo1BJYnwvAhtyLq04HM~FyGshG230kakE3XNW942i3NGPPRAeKLurk7FpaqUJvj8SHpwmpogrOOQA5p11fo7XuI1Ea5n3jjol5mkAX-gspAssWP0hWnJpO1WfFaeDbm8kWHWw68EIu8pzsMlmK9nNAJ2p59iUBIil2Y4D1eL3sJTGX4ZtY51ElPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -694,7 +707,7 @@
   - Deborah A Hogan
   - Casey S Greene
   publisher: GigaScience
-  date: 2020-11-3
+  date: '2020-11-03'
   link: https://doi.org/ghhtpf
   id: doi:10.1093/gigascience/giaa117
   image: https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.03.066597/F3.medium.gif
@@ -715,7 +728,7 @@
   - Casey S Greene
   - Elizabeth A Heller
   publisher: Nucleic Acids Research
-  date: 2020-5-21
+  date: '2020-05-21'
   link: https://doi.org/gg7m5c
   id: doi:10.1093/nar/gkaa248
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/9/10.1093_nar_gkaa248/1/m_gkaa248fig7.jpeg?Expires=1600742402&Signature=a3DVBQf6IPBTbcXdHyusihTzZrA0I9xlwQYnd7s3MxBFYW6rR9IVAPviPEDVjO9bRh1zYrF-GQvFmHqNmYwqLAU4eDGIacdoTQiGSHCRg6mwmLlFu7G47cCxHCcecTdJ-52vP029njoxuwTrvm6nl9EDagSLy4Qip66n0EB6G8qGZPENbG-oqDWyx9qLQRQDM-GrHO57VsWDF4fuZrSKpBqh6Uy8LFE3zEKejBvk56lGLmgaDba6Ym4xYsUDOxdWNqT2sFB9xKA3YUBDDZblHBVddWU-dMHI3gWsT5EIZHgNV632sOJFSX-0QdBJNcBLL3Uxh518FAnzwyAzbn85xA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -736,7 +749,7 @@
   - Daniel S. Himmelstein
   - Casey S. Greene
   publisher: Genome Biology
-  date: 2020-5-11
+  date: '2020-05-11'
   link: https://doi.org/gg2mjh
   id: doi:10.1186/s13059-020-02021-3
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02021-3/MediaObjects/13059_2020_2021_Fig1_HTML.png?as=webp
@@ -758,7 +771,7 @@
   - Matthew R. Gazzara
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
-  date: 2020-9-22
+  date: '2020-09-22'
   link: https://doi.org/ggr64p
   id: doi:10.1101/2020.04.14.927251
   image: https://raw.githubusercontent.com/greenelab/iscb-diversity/20d21504463c0487aa844be0ff236b3a51c70fa4/figs/2020-01-31_groupings.png
@@ -825,7 +838,7 @@
   - Casey S Greene
   - Sara JC Gosline
   publisher: Genes
-  date: 2020-2-21
+  date: '2020-02-21'
   link: https://doi.org/gg4rbj
   id: doi:10.3390/genes11020226
   image: https://www.mdpi.com/genes/genes-11-00226/article_deploy/html/images/genes-11-00226-g001-550.jpg
@@ -871,7 +884,7 @@
   - Kurt Hankenson
   - Struan F. A. Grant
   publisher: Cold Spring Harbor Laboratory
-  date: 2020-2-20
+  date: '2020-02-20'
   link: https://doi.org/gg7m5r
   id: doi:10.1101/2020.02.17.20024133
   image: https://user-images.githubusercontent.com/542643/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png
@@ -904,7 +917,7 @@
   - Tom Curran
   - Malay Haldar
   publisher: Cold Spring Harbor Laboratory
-  date: 2020-2-13
+  date: '2020-02-13'
   link: https://doi.org/gg7m5q
   id: doi:10.1101/2020.02.12.945642
   image: https://www.biorxiv.org/content/biorxiv/early/2020/02/13/2020.02.12.945642/F1.medium.gif
@@ -920,7 +933,7 @@
   - Daniel S. Himmelstein
   - Casey S. Greene
   publisher: bioRxiv
-  date: 2020-1-31
+  date: '2020-01-31'
   link: https://doi.org/gf6qxh
   id: doi:10.1101/730085
   image: https://greenelab.github.io/text_mined_hetnet_manuscript/images/figures/convolutional_neural_network/convolutional_neural_nework.png
@@ -948,7 +961,7 @@
   - Ekaterina V. Pletneva
   - Deborah A. Hogan
   publisher: Proceedings of the National Academy of Sciences
-  date: 2020-1-24
+  date: '2020-01-24'
   link: https://doi.org/gg7m49
   id: doi:10.1073/pnas.1917576117
   image: https://www.pnas.org/content/pnas/117/6/3167/F1.medium.gif
@@ -960,7 +973,7 @@
   - Jake Crawford
   - Casey S. Greene
   publisher: bioRxiv
-  date: 2020-1-21
+  date: '2020-01-21'
   link: https://doi.org/gg7m5p
   id: doi:10.1101/2020.01.17.910703
   image: https://github.com/jjc2718/gene-graph-conv/raw/master/data/img/pipeline.png
@@ -975,7 +988,7 @@
   - David N. Nicholson
   - Casey S. Greene
   publisher: Computational and Structural Biotechnology Journal
-  date: 2020-6-2
+  date: '2020-06-02'
   link: https://doi.org/gg7m48
   id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
@@ -1026,7 +1039,7 @@
   - Magdalena Zernicka-Goetz
   - Xiaowei Zhuang
   publisher: Nature Methods
-  date: 2019-9-27
+  date: '2019-09-27'
   link: https://doi.org/gf92fq
   id: doi:10.1038/s41592-019-0585-6
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41592/16/10
@@ -1036,7 +1049,7 @@
   - Gregory P. Way
   - Casey S. Greene
   publisher: Annual Review of Biomedical Data Science
-  date: 2019-7-20
+  date: '2019-07-20'
   link: https://doi.org/ggns8p
   id: doi:10.1146/annurev-biodatasci-072018-021348
   image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
@@ -1051,7 +1064,7 @@
   - James Brian Byrd
   - Casey S. Greene
   publisher: 'Circulation: Cardiovascular Quality and Outcomes'
-  date: 2019-7-1
+  date: '2019-07-01'
   link: https://doi.org/ggbpgq
   id: doi:10.1161/CIRCOUTCOMES.118.005122
   image: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
@@ -1070,7 +1083,7 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: 2019-6-24
+  date: '2019-06-24'
   link: https://doi.org/c7np
   id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
@@ -1085,7 +1098,7 @@
   authors:
   - Casey S. Greene
   publisher: Nature Biotechnology
-  date: 2019-5-28
+  date: '2019-05-28'
   link: https://doi.org/gg7qs3
   id: doi:10.1038/s41587-019-0143-x
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41587-019-0143-x/MediaObjects/41587_2019_143_Fig1_HTML.png
@@ -1100,7 +1113,7 @@
   - Peter A. Merkel
   - Casey S. Greene
   publisher: Cell Systems
-  date: 2019-5-1
+  date: '2019-05-01'
   link: https://doi.org/gf75g5
   id: doi:10.1016/j.cels.2019.04.003
   image: https://marlin-prod.literatumonline.com/cms/attachment/4595b12d-3d00-4941-98ba-39b2cfde8c1c/fx1.jpg
@@ -1114,7 +1127,7 @@
   - Jennifer J Loros
   - Jay C Dunlap
   publisher: Bioinformatics
-  date: 2019-5-1
+  date: '2019-05-01'
   link: https://doi.org/gg7qrs
   id: doi:10.1093/bioinformatics/bty828
   image: https://i2.wp.com/retractionwatch.com/wp-content/uploads/2019/02/bioinformatics.png?ssl=1
@@ -1200,7 +1213,7 @@
   - Kenneth D. Mandl
   - Peter S. White
   publisher: Developmental Cell
-  date: 2019-4-1
+  date: '2019-04-01'
   link: https://doi.org/gg3jcv
   id: doi:10.1016/j.devcel.2019.03.001
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
@@ -1227,7 +1240,7 @@
   - Stephen B. Montgomery
   - ' '
   publisher: bioRxiv
-  date: 2019-11-9
+  date: '2019-11-09'
   link: https://doi.org/gg7m55
   id: doi:10.1101/836825
   image: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
@@ -1246,7 +1259,7 @@
   - Xiaoquan Wen
   - Hae K. Im
   publisher: Science Advances
-  date: 2020-9-1
+  date: '2020-09-01'
   link: https://doi.org/ghbvbf
   id: doi:10.1126/sciadv.aba2083
   image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
@@ -1564,7 +1577,7 @@
   - David A. Wheeler
   - John M. Maris
   publisher: Cell Reports
-  date: 2019-11-1
+  date: '2019-11-01'
   link: https://doi.org/gg596n
   id: doi:10.1016/j.celrep.2019.09.071
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ed25df6f-6a3d-4f8b-8bc0-99089088d20e/fx1.jpg
@@ -1595,7 +1608,7 @@
   - Paul Scheet
   - Yong Chen
   publisher: Genetic Epidemiology
-  date: 2019-10-4
+  date: '2019-10-04'
   link: https://doi.org/gg7m46
   id: doi:10.1002/gepi.22262
   image: https://onlinelibrary.wiley.com/cms/asset/0182dbee-6bca-4fec-88ee-77210a49db5b/gepi22262-fig-0002-m.png
@@ -1627,7 +1640,7 @@
   - S. B. Montgomery
   - ' '
   publisher: Cold Spring Harbor Laboratory
-  date: 2019-10-3
+  date: '2019-10-03'
   link: https://doi.org/gg7m52
   id: doi:10.1101/793091
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/04/793091/F2.medium.gif
@@ -1689,7 +1702,7 @@
   - Tuuli Lappalainen
   - ' '
   publisher: bioRxiv
-  date: 2019-10-3
+  date: '2019-10-03'
   link: https://doi.org/ggh6rz
   id: doi:10.1101/787903
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/787903/F1.medium.gif
@@ -1722,7 +1735,7 @@
   - Alexis Battle
   - ' '
   publisher: bioRxiv
-  date: 2019-10-3
+  date: '2019-10-03'
   link: https://doi.org/gg7m5z
   id: doi:10.1101/786053
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
@@ -1770,7 +1783,7 @@
   authors:
   - Marissa Fessenden
   publisher: Nature
-  date: 2019-1-23
+  date: '2019-01-23'
   link: https://doi.org/gftqjj
   id: doi:10.1038/d41586-019-00218-6
   image: https://media.nature.com/lw800/magazine-assets/d41586-019-00218-6/d41586-019-00218-6_16402666.jpg
@@ -1788,7 +1801,7 @@
   - Casey S. Greene
   - Giovanni Bosco
   publisher: G3&amp;#58; Genes|Genomes|Genetics
-  date: 2019-1-1
+  date: '2019-01-01'
   link: https://doi.org/gg7m58
   id: doi:10.1534/g3.118.200867
   image: https://www.g3journal.org/content/ggg/9/1/251/F2.medium.gif
@@ -1805,7 +1818,7 @@
   - Deborah A. Hogan
   - Casey S. Greene
   publisher: BioData Mining
-  date: 2018-7-3
+  date: '2018-07-03'
   link: https://doi.org/gdt7f5
   id: doi:10.1186/s13040-018-0175-7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-018-0175-7/MediaObjects/13040_2018_175_Fig3_HTML.png
@@ -1835,7 +1848,7 @@
   - Blanca E. Himes
   - Scott D. Halpern
   publisher: Critical Care Medicine
-  date: 2018-7-1
+  date: '2018-07-01'
   link: https://doi.org/gdr5g6
   id: doi:10.1097/CCM.0000000000003148
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6005735/bin/nihms951452f2.jpg
@@ -1856,7 +1869,7 @@
   - Matthias Kretzler
   - Peter A Merkel
   publisher: Annals of the Rheumatic Diseases
-  date: 2018-5-3
+  date: '2018-05-03'
   link: https://doi.org/gdhgh9
   id: doi:10.1136/annrheumdis-2017-212935
   image: https://ard.bmj.com/sites/default/files/highwire/annrheumdis/77/8.cover-source.jpg
@@ -2675,7 +2688,7 @@
   - "Nat\xE1lia D. Aredes"
   - Armaz Mariamidze
   publisher: Cell Reports
-  date: 2018-4-1
+  date: '2018-04-01'
   link: https://doi.org/gfspsc
   id: doi:10.1016/j.celrep.2018.03.076
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f320090c-144a-4c2a-add9-ce2283658b93/fx1.jpg
@@ -3425,7 +3438,7 @@
   - "Nat\xE1lia D. Aredes"
   - Armaz Mariamidze
   publisher: Cell Reports
-  date: 2018-4-1
+  date: '2018-04-01'
   link: https://doi.org/gfspsb
   id: doi:10.1016/j.celrep.2018.03.046
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4c2909b3-3e15-4723-a8b2-1f94166415e6/fx1.jpg
@@ -4214,7 +4227,7 @@
   - "Nat\xE1lia D. Aredes"
   - Armaz Mariamidze
   publisher: Cell
-  date: 2018-4-1
+  date: '2018-04-01'
   link: https://doi.org/gc7r9b
   id: doi:10.1016/j.cell.2018.03.035
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7bca2f8c-30f0-44cb-962a-cac5497cb225/fx1.jpg
@@ -4229,7 +4242,7 @@
   - Deborah A. Hogan
   - George A. O'Toole
   publisher: Journal of Bacteriology
-  date: 2018-3-26
+  date: '2018-03-26'
   link: https://doi.org/gg7qrt
   id: doi:10.1128/JB.00703-17
   image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
@@ -4266,7 +4279,7 @@
   - YoSon Park
   - Casey S Greene
   publisher: GigaScience
-  date: 2018-11-5
+  date: '2018-11-05'
   link: https://doi.org/gg7m5b
   id: doi:10.1093/gigascience/giy129
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/11/10.1093_gigascience_giy129/1/m_giy129fig1.jpeg?Expires=1601648405&Signature=XSCUsfUsGfH2J7gEDa5xpcocENrfaaI-ole5zEg6u27lRJgtAr3vw1jixN5AqDtXJZjSZZc2mF1EGrUyzA~i40w6Nfc92ZuBeDuFOrDbZzk40MH~~IbNVHPDloZUXJrjRCjjIuNfh8irL1addlgeIRvfaO2GoeH~MubiyYSZPmb6aek-WhxNcaSzvgkFwMokMJ9IbfIH2WnHxLok5sa-2p0SCegIW32QksWOTx8mBCyCeuT57er8ov22e6VRjj0~iWDxEmdO0HhNSWZb1sEvnFv~FI1DxtQXCbR7JqBy02Aon5713sVzVOcDLKZ3-64IaM0htgHVzlBEYWFTHYW6rw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -4285,7 +4298,7 @@
   - Qiwen Hu
   - Casey S. Greene
   publisher: World Scientific Pub Co Pte Lt
-  date: 2018-11-1
+  date: '2018-11-01'
   link: https://doi.org/gf5pc7
   id: doi:10.1142/9789813279827_0033
   image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/11263/11263/20181129-01/11263.cover.jpg
@@ -4304,7 +4317,7 @@
   - Yanxun Xu
   - Elana J. Fertig
   publisher: Trends in Genetics
-  date: 2018-10-1
+  date: '2018-10-01'
   link: https://doi.org/gd93tk
   id: doi:10.1016/j.tig.2018.07.003
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ea974986-ac13-4ba3-91c1-b0adba5b7ea9/gr5.jpg
@@ -4319,7 +4332,7 @@
   - Casey Greene
   - Hongfang Liu
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: 2018-1-1
+  date: '2018-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29218914
   id: pubmed:29218914
   image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/10864/10864/20171025-01/10864.cover.jpg
@@ -4331,7 +4344,7 @@
   - Jennifer A Doherty
   - Casey S Greene
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: 2018-1-1
+  date: '2018-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/
   id: pmc:PMC5760988
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/bin/nihms921846f2.jpg
@@ -4349,7 +4362,7 @@
   - Casey S Greene
   - Struan FA Grant
   publisher: European Journal of Human Genetics
-  date: 2017-8-9
+  date: '2017-08-09'
   link: https://doi.org/gbq2j6
   id: doi:10.1038/ejhg.2017.108
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fejhg.2017.108/MediaObjects/41431_2017_Article_BFejhg2017108_Fig1_HTML.jpg
@@ -4368,7 +4381,7 @@
   - Casey S. Greene
   - Joellen M. Schildkraut
   publisher: Current Epidemiology Reports
-  date: 2017-7-10
+  date: '2017-07-10'
   link: https://doi.org/gg7qrv
   id: doi:10.1007/s40471-017-0115-y
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40471-017-0115-y/MediaObjects/40471_2017_115_Fig1_HTML.gif
@@ -4386,7 +4399,7 @@
   - Deborah A. Hogan
   - Casey S. Greene
   publisher: Cell Systems
-  date: 2017-7-1
+  date: '2017-07-01'
   link: https://doi.org/gcw9f4
   id: doi:10.1016/j.cels.2017.06.003
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/465ca2b3-1520-4417-861c-b34d6fb47193/fx1.jpg
@@ -4398,7 +4411,7 @@
 - title: Data-Sharing Models
   authors: []
   publisher: New England Journal of Medicine
-  date: 2017-6-8
+  date: '2017-06-08'
   link: https://doi.org/gftw32
   id: doi:10.1056/NEJMc1705477
   image: https://fertility-media.womenandinfants.org/logo-nejm.png
@@ -4410,7 +4423,7 @@
   - Marylyn D Ritchie
   - Lawrence E Hunter
   publisher: Nature Genetics
-  date: 2017-4-1
+  date: '2017-04-01'
   link: https://doi.org/gcgk8d
   id: doi:10.1038/ng.3830
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41588/49/4
@@ -4430,7 +4443,7 @@
   - J. Matthew Mahoney
   - Michael L. Whitfield
   publisher: Genome Medicine
-  date: 2017-3-23
+  date: '2017-03-23'
   link: https://doi.org/gfsptx
   id: doi:10.1186/s13073-017-0417-1
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-017-0417-1/MediaObjects/13073_2017_417_Fig1_HTML.gif
@@ -4443,7 +4456,7 @@
   - Jaclyn N Taroni
   - Casey S Greene
   publisher: Cold Spring Harbor Laboratory
-  date: 2017-3-21
+  date: '2017-03-21'
   link: https://doi.org/gg7m5f
   id: doi:10.1101/118349
   image: https://www.biorxiv.org/content/biorxiv/early/2017/03/21/118349/F1.medium.gif
@@ -4457,7 +4470,7 @@
   - Brett K Beaulieu-Jones
   - Casey S Greene
   publisher: Nature Biotechnology
-  date: 2017-3-13
+  date: '2017-03-13'
   link: https://doi.org/f9ttx6
   id: doi:10.1038/nbt.3780
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnbt.3780/MediaObjects/41587_2017_Article_BFnbt3780_Fig5_ESM.jpg
@@ -4470,7 +4483,7 @@
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
-  date: 2017-2-8
+  date: '2017-02-08'
   link: https://doi.org/gg7qrw
   id: doi:10.1126/scitranslmed.aam6058
   image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/9/376.cover-source.gif
@@ -4487,7 +4500,7 @@
   - Yolanda Sanchez
   - Casey S. Greene
   publisher: BMC Genomics
-  date: 2017-2-6
+  date: '2017-02-06'
   link: https://doi.org/gg7qr9
   id: doi:10.1186/s12864-017-3519-7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
@@ -4518,7 +4531,7 @@
   - Aalim M. Weljie
   - Garret A. FitzGerald
   publisher: Scientific Reports
-  date: 2017-12-7
+  date: '2017-12-07'
   link: https://doi.org/gcqtpp
   id: doi:10.1038/s41598-017-17362-6
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
@@ -4555,7 +4568,7 @@
   - Casey S. Greene
   - Giovanni Bosco
   publisher: G3&#58; Genes|Genomes|Genetics
-  date: 2017-11-1
+  date: '2017-11-01'
   link: https://doi.org/gg7qrx
   id: doi:10.1534/g3.117.300172
   image: https://www.g3journal.org/content/ggg/7/11/3705/F2.medium.gif
@@ -4571,7 +4584,7 @@
   - Marylyn D. Ritchie
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
-  date: 2017-10-9
+  date: '2017-10-09'
   link: https://doi.org/gg7qrn
   id: doi:10.1101/055913
   image: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
@@ -4589,7 +4602,7 @@
   - Gregory P. Way
   - Casey S. Greene
   publisher: World Scientific Pub Co Pte Lt
-  date: 2018-1-1
+  date: '2018-01-01'
   link: https://doi.org/gfspsd
   id: doi:10.1142/9789813235533_0008
   image: https://www.biorxiv.org/content/biorxiv/early/2017/10/02/174474/F2.medium.gif
@@ -4629,7 +4642,7 @@
   - ZHONGMING ZHAO
   - XIUZHEN HUANG
   publisher: World Scientific Pub Co Pte Lt
-  date: 2017-1-1
+  date: '2017-01-01'
   link: https://doi.org/gg7qr8
   id: doi:10.1142/9789813207813_0060
   image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2017/10388/10388/20161122/10388.cover.jpg
@@ -4640,7 +4653,7 @@
   - Jaclyn N. Taroni
   - Casey S. Greene
   publisher: Current Genetic Medicine Reports
-  date: 2016-9-9
+  date: '2016-09-09'
   link: https://doi.org/ggpcr7
   id: doi:10.1007/s40142-016-0102-5
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40142-016-0102-5/MediaObjects/40142_2016_102_Fig1_HTML.gif
@@ -4798,7 +4811,7 @@
   - Iddo Friedberg
   - Predrag Radivojac
   publisher: Genome Biology
-  date: 2016-9-7
+  date: '2016-09-07'
   link: https://doi.org/gg7qsc
   id: doi:10.1186/s13059-016-1037-6
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1037-6/MediaObjects/13059_2016_1037_Fig1_HTML.gif
@@ -4809,7 +4822,7 @@
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
-  date: 2016-9-28
+  date: '2016-09-28'
   link: https://doi.org/gg7qr5
   id: doi:10.1126/scitranslmed.aai8224
   image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/358.cover-source.gif
@@ -4817,7 +4830,7 @@
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
-  date: 2016-8-17
+  date: '2016-08-17'
   link: https://doi.org/gg7qr4
   id: doi:10.1126/scitranslmed.aah5494
   image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/352.cover-source.gif
@@ -4825,7 +4838,7 @@
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
-  date: 2016-7-6
+  date: '2016-07-06'
   link: https://doi.org/gg7qr3
   id: doi:10.1126/scitranslmed.aag3101
   image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/346.cover-source.gif
@@ -4833,7 +4846,7 @@
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
-  date: 2016-5-25
+  date: '2016-05-25'
   link: https://doi.org/gg7qr2
   id: doi:10.1126/scitranslmed.aaf9196
   image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/340.cover-source.gif
@@ -4841,7 +4854,7 @@
   authors:
   - Casey S. Greene
   publisher: Science Translational Medicine
-  date: 2016-4-13
+  date: '2016-04-13'
   link: https://doi.org/gg7qrz
   id: doi:10.1126/scitranslmed.aaf6940
   image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/334.cover-source.gif
@@ -4851,7 +4864,7 @@
   - Casey S. Greene
   - Daniel S. Himmelstein
   publisher: 'Circulation: Cardiovascular Genetics'
-  date: 2016-4-1
+  date: '2016-04-01'
   link: https://doi.org/bffr
   id: doi:10.1161/CIRCGENETICS.115.001181
   image: https://www.ahajournals.org/cms/asset/16c0b7fc-c17d-4ed8-9c9c-bdbb46211d77/179fig01.jpg
@@ -4887,7 +4900,7 @@
   - Yolanda Sanchez
   - Kerrington D. Smith
   publisher: Oncotarget
-  date: 2016-2-25
+  date: '2016-02-25'
   link: https://doi.org/gg7qsf
   id: doi:10.18632/oncotarget.7718
   image: https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117357
@@ -4902,7 +4915,7 @@
   - Deborah A. Hogan
   - Casey S. Greene
   publisher: mSystems
-  date: 2016-2-23
+  date: '2016-02-23'
   link: https://doi.org/gcgmbq
   id: doi:10.1128/mSystems.00025-15
   image: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
@@ -4935,7 +4948,7 @@
   - Casey S. Greene
   - Jennifer A. Doherty
   publisher: G3&#58; Genes|Genomes|Genetics
-  date: 2016-12-1
+  date: '2016-12-01'
   link: https://doi.org/gg7qsd
   id: doi:10.1534/g3.116.033514
   image: https://www.g3journal.org/content/ggg/6/12/4097/F3.medium.gif
@@ -4951,7 +4964,7 @@
   - Brett K. Beaulieu-Jones
   - Casey S. Greene
   publisher: Journal of Biomedical Informatics
-  date: 2016-12-1
+  date: '2016-12-01'
   link: https://doi.org/gbw7bv
   id: doi:10.1016/j.jbi.2016.10.007
   image: https://ars.els-cdn.com/content/image/1-s2.0-S153204641630140X-gr5.jpg
@@ -4964,7 +4977,7 @@
   authors:
   - C. S. Greene
   publisher: Science Translational Medicine
-  date: 2016-11-9
+  date: '2016-11-09'
   link: https://doi.org/gg7qr6
   id: doi:10.1126/scitranslmed.aal0067
   image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/364.cover-source.gif
@@ -4977,7 +4990,7 @@
   - Casey S. Greene
   - Benjamin F. Voight
   publisher: Human Molecular Genetics
-  date: 2016-10-1
+  date: '2016-10-01'
   link: https://doi.org/f9ppwj
   id: doi:10.1093/hmg/ddw160
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/hmg/25/R2/10.1093_hmg_ddw160/3/m_ddw160f1p.png?Expires=1601769334&Signature=K2jmIC5xYLrHG8-37EmtkiSQ9yTClOrLyJZT5X3zp1PZg0ZLOha6z-ThS2ps~tlmzex8dLv9803lQzq-Cv-uJ3hn3rfjlyEp-kIENK4r0WdSkbSFtCItGgSfnQh5gH58vmh5MxAfw7EnMOXISQjOubndFfoiKxqfr0Cqp3Cm5UgNlW4NRCAFnEzvDzpcWoYKc-T2R~dkN1cXowMBafqvBe8~vsNnD9g473Ijryd-k5CPrW4g8~YwOhBsGlcRj64atYo4P9Kz-i-jn9JTr~UtxOUXaVcQVAQeqKXs877rLfzDjp58yWx2UeNuqGbS5oRWn~5Ljo80oIZHxIEIC-DcRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -4991,7 +5004,7 @@
   - Jie Tan
   - Casey S. Greene
   publisher: PeerJ
-  date: 2016-1-21
+  date: '2016-01-21'
   link: https://doi.org/gg7qsg
   id: doi:10.7717/peerj.1621
   image: https://dfzljdn9uc3pi.cloudfront.net/2016/1621/1/fig-3-2x.jpg
@@ -5015,7 +5028,7 @@
   - Li Shen
   - Casey S. Greene
   publisher: BioData Mining
-  date: 2016-1-19
+  date: '2016-01-19'
   link: https://doi.org/gg7qsb
   id: doi:10.1186/s13040-016-0082-8
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-016-0082-8/MediaObjects/13040_2016_82_Fig2_HTML.gif?as=webp
@@ -5030,7 +5043,7 @@
   - Deborah A Hogan
   - Yana Bromberg
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: 2016-1-1
+  date: '2016-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/
   id: pmc:PMC4832978
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/bin/nihms774628f1.jpg
@@ -5044,7 +5057,7 @@
   - Casey S. Greene
   - Jason H. Moore
   publisher: Briefings in Bioinformatics
-  date: 2016-1-1
+  date: '2016-01-01'
   link: https://doi.org/f78jms
   id: doi:10.1093/bib/bbv018
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1602101879&Signature=IYi5bePZ81JyUSLBS1QBu5PYoNpQKT8wIvgSvye7q3cWTS7s7DtN0UK8RO-CS0HsdkgSzPb-84yOEqESiyEO2ItquI0dBSt039MK0eeIBypBMvyT6N-qVc56IqO7JZczrKZLmNKs1LKUo3cWVuXijFTDhKI5BIDVkY8nVP8~-QOrMyEjxZ9SEYgvztC4nLUPyYijRyzzIa6O0pkSSfxnK3yAV53S3QLyJlXErjzIcHkUB8xnlfHF5CptEwhAmfbVRvhG3RVjzPpgkk35HroLcHH~j5SlJM88F5nIlOcwSF6eSbrK1RksXMq1ccT6aO4Fkjmb~-j2VJ2AnCrl51h5Jg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -5057,7 +5070,7 @@
   - Anna C. Greene
   - Casey S. Greene
   publisher: Briefings in Bioinformatics
-  date: 2016-1-1
+  date: '2016-01-01'
   link: https://doi.org/f78v8s
   id: doi:10.1093/bib/bbv087
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -5091,7 +5104,7 @@
   - ' '
   - ' '
   publisher: Nature Communications
-  date: 2015-9-22
+  date: '2015-09-22'
   link: https://doi.org/gg7qsh
   id: doi:10.1038/ncomms9019
   image: https://sharma.me.uh.edu/wp-content/uploads/2014/03/nature-communications.png
@@ -5105,7 +5118,7 @@
   - Jason H. Moore
   - Carol Kim
   publisher: BioData Mining
-  date: 2015-6-17
+  date: '2015-06-17'
   link: https://doi.org/gb5fp5
   id: doi:10.1186/s13040-015-0050-8
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-015-0050-8/MediaObjects/13040_2015_50_Fig1_HTML.gif
@@ -5128,7 +5141,7 @@
   - Tilo Grosser
   - Olga G Troyanskaya
   publisher: Nature Genetics
-  date: 2015-4-27
+  date: '2015-04-27'
   link: https://doi.org/f7dvkv
   id: doi:10.1038/ng.3259
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fng.3259/MediaObjects/41588_2015_Article_BFng3259_Fig2_HTML.jpg
@@ -5202,7 +5215,7 @@
   - Monique E. Hinchcliff
   - Michael L. Whitfield
   publisher: PLoS Computational Biology
-  date: 2015-1-8
+  date: '2015-01-08'
   link: https://doi.org/gg7qsj
   id: doi:10.1371/journal.pcbi.1004005
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1004005.g006
@@ -5223,7 +5236,7 @@
   - Kai Li
   - Olga G Troyanskaya
   publisher: Nature Methods
-  date: 2015-1-12
+  date: '2015-01-12'
   link: https://doi.org/ggfb5t
   id: doi:10.1038/nmeth.3249
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnmeth.3249/MediaObjects/41592_2015_Article_BFnmeth3249_Fig5_ESM.jpg
@@ -5238,7 +5251,7 @@
   - Chao Cheng
   - Casey S Greene
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: 2015-1-1
+  date: '2015-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/
   id: pmc:PMC4299935
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/bin/nihms-642080-f0001.jpg
@@ -5258,7 +5271,7 @@
   - Jason H Moore
   - ' '
   publisher: BioData Mining
-  date: 2014-8-22
+  date: '2014-08-22'
   link: https://doi.org/gb5fnc
   id: doi:10.1186/1756-0381-7-17
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1756-0381-7-17/MediaObjects/13040_2014_Article_115_Fig1_HTML.jpg
@@ -5270,7 +5283,7 @@
   - Jason H. Moore
   - Chao Cheng
   publisher: Journal of Cellular Physiology
-  date: 2014-12-1
+  date: '2014-12-01'
   link: https://doi.org/gg7qsk
   id: doi:10.1002/jcp.24662
   image: https://onlinelibrary.wiley.com/cms/asset/d463a6c3-1a39-4c6b-91f9-43046991a462/jcp.v229.12.cover.jpg
@@ -5281,7 +5294,7 @@
   - Casey S Greene
   - Jason H Moore
   publisher: Genome Medicine
-  date: 2014-1-1
+  date: '2014-01-01'
   link: https://doi.org/gg7qsm
   id: doi:10.1186/gm550
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgm550/MediaObjects/13073_2013_Article_556_Fig4_HTML.jpg
@@ -5297,7 +5310,7 @@
   - Rebecca D. Burdine
   - Olga G. Troyanskaya
   publisher: PLoS Computational Biology
-  date: 2013-3-14
+  date: '2013-03-14'
   link: https://doi.org/f4qtp9
   id: doi:10.1371/journal.pcbi.1002957
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1002957.g001
@@ -5319,7 +5332,7 @@
   - Olga G. Troyanskaya
   - Matthias Kretzler
   publisher: Genome Research
-  date: 2013-11-1
+  date: '2013-11-01'
   link: https://doi.org/f5g4hm
   id: doi:10.1101/gr.155697.113
   image: https://genome.cshlp.org/content/23/11/1862/F2.large.jpg
@@ -5334,7 +5347,7 @@
   - Michael L. Whitfield
   - Casey S. Greene
   publisher: Lecture Notes in Computer Science
-  date: 2013-1-1
+  date: '2013-01-01'
   link: https://doi.org/gg7qsn
   id: doi:10.1007/978-3-642-37189-9_2
   image: https://media.springernature.com/w306/springer-static/cover/book/978-3-642-37189-9.jpg
@@ -5343,7 +5356,7 @@
   - Casey S. Greene
   - Olga G. Troyanskaya
   publisher: Annals of the New York Academy of Sciences
-  date: 2012-7-1
+  date: '2012-07-01'
   link: https://doi.org/fxwvwd
   id: doi:10.1111/j.1749-6632.2011.06383.x
   image: https://nyaspubs.onlinelibrary.wiley.com/cms/asset/14e45db3-4d64-4d0c-9cf6-73172d45242f/nyas.2012.1260.issue-1.cover.gif
@@ -5357,7 +5370,7 @@
   - Yuanfang Guan
   - Olga G. Troyanskaya
   publisher: Nucleic Acids Research
-  date: 2012-7-1
+  date: '2012-07-01'
   link: https://doi.org/gg7qsq
   id: doi:10.1093/nar/gks458
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/Issue/40/W1/1/m_cover.gif?Expires=1601999470&Signature=Q2NOjEoX0jcl9eWLTHkXNaCRT2TNG3fWyJCMInmS2TIOqI5F0IvesRQm4Whc6JC~wzeR9Tjy25OxhJkIYEDBSYu9v4MVrA34r5POVBDcw2zCnNP-3G7CNaFar8g9N5AjzuxsC93tWtq7XUSd3NV4fC5BoyblYb9OYXVUfLIvy-GIYp4D6-wdgs1SyqaDcDrANy~VpQJdNn4Hs0wMLMfd1zcPFvbK-~DFEZ6joshnHYHRbECR7is7a-~-JYqeSqDS2~ZH2cwYO3heAgicnuC0sFltn7DJb8CLTLnpiaHs6yFpyHuKv-XOnVh7zcX~rFnvJEgFmDlUNDEHYAuvsFzwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
