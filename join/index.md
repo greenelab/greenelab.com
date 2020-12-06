@@ -4,6 +4,8 @@ title: Join the Team
 
 # <i class="fas fa-hands-helping"></i>Join the Team
 
+<!--
+
 ## Programmers
 
 Our programmers contribute most of the code that goes into our production-ready servers, apps, and analytical pipelines.
@@ -46,14 +48,22 @@ Additional information about Biomedical Postdoc Positions at Penn is available o
 
 To apply, provide a CV, a one to two page statement of research interests, and the names and contact information for three references through [our application portal](https://greene-lab.breezy.hr/p/bf7972c74ec4).
 
+-->
+
 ## Graduate Students
 
-We welcome graduate students in Penn’s [Genomics and Computational Biology (GCB) program](https://www.med.upenn.edu/gcb/).
+The University of Colorado has both an umbrella program and discipline-specific ones.
+The umbrella program is the [Biomedical Sciences Program](https://www.cuanschutz.edu/graduate-programs/biomedical-sciences-program/home).
+Our primary program affiliation is the University of Colorado's [Computational Biosciences Program](https://www.cuanschutz.edu/graduate-programs/computational-bioscience/home).
+We are also excited to welcome students who want to pursue computational research from [other graduate programs](https://www.cuanschutz.edu/graduate-programs) on a case-by-case basis.
+
 Our goal is to help our students to develop both a deep familiarity with the computational methods required for data-intensive science and a strong understanding of one or more biological application areas.
 We provide training in all aspects through group meetings, individual meetings, and a supportive lab environment.
 
-If you are interested in rotating in our lab, please [contact Casey]({{ site.baseurl }}/contact) to set up a time to discuss your interest.
+If you have not yet joined one of the PhD programs above, the first step to joining our group is to apply and be admitted to one of these programs.
+If you are already a PhD student in one of the above programs and are interested in rotating in our lab, please [contact Casey]({{ site.baseurl }}/contact) to set up a time to discuss your interest.
 
+<!--
 ## Undergraduate Students
 
 We welcome undergraduate students into our lab.
@@ -61,6 +71,7 @@ Undergraduate researchers have become first authors on papers submitted on resea
 We are happy to train undergraduates in many aspects of data-intensive biology, and we have high expectations for their level of commitment to research.
 
 If you are an undergraduate interested in discussing research opportunities please [contact Casey]({{ site.baseurl }}/contact).
+-->
 
 ---
 

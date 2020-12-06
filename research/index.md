@@ -39,12 +39,3 @@ Our approach to research prioritizes transparency, rigor, and reproducibility.
 {% include centerer.html html=html %}
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
-
-<!-- section break -->
-
-{%
-  include figure.html
-  image="images/team/yoson-sketch.jpg"
-  caption="Our recent research, compressed into sketch form by YoSon Park during the 2016 [#PennGenRetreat](https://twitter.com/search?f=tweets&vertical=default&q=%23PennGenRetreat&src=typd)."
-  width="100%" 
-%}
