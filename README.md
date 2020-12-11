@@ -5,3 +5,5 @@ This website was generated from the Greene Lab's own [`lab-website-template`](ht
 See its readme for documentation on how to work with this site.
 
 [⭐ GreeneLab.com ⭐](https://greenelab.com/)
+
+**If you want to make your own website like this one, [go here](https://github.com/greenelab/lab-website-template).**
