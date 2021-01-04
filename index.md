@@ -29,7 +29,7 @@ In all of our research, we prioritize transparency, rigor, and reproducibility.
   include feature.html
   image="images/backgrounds/laptop-paper.jpg"
   link="research"
-  heading="biological data + machine learning → insight"
+  title="biological data + machine learning → insight"
   text=text
 %}
 
@@ -40,11 +40,12 @@ We push to make software, tools, datasets, etc. that are freely available and op
 [See our highlighted resources &nbsp;→](resources)
 {:.center}
 {% endcapture %}
+
 {%
   include feature.html
   image="images/home/code-photo.jpg"
   link="resources"
-  heading="Open source, all the way"
+  title="Open source, all the way"
   text=text
 %}
 
@@ -59,6 +60,6 @@ We strive to build an inclusive environment for research, and recognize the valu
   include feature.html
   image="images/team/group-photo-2.jpg"
   link="team"
-  heading="The next generation of data scientists"
+  title="The next generation of data scientists"
   text=text
 %}

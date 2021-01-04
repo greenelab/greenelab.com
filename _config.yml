@@ -1,31 +1,22 @@
-# https://jekyllrb.com/docs/configuration/
-
 # site-wide variables
-title: The Greene Lab # title of site, used in tab name and elsewhere
-email: casey@greenelab.com # default email
-google: Casey Greene # default name to search on Google Scholar
-github: greenelab # default GitHub user/org, without the @
-twitter: GreeneScientist # default Twitter handle, without the @
-instagram: greenelab # default Instagram handle, without the @
-youtube: "" # default YouTube channel handle
+title: The Greene Lab
+email: casey@greenelab.com
+google: Casey Greene
+github: greenelab
+twitter: GreeneScientist
+instagram: greenelab
 
 # base directory where site is hosted
-# set to "" if hosting at a custom domain, eg yoursite.com
 baseurl: ""
 
 # default front matter parameters for markdown files
-# defaults can be overridden on a particular page, eg:
-# ---
-# description: Description unique to this page
-# background: images/different-bg-for-this-page.jpg
-# ---
 defaults:
   # all markdown files
   - scope:
       path: ""
     values:
-      description: Where data and biology # description that will show under search engine results
-      background: images/backgrounds/laptop-paper.jpg # background image in header and footer
+      description: Where data and biology
+      background: images/backgrounds/laptop-paper.jpg
       layout: default
   # markdown files in /_members
   - scope:
@@ -38,6 +29,7 @@ defaults:
     values:
       layout: post
 
+# collections
 collections:
   members:
     output: true

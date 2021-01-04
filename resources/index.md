@@ -17,7 +17,7 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 ## Featured
 
 {% capture html %}
-{% include resource-list.html type="featured" size="large" %}
+{% include resource-list.html group="featured" size="large" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
@@ -27,7 +27,7 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 ## More
 
 {% capture html %}
-{% include resource-list.html type="more" size="small" %}
+{% include resource-list.html group="more" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
@@ -37,7 +37,7 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 ## Affiliated Organizations
 
 {% capture html %}
-{% include resource-list.html type="other" size="medium" %}
+{% include resource-list.html group="other" size="medium" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}
@@ -47,7 +47,7 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 ## Legacy
 
 {% capture html %}
-{% include resource-list.html type="legacy" size="small" %}
+{% include resource-list.html group="legacy" size="small" %}
 {% endcapture %}
 
 {% include centerer.html html=html %}

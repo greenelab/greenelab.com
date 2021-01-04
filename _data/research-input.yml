@@ -1,55 +1,3 @@
-# List your research papers here. The "build research" python script takes this
-# file and uses Manubot to generate a fully-cited "output research" file, which
-# is then by the research list component.
-
-# NOTES:
-
-# Using the research list component, papers will be displayed in order of and
-# grouped by date, regardless of how they are listed here.
-
-# Any property that Manubot returns can be manually overridden by putting it
-# here, such as "date", "publisher", etc. Use the output file as a reference
-# for the expected format (eg dates should be YYYY-MM-DD).
-
-# If a paper is already in the output file (matched by id), that existing
-# citation data will be used instead of calling Manubot again. To clear this
-# "cache", remove that output entry, or simply delete the whole output file.
-
-# PARAMETERS:
-
-# id:
-# An identifier string that Manubot can understand and cite. Also used to
-# determine if a paper already exists in the output.
-
-# image:
-# Url to a striking image. Use a figure from your paper, or if there are none,
-# use a journal logo or issue cover.
-
-# tags:
-# A list of key topics/themes of your paper. Aim for 2 to 5. look at other
-# papers and try to use similar tags.
-
-# repo:
-# A GitHub repo to automatically fetch tags (aka "topics") from.
-
-# extra-links:
-# A list of additional links - beyond the main paper link that Manubot returns
-# - that will show under your paper citation.
-
-# type:
-# Determines link icon and default text. Look in "/_includes/paper-links.html"
-# to see what unique types can be specified.
-
-# text:
-# Text to show next to icon. If not specified, defaults to some text that
-# matches type (see "type")
-
-# link:
-# Url to link to. If not specified, defaults to the url that Manubot returns for
-# the citation.
-
-# 2020
-
 - id: doi:10.1016/j.trecan.2020.10.011
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7c909dce-6109-48f1-89c9-07353cf36512/gr1.jpg
   tags:
@@ -255,8 +203,6 @@
   tags:
     - knowledge graphs
 
-# 2019
-
 - id: doi:10.1038/s41592-019-0585-6
   image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41592/16/10
 
@@ -355,7 +301,6 @@
       link: https://figshare.com/articles/PPTC_RNAseq_and_Genomic_Alterations/7127726
       text: Classifier
     - type: data
-      link: https://pedcbioportal.org/study?id=pptc#summary
       text: Processed data
     - type: source
       link: https://github.com/marislab
@@ -394,8 +339,6 @@
   extra-links:
     - type: preprint
       link: https://doi.org/10.1101/414565
-
-# 2018
 
 - id: doi:10.1186/s13040-018-0175-7
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-018-0175-7/MediaObjects/13040_2018_175_Fig3_HTML.png
@@ -490,8 +433,6 @@
       link: https://doi.org/10.1101/166207
     - type: source
       link: https://github.com/greenelab/GEA_Community_Detection
-
-# 2017
 
 - id: doi:10.1038/ejhg.2017.108
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fejhg.2017.108/MediaObjects/41431_2017_Article_BFejhg2017108_Fig1_HTML.jpg
@@ -602,8 +543,6 @@
 
 - id: doi:10.1142/9789813207813_0060
   image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2017/10388/10388/20161122/10388.cover.jpg
-
-# 2016
 
 - id: doi:10.1007/s40142-016-0102-5
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40142-016-0102-5/MediaObjects/40142_2016_102_Fig1_HTML.gif
@@ -719,8 +658,6 @@
 - id: doi:10.1093/bib/bbv087
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 
-# 2015
-
 - id: doi:10.1038/ncomms9019
   image: https://sharma.me.uh.edu/wp-content/uploads/2014/03/nature-communications.png
 
@@ -763,8 +700,6 @@
     - type: source
       link: http://discovery.dartmouth.edu/~cgreene/da-psb2015/
 
-# 2014
-
 - id: doi:10.1186/1756-0381-7-17
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1756-0381-7-17/MediaObjects/13040_2014_Article_115_Fig1_HTML.jpg
 
@@ -773,8 +708,6 @@
 
 - id: doi:10.1186/gm550
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgm550/MediaObjects/13073_2013_Article_556_Fig4_HTML.jpg
-
-# 2013
 
 - id: doi:10.1371/journal.pcbi.1002957
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1002957.g001
@@ -787,8 +720,6 @@
 
 - id: doi:10.1007/978-3-642-37189-9_2
   image: https://media.springernature.com/w306/springer-static/cover/book/978-3-642-37189-9.jpg
-
-# 2012
 
 - id: doi:10.1111/j.1749-6632.2011.06383.x
   image: https://nyaspubs.onlinelibrary.wiley.com/cms/asset/14e45db3-4d64-4d0c-9cf6-73172d45242f/nyas.2012.1260.issue-1.cover.gif
