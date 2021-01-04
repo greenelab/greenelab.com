@@ -851,14 +851,14 @@
   - machine learning
   - rare diseases
 - title: Genome-wide association study implicates novel loci and reveals candidate
-    effector genes for longitudinal pediatric bone accrual through variant-to-gene
-    mapping
+    effector genes for longitudinal pediatric bone accrual
   authors:
   - Diana L. Cousminer
   - Yadav Wagley
   - James A. Pippin
   - Ahmed Elhakeem
   - Gregory P. Way
+  - Matthew C. Pahl
   - Shana E. McCormack
   - Alessandra Chesi
   - Jonathan A. Mitchell
@@ -869,7 +869,7 @@
   - Heidi J. Kalkwarf
   - Joan M. Lappe
   - Sumei Lu
-  - Michelle Leonard
+  - Michelle E. Leonard
   - Matthew E. Johnson
   - Hakon Hakonarson
   - Vicente Gilsanz
@@ -877,19 +877,20 @@
   - Sharon E. Oberfield
   - Casey S. Greene
   - Andrea Kelly
-  - Deborah Lawlor
+  - Deborah A. Lawlor
   - Benjamin F. Voight
   - Andrew D. Wells
   - Babette S. Zemel
-  - Kurt Hankenson
+  - Kurt D. Hankenson
   - Struan F. A. Grant
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-02-20'
-  link: https://doi.org/gg7m5r
-  id: doi:10.1101/2020.02.17.20024133
+  publisher: Genome Biology
+  date: '2021-01-04'
+  link: https://doi.org/ghrnpb
+  id: doi:10.1186/s13059-020-02207-9
   image: https://user-images.githubusercontent.com/542643/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png
   extra-links:
   - type: preprint
+    link: https://www.medrxiv.org/content/10.1101/2020.02.17.20024133v1
   tags:
   - genetics
 - title: Single-cell transcriptomic profile reveals macrophage heterogeneity in medulloblastoma

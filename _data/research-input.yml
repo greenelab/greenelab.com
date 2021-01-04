@@ -203,10 +203,11 @@
     - machine learning
     - rare diseases
 
-- id: doi:10.1101/2020.02.17.20024133
+- id: doi:10.1186/s13059-020-02207-9
   image: https://user-images.githubusercontent.com/542643/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png
   extra-links:
     - type: preprint
+      link: https://www.medrxiv.org/content/10.1101/2020.02.17.20024133v1
   tags:
     - genetics
 
