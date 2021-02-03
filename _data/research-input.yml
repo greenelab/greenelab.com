@@ -1,3 +1,12 @@
+- id: arxiv:2102.01521
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  extra-links:
+    - type: preprint
+    - type: arxiv
+      link: https://arxiv.org/abs/2102.01521
+  tags:
+    - COVID19
+
 - id: doi:10.1016/j.trecan.2020.10.011
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7c909dce-6109-48f1-89c9-07353cf36512/gr1.jpg
   tags:

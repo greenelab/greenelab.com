@@ -1,3 +1,47 @@
+- title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through analysis
+    of Viral Genomics and Structure
+  authors:
+  - Halie M. Rando
+  - Adam L. MacLean
+  - Alexandra J. Lee
+  - Sandipan Ray
+  - Vikas Bansal
+  - Ashwin N. Skelly
+  - Elizabeth Sell
+  - John J. Dziak
+  - Lamonica Shinholster
+  - Lucy D'Agostino McGowan
+  - Marouen Ben Guebila
+  - Nils Wellhausen
+  - Sergey Knyazev
+  - Simina M. Boca
+  - Stephen Capone
+  - YoSon Park
+  - David Mai
+  - Christian Brueffer
+  - James Brian Byrd
+  - Jinhui Wang
+  - Ronan Lordan
+  - Ryan Velazquez
+  - Gregory L Szeto
+  - John P. Barton
+  - Rishi Raj Goel
+  - Serghei Mangul
+  - Tiago Lubiana
+  - COVID-19 Review Consortium
+  - Anthony Gitter
+  - Casey S. Greene
+  publisher: arXiv
+  date: '2021-02-03'
+  link: https://arxiv.org/abs/2102.01521
+  id: arxiv:2102.01521
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  extra-links:
+  - type: preprint
+  - type: arxiv
+    link: https://arxiv.org/abs/2102.01521
+  tags:
+  - COVID19
 - title: Expanding and Remixing the Metadata Landscape
   authors:
   - Ariel A. Hippen
