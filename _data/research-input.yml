@@ -1,3 +1,12 @@
+- id: arxiv:2102.02250
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  extra-links:
+    - type: preprint
+    - type: arxiv
+      link: https://arxiv.org/abs/2102.02250
+  tags:
+    - COVID19
+
 - id: doi:10.1158/0008-5472.CAN-20-3892
   image: https://user-images.githubusercontent.com/542643/107096146-4ba21b80-67c7-11eb-9358-eb2e0ffd927c.png
   tags:
