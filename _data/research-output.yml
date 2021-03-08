@@ -1,3 +1,40 @@
+- title: Identification and Development of Therapeutics for COVID-19
+  authors:
+  - Halie M. Rando
+  - Nils Wellhausen
+  - Soumita Ghosh
+  - Alexandra J. Lee
+  - Anna Ada Dattoli
+  - Fengling Hu
+  - James Brian Byrd
+  - Diane N. Rafizadeh
+  - Yanjun Qi
+  - Yuchen Sun
+  - Jeffrey M. Field
+  - Marouen Ben Guebila
+  - Nafisa M. Jadavji
+  - Ronan Lordan
+  - Ashwin N. Skelly
+  - Bharath Ramsundar
+  - Christian Brueffer
+  - Jinhui Wang
+  - Rishi Raj Goel
+  - YoSon Park
+  - COVID-19 Review Consortium
+  - Simina M. Boca
+  - Anthony Gitter
+  - Casey S. Greene
+  publisher: arXiv
+  date: '2021-03-05'
+  link: https://arxiv.org/abs/2103.02723
+  id: arxiv:2103.02723
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  extra-links:
+  - type: preprint
+  - type: arxiv
+    link: https://arxiv.org/abs/2103.02723
+  tags:
+  - COVID19
 - title: Dietary Supplements and Nutraceuticals Under Investigation for COVID-19 Prevention
     and Treatment
   authors:
