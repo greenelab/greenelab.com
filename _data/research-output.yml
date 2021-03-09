@@ -1,3 +1,24 @@
+- title: Linguistic Analysis of the BioRxiv Repository
+  authors:
+  - David N. Nichoson
+  - Vincent Rubinetti
+  - Dongbo Hu
+  - Marvin Thielk
+  - Lawrence E. Hunter,
+  - Casey S. Greene
+  publisher: bioRxiv
+  date: '2021-03-04'
+  link: https://www.biorxiv.org/content/10.1101/2021.03.04.433874v1
+  id: doi:10.1101/2021.03.04.433874
+  image: https://raw.githubusercontent.com/greenelab/annorxiver_manuscript/master/content/images/figure-pieces/homescreen_doi.png
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2021.03.04.433874v1
+  tags:
+  - bioRxiv
+  - natural language processing
+  - machine learning
 - title: Identification and Development of Therapeutics for COVID-19
   authors:
   - Halie M. Rando

@@ -1,3 +1,14 @@
+- id: doi:10.1101/2021.03.04.433874
+  image: https://raw.githubusercontent.com/greenelab/annorxiver_manuscript/master/content/images/figure-pieces/homescreen_doi.png
+  extra-links:
+    - type: preprint
+    - type: biorxiv
+      link: https://www.biorxiv.org/content/10.1101/2021.03.04.433874v1
+  tags:
+    - bioRxiv
+    - natural language processing
+    - machine learning
+
 - id: arxiv:2103.02723 
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   extra-links:
