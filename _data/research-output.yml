@@ -1,3 +1,29 @@
+- title: 'miQC: An adaptive probabilistic framework for quality control of single-cell
+    RNA-sequencing data'
+  authors:
+  - Ariel A. Hippen
+  - Matias M. Falco
+  - Lukas M. Weber
+  - Erdogan Pekcan Erkan
+  - Kaiyang Zhang
+  - Jennifer Anne Doherty
+  - "Anna V\xE4h\xE4rautio"
+  - Casey S. Greene
+  - Stephanie C. Hicks
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-03-03'
+  link: https://doi.org/gjb778
+  id: doi:10.1101/2021.03.03.433798
+  image: https://github.com/greenelab/mito-filtering/blob/7a482c370a2fab39ecfdda4e07b61595200de388/plots/16030X2_linear_posterior.png
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2021.03.03.433798v1
+  tags:
+  - single cell
+  - qc
+  - ovarian cancer
+  - cancer
 - title: Linguistic Analysis of the BioRxiv Repository
   authors:
   - David N. Nichoson
