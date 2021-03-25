@@ -16,38 +16,38 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 
 ## Featured
 
-{% capture html %}
+{% capture contents %}
 {% include resource-list.html group="featured" size="large" %}
 {% endcapture %}
 
-{% include centerer.html html=html %}
+{% include centerer.html contents=contents %}
 
 <!-- section break -->
 
 ## More
 
-{% capture html %}
+{% capture contents %}
 {% include resource-list.html group="more" size="small" %}
 {% endcapture %}
 
-{% include centerer.html html=html %}
+{% include centerer.html contents=contents %}
 
 <!-- section break -->
 
 ## Affiliated Organizations
 
-{% capture html %}
+{% capture contents %}
 {% include resource-list.html group="other" size="medium" %}
 {% endcapture %}
 
-{% include centerer.html html=html %}
+{% include centerer.html contents=contents %}
 
 <!-- section break -->
 
 ## Legacy
 
-{% capture html %}
+{% capture contents %}
 {% include resource-list.html group="legacy" size="small" %}
 {% endcapture %}
 
-{% include centerer.html html=html %}
+{% include centerer.html contents=contents %}

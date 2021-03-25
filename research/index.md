@@ -21,7 +21,7 @@ Our approach to research prioritizes transparency, rigor, and reproducibility.
 
 ## More
 
-{% capture html %}
+{% capture contents %}
 {%
   include big-link.html
   icon="fas fa-book-open"
@@ -36,6 +36,6 @@ Our approach to research prioritizes transparency, rigor, and reproducibility.
 %}
 {% endcapture %}
 
-{% include centerer.html html=html %}
+{% include centerer.html contents=contents %}
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!

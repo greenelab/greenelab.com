@@ -1,7 +1,26 @@
-# site-wide variables
+# site settings
 title: The Greene Lab
+description: Where data and biology meet
+logo: images/logo.svg
+header: images/backgrounds/laptop-paper.jpg
+footer: images/backgrounds/laptop-paper.jpg
+
+# site nav bar
+nav:
+  - link: research
+    tooltip: Published works
+  - link: resources
+    tooltip: Tools, datasets, and more
+  - link: team
+    tooltip: About our team
+  - link: blog
+    tooltip: Musings and miscellany
+  - link: contact
+    tooltip: Email, address, and location
+
+# site social media
 email: casey@greenelab.com
-google: Casey Greene
+google-scholar: Casey Greene
 github: greenelab
 twitter: GreeneScientist
 instagram: greenelab
@@ -15,8 +34,6 @@ defaults:
   - scope:
       path: ""
     values:
-      description: Where data and biology
-      background: images/backgrounds/laptop-paper.jpg
       layout: default
   # markdown files in /_members
   - scope:

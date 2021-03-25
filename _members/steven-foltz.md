@@ -1,6 +1,6 @@
 ---
 title: Steven Foltz
-search:
+aliases:
   - Steven M. Foltz
 image: images/team/steven.jpg
 role: postdoc

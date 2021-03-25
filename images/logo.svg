@@ -1,4 +1,121 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-75 -50 150 100">
+  <style>
+    .ring,
+    .text {
+      animation-duration: 2s;
+      animation-timing-function: ease;
+      animation-fill-mode: forwards;
+    }
+    #ring_1 {
+      animation-name: ring_1;
+    }
+    #ring_2 {
+      animation-name: ring_2;
+    }
+    #ring_3 {
+      animation-name: ring_3;
+    }
+    #ring_4 {
+      animation-name: ring_4;
+    }
+    #ring_5 {
+      animation-name: ring_5;
+    }
+    @keyframes ring_1 {
+      0% {
+        opacity: 0;
+        transform: rotate(-10deg);
+      }
+      40% {
+        opacity: 0;
+        transform: rotate(-10deg);
+      }
+      80% {
+        opacity: 1;
+        transform: rotate(0deg);
+      }
+    }
+    @keyframes ring_2 {
+      0% {
+        opacity: 0;
+        transform: rotate(30deg);
+      }
+      30% {
+        opacity: 0;
+        transform: rotate(30deg);
+      }
+      70% {
+        opacity: 1;
+        transform: rotate(0deg);
+      }
+    }
+    @keyframes ring_3 {
+      0% {
+        opacity: 0;
+        transform: rotate(-50deg);
+      }
+      20% {
+        opacity: 0;
+        transform: rotate(-50deg);
+      }
+      60% {
+        opacity: 1;
+        transform: rotate(0deg);
+      }
+    }
+    @keyframes ring_4 {
+      0% {
+        opacity: 0;
+        transform: rotate(70deg);
+      }
+      10% {
+        opacity: 0;
+        transform: rotate(70deg);
+      }
+      50% {
+        opacity: 1;
+        transform: rotate(0deg);
+      }
+    }
+    @keyframes ring_5 {
+      0% {
+        opacity: 0;
+        transform: rotate(-90deg);
+      }
+      40% {
+        opacity: 1;
+        transform: rotate(0deg);
+      }
+    }
+    #text_1 {
+      animation-name: text_1;
+    }
+    #text_2 {
+      animation-name: text_2;
+    }
+    @keyframes text_1 {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+    @keyframes text_2 {
+      0% {
+        opacity: 0;
+      }
+      50% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+  </style>
   <g transform="translate(-22,0)">
     <g class="ring" id="ring_1">
       <path

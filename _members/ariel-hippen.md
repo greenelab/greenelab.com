@@ -1,6 +1,6 @@
 ---
 title: Ariel Hippen
-search:
+aliases:
   - Ariel A. Hippen Anderson
   - Ariel Hippen Anderson
   - Ariel A. Hippen

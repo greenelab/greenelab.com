@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning in Biology Workshop"
 author: Alexandra Lee
-member-page: alex-lee
+member: alex-lee
 tags:
   - deep learning
   - workshop
@@ -30,6 +30,8 @@ Overall, my dissertation research has focused on using deep learning methods to 
 I am currently applying these methods to understand mechanisms of _P.aeruginosa_ infection.
 My goal is to develop methods that help gain insight into the complexities of disease traits.
 You can find my current research projects on my [github page](https://github.com/ajlee21).
+
+<!-- section break -->
 
 ## Deep learning in biology workshop
 

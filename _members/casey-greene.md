@@ -1,6 +1,6 @@
 ---
 title: Casey Greene
-search:
+aliases:
   - Casey S. Greene
   - Casey Greene
   - Casey S Greene

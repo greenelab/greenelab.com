@@ -1,6 +1,6 @@
 ---
 title: Natalie Davidson
-search:
+aliases:
   - Natalie Davidson
   - Natalie R Davidson
 image: images/team/natalie_davidson.jpg

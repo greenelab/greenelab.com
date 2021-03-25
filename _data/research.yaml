@@ -1,5 +1,5 @@
 - id: doi:10.1101/2021.03.03.433798
-  image: https://github.com/greenelab/mito-filtering/blob/7a482c370a2fab39ecfdda4e07b61595200de388/plots/16030X2_linear_posterior.png
+  image: https://raw.githubusercontent.com/greenelab/mito-filtering/master/plots/16030X2_linear_posterior.png
   extra-links:
     - type: preprint
     - type: biorxiv
@@ -9,6 +9,7 @@
     - qc
     - ovarian cancer
     - cancer
+
 - id: doi:10.1101/2021.03.04.433874
   image: https://raw.githubusercontent.com/greenelab/annorxiver_manuscript/master/content/images/figure-pieces/homescreen_doi.png
   extra-links:
@@ -20,7 +21,7 @@
     - natural language processing
     - machine learning
 
-- id: arxiv:2103.02723 
+- id: arxiv:2103.02723
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   extra-links:
     - type: preprint
@@ -28,7 +29,7 @@
       link: https://arxiv.org/abs/2103.02723
   tags:
     - COVID19
-    
+
 - id: arxiv:2102.02250
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   extra-links:

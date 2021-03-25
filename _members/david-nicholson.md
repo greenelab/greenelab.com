@@ -1,6 +1,6 @@
 ---
 title: David Nicholson
-search:
+aliases:
   - David N. Nicholson
 image: images/team/david.jpg
 role: phd

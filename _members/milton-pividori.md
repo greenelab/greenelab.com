@@ -1,6 +1,6 @@
 ---
 title: Milton Pividori
-search:
+aliases:
   - Milton Pividori
   - Milton D Pividori
 image: images/team/milton.jpg

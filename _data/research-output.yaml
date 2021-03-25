@@ -14,7 +14,7 @@
   date: '2021-03-03'
   link: https://doi.org/gjb778
   id: doi:10.1101/2021.03.03.433798
-  image: https://github.com/greenelab/mito-filtering/blob/7a482c370a2fab39ecfdda4e07b61595200de388/plots/16030X2_linear_posterior.png
+  image: https://raw.githubusercontent.com/greenelab/mito-filtering/master/plots/16030X2_linear_posterior.png
   extra-links:
   - type: preprint
   - type: biorxiv
@@ -24,17 +24,17 @@
   - qc
   - ovarian cancer
   - cancer
-- title: Linguistic Analysis of the BioRxiv Repository
+- title: Linguistic Analysis of the bioRxiv Preprint Landscape
   authors:
-  - David N. Nichoson
+  - David N. Nicholson
   - Vincent Rubinetti
   - Dongbo Hu
   - Marvin Thielk
-  - Lawrence E. Hunter,
+  - Lawrence E. Hunter
   - Casey S. Greene
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2021-03-04'
-  link: https://www.biorxiv.org/content/10.1101/2021.03.04.433874v1
+  link: https://doi.org/gh7rph
   id: doi:10.1101/2021.03.04.433874
   image: https://raw.githubusercontent.com/greenelab/annorxiver_manuscript/master/content/images/figure-pieces/homescreen_doi.png
   extra-links:
@@ -142,9 +142,9 @@
   date: '2021-02-01'
   link: https://doi.org/ghzkn7
   id: doi:10.1158/0008-5472.CAN-20-3892
+  image: https://user-images.githubusercontent.com/542643/107096146-4ba21b80-67c7-11eb-9358-eb2e0ffd927c.png
   tags:
   - cancer
-  image: https://user-images.githubusercontent.com/542643/107096146-4ba21b80-67c7-11eb-9358-eb2e0ffd927c.png
 - title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through analysis
     of Viral Genomics and Structure
   authors:
@@ -163,7 +163,9 @@
   - Sergey Knyazev
   - Simina M. Boca
   - Stephen Capone
+  - Yanjun Qi
   - YoSon Park
+  - Yuchen Sun
   - David Mai
   - Christian Brueffer
   - James Brian Byrd
@@ -179,7 +181,7 @@
   - Anthony Gitter
   - Casey S. Greene
   publisher: arXiv
-  date: '2021-02-03'
+  date: '2021-02-15'
   link: https://arxiv.org/abs/2102.01521
   id: arxiv:2102.01521
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
@@ -194,7 +196,7 @@
   - Ariel A. Hippen
   - Casey S. Greene
   publisher: Trends in Cancer
-  date: '2020-11-01'
+  date: '2021-04-01'
   link: https://doi.org/ghk5xh
   id: doi:10.1016/j.trecan.2020.10.011
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7c909dce-6109-48f1-89c9-07353cf36512/gr1.jpg
@@ -214,7 +216,7 @@
   - Casey S. Greene
   - Stephanie C. Hicks
   publisher: Cold Spring Harbor Laboratory
-  date: '2020-11-07'
+  date: '2021-03-03'
   link: https://doi.org/ghjkzq
   id: doi:10.1101/2020.11.06.371963
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
@@ -279,8 +281,11 @@
   - Shikta Das
   - Gregory L. Szeto
   - Tiago Lubiana
+  - David Mai
+  - COVID-19 Review Consortium
+  - Rishi Raj Goel
   publisher: Manubot
-  date: '2020-12-21'
+  date: '2021-03-23'
   link: https://greenelab.github.io/covid19-review/
   id: url:https://greenelab.github.io/covid19-review/
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
@@ -290,14 +295,68 @@
     link: https://greenelab.github.io/covid19-review/
   tags:
   - COVID19
-- title: 'The National COVID Cohort Collaborative (N3C): Rationale, Design, Infrastructure,
-    and Deployment'
+- title: 'The National COVID Cohort Collaborative (N3C): Rationale, design, infrastructure,
+    and deployment'
   authors:
   - Melissa A Haendel
   - Christopher G Chute
-  - Kenneth Gersing
+  - Tellen D Bennett
+  - David A Eichmann
+  - Justin Guinney
+  - Warren A Kibbe
+  - Philip R O Payne
+  - Emily R Pfaff
+  - Peter N Robinson
+  - Joel H Saltz
+  - Heidi Spratt
+  - Christine Suver
+  - John Wilbanks
+  - Adam B Wilcox
+  - Andrew E Williams
+  - Chunlei Wu
+  - Clair Blacketer
+  - Robert L Bradford
+  - James J Cimino
+  - Marshall Clark
+  - Evan W Colmenares
+  - Patricia A Francis
+  - Davera Gabriel
+  - Alexis Graves
+  - Raju Hemadri
+  - Stephanie S Hong
+  - George Hripscak
+  - Dazhi Jiao
+  - Jeffrey G Klann
+  - Kristin Kostka
+  - Adam M Lee
+  - Harold P Lehmann
+  - Lora Lingrey
+  - Robert T Miller
+  - Michele Morris
+  - Shawn N Murphy
+  - Karthik Natarajan
+  - Matvey B Palchuk
+  - Usman Sheikh
+  - Harold Solbrig
+  - Shyam Visweswaran
+  - Anita Walden
+  - Kellie M Walters
+  - Griffin M Weber
+  - Xiaohan Tanner Zhang
+  - Richard L Zhu
+  - Benjamin Amor
+  - Andrew T Girvin
+  - Amin Manna
+  - Nabeel Qureshi
+  - Michael G Kurilla
+  - Sam G Michael
+  - Lili M Portilla
+  - Joni L Rutter
+  - Christopher P Austin
+  - Ken R Gersing
+  - ' '
   publisher: Journal of the American Medical Informatics Association
-  date: '2020-08-17'
+  date: '2021-03-01'
   link: https://doi.org/gg8v28
   id: doi:10.1093/jamia/ocaa196
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/Issue/27/7/1/jaminfo_27_7cover.png?Expires=1602076593&Signature=PJtOE-b7zCHoq8TnOebGlkhPQHCusUttK3TTxF2sGkL~5IYtwyFSIN2GGKGxegyiMY1oRLiQAXVkXjkz4Rmp3cHgjavLWo5oVVErdHtHY3l2h1OV~zRXWi5uFYI2jnRnWMH5UI29uoF1QtboyAsivGiW3jlsmV306pArHY43RYG2dfxPqun1x8v76YlSCo87zXJBj0kbrt-gr16QnatK8LVzdVK-w5tJ4YModbKK~P1819Zy4mu-51yqXJ0LrHtzJjpuXHaDDWCZgYOfajcR7fTnHLGTeGc9fy9WQIybQlahxhZ6QaBKEHh9odGQEO10xbdmBYBlwlkStkwD5OoUDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
@@ -3760,7 +3819,7 @@
   - Joshua Armenia
   - Debyani Chakravarty
   - Walid K. Chatila
-  - Ino de Bruijn
+  - Ino Bruijn
   - Jianjiong Gao
   - Benjamin E. Gross
   - Zachary J. Heins
@@ -3929,7 +3988,7 @@
   - Tony Costello
   - Christopher Hovens
   - Andre L. Carvalho
-  - Ana C. de Carvalho
+  - Ana C. Carvalho
   - "Jos\xE9 H. Fregnani"
   - Adhemar Longatto-Filho
   - Rui M. Reis
@@ -4045,7 +4104,7 @@
   - Leendert Looijenga
   - Wolter Oosterhuis
   - Hans Stoop
-  - Kim E. van Kessel
+  - Kim E. Kessel
   - Ellen C. Zwarthoff
   - Chiara Calatozzolo
   - Lucia Cuppini
@@ -4238,7 +4297,7 @@
   - Gianluca Grazi
   - Mirella Marino
   - Roberta Merola
-  - Ronald de Krijger
+  - Ronald Krijger
   - Anne-Paule Gimenez-Roqueplo
   - "Alain Pich\xE9"
   - Simone Chevalier
@@ -4342,7 +4401,7 @@
   - Christel Herold-Mende
   - Christin Jungk
   - Andreas Unterberg
-  - Andreas von Deimling
+  - Andreas Deimling
   - Aaron Bossler
   - Joseph Galbraith
   - Laura Jacobus

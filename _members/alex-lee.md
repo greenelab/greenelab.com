@@ -1,6 +1,6 @@
 ---
 title: Alex Lee
-search:
+aliases:
   - Alexandra J. Lee
   - Alex J. Lee
 image: images/team/alex.jpg

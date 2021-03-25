@@ -15,7 +15,7 @@ We recognize that diverse teams do better research.
 We foster an environment where team members are treated equally, and where we respect and admire our differences.
 The team includes postdocs, students at all levels, staff, and our lab mascots.
 
-{% capture html %}
+{% capture contents %}
 {% include team-list.html role="pi" group="" %}
 {% include team-list.html role="postdoc" group="" %}
 {% include team-list.html role="phd" group="" %}
@@ -24,9 +24,11 @@ The team includes postdocs, students at all levels, staff, and our lab mascots.
 {% include team-list.html role="mascot" group="" %}
 {% endcapture %}
 
-{% include centerer.html html=html %}
+{% include centerer.html contents=contents %}
 
 <!-- section break -->
+
+<!-- section dark -->
 
 We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
 We want to push the frontier of data science and train the next generation of data scientists.
@@ -36,6 +38,7 @@ We want to push the frontier of data science and train the next generation of da
   icon="fas fa-hands-helping"
   text="Join the Team"
   link="join"
+  button=true
 %}{:.center}
 
 <!-- section break -->
@@ -46,7 +49,7 @@ Gone but never forgotten.
 These are past lab members who have moved on to the [Childhood Cancer Data Lab](https://www.alexslemonade.org/data-lab), other school programs, new jobs, or elsewhere.
 They have all made lasting contributions to science and to our hearts. ❤️
 
-{% capture html %}
+{% capture contents %}
 {% include team-list.html role="pi" group="alum" mini="true" %}
 {% include team-list.html role="postdoc" group="alum" mini="true" %}
 {% include team-list.html role="phd" group="alum" mini="true" %}
@@ -55,7 +58,7 @@ They have all made lasting contributions to science and to our hearts. ❤️
 {% include team-list.html role="mascot" group="alum" mini="true" %}
 {% endcapture %}
 
-{% include centerer.html html=html %}
+{% include centerer.html contents=contents %}
 
 <!-- section break -->
 

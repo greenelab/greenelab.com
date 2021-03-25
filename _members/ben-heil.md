@@ -6,7 +6,7 @@ email: benjamin.heil@pennmedicine.upenn.edu
 website: https://autobencoder.com
 github: ben-heil
 twitter: autobencoder
-search:
+aliases:
     - Benjamin J. Heil
 ---
 

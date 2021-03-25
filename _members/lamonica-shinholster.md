@@ -1,7 +1,7 @@
 ---
 title: Lamonica Shinholster
 image: images/team/lamonica.jpg
-search:
+aliases:
   - Lamonica Shinholster
   - Lamonica Y. Shinholster
   - Lamonica Y Shinholster
