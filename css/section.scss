@@ -45,9 +45,5 @@ body {
       background: $gray-800;
       color: $white;
     }
-
-    &:last-child {
-      flex-grow: 1;
-    }
   }
 }
