@@ -1,3 +1,41 @@
+# GENERATED AUTOMATICALLY, DO NOT EDIT
+
+- id: doi:10.1101/2021.03.20.21253896
+  title: 'Challenges in defining Long COVID: Striking differences across literature,
+    Electronic Health Records, and patient-reported information'
+  authors:
+  - Halie M. Rando
+  - Tellen D. Bennett
+  - James Brian Byrd
+  - Carolyn Bramante
+  - Tiffany J. Callahan
+  - Christopher G. Chute
+  - Hannah E. Davis
+  - Rachel Deer
+  - Joel Gagnier
+  - Farrukh M Koraishy
+  - Feifan Liu
+  - Julie A. McMurry
+  - Richard A. Moffitt
+  - Emily R. Pfaff
+  - Justin T. Reese
+  - Rose Relevo
+  - Peter N. Robinson
+  - Joel H. Saltz
+  - Anthony Solomonides
+  - Anupam Sule
+  - Umit Topaloglu
+  - Melissa A. Haendel
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-03-26'
+  link: https://doi.org/gjk3ng
+  image: https://user-images.githubusercontent.com/8975841/112666874-013a3400-8e33-11eb-9be9-5c74f3e397ea.png
+  extra-links:
+  - type: preprint
+  - type: medrxiv
+    link: https://www.medrxiv.org/content/10.1101/2021.03.20.21253896v1
+  tags:
+  - COVID19
 - title: 'miQC: An adaptive probabilistic framework for quality control of single-cell
     RNA-sequencing data'
   authors:

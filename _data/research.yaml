@@ -1,3 +1,12 @@
+- id: doi:10.1101/2021.03.20.21253896 
+  image: https://user-images.githubusercontent.com/8975841/112666874-013a3400-8e33-11eb-9be9-5c74f3e397ea.png
+  extra-links:
+    - type: preprint
+    - type: medrxiv
+      link: https://www.medrxiv.org/content/10.1101/2021.03.20.21253896v1
+  tags:
+    - COVID19
+    
 - id: doi:10.1101/2021.03.03.433798
   image: https://raw.githubusercontent.com/greenelab/mito-filtering/master/plots/16030X2_linear_posterior.png
   extra-links:
