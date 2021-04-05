@@ -223,10 +223,11 @@
   tags:
     - genetics
 
-- id: doi:10.1101/2020.02.12.945642
+- id: doi:10.1016/j.celrep.2021.108917
   image: https://www.biorxiv.org/content/biorxiv/early/2020/02/13/2020.02.12.945642/F1.medium.gif
   extra-links:
     - type: preprint
+      link: https://doi.org/10.1101/2020.02.12.945642
   tags:
     - genomics
     - rare diseases

@@ -1181,37 +1181,39 @@
     link: https://www.medrxiv.org/content/10.1101/2020.02.17.20024133v1
   tags:
   - genetics
-- title: Single-cell transcriptomic profile reveals macrophage heterogeneity in medulloblastoma
-    and their treatment-dependent recruitment
+- id: doi:10.1016/j.celrep.2021.108917
+  title: Macrophages in SHH subgroup medulloblastoma display dynamic heterogeneity
+    that varies with treatment modality
   authors:
   - Mai T. Dang
-  - Michael Gonzalez
+  - Michael V. Gonzalez
   - Krutika S. Gaonkar
   - Komal S. Rathi
   - Patricia Young
   - Sherjeel Arif
   - Li Zhai
-  - Md Zahidul Alam
+  - Zahidul Alam
   - Samir Devalaraja
-  - Tsun Ki To
+  - Tsun Ki Jerrick To
   - Ian W. Folkert
-  - Pichai Ramen
+  - Pichai Raman
   - Jo Lynne Rokita
   - Daniel Martinez
   - Jaclyn N. Taroni
-  - Joshua Shapiro
+  - Joshua A. Shapiro
   - Casey S. Greene
   - Candace Savonen
+  - Fernanda Mafra
   - Hakon Hakonarson
   - Tom Curran
   - Malay Haldar
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-02-13'
-  link: https://doi.org/gg7m5q
-  id: doi:10.1101/2020.02.12.945642
+  publisher: Cell Reports
+  date: '2021-03-01'
+  link: https://doi.org/gjmxjr
   image: https://www.biorxiv.org/content/biorxiv/early/2020/02/13/2020.02.12.945642/F1.medium.gif
   extra-links:
   - type: preprint
+    link: https://doi.org/10.1101/2020.02.12.945642
   tags:
   - genomics
   - rare diseases
