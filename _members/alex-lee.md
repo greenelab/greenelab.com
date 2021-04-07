@@ -2,6 +2,7 @@
 title: Alex Lee
 aliases:
   - Alexandra J. Lee
+  - Alexandra J Lee
   - Alex J. Lee
 image: images/team/alex.jpg
 role: phd
