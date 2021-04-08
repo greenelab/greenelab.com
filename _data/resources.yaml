@@ -33,6 +33,13 @@
   description: What this website is built on! An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more. Spend less time reinventing the wheel, and more time running your lab.
   repo: greenelab/lab-website-template
 
+- title: ponyo
+  group: more
+  image: https://github.com/greenelab/ponyo/blob/master/logo.png
+  link: https://pypi.org/project/ponyo/
+  description: A method to simulate gene expression data using a generative neural network trained on existing gene expression data to learn a representation of expression patterns.
+  repo: greenelab/ponyo
+
 - title: hclust
   group: more
   link: https://github.com/greenelab/hclust
