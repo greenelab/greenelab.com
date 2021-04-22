@@ -48,7 +48,6 @@ sass:
 # syntax highlighting
 highlighter: rouge
 
-<<<<<<< HEAD
 # plugins
 plugins:
   - jekyll-redirect-from
@@ -63,9 +62,3 @@ plugins:
 
 # jekyll theme
 theme: null
-=======
-# build settings
-plugins:
-  - jekyll-feed
-  - jekyll-redirect-from
->>>>>>> original/main
