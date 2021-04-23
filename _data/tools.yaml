@@ -35,7 +35,7 @@
 
 - name: ponyo
   group: more
-  image: https://github.com/greenelab/ponyo/blob/master/logo.png
+  image: https://raw.githubusercontent.com/greenelab/ponyo/master/logo.png
   link: https://pypi.org/project/ponyo/
   description: A method to simulate gene expression data using a generative neural network trained on existing gene expression data to learn a representation of expression patterns.
   repo: greenelab/ponyo
