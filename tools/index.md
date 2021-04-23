@@ -2,32 +2,39 @@
 title: Tools
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Tools, datasets, and more
+redirect_from:
+  - /webservers
+  - /software
+  - /apps
 ---
 
 # <i class="fas fa-tools"></i>Tools
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-{% include search-info.html %}
+All of our software, tools, datasets, etc. are 100% open-source, and free for anyone around the world to use and modify.
+We strive to make resources that are high quality in every aspect:
+cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable, and as effective as possible in real-world use.
 
 {% include section.html %}
 
 ## Featured
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html data="tools" component="card" filters="group: featured" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="tools" filters="group: more" %}
+{% include list.html data="tools" component="card" filters="group: more" style="small" %}
+
+{% include section.html %}
+
+## Affiliated Organizations
+
+{% include list.html data="tools" component="card" filters="group: other" style="small" %}
 
 {% include section.html %}
 
 ## Legacy
 
-{% include list.html component="card" data="tools" filters="group: legacy" style="small" %}
+{% include list.html data="tools" component="card" filters="group: legacy" style="small" %}

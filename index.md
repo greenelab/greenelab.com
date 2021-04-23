@@ -1,81 +1,64 @@
 ---
-title: Home
+title: Where data and biology meet
 ---
 
-# Your Lab Slogan
+# Where data and biology meet
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
-  
+The Greene Lab is a team of researchers at the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/) dedicated to answering important questions in biology and medicine with computation.
+We focus on bringing together publicly available [big data](https://en.wikipedia.org/wiki/Big_data), developing new computational methods to analyze that data, and creating tools to put those resources into the hands of every biologist.
+
 {%
-  include link.html
-  type="github"
-  icon=""
-  text="See the template on GitHub"
-  link="greenelab/lab-website-template"
-  style="button"
+  include figure.html
+  image="images/team/group-photo-1.jpg"
+  width="100%"
 %}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
-  style="button"
-%}
-{:.center}
-
-{% include section.html full=true %}
-
-{% include banner.html image="images/banner.jpg" %}
 
 {% include section.html %}
 
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We use data science to answer important questions in biology and medicine.
+In all of our research, we prioritize transparency, rigor, and reproducibility.
 
 [See what we've published &nbsp;→](research)
 {:.center}
 {% endcapture %}
-
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/backgrounds/laptop-paper.jpg"
   link="research"
-  headline="Our Research"
+  headline="Biology + AI → insight"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We believe that anyone around the world should be able to use and extend our work.
+We push to make software, tools, datasets, etc. that are freely available and openly licensed.
 
-[See our resources &nbsp;→](resources)
+[See our highlighted resources &nbsp;→](resources)
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/code-photo.jpg"
   link="resources"
-  headline="Our Resources"
+  headline="Open source, all the way"
   text=text
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of enthusiastic researchers that want to push the frontier of data science.
+We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 [Meet our team &nbsp;→](team)
 {:.center}
 {% endcapture %}
-
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team/group-photo-2.jpg"
   link="team"
-  headline="Our Team"
+  headline="The next generation of data scientists"
   text=text
 %}

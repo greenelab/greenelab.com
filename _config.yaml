@@ -1,21 +1,21 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: The Greene Lab
+description: Where data and biology meet
 logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
-baseurl: /lab-website-template
+logo-text: false
+header: images/backgrounds/laptop-paper.jpg
+footer: images/backgrounds/laptop-paper.jpg
+baseurl: ""
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  email: casey@greenelab.com
+  google-scholar: Casey Greene
+  github: greenelab
+  twitter: GreeneScientist
+  instagram: greenelab
 
 ### advanced settings
 
