@@ -22,7 +22,7 @@ Here I’m compiling some observations from my travel that may be informative or
   caption="Visiting the Broad Institute on the first solo trip I took with our daughter, which we did via Amtrak."
 %}
 
-<!-- section break -->
+{% include section.html %}
 
 ## Travel Supplies
 
@@ -70,7 +70,7 @@ For deplaning, I do this in reverse.
 Finding a routine that works has helped me to keep everything together in some hectic situations.
 The one caveat of going this route is to note that you need two gate-check tags - one for the stroller and a second one for the car seat.
 
-<!-- section break -->
+{% include section.html %}
 
 ## Feeding
 
@@ -93,7 +93,7 @@ I’ve found that with the rate of heat loss from such cups, equal amounts of fo
 If the volume of the cup is too large the formula ends up too hot and I increase the risk of cooking it.
 If it’s too low, our baby won’t drink it.
 
-<!-- section break -->
+{% include section.html %}
 
 ## In Air and Airport
 
@@ -146,7 +146,7 @@ After service, the flight attendants must have asked the cockpit to reduce the t
 As soon as it started cooling down, she went to sleep and slept the rest of the flight.
 If I’d used the call button before service, I could have saved everyone a half-hour of listening to a crying baby.
 
-<!-- section break -->
+{% include section.html %}
 
 ## Hotels
 
@@ -164,7 +164,7 @@ But this seems to be something hotels in the US are more or less terrible at, so
 We did purchase [a travel crib](https://smile.amazon.com/Lotus-Travel-Crib-Lightweight-Comfortable/dp/B00AKKDSNG?sa-no-redirect=1), which we have used when my wife and I have traveled together.
 My daughter sleeps better in this, but the weight and added item makes it too cumbersome for me to take when it’s just me.
 
-<!-- section break -->
+{% include section.html %}
 
 ## Other Venue Notes
 
@@ -206,7 +206,7 @@ On the other hand, the [American Society for Cell Biology (ASCB)](https://ascb-e
 [The Pacific Symposium on Biocomputing (PSB)](http://psb.stanford.edu/), a computational biology conference, has been family friendly for as long as I can remember.
 [The American Society for Human Genetics (ASHG)](https://www.ashg.org/2017meeting/pages/general.shtml) and [International Society for Computational Biology (ISCB)](https://www.iscb.org/ismbeccb2019-general/faq#childrenallowed) get special shoutouts for both providing childcare options and allowing children at the meeting itself providing parents with the flexibility they need.
 
-<!-- section break -->
+{% include section.html %}
 
 ## Closing thoughts
 

@@ -4,6 +4,7 @@
 title: The Greene Lab
 description: Where data and biology meet
 logo: images/logo.svg
+logo-text: false
 header: images/backgrounds/laptop-paper.jpg
 footer: images/backgrounds/laptop-paper.jpg
 baseurl: ""

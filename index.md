@@ -11,10 +11,9 @@ We focus on bringing together publicly available [big data](https://en.wikipedia
   include figure.html
   image="images/team/group-photo-1.jpg"
   width="100%"
-  flat="true"
 %}
 
-<!-- section break -->
+{% include section.html %}
 
 # Highlights
 

@@ -14,31 +14,30 @@ Doing this allows us to investigate many different biological conditions, includ
 We recognize that our lab won't have all the answers, or even all of the questions, so we aim to develop tools and processes that any biologist can reuse.
 Our approach to research prioritizes transparency, rigor, and reproducibility.
 
-<!-- section break -->
+{% include section.html %}
 
-{% include card-search.html subject="papers" %}
+{% include search-box.html %}
 
-{% include research-list.html %}
+{% include search-info.html %}
 
-<!-- section break -->
+{% include list.html data="citations" component="citation" style="rich" %}
+
+{% include section.html %}
 
 ## More
 
-{% capture contents %}
 {%
-  include big-link.html
+  include link.html
   icon="fas fa-book-open"
   text="More on PubMed"
   link="https://pubmed.ncbi.nlm.nih.gov/?term=casey%20s%20greene"
 %}
 {%
-  include big-link.html
+  include link.html
   icon="fab fa-google"
   text="More on Google Scholar"
   link="http://scholar.google.com/citations?hl=en&user=ETJoidYAAAAJ"
 %}
-{% endcapture %}
-
-{% include centerer.html contents=contents %}
+{:.center}
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!

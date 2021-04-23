@@ -31,7 +31,7 @@ I am currently applying these methods to understand mechanisms of _P.aeruginosa_
 My goal is to develop methods that help gain insight into the complexities of disease traits.
 You can find my current research projects on my [github page](https://github.com/ajlee21).
 
-<!-- section break -->
+{% include section.html %}
 
 ## Deep learning in biology workshop
 
@@ -54,12 +54,10 @@ Registration can be found [here](https://ben-heil.github.io/2020-10-08-workshop/
   include figure.html
   image="images/blog/DL_workshop_pca.jpg"
   width="100%"
-  flat="true"
 %}
 
 {%
   include figure.html
   image="images/blog/DL_workshop_rnn.jpg"
   width="100%"
-  flat="true"
 %}

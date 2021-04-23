@@ -15,42 +15,26 @@ All of our software, tools, datasets, etc. are 100% open-source, and free for an
 We strive to make resources that are high quality in every aspect:
 cleanly written, robustly constructed and tested, well-documented, easy-to-use, accessible, customizable, and as effective as possible in real-world use.
 
-<!-- section break -->
+{% include section.html %}
 
 ## Featured
 
-{% capture contents %}
-{% include resource-list.html group="featured" size="large" %}
-{% endcapture %}
+{% include list.html data="tools" component="card" filters="group: featured" %}
 
-{% include centerer.html contents=contents %}
-
-<!-- section break -->
+{% include section.html %}
 
 ## More
 
-{% capture contents %}
-{% include resource-list.html group="more" size="small" %}
-{% endcapture %}
+{% include list.html data="tools" component="card" filters="group: more" style="small" %}
 
-{% include centerer.html contents=contents %}
-
-<!-- section break -->
+{% include section.html %}
 
 ## Affiliated Organizations
 
-{% capture contents %}
-{% include resource-list.html group="other" size="medium" %}
-{% endcapture %}
+{% include list.html data="tools" component="card" filters="group: other" style="small" %}
 
-{% include centerer.html contents=contents %}
-
-<!-- section break -->
+{% include section.html %}
 
 ## Legacy
 
-{% capture contents %}
-{% include resource-list.html group="legacy" size="small" %}
-{% endcapture %}
-
-{% include centerer.html contents=contents %}
+{% include list.html data="tools" component="card" filters="group: legacy" style="small" %}

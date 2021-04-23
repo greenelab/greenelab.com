@@ -18,33 +18,28 @@ We recognize that diverse teams do better research.
 We foster an environment where team members are treated equally, and where we respect and admire our differences.
 The team includes postdocs, students at all levels, staff, and our lab mascots.
 
-{% capture contents %}
-{% include team-list.html role="pi" group="" %}
-{% include team-list.html role="postdoc" group="" %}
-{% include team-list.html role="phd" group="" %}
-{% include team-list.html role="undergrad" group="" %}
-{% include team-list.html role="programmer" group="" %}
-{% include team-list.html role="mascot" group="" %}
-{% endcapture %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
 
-{% include centerer.html contents=contents %}
-
-<!-- section break -->
-
-<!-- section dark -->
+{% include section.html dark=true %}
 
 We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
 We want to push the frontier of data science and train the next generation of data scientists.
 
 {%
-  include big-link.html
+  include link.html
   icon="fas fa-hands-helping"
   text="Join the Team"
   link="join"
-  button=true
-%}{:.center}
+  style="button"
+%}
+{:.center}
 
-<!-- section break -->
+{% include section.html %}
 
 ## Alumni
 
@@ -52,28 +47,22 @@ Gone but never forgotten.
 These are past lab members who have moved on to the [Childhood Cancer Data Lab](https://www.alexslemonade.org/data-lab), other school programs, new jobs, or elsewhere.
 They have all made lasting contributions to science and to our hearts. ❤️
 
-{% capture contents %}
-{% include team-list.html role="pi" group="alum" mini="true" %}
-{% include team-list.html role="postdoc" group="alum" mini="true" %}
-{% include team-list.html role="phd" group="alum" mini="true" %}
-{% include team-list.html role="undergrad" group="alum" mini="true" %}
-{% include team-list.html role="programmer" group="alum" mini="true" %}
-{% include team-list.html role="mascot" group="alum" mini="true" %}
-{% endcapture %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: " style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: " style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: " style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: " style="small" %}
 
-{% include centerer.html contents=contents %}
-
-<!-- section break -->
+{% include section.html %}
 
 ## Funding
 
-{:.center}
 Our work is made possible by funding from several organizations.
+{:.center}
 
 {%
   include gallery.html
-  flat="true"
-  fit="false"
 
   image1="images/team/gordon-and-betty-moore-foundation.png"
   link1="https://www.moore.org/"
@@ -112,7 +101,7 @@ Our work is made possible by funding from several organizations.
   tooltip9="National Institute of Neurological Disorders and Stroke"
 %}
 
-<!-- section break -->
+{% include section.html %}
 
 {%
   include figure.html
