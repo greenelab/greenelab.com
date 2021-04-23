@@ -1,5 +1,5 @@
 ---
-title: Matt Hyuck
+name: Matt Hyuck
 image: images/team/matt.jpg
 role: programmer
 email: mhuyck+greenelab@fgtech.com

@@ -1,5 +1,5 @@
 ---
-title: Jake Crawford
+name: Jake Crawford
 image: images/team/jake.jpg
 role: phd
 website: http://jjc2718.github.io/

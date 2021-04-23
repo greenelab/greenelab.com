@@ -1,5 +1,5 @@
 ---
-title: Alex Lee
+name: Alex Lee
 aliases:
   - Alexandra J. Lee
   - Alexandra J Lee

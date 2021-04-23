@@ -1,5 +1,5 @@
 ---
-title: Olivia Cheng
+name: Olivia Cheng
 image: images/team/olivia.jpg
 role: undergrad
 email: ocheng1@sas.upenn.edu

@@ -1,5 +1,5 @@
 ---
-title: Halie Rando
+name: Halie Rando
 image: images/team/halie.jpg
 aliases:
   - Halie M. Rando

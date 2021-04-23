@@ -1,5 +1,5 @@
 ---
-title: Natalie Davidson
+name: Natalie Davidson
 aliases:
   - Natalie Davidson
   - Natalie R Davidson

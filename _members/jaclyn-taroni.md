@@ -1,5 +1,5 @@
 ---
-title: Jaclyn Taroni
+name: Jaclyn Taroni
 image: images/team/jaclyn.jpg
 role: postdoc
 website: http://www.jaclyn-taroni.com/

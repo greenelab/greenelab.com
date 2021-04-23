@@ -17,12 +17,13 @@
 {%- endif -%}
 
 <header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
+  {% include fullscreen.html %}
   <a
     href="{{ '/' | relative_url }}"
     class="logo_row"
     data-tooltip="Home"
   >
-    <img src="{{ site.logo | relative_url }}" class="logo" />
+    <object data="{{ site.logo | relative_url }}" class="logo"></object>
     {% if title and title != "" %}
       <span class="logo_text">{{ title }}</span>
     {% endif %}

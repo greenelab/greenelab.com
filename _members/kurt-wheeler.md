@@ -1,5 +1,5 @@
 ---
-title: Kurt Wheeler
+name: Kurt Wheeler
 image: images/team/kurt.jpg
 role: programmer
 github: kurtwheeler

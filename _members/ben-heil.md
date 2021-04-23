@@ -1,5 +1,5 @@
 ---
-title: Ben Heil
+name: Ben Heil
 image: images/team/ben.jpg
 role: phd
 email: benjamin.heil@pennmedicine.upenn.edu

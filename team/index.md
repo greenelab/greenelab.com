@@ -47,12 +47,12 @@ Gone but never forgotten.
 These are past lab members who have moved on to the [Childhood Cancer Data Lab](https://www.alexslemonade.org/data-lab), other school programs, new jobs, or elsewhere.
 They have all made lasting contributions to science and to our hearts. ❤️
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: " style="small" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: " style="small" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " style="small" %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: " style="small" %}
-{% include list.html data="members" component="portrait" filters="role: mascot, group: " style="small" %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
 
 {% include section.html %}
 

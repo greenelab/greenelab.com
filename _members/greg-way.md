@@ -1,5 +1,5 @@
 ---
-title: Greg Way
+name: Greg Way
 image: images/team/greg.jpg
 role: phd
 website: http://www.gway-genomics.com/

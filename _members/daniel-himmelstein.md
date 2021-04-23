@@ -1,5 +1,5 @@
 ---
-title: Daniel Himmelstein
+name: Daniel Himmelstein
 image: images/team/daniel.jpg
 role: postdoc
 group: alum

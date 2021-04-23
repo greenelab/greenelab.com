@@ -1,5 +1,5 @@
 ---
-title: Ariel Hippen
+name: Ariel Hippen
 aliases:
   - Ariel A. Hippen Anderson
   - Ariel Hippen Anderson

@@ -1,5 +1,5 @@
 ---
-title: Dongbo Hu
+name: Dongbo Hu
 image: images/team/dongbo.jpg
 role: programmer
 email: dongbo.hu@gmail.com

@@ -1,5 +1,5 @@
 ---
-title: Casey Greene
+name: Casey Greene
 aliases:
   - Casey S. Greene
   - Casey Greene

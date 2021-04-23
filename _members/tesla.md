@@ -1,5 +1,5 @@
 ---
-title: Tesla
+name: Tesla
 image: images/team/tesla.jpg
 role: mascot
 group: alum

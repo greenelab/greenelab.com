@@ -1,5 +1,5 @@
 ---
-title: Timothy Chang
+name: Timothy Chang
 image: images/team/timothy.jpg
 role: undergrad
 group: alum

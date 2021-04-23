@@ -1,5 +1,5 @@
 ---
-title: Yoson Park
+name: Yoson Park
 image: images/team/yoson.jpg
 role: postdoc
 github: ypar

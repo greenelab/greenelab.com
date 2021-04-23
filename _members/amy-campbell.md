@@ -1,5 +1,5 @@
 ---
-title: Amy Campbell
+name: Amy Campbell
 image: images/team/amy.jpg
 role: undergrad
 twitter: specific_ames

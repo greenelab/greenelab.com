@@ -1,5 +1,5 @@
 ---
-title: Irene Song
+name: Irene Song
 image: images/team/irene.jpg
 role: undergrad
 group: alum

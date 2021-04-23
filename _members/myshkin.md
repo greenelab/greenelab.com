@@ -1,5 +1,5 @@
 ---
-title: Myshkin
+name: Myshkin
 image: images/team/myshkin.jpg
 role: mascot
 group: alum

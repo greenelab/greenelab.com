@@ -1,5 +1,5 @@
 ---
-title: Magnus
+name: Magnus
 image: images/team/magnus.jpg
 role: mascot
 group: alum

@@ -1,5 +1,5 @@
 ---
-title: Doodle
+name: Doodle
 image: images/team/doodle.jpg
 role: mascot
 group: alum

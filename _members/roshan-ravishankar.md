@@ -1,5 +1,5 @@
 ---
-title: Roshan Ravishankar
+name: Roshan Ravishankar
 image: images/team/roshan.jpg
 role: undergrad
 group: alum

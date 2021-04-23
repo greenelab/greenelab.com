@@ -1,5 +1,5 @@
 ---
-title: Milton Pividori
+name: Milton Pividori
 aliases:
   - Milton Pividori
   - Milton D Pividori

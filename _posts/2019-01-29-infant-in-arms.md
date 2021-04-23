@@ -20,6 +20,7 @@ Here I’m compiling some observations from my travel that may be informative or
   include figure.html
   image="images/blog/ada-2.jpg"
   caption="Visiting the Broad Institute on the first solo trip I took with our daughter, which we did via Amtrak."
+  height="300px"
 %}
 
 {% include section.html %}
@@ -35,6 +36,7 @@ The features that I have found most important are that 1) electronics get stored
   include figure.html
   image="images/blog/ada-3.jpg"
   caption="Napping on the Boppy pillow."
+  height="300px"
 %}
 
 **Have a support for the baby on your lap.**
@@ -47,6 +49,7 @@ For me, it reduces the discomfort from having her on my lap for long stretches.
   include figure.html
   image="images/blog/ada-4.jpg"
   caption="Everything’s a toy! This cup was a big hit with me in Houston."
+  height="300px"
 %}
 
 **Bring a few toys, but find a bunch more.**
@@ -58,6 +61,7 @@ I’ve had good luck bringing a few toys and planning to find more along the way
 {%
   include figure.html image="images/blog/ada-5.jpg"
   caption="Car seat, stroller, Boppy in the walking-through-the-airport configuration."
+  height="300px"
 %}
 
 **My travel go-to items for baby moving are an Ergobaby carrier, travel stroller, and car seat.**
@@ -106,6 +110,7 @@ As a side benefit, these flights are often a bit cheaper than direct ones.
   include figure.html
   image="images/blog/ada-6.jpg"
   caption="Snack mix bags crinkle, and wow that is fun!"
+  height="300px"
 %}
 
 **Airline club membership is helpful when traveling with an infant.**
@@ -116,6 +121,7 @@ The ability to take my stuff and baby in, set the stuff down, get a bite of food
   include figure.html
   image="images/blog/ada-7.jpg"
   caption="Skyclub membership was helpful. This one in SLC let us put our stuff down and recharge mid-itinerary." 
+  height="300px"
 %}
 
 **Certain aircraft do not have changing tables in the restrooms.**
@@ -133,6 +139,7 @@ Anything that goes over the head is bad news for a standing blowout change.
   include figure.html
   image="images/blog/ada-8.jpg"
   caption="Even as our daughter has grown, the Boppy pillow remains a favorite in the air."
+  height="300px"
 %}
 
 **Ask for more cabin comfort.**
@@ -182,6 +189,7 @@ They hosted [ALSF’s Young Investigator Summit](https://www.alexslemonade.org/y
   include figure.html
   image="images/blog/ada-9.jpg"
   caption="Speaker dinner for the Keck Center Research Conference."
+  height="300px"
 %}
 
 **Traveling with an infant may cost you some opportunities.**
@@ -195,6 +203,7 @@ However, if missing the event wouldn’t be hugely costly, I’ve found other pl
   include figure.html
   image="images/blog/ada-10.jpg"
   caption="Our daughter spending lunch with me at PSB."
+  height="300px"
 %}
 
 **Certain conferences and meetings also have very restrictive policies on children, so before you go it’s probably good to see where your society falls.**

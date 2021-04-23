@@ -1,5 +1,5 @@
 ---
-title: René Zelaya
+name: René Zelaya
 image: images/team/rene.jpg
 role: programmer
 group: alum

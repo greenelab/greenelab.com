@@ -1,5 +1,5 @@
 ---
-title: Sophie
+name: Sophie
 image: images/team/sophie.jpg
 role: mascot
 group: alum

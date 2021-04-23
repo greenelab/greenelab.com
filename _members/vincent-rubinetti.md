@@ -1,5 +1,5 @@
 ---
-title: Vincent Rubinetti
+name: Vincent Rubinetti
 image: images/team/vince.jpg
 role: programmer
 website: https://www.vincentrubinetti.com/

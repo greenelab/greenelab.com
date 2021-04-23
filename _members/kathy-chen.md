@@ -1,5 +1,5 @@
 ---
-title: Kathy Chen
+name: Kathy Chen
 image: images/team/kathy.jpg
 role: undergrad
 group: alum

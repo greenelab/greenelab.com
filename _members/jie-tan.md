@@ -1,5 +1,5 @@
 ---
-title: Jie Tan
+name: Jie Tan
 image: images/team/jie.jpg
 role: phd
 email: jie.tan.gr@dartmouth.edu

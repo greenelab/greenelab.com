@@ -1,5 +1,5 @@
 ---
-title: David Nicholson
+name: David Nicholson
 aliases:
   - David N. Nicholson
 image: images/team/david.jpg

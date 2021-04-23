@@ -1,5 +1,5 @@
 ---
-title: Steven Foltz
+name: Steven Foltz
 aliases:
   - Steven M. Foltz
 image: images/team/steven.jpg

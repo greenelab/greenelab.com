@@ -1,5 +1,5 @@
 ---
-title: Michael Zietz
+name: Michael Zietz
 image: images/team/michael.jpg
 role: undergrad
 github: zietzm

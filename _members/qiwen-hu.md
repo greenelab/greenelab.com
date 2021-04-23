@@ -1,5 +1,5 @@
 ---
-title: Qiwen Hu
+name: Qiwen Hu
 image: images/team/qiwen.jpg
 role: postdoc
 website: https://dbmi.hms.harvard.edu/people/qiwen-hu

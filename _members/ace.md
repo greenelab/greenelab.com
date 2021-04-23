@@ -1,5 +1,5 @@
 ---
-title: Ace
+name: Ace
 image: images/team/ace.jpg
 role: mascot
 ---

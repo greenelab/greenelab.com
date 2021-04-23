@@ -1,5 +1,5 @@
 ---
-title: Brett Beaulieu-Jones
+name: Brett Beaulieu-Jones
 image: images/team/brett.jpg
 role: phd
 website: http://wymsee.com/

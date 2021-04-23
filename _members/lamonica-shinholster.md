@@ -1,5 +1,5 @@
 ---
-title: Lamonica Shinholster
+name: Lamonica Shinholster
 image: images/team/lamonica.jpg
 aliases:
   - Lamonica Shinholster

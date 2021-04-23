@@ -1,5 +1,5 @@
 ---
-title: Mulin Xiong
+name: Mulin Xiong
 image: images/team/mulin.jpg
 role: undergrad
 group: alum
