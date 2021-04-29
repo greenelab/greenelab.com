@@ -4,6 +4,7 @@ image: images/team/daniel.jpg
 role: postdoc
 group: alum
 links:
+  orcid: 0000-0002-3012-7446
   home-page: https://dhimmel.com/
   email: daniel.himmelstein@gmail.com
   google-scholar: x9OwD9oAAAAJ
