@@ -2,7 +2,8 @@
 name: Qiwen Hu
 image: images/team/qiwen.jpg
 role: postdoc
-website: https://dbmi.hms.harvard.edu/people/qiwen-hu
+links:
+  home-page: https://dbmi.hms.harvard.edu/people/qiwen-hu
 group: alum
 ---
 

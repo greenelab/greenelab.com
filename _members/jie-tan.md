@@ -2,7 +2,8 @@
 name: Jie Tan
 image: images/team/jie.jpg
 role: phd
-email: jie.tan.gr@dartmouth.edu
+links:
+  email: jie.tan.gr@dartmouth.edu
 group: alum
 ---
 

@@ -7,10 +7,12 @@ aliases:
   - Halie Rando
   - Halie M Rando
 role: postdoc
-email: halie.rando@pennmedicine.upenn.edu
-google: gWtl3GwAAAAJ
-github: rando2
-twitter: tamefoxtime
+links:
+  orcid: 0000-0001-7688-1770
+  email: halie.rando@pennmedicine.upenn.edu
+  google-scholar: gWtl3GwAAAAJ
+  github: rando2
+  twitter: tamefoxtime
 ---
 
 Halie is a postdoctoral researcher who joined the Greene Lab in 2020.

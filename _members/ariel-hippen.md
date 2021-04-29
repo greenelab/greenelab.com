@@ -6,9 +6,11 @@ aliases:
   - Ariel A. Hippen
 image: images/team/ariel.jpg
 role: phd
-email: ariel.hippen@gmail.com
-github: arielah
-twitter: ariel_hippen
+links:
+  orcid: 0000-0001-9336-6543
+  email: ariel.hippen@gmail.com
+  github: arielah
+  twitter: ariel_hippen
 ---
 
 Ariel is a Ph.D. student through [Penn’s Genomics and Computational Biology (GCB) PhD program](https://www.med.upenn.edu/gcb/).

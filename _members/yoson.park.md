@@ -2,7 +2,8 @@
 name: Yoson Park
 image: images/team/yoson.jpg
 role: postdoc
-github: ypar
+links:
+  github: ypar
 group: alum
 ---
 

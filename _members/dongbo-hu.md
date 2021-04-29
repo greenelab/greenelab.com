@@ -2,8 +2,9 @@
 name: Dongbo Hu
 image: images/team/dongbo.jpg
 role: programmer
-email: dongbo.hu@gmail.com
-github: dongbohu
+links:
+  email: dongbo.hu@gmail.com
+  github: dongbohu
 ---
 
 Dongbo used to be a chemist but was eventually attracted into computer science because of its elegance.

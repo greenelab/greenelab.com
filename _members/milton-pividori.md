@@ -5,10 +5,12 @@ aliases:
   - Milton D Pividori
 image: images/team/milton.jpg
 role: postdoc
-email: miltondp@gmail.com
-google: servJtkAAAAJ
-github: miltondp
-twitter: miltondp
+links:
+  orcid: 0000-0002-3035-4403
+  email: miltondp@gmail.com
+  google-scholar: servJtkAAAAJ
+  github: miltondp
+  twitter: miltondp
 ---
 
 Milton is a postdoctoral researcher who joined the GreeneLab in 2020.

@@ -2,7 +2,8 @@
 name: Brett Beaulieu-Jones
 image: images/team/brett.jpg
 role: phd
-website: http://wymsee.com/
+links:
+  home-page: http://wymsee.com/
 group: alum
 ---
 

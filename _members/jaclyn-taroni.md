@@ -2,9 +2,10 @@
 name: Jaclyn Taroni
 image: images/team/jaclyn.jpg
 role: postdoc
-website: http://www.jaclyn-taroni.com/
-email: jaclyn.n.taroni@gmail.com
-github: jaclyn-taroni
+links:
+  home-page: http://www.jaclyn-taroni.com/
+  email: jaclyn.n.taroni@gmail.com
+  github: jaclyn-taroni
 group: alum
 ---
 

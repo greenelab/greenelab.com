@@ -2,8 +2,9 @@
 name: Olivia Cheng
 image: images/team/olivia.jpg
 role: undergrad
-email: ocheng1@sas.upenn.edu
-github: ocheng1
+links:
+  email: ocheng1@sas.upenn.edu
+  github: ocheng1
 group: alum
 ---
 
