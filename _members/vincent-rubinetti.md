@@ -2,10 +2,12 @@
 name: Vincent Rubinetti
 image: images/team/vince.jpg
 role: programmer
-website: https://www.vincentrubinetti.com/
-email: vince.rubinetti@gmail.com
-github: vincerubinetti
-twitter: vincerubinetti
+links:
+  orcid: 0000-0002-4655-3773
+  home-page: https://www.vincentrubinetti.com/
+  email: vince.rubinetti@gmail.com
+  github: vincerubinetti
+  twitter: vincerubinetti
 ---
 
 Vince is a staff frontend developer in the Greene Lab.

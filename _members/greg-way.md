@@ -2,8 +2,9 @@
 name: Greg Way
 image: images/team/greg.jpg
 role: phd
-website: http://www.gway-genomics.com/
-github: gwaygenomics
+links:
+  home-page: http://www.gway-genomics.com/
+  github: gwaygenomics
 group: alum
 ---
 

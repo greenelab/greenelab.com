@@ -4,15 +4,17 @@ aliases:
   - Casey S. Greene
   - Casey Greene
   - Casey S Greene
-  - C.S. Greene 
+  - C.S. Greene
   - C. S. Greene
 image: images/team/casey.jpg
 role: pi
-website: https://greenelab.com
-email: casey.s.greene@cuanschutz.edu
-google: ETJoidYAAAAJ
-github: cgreene
-twitter: greenescientist
+links:
+  orcid: 0000-0001-8713-9213
+  home-page: https://greenelab.com
+  email: casey.s.greene@cuanschutz.edu
+  google-scholar: ETJoidYAAAAJ
+  github: cgreene
+  twitter: greenescientist
 ---
 
 Casey is a Professor in the Department of [Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) and the founding Director of the [Center for Health AI](https://medschool.cuanschutz.edu/ai) in the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/).

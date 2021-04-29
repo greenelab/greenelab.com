@@ -2,8 +2,9 @@
 name: Amy Campbell
 image: images/team/amy.jpg
 role: undergrad
-twitter: specific_ames
-github: amyecampbell
+links:
+  twitter: specific_ames
+  github: amyecampbell
 group: alum
 ---
 

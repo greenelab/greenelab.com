@@ -2,10 +2,12 @@
 name: Jake Crawford
 image: images/team/jake.jpg
 role: phd
-website: http://jjc2718.github.io/
-email: jjc2718@gmail.com
-github: jjc2718
-twitter: jjc2718
+links:
+  orcid: 0000-0001-6207-0782
+  home-page: http://jjc2718.github.io/
+  email: jjc2718@gmail.com
+  github: jjc2718
+  twitter: jjc2718
 ---
 
 Jake is a Ph.D. student in the Greene Lab through [Penn's Genomics and Computational Biology (GCB) program](https://www.med.upenn.edu/gcb/).

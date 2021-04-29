@@ -2,7 +2,8 @@
 name: Kurt Wheeler
 image: images/team/kurt.jpg
 role: programmer
-github: kurtwheeler
+links:
+  github: kurtwheeler
 group: alum
 ---
 

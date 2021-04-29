@@ -4,8 +4,10 @@ aliases:
   - David N. Nicholson
 image: images/team/david.jpg
 role: phd
-email: davnic@mail.med.upenn.edu
-github: danich1
+links:
+  orcid: 0000-0003-0002-5761
+  email: davnic@mail.med.upenn.edu
+  github: danich1
 ---
 
 David is a Ph.D. student in the Greene Lab through [Penn’s Genomics and Computational Biology (GCB) PhD Program](https://www.med.upenn.edu/gcb/).

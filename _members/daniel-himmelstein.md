@@ -3,11 +3,13 @@ name: Daniel Himmelstein
 image: images/team/daniel.jpg
 role: postdoc
 group: alum
-website: https://dhimmel.com/
-email: daniel.himmelstein@gmail.com
-google: x9OwD9oAAAAJ
-github: dhimmel
-twitter: dhimmel
+links:
+  orcid: 0000-0002-3012-7446
+  home-page: https://dhimmel.com/
+  email: daniel.himmelstein@gmail.com
+  google-scholar: x9OwD9oAAAAJ
+  github: dhimmel
+  twitter: dhimmel
 ---
 
 Daniel [joined](https://www.youtube.com/watch?v=goIOtEpE8Lc) the Greene Lab as a Postdoctoral Researcher in June 2016, after receiving his PhD in _Biological & Medical Informatics_ at UCSF.

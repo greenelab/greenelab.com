@@ -4,9 +4,10 @@ aliases:
   - Steven M. Foltz
 image: images/team/steven.jpg
 role: postdoc
-email: steven.foltz@pennmedicine.upenn.edu
-google: p8O2sHgAAAAJ
-github: envest
+links:
+  email: steven.foltz@pennmedicine.upenn.edu
+  google-scholar: p8O2sHgAAAAJ
+  github: envest
 ---
 
 Steven is a postdoctoral researcher who joined the [Childhood Cancer Data Lab](https://www.ccdatalab.org/) and the Greene Lab in 2020.

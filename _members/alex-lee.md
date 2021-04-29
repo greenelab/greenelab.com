@@ -6,9 +6,11 @@ aliases:
   - Alex J. Lee
 image: images/team/alex.jpg
 role: phd
-email: alexjlee.21@gmail.com
-github: ajlee21
-twitter: localee_compact
+links:
+  orcid: 0000-0002-0208-3730
+  email: alexjlee.21@gmail.com
+  github: ajlee21
+  twitter: localee_compact
 ---
 
 Alexandra is a Ph.D. student in the Greene Lab through [Penn’s Genomics and Computational Biology (GCB) PhD Program](https://www.med.upenn.edu/gcb/).

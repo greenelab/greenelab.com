@@ -2,10 +2,12 @@
 name: Ben Heil
 image: images/team/ben.jpg
 role: phd
-email: benjamin.heil@pennmedicine.upenn.edu
-website: https://autobencoder.com
-github: ben-heil
-twitter: autobencoder
+links:
+  orcid: 0000-0002-2811-1031
+  email: benjamin.heil@pennmedicine.upenn.edu
+  home-page: https://autobencoder.com
+  github: ben-heil
+  twitter: autobencoder
 aliases:
     - Benjamin J. Heil
 ---
