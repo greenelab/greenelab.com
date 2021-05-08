@@ -1,5 +1,25 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: arxiv:2104.11364
+  title: A field guide to cultivating computational biology
+  authors:
+  - Anne E Carpenter
+  - Casey S Greene
+  - Piero Carnici
+  - Benilton S Carvalho
+  - Michiel de Hoon
+  - Stacey Finley
+  - Kim-Anh Le Cao
+  - Jerry SH Lee
+  - Luigi Marchionni
+  - Suzanne Sindi
+  - Fabian J Theis
+  - Gregory P Way
+  - Jean YH Yang
+  - Elana J Fertig
+  publisher: arXiv
+  date: '2021-04-26'
+  link: https://arxiv.org/abs/2104.11364
 - id: doi:10.1101/2021.03.20.21253896
   title: 'Challenges in defining Long COVID: Striking differences across literature,
     Electronic Health Records, and patient-reported information'
