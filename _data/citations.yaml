@@ -20,6 +20,21 @@
   publisher: arXiv
   date: '2021-04-26'
   link: https://arxiv.org/abs/2104.11364
+- id: doi:10.1101/2021.05.26.445900
+  title: 'GenomicSuperSignature: interpretation of RNA-seq experiments through robust,
+    efficient comparison to public databases'
+  authors:
+  - Sehyun Oh
+  - Ludwig Geistlinger
+  - Marcel Ramos
+  - Jaclyn N. Taroni
+  - Vincent J. Carey
+  - Casey S. Greene
+  - Levi Waldron
+  - Sean R. Davis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-05-27'
+  link: https://doi.org/gj74m9
 - id: doi:10.1101/2021.03.20.21253896
   title: 'Challenges in defining Long COVID: Striking differences across literature,
     Electronic Health Records, and patient-reported information'
