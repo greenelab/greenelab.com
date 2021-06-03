@@ -20,6 +20,7 @@
   publisher: arXiv
   date: '2021-04-26'
   link: https://arxiv.org/abs/2104.11364
+  image: https://user-images.githubusercontent.com/542643/120706674-9d596a80-c476-11eb-9ee4-e0e0d6a95ba3.png
 - id: doi:10.1101/2021.05.26.445900
   title: 'GenomicSuperSignature: interpretation of RNA-seq experiments through robust,
     efficient comparison to public databases'
@@ -35,6 +36,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-05-27'
   link: https://doi.org/gj74m9
+  image: https://user-images.githubusercontent.com/542643/120705507-27a0cf00-c475-11eb-85d5-7458f1edc5ac.png
 - id: doi:10.1101/2021.03.20.21253896
   title: 'Challenges in defining Long COVID: Striking differences across literature,
     Electronic Health Records, and patient-reported information'
