@@ -1,5 +1,18 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: arxiv:2106.00657
+  title: Parameterized algorithms for identifying gene co-expression modules via weighted
+    clique decomposition
+  authors:
+  - Madison Cooley
+  - Casey S. Greene
+  - Davis Issac
+  - Milton Pividori
+  - Blair D. Sullivan
+  publisher: arXiv
+  date: '2021-06-02'
+  link: https://arxiv.org/abs/2106.00657
+  image: https://user-images.githubusercontent.com/542643/120891100-ea972280-c5c3-11eb-805d-d6b467fb66f6.png
 - id: doi:10.1101/2021.05.24.445440
   title: Generative neural networks separate common and specific transcriptional responses
   authors:
