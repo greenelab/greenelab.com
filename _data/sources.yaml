@@ -1,3 +1,9 @@
+- id: doi:10.1101/2021.05.24.445440
+  image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_2.png
+
+- id: arxiv:2105.14372
+  image: https://raw.githubusercontent.com/Benjamin-Lee/deep-rules/master/content/images/thumbnail_tips_overview.png
+
 - id: arxiv:2104.11364
   image: https://user-images.githubusercontent.com/542643/120706674-9d596a80-c476-11eb-9ee4-e0e0d6a95ba3.png
 
