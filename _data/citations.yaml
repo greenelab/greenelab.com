@@ -1,5 +1,48 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1101/2021.05.24.445440
+  title: Generative neural networks separate common and specific transcriptional responses
+  authors:
+  - Alexandra J. Lee
+  - Dallas L. Mould
+  - Jake Crawford
+  - Dongbo Hu
+  - Rani K. Powers
+  - Georgia Doing
+  - James C. Costello
+  - Deborah A. Hogan
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-05-24'
+  link: https://doi.org/gj6qv4
+  image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_2.png
+- id: arxiv:2105.14372
+  title: Ten Quick Tips for Deep Learning in Biology
+  authors:
+  - Benjamin D. Lee
+  - Anthony Gitter
+  - Casey S. Greene
+  - Sebastian Raschka
+  - Finlay Maguire
+  - Alexander J. Titus
+  - Michael D. Kessler
+  - Alexandra J. Lee
+  - Marc G. Chevrette
+  - Paul Allen Stewart
+  - Thiago Britto-Borges
+  - Evan M. Cofer
+  - Kun-Hsing Yu
+  - Juan Jose Carmona
+  - Elana J. Fertig
+  - Alexandr A. Kalinin
+  - Beth Signal
+  - Benjamin J. Lengerich
+  - Timothy J. Triche
+  - Simina M. Boca
+  publisher: arXiv
+  date: '2021-06-01'
+  link: https://arxiv.org/abs/2105.14372
+  image: https://raw.githubusercontent.com/Benjamin-Lee/deep-rules/master/content/images/thumbnail_tips_overview.png
 - id: arxiv:2104.11364
   title: A field guide to cultivating computational biology
   authors:
