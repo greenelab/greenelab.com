@@ -1,5 +1,15 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1101/2021.06.21.449261
+  title: Analysis of scientific journalism in Nature reveals gender and regional disparities
+    in coverage
+  authors:
+  - Natalie R Davidson
+  - Casey S Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-06-22'
+  link: https://doi.org/gkscd5
+  image: https://user-images.githubusercontent.com/542643/122943080-f1e45d00-d333-11eb-8b8c-d481ebc554e5.png
 - id: arxiv:2106.00657
   title: Parameterized algorithms for identifying gene co-expression modules via weighted
     clique decomposition
