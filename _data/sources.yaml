@@ -62,8 +62,6 @@
 
 - id: doi:10.1128/mSystems.00122-21
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
-  extra-links:
-      link: https://doi.org/10.1128/mSystems.00122-21
   tags:
     - COVID19
 
