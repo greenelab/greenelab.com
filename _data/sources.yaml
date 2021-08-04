@@ -60,12 +60,8 @@
   tags:
     - COVID19
 
-- id: arxiv:2102.02250
+- id: doi:10.1128/mSystems.00122-21
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
-  extra-links:
-    - type: preprint
-    - type: arxiv
-      link: https://arxiv.org/abs/2102.02250
   tags:
     - COVID19
 
