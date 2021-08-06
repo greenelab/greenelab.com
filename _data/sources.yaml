@@ -1,3 +1,16 @@
+- id: doi:10.1101/2021.07.05.450786
+  image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2021.07.05.450786v2
+  tags:
+  - gene modules
+  - twas
+  - gwas
+  - complex traits
+  - drugs
+
 - id: doi:10.1101/2021.06.23.21259416
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
 

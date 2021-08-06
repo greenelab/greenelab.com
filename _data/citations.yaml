@@ -1,5 +1,40 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1101/2021.07.05.450786
+  title: Projecting genetic associations through gene expression patterns highlights
+    disease etiology and drug mechanisms
+  authors:
+  - Milton Pividori
+  - Sumei Lu
+  - Binglan Li
+  - Chun Su
+  - Matthew E. Johnson
+  - Wei-Qi Wei
+  - Qiping Feng
+  - Bahram Namjou
+  - Krzysztof Kiryluk
+  - Iftikhar Kullo
+  - Yuan Luo
+  - Blair D. Sullivan
+  - Benjamin Franklin Voight
+  - Carsten Skarke
+  - Marylyn D. Ritchie
+  - Struan F.A. Grant
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2021.07.05.450786v2
+  tags:
+  - gene modules
+  - twas
+  - gwas
+  - complex traits
+  - drugs
+  date: '2021-08-06'
+  link: https://doi.org/10.1101/2021.07.05.450786
+  image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
 - id: doi:10.1101/2021.06.23.21259416
   title: 'Characterizing Long COVID: Deep Phenotype of a Complex Condition'
   authors:
