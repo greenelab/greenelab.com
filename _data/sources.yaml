@@ -1,6 +1,19 @@
 - id: doi:10.1186/s13059-021-02433-9
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02433-9/MediaObjects/13059_2021_2433_Fig4_HTML.png
 
+- id: doi:10.1101/2021.07.05.450786
+  image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2021.07.05.450786v2
+  tags:
+  - gene modules
+  - twas
+  - gwas
+  - complex traits
+  - drugs
+
 - id: doi:10.1101/2021.06.23.21259416
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
 
@@ -63,12 +76,8 @@
   tags:
     - COVID19
 
-- id: arxiv:2102.02250
+- id: doi:10.1128/mSystems.00122-21
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
-  extra-links:
-    - type: preprint
-    - type: arxiv
-      link: https://arxiv.org/abs/2102.02250
   tags:
     - COVID19
 
