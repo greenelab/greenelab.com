@@ -5836,3 +5836,35 @@
   link: https://doi.org/f4hnd3
   id: doi:10.1371/journal.pcbi.1002816
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1002816.g004
+- id: doi:10.1101/2021.07.05.450786
+  title: Projecting genetic associations through gene expression patterns highlights disease etiology and drug mechanisms
+  authors:
+  - Milton Pividori
+  - Sumei Lu
+  - Binglan Li
+  - Chun Su
+  - Matthew E. Johnson
+  - Wei-Qi Wei
+  - Qiping Feng
+  - Bahram Namjou
+  - Krzysztof Kiryluk
+  - Iftikhar Kullo
+  - Yuan Luo
+  - Blair D. Sullivan
+  - Benjamin Franklin Voight
+  - Carsten Skarke
+  - Marylyn D. Ritchie
+  - Struan F.A. Grant
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2021.07.05.450786v2
+  tags:
+  - gene modules
+  - twas
+  - gwas
+  - complex traits
+  - drugs
+  date: '2021-08-06'
