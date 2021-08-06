@@ -1,3 +1,6 @@
+- id: doi:10.1186/s13059-021-02433-9
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02433-9/MediaObjects/13059_2021_2433_Fig4_HTML.png
+
 - id: doi:10.1101/2021.07.05.450786
   image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
   extra-links:
