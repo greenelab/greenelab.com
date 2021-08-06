@@ -317,22 +317,18 @@
     link: https://arxiv.org/abs/2103.02723
   tags:
   - COVID19
-- title: Dietary Supplements and Nutraceuticals Under Investigation for COVID-19 Prevention
+- id: doi:10.1128/mSystems.00122-21
+  title: Dietary Supplements and Nutraceuticals under Investigation for COVID-19 Prevention
     and Treatment
   authors:
   - Ronan Lordan
   - Halie M. Rando
-  - COVID-19 Review Consortium
   - Casey S. Greene
-  publisher: arXiv
-  date: '2021-02-05'
-  link: https://arxiv.org/abs/2102.02250
-  id: arxiv:2102.02250
+  - ' '
+  publisher: mSystems
+  date: '2021-06-29'
+  link: https://doi.org/gj9qvs
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
-  extra-links:
-  - type: preprint
-  - type: arxiv
-    link: https://arxiv.org/abs/2102.02250
   tags:
   - COVID19
 - title: Induction of ADAM10 by RT drives fibrosis, resistance, and EMT in pancreatic
