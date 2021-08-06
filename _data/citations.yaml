@@ -1,5 +1,41 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1186/s13059-021-02433-9
+  title: Community-wide hackathons to identify central themes in single-cell multi-omics
+  authors:
+  - "Kim-Anh L\xEA Cao"
+  - Al J. Abadi
+  - Emily F. Davis-Marcisak
+  - Lauren Hsu
+  - Arshi Arora
+  - Alexis Coullomb
+  - Atul Deshpande
+  - Yuzhou Feng
+  - Pratheepa Jeganathan
+  - Melanie Loth
+  - Chen Meng
+  - Wancen Mu
+  - Vera Pancaldi
+  - Kris Sankaran
+  - Amrit Singh
+  - Joshua S. Sodicoff
+  - "Genevieve L. Stein-O\u2019Brien"
+  - Ayshwarya Subramanian
+  - Joshua D. Welch
+  - Yue You
+  - Ricard Argelaguet
+  - Vincent J. Carey
+  - Ruben Dries
+  - Casey S. Greene
+  - Susan Holmes
+  - Michael I. Love
+  - Matthew E. Ritchie
+  - Guo-Cheng Yuan
+  - Aedin C. Culhane
+  - Elana Fertig
+  publisher: Genome Biology
+  date: '2021-08-05'
+  link: https://doi.org/gmfhz2
 - id: doi:10.1101/2021.06.23.21259416
   title: 'Characterizing Long COVID: Deep Phenotype of a Complex Condition'
   authors:
