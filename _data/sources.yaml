@@ -1,4 +1,5 @@
 - id: doi:10.1101/2021.07.05.450786
+  image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
   extra-links:
   - type: preprint
   - type: biorxiv
