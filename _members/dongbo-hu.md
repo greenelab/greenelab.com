@@ -2,6 +2,7 @@
 name: Dongbo Hu
 image: images/team/dongbo.jpg
 role: programmer
+group: alum
 links:
   email: dongbo.hu@gmail.com
   github: dongbohu
