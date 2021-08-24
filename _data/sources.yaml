@@ -214,9 +214,11 @@
     - machine learning
     - genomics
 
-- id: doi:10.1101/2020.04.14.927251
+- id: doi:10.1016/j.cels.2021.07.007
   image: https://raw.githubusercontent.com/greenelab/iscb-diversity/20d21504463c0487aa844be0ff236b3a51c70fa4/figs/2020-01-31_groupings.png
   extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/2020.04.14.927251
     - type: manubot
       link: https://greenelab.github.io/iscb-diversity-manuscript/
     - type: source
