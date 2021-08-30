@@ -1,5 +1,43 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1200/CCI.21.00040
+  title: 'Cancer Informatics for Cancer Centers: Scientific Drivers for Informatics,
+    Data Science, and Care in Pediatric, Adolescent, and Young Adult Cancer'
+  authors:
+  - Anthony R. Kerlavage
+  - Anne C. Kirchhoff
+  - Jaime M. Guidry Auvil
+  - Norman E. Sharpless
+  - Kara L. Davis
+  - Karlyne Reilly
+  - Gregory Reaman
+  - Lynne Penberthy
+  - Dennis Deapen
+  - Amie Hwang
+  - Eric B. Durbin
+  - Sara L. Gallotto
+  - Richard Aplenc
+  - Samuel L. Volchenboum
+  - Allison P. Heath
+  - Bruce J. Aronow
+  - Jinghui Zhang
+  - Olena Vaske
+  - Todd A. Alonzo
+  - Paul C. Nathan
+  - Jenny N. Poynter
+  - Greg Armstrong
+  - Erin E. Hahn
+  - Karen J. Wernli
+  - Casey Greene
+  - Jack DiGiovanna
+  - Adam C. Resnick
+  - Eve R. Shalley
+  - Sorena Nadaf
+  - Warren A. Kibbe
+  publisher: JCO Clinical Cancer Informatics
+  date: '2021-08-01'
+  link: https://doi.org/gmmvf6
+  image: https://user-images.githubusercontent.com/542643/131275719-cc94220d-35c9-4608-a1ca-26116dff6b0c.png
 - id: doi:10.1186/s13059-021-02433-9
   title: Community-wide hackathons to identify central themes in single-cell multi-omics
   authors:
