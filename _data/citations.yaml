@@ -13,6 +13,9 @@
   date: '2021-08-30'
   link: https://doi.org/gmnnqh
   image: /images/research/reproducibility_table.png
+  tags:
+  - reproducibility
+  - machine learning
 - id: doi:10.1200/CCI.21.00040
   title: 'Cancer Informatics for Cancer Centers: Scientific Drivers for Informatics,
     Data Science, and Care in Pediatric, Adolescent, and Young Adult Cancer'
