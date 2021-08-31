@@ -1,5 +1,8 @@
 - id: doi:10.1038/s41592-021-01256-7
   image: /images/research/reproducibility_table.png
+  tags:
+  - reproducibility
+  - machine learning
 
 - id: doi:10.1200/CCI.21.00040
   image: https://user-images.githubusercontent.com/542643/131275719-cc94220d-35c9-4608-a1ca-26116dff6b0c.png
