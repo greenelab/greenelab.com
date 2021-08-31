@@ -1,5 +1,18 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1038/s41592-021-01256-7
+  title: Reproducibility standards for machine learning in the life sciences
+  authors:
+  - Benjamin J. Heil
+  - Michael M. Hoffman
+  - Florian Markowetz
+  - Su-In Lee
+  - Casey S. Greene
+  - Stephanie C. Hicks
+  publisher: Nature Methods
+  date: '2021-08-30'
+  link: https://doi.org/gmnnqh
+  image: /images/research/reproducibility_table.png
 - id: doi:10.1200/CCI.21.00040
   title: 'Cancer Informatics for Cancer Centers: Scientific Drivers for Informatics,
     Data Science, and Care in Pediatric, Adolescent, and Young Adult Cancer'
