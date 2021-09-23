@@ -111,12 +111,15 @@
     - open science
     - machine learning
 
-- id: doi:10.1101/2020.11.06.371963
+- id: doi:10.1093/gigascience/giab062
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
     - cancer
     - single cell
     - ovarian cancer
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/2020.11.06.371963
 
 - id: doi:10.1016/j.ccell.2020.10.014
   image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
