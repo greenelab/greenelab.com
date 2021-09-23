@@ -526,26 +526,29 @@
   - cancer
   - open science
   - machine learning
-- title: Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer
+- id: doi:10.1093/gigascience/giab062
+  title: Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer
     facilitates effective experimental design
   authors:
-  - Lukas M. Weber
-  - Ariel A. Hippen
-  - Peter F. Hickey
-  - Kristofer C. Berrett
+  - Lukas M Weber
+  - Ariel A Hippen
+  - Peter F Hickey
+  - Kristofer C Berrett
   - Jason Gertz
   - Jennifer Anne Doherty
-  - Casey S. Greene
-  - Stephanie C. Hicks
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-03-03'
-  link: https://doi.org/ghjkzq
-  id: doi:10.1101/2020.11.06.371963
+  - Casey S Greene
+  - Stephanie C Hicks
+  publisher: GigaScience
+  date: '2021-09-22'
+  link: https://doi.org/gmwhsc
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
   - cancer
   - single cell
   - ovarian cancer
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2020.11.06.371963
 - title: Biologically Informed Neural Networks Predict Drug Responses
   authors:
   - Casey S. Greene
