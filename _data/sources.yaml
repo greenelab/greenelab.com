@@ -38,8 +38,11 @@
 - id: arxiv:2105.14372
   image: https://raw.githubusercontent.com/Benjamin-Lee/deep-rules/master/content/images/thumbnail_tips_overview.png
 
-- id: arxiv:2104.11364
+- id: doi:10.1371/journal.pbio.3001419
   image: https://user-images.githubusercontent.com/542643/120706674-9d596a80-c476-11eb-9ee4-e0e0d6a95ba3.png
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2104.11364
 
 - id: doi:10.1101/2021.05.26.445900
   image: https://user-images.githubusercontent.com/542643/120705507-27a0cf00-c475-11eb-85d5-7458f1edc5ac.png
