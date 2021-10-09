@@ -251,27 +251,32 @@
   date: '2021-06-01'
   link: https://arxiv.org/abs/2105.14372
   image: https://raw.githubusercontent.com/Benjamin-Lee/deep-rules/master/content/images/thumbnail_tips_overview.png
-- id: arxiv:2104.11364
+- id: doi:10.1371/journal.pbio.3001419
   title: A field guide to cultivating computational biology
   authors:
-  - Anne E Carpenter
-  - Casey S Greene
-  - Piero Carnici
-  - Benilton S Carvalho
+  - Gregory P. Way
+  - Casey S. Greene
+  - Piero Carninci
+  - Benilton S. Carvalho
   - Michiel de Hoon
   - Stacey Finley
-  - Kim-Anh Le Cao
-  - Jerry SH Lee
+  - Sara J. C. Gosline
+  - "Kim-Anh L\u0207 Cao"
+  - Jerry S. H. Lee
   - Luigi Marchionni
-  - Suzanne Sindi
-  - Fabian J Theis
-  - Gregory P Way
-  - Jean YH Yang
-  - Elana J Fertig
-  publisher: arXiv
-  date: '2021-04-26'
-  link: https://arxiv.org/abs/2104.11364
+  - Nicolas Robine
+  - Suzanne S. Sindi
+  - Fabian J. Theis
+  - Jean Y. H. Yang
+  - Anne E. Carpenter
+  - Elana J. Fertig
+  publisher: PLOS Biology
+  date: '2021-10-07'
+  link: https://doi.org/gm3hdh
   image: https://user-images.githubusercontent.com/542643/120706674-9d596a80-c476-11eb-9ee4-e0e0d6a95ba3.png
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2104.11364
 - id: doi:10.1101/2021.05.26.445900
   title: 'GenomicSuperSignature: interpretation of RNA-seq experiments through robust,
     efficient comparison to public databases'
