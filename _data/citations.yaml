@@ -1,5 +1,17 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: url:http://ceur-ws.org/Vol-2976/http://ceur-ws.org/Vol-2976/paper-2.pdf
+  title: ''
+  authors: []
+  publisher: ''
+  date: '1900-01-01'
+  link: http://ceur-ws.org/Vol-2976/http://ceur-ws.org/Vol-2976/paper-2.pdf
+  image: https://user-images.githubusercontent.com/8975841/137757668-cf24b018-5539-4969-965f-305fee56b2d3.png
+  extra-links:
+  - type: arxiv
+    link: https://arxiv.org/abs/2109.08633
+  tags:
+  - COVID19
 - id: doi:10.1038/s41592-021-01256-7
   title: Reproducibility standards for machine learning in the life sciences
   authors:
