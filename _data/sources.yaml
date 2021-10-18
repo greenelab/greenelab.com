@@ -1,3 +1,24 @@
+- id: url:http://ceur-ws.org/Vol-2976/paper-2.pdf
+  image: https://user-images.githubusercontent.com/8975841/137757668-cf24b018-5539-4969-965f-305fee56b2d3.png
+  title: An Open-Publishing Response to the COVID-19 Infodemic
+  authors:
+  - Halie M. Rando
+  - Simina M. Boca
+  - Lucy D'Agostino McGowan
+  - Daniel S. Himmelstein
+  - Michael P. Robson
+  - Vincent Rubinetti
+  - Ryan Velazquez
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: Digital Infrastructures for Scholarly Content Objects 2021
+  date: '2021-09-30'
+  extra-links:
+    - type: arxiv
+      link: https://arxiv.org/abs/2109.08633
+  tags:
+    - COVID19
+    
 - id: doi:10.1038/s41592-021-01256-7
   image: https://user-images.githubusercontent.com/15317110/131545249-9b4e2cce-ad60-410a-820f-392490a6bcc9.png
   tags:
