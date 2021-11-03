@@ -243,6 +243,8 @@
   date: '2021-06-29'
   link: https://doi.org/gk5nmb
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
+  tags:
+  - COVID19
 - id: doi:10.1101/2021.06.21.449261
   title: Analysis of scientific journalism in Nature reveals gender and regional disparities
     in coverage
@@ -434,7 +436,8 @@
   - bioRxiv
   - natural language processing
   - machine learning
-- title: Identification and Development of Therapeutics for COVID-19
+- id: doi:10.1128/mSystems.00233-21
+  title: Identification and Development of Therapeutics for COVID-19
   authors:
   - Halie M. Rando
   - Nils Wellhausen
@@ -444,31 +447,27 @@
   - Fengling Hu
   - James Brian Byrd
   - Diane N. Rafizadeh
+  - Ronan Lordan
   - Yanjun Qi
   - Yuchen Sun
+  - Christian Brueffer
   - Jeffrey M. Field
   - Marouen Ben Guebila
   - Nafisa M. Jadavji
-  - Ronan Lordan
   - Ashwin N. Skelly
   - Bharath Ramsundar
-  - Christian Brueffer
   - Jinhui Wang
   - Rishi Raj Goel
   - YoSon Park
-  - COVID-19 Review Consortium
   - Simina M. Boca
   - Anthony Gitter
   - Casey S. Greene
-  publisher: arXiv
-  date: '2021-03-05'
-  link: https://arxiv.org/abs/2103.02723
-  id: arxiv:2103.02723
+  - ' '
+  publisher: mSystems
+  date: '2021-11-02'
+  link: https://doi.org/gnbhqq
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
-  extra-links:
-  - type: preprint
-  - type: arxiv
-    link: https://arxiv.org/abs/2103.02723
+  extra-links: null
   tags:
   - COVID19
 - id: doi:10.1128/mSystems.00122-21
@@ -530,19 +529,21 @@
   image: https://user-images.githubusercontent.com/542643/107096146-4ba21b80-67c7-11eb-9358-eb2e0ffd927c.png
   tags:
   - cancer
-- title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through analysis
+- id: doi:10.1128/mSystems.00095-21
+  title: Pathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through Analysis
     of Viral Genomics and Structure
   authors:
   - Halie M. Rando
   - Adam L. MacLean
   - Alexandra J. Lee
+  - Ronan Lordan
   - Sandipan Ray
   - Vikas Bansal
   - Ashwin N. Skelly
   - Elizabeth Sell
   - John J. Dziak
   - Lamonica Shinholster
-  - Lucy D'Agostino McGowan
+  - "Lucy D\u2019Agostino McGowan"
   - Marouen Ben Guebila
   - Nils Wellhausen
   - Sergey Knyazev
@@ -550,30 +551,26 @@
   - Stephen Capone
   - Yanjun Qi
   - YoSon Park
-  - Yuchen Sun
   - David Mai
+  - Yuchen Sun
+  - Joel D. Boerckel
   - Christian Brueffer
   - James Brian Byrd
+  - Jeremy P. Kamil
   - Jinhui Wang
-  - Ronan Lordan
   - Ryan Velazquez
-  - Gregory L Szeto
+  - Gregory L. Szeto
   - John P. Barton
   - Rishi Raj Goel
   - Serghei Mangul
   - Tiago Lubiana
-  - COVID-19 Review Consortium
   - Anthony Gitter
   - Casey S. Greene
-  publisher: arXiv
-  date: '2021-02-15'
-  link: https://arxiv.org/abs/2102.01521
-  id: arxiv:2102.01521
+  - ' '
+  publisher: mSystems
+  date: '2021-10-26'
+  link: https://doi.org/gm8k9b
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
-  extra-links:
-  - type: preprint
-  - type: arxiv
-    link: https://arxiv.org/abs/2102.01521
   tags:
   - COVID19
 - title: Expanding and Remixing the Metadata Landscape

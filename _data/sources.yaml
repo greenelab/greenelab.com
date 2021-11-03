@@ -52,7 +52,9 @@
 
 - id: doi:10.1101/2021.06.23.21259416
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
-
+  tags:
+    - COVID19
+    
 - id: doi:10.1101/2021.06.21.449261
   image: https://user-images.githubusercontent.com/542643/122943080-f1e45d00-d333-11eb-8b8c-d481ebc554e5.png
 
@@ -106,12 +108,9 @@
     - natural language processing
     - machine learning
 
-- id: arxiv:2103.02723
+- id: doi:10.1128/mSystems.00233-21
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   extra-links:
-    - type: preprint
-    - type: arxiv
-      link: https://arxiv.org/abs/2103.02723
   tags:
     - COVID19
 
@@ -125,12 +124,8 @@
   tags:
     - cancer
 
-- id: arxiv:2102.01521
+- id: doi:10.1128/mSystems.00095-21
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
-  extra-links:
-    - type: preprint
-    - type: arxiv
-      link: https://arxiv.org/abs/2102.01521
   tags:
     - COVID19
 
