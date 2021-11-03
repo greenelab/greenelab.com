@@ -1,3 +1,9 @@
+- id: doi:10.1101/2021.10.27.466140
+  image: https://user-images.githubusercontent.com/2345877/140061720-96b5451a-c9af-493f-85b2-cc4c723d316b.png
+
+- id: 10.1101/2021.10.21.21265225
+  image: https://user-images.githubusercontent.com/172687/140064066-677bad73-ae37-4968-aa77-ad854b6c8251.png
+
 - id: url:http://ceur-ws.org/Vol-2976/paper-2.pdf
   image: https://user-images.githubusercontent.com/8975841/137757668-cf24b018-5539-4969-965f-305fee56b2d3.png
   title: An Open-Publishing Response to the COVID-19 Infodemic
