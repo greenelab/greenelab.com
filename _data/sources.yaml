@@ -50,10 +50,14 @@
   - complex traits
   - drugs
 
-- id: doi:10.1101/2021.06.23.21259416
+- id: doi:10.1016/j.ebiom.2021.103722
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
   tags:
     - COVID19
+  extra-links:
+  - type: preprint
+  - type: medRxiv
+    link: https://www.biorxiv.org/content/2021.06.23.21259416
     
 - id: doi:10.1101/2021.06.21.449261
   image: https://user-images.githubusercontent.com/542643/122943080-f1e45d00-d333-11eb-8b8c-d481ebc554e5.png
@@ -85,7 +89,7 @@
   tags:
     - COVID19
     
-- id: doi:10.1101/2021.03.03.433798
+- id: doi:10.1371/journal.pcbi.1009290
   image: https://raw.githubusercontent.com/greenelab/mito-filtering/master/plots/16030X2_linear_posterior.png
   extra-links:
     - type: preprint
@@ -384,10 +388,11 @@
 - id: doi:10.1016/j.devcel.2019.03.001
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
 
-- id: doi:10.1101/836825
+- id: doi:10.1186/s13059-020-02113-0
   image: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
   extra-links:
     - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/836825v1
 
 - id: doi:10.1126/sciadv.aba2083
   image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
@@ -458,15 +463,17 @@
   extra-links:
     - type: preprint
 
-- id: doi:10.1101/786053
+- id: doi:10.1126/science.aaz5900
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
   extra-links:
     - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/786053v1
 
-- id: doi:10.1101/814350
+- id: doi:10.1186/s13059-020-02252-4
   image: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
   extra-links:
     - type: preprint
+      link: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350
 
 - id: doi:10.1038/d41586-019-00218-6
   image: https://media.nature.com/lw800/magazine-assets/d41586-019-00218-6/d41586-019-00218-6_16402666.jpg

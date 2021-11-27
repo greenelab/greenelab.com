@@ -184,7 +184,7 @@
   date: '2021-08-06'
   link: https://doi.org/10.1101/2021.07.05.450786
   image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
-- id: doi:10.1101/2021.06.23.21259416
+- id: doi:10.1016/j.ebiom.2021.103722
   title: 'Characterizing Long COVID: Deep Phenotype of a Complex Condition'
   authors:
   - Rachel R Deer
@@ -193,58 +193,62 @@
   - Leigh Carmody
   - Halie Rando
   - Alfred J Anzalone
-  - Tiffany J Callahan
+  - Marc D Basson
+  - Tellen D Bennett
+  - Timothy Bergquist
+  - Eilis A Boudreau
   - Carolyn T Bramante
-  - Christopher G Chute
-  - Casey S Greene
-  - Joel Gagnier
+  - James Brian Byrd
+  - Tiffany J Callahan
+  - Lauren E Chan
   - Haitao Chu
-  - Farrukh M Koraishy
-  - Chen Liang
-  - Feifan Liu
-  - Charisse R Madlock-Brown
-  - Diego R Mazzotti
-  - Douglas S McNair
-  - Ann M Parker
+  - Christopher G Chute
   - Ben D Coleman
   - Hannah E Davis
+  - Joel Gagnier
+  - Casey S Greene
+  - William B Hillegass
+  - Ramakanth Kavuluru
+  - Wesley D Kimble
+  - Farrukh M Koraishy
+  - "Sebastian K\xF6hler"
+  - Chen Liang
+  - Feifan Liu
+  - Hongfang Liu
+  - Vithal Madhira
+  - Charisse R Madlock-Brown
+  - Nicolas Matentzoglu
+  - Diego R Mazzotti
+  - Julie A McMurry
+  - Douglas S McNair
+  - Richard A Moffitt
+  - Teshamae S Monteith
+  - Ann M Parker
   - Mallory A Perry
+  - Emily Pfaff
   - Justin T Reese
   - Joel Saltz
-  - Anthony E Solomonides
-  - Anupam A Sule
-  - Gary S Stein
-  - "Sebastian K\xF6hler"
-  - Teshamae S Monteith
-  - Vithal Madhira
-  - Wesley D Kimble
-  - Ramakanth Kavuluru
-  - William B Hillegass
-  - Lauren E Chan
-  - James Brian Byrd
-  - Eilis A Boudreau
-  - Hongfang Liu
-  - Julie A McMurry
-  - Emily Pfaff
-  - Nicolas Matentzoglu
-  - Rose Relevo
-  - Richard A Moffitt
   - Robert A Schuff
+  - Anthony E Solomonides
   - Julian Solway
   - Heidi Spratt
-  - Timothy Bergquist
-  - Tellen D Bennett
-  - Marc D Basson
+  - Gary S Stein
+  - Anupam A Sule
   - Umit Topaloglu
+  - George D. Vavougios
   - Liwei Wang
   - Melissa A Haendel
   - Peter N Robinson
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-06-29'
-  link: https://doi.org/gk5nmb
+  publisher: EBioMedicine
+  date: '2021-12-01'
+  link: https://doi.org/gnmkm7
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - COVID19
+  extra-links:
+  - type: preprint
+  - type: medRxiv
+    link: https://www.biorxiv.org/content/2021.06.23.21259416
 - id: doi:10.1101/2021.06.21.449261
   title: Analysis of scientific journalism in Nature reveals gender and regional disparities
     in coverage
@@ -389,7 +393,8 @@
     link: https://www.medrxiv.org/content/10.1101/2021.03.20.21253896v1
   tags:
   - COVID19
-- title: 'miQC: An adaptive probabilistic framework for quality control of single-cell
+- id: doi:10.1371/journal.pcbi.1009290
+  title: 'miQC: An adaptive probabilistic framework for quality control of single-cell
     RNA-sequencing data'
   authors:
   - Ariel A. Hippen
@@ -401,10 +406,9 @@
   - "Anna V\xE4h\xE4rautio"
   - Casey S. Greene
   - Stephanie C. Hicks
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-03-03'
-  link: https://doi.org/gjb778
-  id: doi:10.1101/2021.03.03.433798
+  publisher: PLOS Computational Biology
+  date: '2021-08-24'
+  link: https://doi.org/gng37g
   image: https://raw.githubusercontent.com/greenelab/mito-filtering/master/plots/16030X2_linear_posterior.png
   extra-links:
   - type: preprint
@@ -1857,19 +1861,21 @@
   link: https://doi.org/gg3jcv
   id: doi:10.1016/j.devcel.2019.03.001
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
-- title: Impact of admixture and ancestry on eQTL analysis and GWAS colocalization
+- id: doi:10.1186/s13059-020-02113-0
+  title: Impact of admixture and ancestry on eQTL analysis and GWAS colocalization
     in GTEx
   authors:
   - Nicole R. Gay
   - Michael Gloudemans
   - Margaret L. Antonio
+  - Nathan S. Abell
   - Brunilda Balliu
   - YoSon Park
   - Alicia R. Martin
   - Shaila Musharoff
-  - Abhiram Rao
+  - Abhiram S. Rao
   - "Fran\xE7ois Aguet"
-  - Alvaro Barbeira
+  - Alvaro N. Barbeira
   - Rodrigo Bonazzola
   - Farhad Hormozdiari
   - Kristin G. Ardlie
@@ -1879,13 +1885,13 @@
   - Xiaoquan Wen
   - Stephen B. Montgomery
   - ' '
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-11-09'
-  link: https://doi.org/gg7m55
-  id: doi:10.1101/836825
+  publisher: Genome Biology
+  date: '2020-09-11'
+  link: https://doi.org/ghxddg
   image: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
   extra-links:
   - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/836825v1
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
   - Milton Pividori
@@ -2347,44 +2353,62 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/787903/F1.medium.gif
   extra-links:
   - type: preprint
-- title: Diverse transcriptomic signatures across human tissues identify functional
-    rare genetic variation
+- id: doi:10.1126/science.aaz5900
+  title: Transcriptomic signatures across human tissues identify functional rare genetic
+    variation
   authors:
   - Nicole M. Ferraro
   - Benjamin J. Strober
   - Jonah Einson
-  - Xin Li
+  - Nathan S. Abell
   - Francois Aguet
   - Alvaro N. Barbeira
+  - Margot Brandt
+  - Maja Bucan
   - Stephane E. Castel
   - Joe R. Davis
+  - Emily Greenwald
+  - Gaelen T. Hess
   - Austin T. Hilliard
+  - Rachel L. Kember
   - Bence Kotis
   - YoSon Park
+  - Gina Peloso
+  - Shweta Ramdas
   - Alexandra J. Scott
   - Craig Smail
   - Emily K. Tsang
+  - Seyedeh M. Zekavat
+  - Marcello Ziosi
+  - ' Aradhana'
   - Kristin G. Ardlie
   - Themistocles L. Assimes
+  - Michael C. Bassik
+  - Christopher D. Brown
+  - Adolfo Correa
   - Ira Hall
   - Hae Kyung Im
+  - Xin Li
+  - Pradeep Natarajan
   - Tuuli Lappalainen
   - Pejman Mohammadi
   - Stephen B. Montgomery
   - Alexis Battle
   - ' '
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-10-03'
-  link: https://doi.org/gg7m5z
-  id: doi:10.1101/786053
+  - ' '
+  publisher: Science
+  date: '2020-09-11'
+  link: https://doi.org/ghxdfd
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
   extra-links:
   - type: preprint
-- title: Exploiting the GTEx resources to decipher the mechanisms at GWAS loci
+    link: https://www.biorxiv.org/content/10.1101/786053v1
+- id: doi:10.1186/s13059-020-02252-4
+  title: Exploiting the GTEx resources to decipher the mechanisms at GWAS loci
   authors:
-  - Alvaro N Barbeira
+  - Alvaro N. Barbeira
   - Rodrigo Bonazzola
-  - Eric R Gamazon
+  - Eric R. Gamazon
   - Yanyu Liang
   - YoSon Park
   - Sarah Kim-Hellmuth
@@ -2394,31 +2418,31 @@
   - Farhad Hormozdiari
   - Boxiang Liu
   - Abhiram Rao
-  - Andrew R Hamel
-  - Milton D Pividori
+  - Andrew R. Hamel
+  - Milton D. Pividori
   - "Fran\xE7ois Aguet"
   - Lisa Bastarache
-  - Daniel M Jordan
+  - Daniel M. Jordan
   - Marie Verbanck
   - Ron Do
   - Matthew Stephens
   - Kristin Ardlie
   - Mark McCarthy
-  - Stephen B Montgomery
-  - "Ayellet V Segr\xE8"
+  - Stephen B. Montgomery
+  - "Ayellet V. Segr\xE8"
   - Christopher D. Brown
   - Tuuli Lappalainen
   - Xiaoquan Wen
   - Hae Kyung Im
   - ' '
   - ' '
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-05-23'
-  link: https://doi.org/gg7m54
-  id: doi:10.1101/814350
+  publisher: Genome Biology
+  date: '2021-01-26'
+  link: https://doi.org/ghxdc9
   image: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
   extra-links:
   - type: preprint
+    link: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350
 - title: Technologies to watch in 2019
   authors:
   - Marissa Fessenden
