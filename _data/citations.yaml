@@ -184,7 +184,7 @@
   date: '2021-08-06'
   link: https://doi.org/10.1101/2021.07.05.450786
   image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
-- id: doi:10.1101/2021.06.23.21259416
+- id: doi:10.1016/j.ebiom.2021.103722
   title: 'Characterizing Long COVID: Deep Phenotype of a Complex Condition'
   authors:
   - Rachel R Deer
@@ -193,58 +193,62 @@
   - Leigh Carmody
   - Halie Rando
   - Alfred J Anzalone
-  - Tiffany J Callahan
+  - Marc D Basson
+  - Tellen D Bennett
+  - Timothy Bergquist
+  - Eilis A Boudreau
   - Carolyn T Bramante
-  - Christopher G Chute
-  - Casey S Greene
-  - Joel Gagnier
+  - James Brian Byrd
+  - Tiffany J Callahan
+  - Lauren E Chan
   - Haitao Chu
-  - Farrukh M Koraishy
-  - Chen Liang
-  - Feifan Liu
-  - Charisse R Madlock-Brown
-  - Diego R Mazzotti
-  - Douglas S McNair
-  - Ann M Parker
+  - Christopher G Chute
   - Ben D Coleman
   - Hannah E Davis
+  - Joel Gagnier
+  - Casey S Greene
+  - William B Hillegass
+  - Ramakanth Kavuluru
+  - Wesley D Kimble
+  - Farrukh M Koraishy
+  - "Sebastian K\xF6hler"
+  - Chen Liang
+  - Feifan Liu
+  - Hongfang Liu
+  - Vithal Madhira
+  - Charisse R Madlock-Brown
+  - Nicolas Matentzoglu
+  - Diego R Mazzotti
+  - Julie A McMurry
+  - Douglas S McNair
+  - Richard A Moffitt
+  - Teshamae S Monteith
+  - Ann M Parker
   - Mallory A Perry
+  - Emily Pfaff
   - Justin T Reese
   - Joel Saltz
-  - Anthony E Solomonides
-  - Anupam A Sule
-  - Gary S Stein
-  - "Sebastian K\xF6hler"
-  - Teshamae S Monteith
-  - Vithal Madhira
-  - Wesley D Kimble
-  - Ramakanth Kavuluru
-  - William B Hillegass
-  - Lauren E Chan
-  - James Brian Byrd
-  - Eilis A Boudreau
-  - Hongfang Liu
-  - Julie A McMurry
-  - Emily Pfaff
-  - Nicolas Matentzoglu
-  - Rose Relevo
-  - Richard A Moffitt
   - Robert A Schuff
+  - Anthony E Solomonides
   - Julian Solway
   - Heidi Spratt
-  - Timothy Bergquist
-  - Tellen D Bennett
-  - Marc D Basson
+  - Gary S Stein
+  - Anupam A Sule
   - Umit Topaloglu
+  - George D. Vavougios
   - Liwei Wang
   - Melissa A Haendel
   - Peter N Robinson
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-06-29'
-  link: https://doi.org/gk5nmb
+  publisher: EBioMedicine
+  date: '2021-12-01'
+  link: https://doi.org/gnmkm7
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - COVID19
+  extra-links:
+  - type: preprint
+  - type: medRxiv
+    link: https://www.biorxiv.org/content/2021.06.23.21259416
 - id: doi:10.1101/2021.06.21.449261
   title: Analysis of scientific journalism in Nature reveals gender and regional disparities
     in coverage
