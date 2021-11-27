@@ -2403,11 +2403,12 @@
   extra-links:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/786053v1
-- title: Exploiting the GTEx resources to decipher the mechanisms at GWAS loci
+- id: doi:10.1186/s13059-020-02252-4
+  title: Exploiting the GTEx resources to decipher the mechanisms at GWAS loci
   authors:
-  - Alvaro N Barbeira
+  - Alvaro N. Barbeira
   - Rodrigo Bonazzola
-  - Eric R Gamazon
+  - Eric R. Gamazon
   - Yanyu Liang
   - YoSon Park
   - Sarah Kim-Hellmuth
@@ -2417,31 +2418,31 @@
   - Farhad Hormozdiari
   - Boxiang Liu
   - Abhiram Rao
-  - Andrew R Hamel
-  - Milton D Pividori
+  - Andrew R. Hamel
+  - Milton D. Pividori
   - "Fran\xE7ois Aguet"
   - Lisa Bastarache
-  - Daniel M Jordan
+  - Daniel M. Jordan
   - Marie Verbanck
   - Ron Do
   - Matthew Stephens
   - Kristin Ardlie
   - Mark McCarthy
-  - Stephen B Montgomery
-  - "Ayellet V Segr\xE8"
+  - Stephen B. Montgomery
+  - "Ayellet V. Segr\xE8"
   - Christopher D. Brown
   - Tuuli Lappalainen
   - Xiaoquan Wen
   - Hae Kyung Im
   - ' '
   - ' '
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-05-23'
-  link: https://doi.org/gg7m54
-  id: doi:10.1101/814350
+  publisher: Genome Biology
+  date: '2021-01-26'
+  link: https://doi.org/ghxdc9
   image: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
   extra-links:
   - type: preprint
+    link: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350
 - title: Technologies to watch in 2019
   authors:
   - Marissa Fessenden
