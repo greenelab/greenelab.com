@@ -1861,19 +1861,21 @@
   link: https://doi.org/gg3jcv
   id: doi:10.1016/j.devcel.2019.03.001
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
-- title: Impact of admixture and ancestry on eQTL analysis and GWAS colocalization
+- id: doi:10.1186/s13059-020-02113-0
+  title: Impact of admixture and ancestry on eQTL analysis and GWAS colocalization
     in GTEx
   authors:
   - Nicole R. Gay
   - Michael Gloudemans
   - Margaret L. Antonio
+  - Nathan S. Abell
   - Brunilda Balliu
   - YoSon Park
   - Alicia R. Martin
   - Shaila Musharoff
-  - Abhiram Rao
+  - Abhiram S. Rao
   - "Fran\xE7ois Aguet"
-  - Alvaro Barbeira
+  - Alvaro N. Barbeira
   - Rodrigo Bonazzola
   - Farhad Hormozdiari
   - Kristin G. Ardlie
@@ -1883,13 +1885,13 @@
   - Xiaoquan Wen
   - Stephen B. Montgomery
   - ' '
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-11-09'
-  link: https://doi.org/gg7m55
-  id: doi:10.1101/836825
+  publisher: Genome Biology
+  date: '2020-09-11'
+  link: https://doi.org/ghxddg
   image: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
   extra-links:
   - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/836825v1
 - title: 'PhenomeXcan: Mapping the genome to the phenome through the transcriptome'
   authors:
   - Milton Pividori
