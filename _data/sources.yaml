@@ -50,10 +50,14 @@
   - complex traits
   - drugs
 
-- id: doi:10.1101/2021.06.23.21259416
+- id: doi:10.1016/j.ebiom.2021.103722
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
   tags:
     - COVID19
+  extra-links:
+  - type: preprint
+  - type: medRxiv
+    link: https://www.biorxiv.org/content/2021.06.23.21259416
     
 - id: doi:10.1101/2021.06.21.449261
   image: https://user-images.githubusercontent.com/542643/122943080-f1e45d00-d333-11eb-8b8c-d481ebc554e5.png
