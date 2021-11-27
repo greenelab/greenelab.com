@@ -469,11 +469,11 @@
     - type: preprint
       link: https://www.biorxiv.org/content/10.1101/786053v1
 
-- id: doi:0.1186/s13059-020-02252-4
+- id: doi:10.1186/s13059-020-02252-4
   image: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
   extra-links:
     - type: preprint
-      link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02252-4
+      link: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350
 
 - id: doi:10.1038/d41586-019-00218-6
   image: https://media.nature.com/lw800/magazine-assets/d41586-019-00218-6/d41586-019-00218-6_16402666.jpg
