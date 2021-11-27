@@ -388,10 +388,11 @@
 - id: doi:10.1016/j.devcel.2019.03.001
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
 
-- id: doi:10.1101/836825
+- id: doi:10.1186/s13059-020-02113-0
   image: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
   extra-links:
     - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/836825v1
 
 - id: doi:10.1126/sciadv.aba2083
   image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
