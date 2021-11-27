@@ -462,10 +462,11 @@
   extra-links:
     - type: preprint
 
-- id: doi:10.1101/786053
+- id: doi:10.1126/science.aaz5900
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
   extra-links:
     - type: preprint
+      link: https://www.biorxiv.org/content/10.1101/786053v1
 
 - id: doi:10.1101/814350
   image: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
