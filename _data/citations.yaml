@@ -2351,39 +2351,56 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/787903/F1.medium.gif
   extra-links:
   - type: preprint
-- title: Diverse transcriptomic signatures across human tissues identify functional
-    rare genetic variation
+- id: doi:10.1126/science.aaz5900
+  title: Transcriptomic signatures across human tissues identify functional rare genetic
+    variation
   authors:
   - Nicole M. Ferraro
   - Benjamin J. Strober
   - Jonah Einson
-  - Xin Li
+  - Nathan S. Abell
   - Francois Aguet
   - Alvaro N. Barbeira
+  - Margot Brandt
+  - Maja Bucan
   - Stephane E. Castel
   - Joe R. Davis
+  - Emily Greenwald
+  - Gaelen T. Hess
   - Austin T. Hilliard
+  - Rachel L. Kember
   - Bence Kotis
   - YoSon Park
+  - Gina Peloso
+  - Shweta Ramdas
   - Alexandra J. Scott
   - Craig Smail
   - Emily K. Tsang
+  - Seyedeh M. Zekavat
+  - Marcello Ziosi
+  - ' Aradhana'
   - Kristin G. Ardlie
   - Themistocles L. Assimes
+  - Michael C. Bassik
+  - Christopher D. Brown
+  - Adolfo Correa
   - Ira Hall
   - Hae Kyung Im
+  - Xin Li
+  - Pradeep Natarajan
   - Tuuli Lappalainen
   - Pejman Mohammadi
   - Stephen B. Montgomery
   - Alexis Battle
   - ' '
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-10-03'
-  link: https://doi.org/gg7m5z
-  id: doi:10.1101/786053
+  - ' '
+  publisher: Science
+  date: '2020-09-11'
+  link: https://doi.org/ghxdfd
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
   extra-links:
   - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/786053v1
 - title: Exploiting the GTEx resources to decipher the mechanisms at GWAS loci
   authors:
   - Alvaro N Barbeira
