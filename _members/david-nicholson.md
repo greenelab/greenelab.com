@@ -5,9 +5,11 @@ aliases:
 image: images/team/david.jpg
 role: phd
 links:
+  home-page: https://danich1.github.io
   orcid: 0000-0003-0002-5761
-  email: davnic@mail.med.upenn.edu
+  email: dnicholson329@gmail.com
   github: danich1
+  twitter: dnicholson329
 ---
 
 David is a Ph.D. student in the Greene Lab through [Penn’s Genomics and Computational Biology (GCB) PhD Program](https://www.med.upenn.edu/gcb/).
