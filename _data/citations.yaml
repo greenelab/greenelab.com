@@ -1,5 +1,30 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1101/2022.01.24.477642
+  title: Computationally efficient assembly of a Pseudomonas aeruginosa gene expression
+    compendium
+  authors:
+  - Georgia Doing
+  - Alexandra J. Lee
+  - Samuel L. Neff
+  - Jacob D. Holt
+  - Bruce A. Stanton
+  - Casey S. Greene
+  - Deborah A. Hogan
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-01-25'
+  link: https://doi.org/gn984c
+  image: https://user-images.githubusercontent.com/542643/151672991-f0d02080-a780-4c79-a793-e27a7c0b4144.png
+- id: doi:10.1038/s41562-021-01279-2
+  title: Computational audits combat disparities in recognition
+  authors:
+  - Ariel A. Hippen
+  - Natalie R. Davidson
+  - Casey S. Greene
+  publisher: Nature Human Behaviour
+  date: '2022-01-17'
+  link: https://doi.org/gn984d
+  image: https://user-images.githubusercontent.com/542643/151673050-2dbf666a-eb90-4891-b26e-486131af8fc6.png
 - id: doi:10.1101/2021.10.27.466140
   title: Prediction of cancer mutation states using multiple data modalities reveals
     the utility and consistency of gene expression and DNA methylation
