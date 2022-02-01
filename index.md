@@ -21,14 +21,20 @@ We focus on bringing together publicly available [big data](https://en.wikipedia
 We use data science to answer important questions in biology and medicine.
 In all of our research, we prioritize transparency, rigor, and reproducibility.
 
-[See what we've published &nbsp;→](research)
+{%
+  include link.html
+  link="research"
+  text="See what we've published"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
 {:.center}
 {% endcapture %}
 {%
   include feature.html
   image="images/backgrounds/laptop-paper.jpg"
   link="research"
-  headline="Biology + AI → insight"
+  title="Biology + AI → insight"
   text=text
 %}
 
@@ -36,7 +42,13 @@ In all of our research, we prioritize transparency, rigor, and reproducibility.
 We believe that anyone around the world should be able to use and extend our work.
 We push to make software, tools, datasets, etc. that are freely available and openly licensed.
 
-[See our highlighted resources &nbsp;→](resources)
+{%
+  include link.html
+  link="tools"
+  text="See our highlighted resources"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
 {:.center}
 {% endcapture %}
 
@@ -44,7 +56,8 @@ We push to make software, tools, datasets, etc. that are freely available and op
   include feature.html
   image="images/home/code-photo.jpg"
   link="resources"
-  headline="Open source, all the way"
+  title="Open source, all the way"
+  flip=true
   text=text
 %}
 
@@ -52,13 +65,22 @@ We push to make software, tools, datasets, etc. that are freely available and op
 We are a team of enthusiastic researchers that want to push the frontier of data science.
 We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
-[Meet our team &nbsp;→](team)
+{%
+  include link.html
+  link="team"
+  text="Meet our team"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
 {:.center}
 {% endcapture %}
 {%
   include feature.html
   image="images/team/group-photo-2.jpg"
   link="team"
-  headline="The next generation of data scientists"
+  title="The next generation of data scientists"
   text=text
 %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

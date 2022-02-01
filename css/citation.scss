@@ -9,6 +9,7 @@
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
+  gap: 40px;
   width: 100%;
   max-width: 100%;
   margin: 30px 0;
@@ -26,7 +27,6 @@
     width: 120px;
     height: 120px;
     max-width: 100%;
-    margin-right: 40px;
     flex-shrink: 0;
     overflow: hidden;
     box-shadow: $shadow;
@@ -39,6 +39,11 @@
   }
 
   .citation_text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 15px;
     width: 0;
     flex-grow: 1;
 
@@ -46,19 +51,18 @@
       font-weight: $semi-bold;
     }
 
-    .citation_title:not(:last-child),
-    .citation_authors:not(:last-child),
-    .citation_details:not(:last-child) {
-      margin-bottom: 15px;
-    }
-
-    .tags:not(:last-child) {
-      margin-bottom: 5px;
+    .tags {
+      justify-content: flex-start;
+      margin: 0;
     }
 
     .citation_links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+
       .link {
-        vertical-align: bottom;
+        margin: 0;
       }
     }
   }
@@ -70,8 +74,6 @@
     .citation_image {
       width: 200px;
       height: 200px;
-      margin: 0;
-      margin-bottom: 20px;
     }
 
     .citation_text {

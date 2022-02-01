@@ -7,8 +7,11 @@
 
 .portrait {
   position: relative;
-  @include inline-flex-center;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
   flex-direction: column;
+  gap: 10px;
   width: var(--width);
   margin: calc(20 * var(--width) / 150);
   text-align: center;
@@ -30,18 +33,16 @@
     }
   }
 
-  .portrait_name,
-  .portrait_description {
-    font-family: $sans;
-    font-size: 0.9rem;
-  }
-
   .portrait_name {
+    font-family: $sans;
+    font-size: 1rem;
     font-weight: $medium;
   }
 
-  .portrait_image + span {
-    margin-top: 10px;
+  .portrait_description {
+    margin-top: -10px;
+    font-family: $sans;
+    font-size: 0.9rem;
   }
 
   .role {
@@ -59,5 +60,6 @@
     color: $gray-500;
     border-radius: 999px;
     transform: translate(-50%, -50%);
+    box-shadow: $shadow;
   }
 }
