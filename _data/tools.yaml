@@ -1,103 +1,105 @@
-- name: Adage
+- title: Adage
   group: featured
   image: images/tools/adage.jpg
   link: https://adage.greenelab.com/
   description: Adage helps you explore gene expression data and discover new insights from machine learning models. See how genes relate to each other, other genes, and how they are represented in machine learning signatures. View the activities of samples as a colored heatmap, and cluster them on the fly. Explore the genes that contribute to signatures, the experiments in which they vary the most, and the pathways they significantly overlap with.
   repo: greenelab/adage-frontend
 
-- name: Preprint Similarity Search
+- title: Preprint Similarity Search
   group: featured
   image: images/tools/preprint-similarity-search.png
   link: https://greenelab.github.io/preprint-similarity-search/
   description: Preprint Similarity Search uses a machine learning model trained on 1.7 million PubMed Central open access documents to find similar papers and journals based on the textual content of your bioRxiv or medRxiv preprint. These results can be used as a starting point when searching for a place to publish your paper.
   repo: greenelab/preprint-similarity-search
 
-- name: Connectivity Search
+- title: Connectivity Search
   group: featured
   image: images/tools/connectivity-search.png
   link: https://het.io/search/
   description: Connectivity search allows you to find the most important paths connecting any two nodes in Hetionet, even when they are different types or not known to be related. If you want to investigate how the eye and breast cancer may be related, you can. Filter nodes by group, see computed significance data about paths, create graph visualizations with highlighted paths, and more.
   repo: greenelab/connectivity-search-frontend
 
-- name: Manubot
+- title: Manubot
   group: featured
   image: images/tools/manubot.png
   link: https://manubot.org/
   description: Manubot is a workflow and set of tools for the next generation of scholarly publishing. Write your manuscript in markdown, track it with git, automatically convert it to .html, .pdf, or .docx, and deploy it to your destination of choice.
   repo: manubot/rootstock
 
-- name: Lab Website Template
+- title: Lab Website Template
   group: featured
   image: https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true
   link: https://github.com/greenelab/lab-website-template
   description: What this website is built on! An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more. Spend less time reinventing the wheel, and more time running your lab.
   repo: greenelab/lab-website-template
+  tags:
+    - resource
 
-- name: ponyo
+- title: ponyo
   group: more
   image: https://raw.githubusercontent.com/greenelab/ponyo/master/logo.png
   link: https://pypi.org/project/ponyo/
   description: A method to simulate gene expression data using a generative neural network trained on existing gene expression data to learn a representation of expression patterns.
   repo: greenelab/ponyo
 
-- name: hclust
+- title: hclust
   group: more
   link: https://github.com/greenelab/hclust
   description: A JavaScript npm package for agglomerative hierarchical clustering.
   repo: greenelab/hclust
 
-- name: Intro to SVGs
+- title: Intro to SVGs
   group: more
   image: https://vincerubinetti.github.io/intro-to-svgs/share-thumbnail.png
   link: https://vincerubinetti.github.io/intro-to-svgs/
   description: An introduction to the Scalable Vector Graphics (SVG) image format, aimed at people in academia.
   repo: vincerubinetti/intro-to-svgs
 
-- name: SVG to PNG
+- title: SVG to PNG
   group: more
   image: images/tools/svg-to-png.png
   link: https://vincerubinetti.github.io/svg-to-png/
   description: Convert SVG to PNG right in your browser, reliably and correctly.
   repo: vincerubinetti/svg-to-png
 
-- name: Childhood Cancer Data Lab
+- title: Childhood Cancer Data Lab
   group: other
   image: images/tools/ccdl.png
   link: https://www.ccdatalab.org/projects
   description: Turning researchers who fight childhood cancer into data wizards.
 
-- name: Hetio
+- title: Hetio
   group: other
   image: https://het.io/share-thumbnail.png
   link: https://github.com/hetio
   description: Hetnet-related research, tools, and datasets including Hetionet.
 
-- name: Manubot
+- title: Manubot
   group: other
   image: https://manubot.org/share-thumbnail.png
   link: https://github.com/manubot
   description: "The next generation of scholarly publishing: open, collaborative, reproducible, free."
 
-- name: Tribe
+- title: Tribe
   group: legacy
   image: images/tools/tribe.png
   link: https://tribe.greenelab.com/
   description: Seamlessly mine data across bioinformatics systems. Tribe stores the findings of your research as collections of genes.
   repo: greenelab/tribe
 
-- name: IMP
+- title: IMP
   group: legacy
   image: images/tools/imp.png
   link: http://imp.princeton.edu/
   description: IMP helps researchers identify new gene-gene and gene-process associations that are supported by existing data but currently unannotated.
 
-- name: GIANT
+- title: GIANT
   group: legacy
   image: images/tools/giant.png
   link: http://giant.princeton.edu/
   description: GIANT helps researchers identify which genes are working together in specific tissues. This tissue-specific lens into human biology helps researchers study complex human diseases.
 
-- name: Nano-dissection
+- title: Nano-dissection
   group: legacy
   image: images/tools/nano-dissection.png
   link: http://nano.princeton.edu/

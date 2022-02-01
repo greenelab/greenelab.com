@@ -11,10 +11,6 @@
   {%- assign dark = true -%}
 {%- endif -%}
 
-{%- assign title = site.logo-text -%}
-{%- if title == nil -%}
-  {%- assign title = site.title -%}
-{%- endif -%}
 
 <header {% if background %}class="background"{% endif %} {% if background %}style="--background: url('{{ background | relative_url }}')"{% endif %} data-dark="{{ dark }}">
   {% include fullscreen.html %}
@@ -24,8 +20,13 @@
     data-tooltip="Home"
   >
     <object data="{{ site.logo | relative_url }}" class="logo"></object>
-    {% if title and title != "" %}
-      <span class="logo_text">{{ title }}</span>
+    {% if site.logo-text != false %}
+      <span class="logo_text">
+        <span class="logo_title">{{ site.title }}</span>
+        {% if site.subtitle %}
+          <span class="logo_subtitle">{{ site.subtitle }}</span>
+        {% endif %}
+      </span>
     {% endif %}
   </a>
   <nav class="nav_row">
