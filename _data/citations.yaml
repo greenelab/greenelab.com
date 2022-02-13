@@ -1,5 +1,19 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1371/journal.pcbi.1009757
+  title: Ten simple rules for large-scale data processing
+  authors:
+  - Arkarachai Fungtammasan
+  - Alexandra Lee
+  - Jaclyn Taroni
+  - Kurt Wheeler
+  - Chen-Shan Chin
+  - Sean Davis
+  - Casey Greene
+  publisher: PLOS Computational Biology
+  date: '2022-02-10'
+  link: https://doi.org/gpfpf4
+  image: https://user-images.githubusercontent.com/542643/153752465-a788f7d3-707c-4804-91f5-04ad1aebaed4.png
 - id: doi:10.1101/2022.01.24.477642
   title: Computationally efficient assembly of a Pseudomonas aeruginosa gene expression
     compendium
