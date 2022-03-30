@@ -326,14 +326,14 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-05-24'
   link: https://doi.org/gj6qv4
-  image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/Fig-1A-SOPHIE%20workflow.svg
-- id: arxiv:2105.14372
+  image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_1.png
   extra-links:
     - type: preprint
       link: https://doi.org/gj6qv4
     - type: source
       link: https://github.com/greenelab/generic-expression-patterns
       text: SOPHIE
+- id: arxiv:2105.14372
   title: Ten Quick Tips for Deep Learning in Biology
   authors:
   - Benjamin D. Lee
@@ -356,9 +356,9 @@
   - Benjamin J. Lengerich
   - Timothy J. Triche
   - Simina M. Boca
-  publisher: arXiv
-  date: '2021-06-01'
-  link: https://arxiv.org/abs/2105.14372
+  publisher: PLOS Computational Biology
+  date: '2022-03-24'
+  link: https://doi.org/10.1371/journal.pcbi.1009803
   image: https://raw.githubusercontent.com/Benjamin-Lee/deep-rules/master/content/images/thumbnail_tips_overview.png
 - id: doi:10.1371/journal.pbio.3001419
   title: A field guide to cultivating computational biology
