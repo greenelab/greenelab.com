@@ -20,28 +20,28 @@
   image: https://user-images.githubusercontent.com/8975841/137757668-cf24b018-5539-4969-965f-305fee56b2d3.png
   title: An Open-Publishing Response to the COVID-19 Infodemic
   authors:
-    - Halie M. Rando
-    - Simina M. Boca
-    - Lucy D'Agostino McGowan
-    - Daniel S. Himmelstein
-    - Michael P. Robson
-    - Vincent Rubinetti
-    - Ryan Velazquez
-    - Casey S. Greene
-    - Anthony Gitter
+  - Halie M. Rando
+  - Simina M. Boca
+  - Lucy D'Agostino McGowan
+  - Daniel S. Himmelstein
+  - Michael P. Robson
+  - Vincent Rubinetti
+  - Ryan Velazquez
+  - Casey S. Greene
+  - Anthony Gitter
   publisher: Digital Infrastructures for Scholarly Content Objects 2021
-  date: "2021-09-30"
+  date: '2021-09-30'
   extra-links:
     - type: arxiv
       link: https://arxiv.org/abs/2109.08633
   tags:
     - COVID19
-
+    
 - id: doi:10.1038/s41592-021-01256-7
   image: https://user-images.githubusercontent.com/15317110/131545249-9b4e2cce-ad60-410a-820f-392490a6bcc9.png
   tags:
-    - reproducibility
-    - machine learning
+  - reproducibility
+  - machine learning
 
 - id: doi:10.1200/CCI.21.00040
   image: https://user-images.githubusercontent.com/542643/131275719-cc94220d-35c9-4608-a1ca-26116dff6b0c.png
@@ -52,25 +52,25 @@
 - id: doi:10.1101/2021.07.05.450786
   image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
   extra-links:
-    - type: preprint
-    - type: biorxiv
-      link: https://www.biorxiv.org/content/10.1101/2021.07.05.450786v2
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2021.07.05.450786v2
   tags:
-    - gene modules
-    - twas
-    - gwas
-    - complex traits
-    - drugs
+  - gene modules
+  - twas
+  - gwas
+  - complex traits
+  - drugs
 
 - id: doi:10.1016/j.ebiom.2021.103722
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
   tags:
     - COVID19
   extra-links:
-    - type: preprint
-    - type: medRxiv
-      link: https://www.biorxiv.org/content/2021.06.23.21259416
-
+  - type: preprint
+  - type: medRxiv
+    link: https://www.biorxiv.org/content/2021.06.23.21259416
+    
 - id: doi:10.1101/2021.06.21.449261
   image: https://user-images.githubusercontent.com/542643/122943080-f1e45d00-d333-11eb-8b8c-d481ebc554e5.png
 
@@ -86,13 +86,13 @@
 - id: doi:10.1371/journal.pbio.3001419
   image: https://user-images.githubusercontent.com/542643/120706674-9d596a80-c476-11eb-9ee4-e0e0d6a95ba3.png
   extra-links:
-    - type: preprint
-      link: https://arxiv.org/abs/2104.11364
+  - type: preprint
+    link: https://arxiv.org/abs/2104.11364
 
 - id: doi:10.1101/2021.05.26.445900
   image: https://user-images.githubusercontent.com/542643/120705507-27a0cf00-c475-11eb-85d5-7458f1edc5ac.png
 
-- id: doi:10.1101/2021.03.20.21253896
+- id: doi:10.1101/2021.03.20.21253896 
   image: https://user-images.githubusercontent.com/8975841/112666874-013a3400-8e33-11eb-9be9-5c74f3e397ea.png
   extra-links:
     - type: preprint
@@ -100,7 +100,7 @@
       link: https://www.medrxiv.org/content/10.1101/2021.03.20.21253896v1
   tags:
     - COVID19
-
+    
 - id: doi:10.1371/journal.pcbi.1009290
   image: https://raw.githubusercontent.com/greenelab/mito-filtering/master/plots/16030X2_linear_posterior.png
   extra-links:
