@@ -20,8 +20,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          ref: ${{ github.head_ref }}
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
@@ -36,3 +34,4 @@ jobs:
           file_pattern: "_data/citations.yaml"
           commit_message: "Generate citations"
           push_options: --force
+          skip_checkout: true
