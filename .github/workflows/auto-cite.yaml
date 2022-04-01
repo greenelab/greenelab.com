@@ -9,6 +9,9 @@ on:
   pull_request:
     paths:
       - "_data/sources.yaml"
+  pull_request_target:
+    paths:
+      - "_data/sources.yaml"
 
 jobs:
   update_research:
