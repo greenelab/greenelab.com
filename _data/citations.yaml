@@ -1,17 +1,17 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: arxiv:2203.13946v1
+- id: arxiv:2203.13946
   title: Using genome-wide expression compendia to study microorganisms
   authors:
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
-  - ' '
+  - Alexandra J. Lee
+  - Taylor Reiter
+  - Georgia Doing
+  - Julia Oh
+  - Deborah A. Hogan
+  - Casey S. Greene
   publisher: arXiv
-  date: '2022-03-26'
-  link: https://arxiv.org/abs/2203.13946v1
+  date: '2022-03-29'
+  link: https://arxiv.org/abs/2203.13946
   image: https://user-images.githubusercontent.com/13107360/161335013-5e0f1f87-66d4-4b05-ad29-b56a877ff05a.svg
 - id: doi:10.1371/journal.pcbi.1009757
   title: Ten simple rules for large-scale data processing
