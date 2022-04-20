@@ -1,5 +1,24 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1101/2022.04.14.488429
+  title: Compendium-wide analysis of <i>P. aeruginosa</i> core and accessory genes
+    reveal more nuanced transcriptional patterns
+  authors:
+  - Alexandra J. Lee
+  - Georgia Doing
+  - Samuel L. Neff
+  - Taylor Reiter
+  - Deborah A. Hogan
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-15'
+  link: https://doi.org/gpxkwr
+  image: https://raw.githubusercontent.com/greenelab/core-accessory-interactome/bf157513ab5041f8d0bf70766e79df2f06ea7bca/figure_generation/output/figure_1.svg
+  extra-links:
+  - type: preprint
+    link: 10.1101/2022.04.14.488429
+  - type: source
+    link: https://github.com/greenelab/core-accessory-interactome
 - id: arxiv:2203.13946
   title: Using genome-wide expression compendia to study microorganisms
   authors:
