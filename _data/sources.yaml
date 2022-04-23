@@ -20,6 +20,9 @@
 
 - id: doi:10.1101/2021.10.27.466140
   image: https://user-images.githubusercontent.com/2345877/140061720-96b5451a-c9af-493f-85b2-cc4c723d316b.png
+  extra-links:
+    - type: source
+      link: https://github.com/greenelab/mpmp
 
 - id: 10.1101/2021.10.21.21265225
   image: https://user-images.githubusercontent.com/172687/140064066-677bad73-ae37-4968-aa77-ad854b6c8251.png
