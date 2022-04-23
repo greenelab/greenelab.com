@@ -1,5 +1,16 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1101/2022.04.09.487671
+  title: 'wenda_gpu: fast domain adaptation for genomic data'
+  authors:
+  - Ariel A. Hippen
+  - Jake Crawford
+  - Jacob R. Gardner
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-04-11'
+  link: https://doi.org/gpzf7p
+  image: https://user-images.githubusercontent.com/542643/164915627-94f26649-397b-40b0-b27e-d1849f771f6a.png
 - id: doi:10.1101/2022.04.14.488429
   title: Compendium-wide analysis of <i>P. aeruginosa</i> core and accessory genes
     reveal more nuanced transcriptional patterns
