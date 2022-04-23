@@ -16,7 +16,7 @@
   image: https://raw.githubusercontent.com/greenelab/core-accessory-interactome/bf157513ab5041f8d0bf70766e79df2f06ea7bca/figure_generation/output/figure_1.svg
   extra-links:
   - type: preprint
-    link: 10.1101/2022.04.14.488429
+    link: https://doi.org/10.1101/2022.04.14.488429
   - type: source
     link: https://github.com/greenelab/core-accessory-interactome
 - id: arxiv:2203.13946
