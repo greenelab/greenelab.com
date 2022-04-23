@@ -1,3 +1,6 @@
+- id: doi:10.1101/2022.04.09.487671
+  image: https://user-images.githubusercontent.com/542643/164915627-94f26649-397b-40b0-b27e-d1849f771f6a.png
+
 - id: doi:10.1101/2022.04.14.488429
   image: https://raw.githubusercontent.com/greenelab/core-accessory-interactome/bf157513ab5041f8d0bf70766e79df2f06ea7bca/figure_generation/output/figure_1.svg
   extra-links:
