@@ -6132,3 +6132,24 @@
   link: https://doi.org/f4hnd3
   id: doi:10.1371/journal.pcbi.1002816
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1002816.g004
+- id: arxiv:2204.12598
+  title: Molecular and Serologic Diagnostic Technologies for SARS-CoV-2
+  authors:
+  - Halie M. Rando
+  - Christian Brueffer
+  - Ronan Lordan
+  - Anna Ada Dattoli
+  - David Manheim
+  - Jesse G. Meyer
+  - Ariel I. Mundo
+  - Dimitri Perrin
+  - David Mai
+  - Nils Wellhausen
+  - Anthony Gitter
+  - Casey S. Greene
+  publisher: arXiv
+  date: '2022-04-28'
+  link: https://arxiv.org/abs/2204.12598
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  tags:
+  - COVID19
