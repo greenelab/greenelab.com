@@ -899,3 +899,8 @@
 
 - id: doi:10.1371/journal.pcbi.1002816
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1002816.g004
+
+- id: arxiv:2204.12598 
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  tags:
+    - COVID19
