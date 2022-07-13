@@ -6153,3 +6153,18 @@
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   tags:
   - COVID19
+- id: doi:10.1101/2022.06.15.496326
+  title: An efficient not-only-linear correlation coefficient based on machine learning
+  authors:
+  - Milton Pividori
+  - Marylyn D. Ritchie
+  - Diego H. Milone
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-06-17'
+  link: https://doi.org/gqcvbw
+  image: https://greenelab.github.io/ccc-manuscript/images/intro/relationships.svg
+  tags:
+  - correlation coefficient
+  - nonlinear relationships
+  - gene expression
