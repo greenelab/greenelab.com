@@ -6296,3 +6296,25 @@
   - correlation coefficient
   - nonlinear relationships
   - gene expression
+- id: doi:10.1101/2022.06.22.497194
+  title: The Effects of Nonlinear Signal on Expression-Based Prediction Performance
+  authors:
+  - Benjamin J. Heil
+  - Jake Crawford
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-06-26'
+  link: https://doi.org/gqhgwk
+  image: https://user-images.githubusercontent.com/15317110/179038261-f5bc18a6-fcf6-4acb-9ea6-1c231cf30616.png
+  extra-links:
+  - type: preprint
+  - type: biorxiv
+    link: https://www.biorxiv.org/content/10.1101/2022.06.22.497194v2
+  - type: source
+    link: https://github.com/greenelab/linear_signal
+  - type: manubot
+    link: https://github.com/greenelab/linear_models_manuscript
+  tags:
+  - machine learning
+  - gene expression
+  - nonlinear relationships
