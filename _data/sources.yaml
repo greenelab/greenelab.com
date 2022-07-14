@@ -922,7 +922,6 @@
   image: https://user-images.githubusercontent.com/15317110/179038261-f5bc18a6-fcf6-4acb-9ea6-1c231cf30616.png
   extra-links:
   - type: preprint
-  - type: biorxiv
     link: https://www.biorxiv.org/content/10.1101/2022.06.22.497194v2
   - type: source
     link: https://github.com/greenelab/linear_signal
