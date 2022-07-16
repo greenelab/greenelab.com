@@ -1,3 +1,6 @@
+- id: doi:10.1101/2022.06.27.497742
+  image: https://user-images.githubusercontent.com/542643/179368710-0f832059-fc60-410c-b9bf-43d1cf381f18.png
+
 - id: arxiv:2112.12582
   image: https://user-images.githubusercontent.com/542643/178981879-fc7de25a-34af-4275-b1ba-a6583f1c9a4a.png
 
@@ -27,11 +30,13 @@
 - id: doi:10.1038/s41562-021-01279-2
   image: https://user-images.githubusercontent.com/542643/151673050-2dbf666a-eb90-4891-b26e-486131af8fc6.png
 
-- id: doi:10.1101/2021.10.27.466140
+- id: doi:10.1186/s13059-022-02705-y
   image: https://user-images.githubusercontent.com/2345877/140061720-96b5451a-c9af-493f-85b2-cc4c723d316b.png
   extra-links:
     - type: source
       link: https://github.com/greenelab/mpmp
+    - type: preprint
+      link: https://doi.org/10.1101/2021.10.27.466140
 
 - id: 10.1101/2021.10.21.21265225
   image: https://user-images.githubusercontent.com/172687/140064066-677bad73-ae37-4968-aa77-ad854b6c8251.png
@@ -109,9 +114,12 @@
   - type: preprint
     link: https://arxiv.org/abs/2104.11364
 
-- id: doi:10.1101/2021.05.26.445900
+- id: doi:10.1038/s41467-022-31411-3
   image: https://user-images.githubusercontent.com/542643/120705507-27a0cf00-c475-11eb-85d5-7458f1edc5ac.png
-
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2021.05.26.445900
+    
 - id: doi:10.1101/2021.03.20.21253896 
   image: https://user-images.githubusercontent.com/8975841/112666874-013a3400-8e33-11eb-9be9-5c74f3e397ea.png
   extra-links:
