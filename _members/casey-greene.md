@@ -17,7 +17,7 @@ links:
   twitter: greenescientist
 ---
 
-Casey is a Professor in the Department of [Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) and the founding Director of the [Center for Health AI](https://medschool.cuanschutz.edu/ai) in the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/).
+Casey is the Chair of and a Professor in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and the founding Director of the [Center for Health AI](https://medschool.cuanschutz.edu/ai).
 His lab develops machine learning methods that integrate distinct large-scale datasets to extract the rich and intrinsic information embedded in such integrated data.
 This approach reveals underlying principles of an organism’s genetics, its environment, and its response to that environment.
 Extracting this key contextual information reveals where the data’s context doesn’t fit existing models and raises the questions that a complete collection of publicly available data indicates researchers should be asking.
