@@ -1,5 +1,24 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: arxiv:2208.08907
+  title: Application of Traditional Vaccine Development Strategies to SARS-CoV-2
+  authors:
+  - Halie M. Rando
+  - Ronan Lordan
+  - Alexandra J. Lee
+  - Amruta Naik
+  - Nils Wellhausen
+  - Elizabeth Sell
+  - Likhitha Kolla
+  - COVID-19 Review Consortium
+  - Anthony Gitter
+  - Casey S. Greene
+  publisher: arXiv
+  date: '2022-08-19'
+  link: https://arxiv.org/abs/2208.08907
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  tags:
+  - COVID19
 - id: doi:10.1101/2022.06.27.497742
   title: Changing word meanings in biomedical literature reveal pandemics and new
     technologies
