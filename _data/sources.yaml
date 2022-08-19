@@ -1,3 +1,8 @@
+- id: arxiv:2208.08907
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  tags:
+    - COVID19
+
 - id: doi:10.1101/2022.06.27.497742
   image: https://user-images.githubusercontent.com/542643/179368710-0f832059-fc60-410c-b9bf-43d1cf381f18.png
 
