@@ -4,6 +4,7 @@ aliases:
   - David N. Nicholson
 image: images/team/david.jpg
 role: phd
+group: alum
 links:
   home-page: https://danich1.github.io
   orcid: 0000-0003-0002-5761
