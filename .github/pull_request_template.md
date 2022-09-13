@@ -1,9 +1,8 @@
 <!-- 
 
-Read the Lab Website Template documentation BEFORE opening this pull request:
+This website is built upon Lab Website Template.
+Please read its documentation carefully before submitting your changes:
 
-https://github.com/greenelab/lab-website-template/wiki/Get-Started#edit-your-site
-
-https://github.com/greenelab/lab-website-template/wiki/Basic-Editing
+https://github.com/greenelab/lab-website-template/wiki
 
 -->
