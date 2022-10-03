@@ -21,3 +21,5 @@ Prior to coming to Penn, she worked as a bioinformatics analyst at the J. Craig 
 Since joining the Greene lab in 2018, her research has focused on using deep learning methods to extract patterns from large-scale gene expression datasets.
 She is currently applying these methods to understand mechanisms of _P.aeruginosa_ infection.
 Her goal is to develop methods that help gain insight into the complexities of disease traits.
+She is currently a Sr. Community engagement/Bio data scientist at DNAnexus.
+Check out her [personal website](https://ajlee21.github.io/) to follow her recent work.
