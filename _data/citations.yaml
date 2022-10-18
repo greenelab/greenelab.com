@@ -1893,19 +1893,20 @@
   - genomics
   - rare diseases
   _cache: f69102a86c0811034d4c2eae7282ca67a3cdc0ff5a7d9400a675d27300d52a84
-- id: doi:10.1101/730085
-  title: Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation
-    Extraction from Biomedical Abstracts
+- id: doi:10.1186/s13040-022-00311-z
+  title: Expanding a database-derived biomedical knowledge graph via multi-relation
+    extraction from biomedical abstracts
   authors:
   - David N. Nicholson
   - Daniel S. Himmelstein
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-08-08'
-  link: https://doi.org/gf6qxh
+  publisher: BioData Mining
+  date: '2022-10-18'
+  link: https://doi.org/gq3bw2
   image: https://greenelab.github.io/text_mined_hetnet_manuscript/images/figures/convolutional_neural_network/convolutional_neural_nework.png
   extra-links:
   - type: preprint
+    link: https://doi.org/10.1101/730085
   - type: manubot
     link: https://greenelab.github.io/text_mined_hetnet_manuscript/
   - type: source
@@ -1913,7 +1914,7 @@
   tags:
   - knowledge graphs
   - open science
-  _cache: 78ce7bbf388b1ba96e99a3f8c3579debcb4a17ff97f6588009804d359bc06fd9
+  _cache: a7398a11f06d1a18ba92d3a2afb83beb066dbc6f817e67348381b3e79a74470f
 - id: doi:10.1073/pnas.1917576117
   title: "<i>Pseudomonas aeruginosa lasR</i>\n            mutant fitness in microoxia\
     \ is supported by an Anr-regulated oxygen-binding hemerythrin"
@@ -6557,6 +6558,19 @@
   orcid: 0000-0001-8713-9213
   member: casey-greene
   _cache: 2d8da76cc7fbb6ceeaad1623850adc66abf0b02a37a38face44539261ab74d6b
+- id: doi:10.1186/s13040-022-00311-z
+  title: Expanding a database-derived biomedical knowledge graph via multi-relation
+    extraction from biomedical abstracts
+  authors:
+  - David N. Nicholson
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: BioData Mining
+  date: '2022-10-18'
+  link: https://doi.org/gq3bw2
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 5214c41371075f7f9587ee8d24dbc1364c80f6797f71f9aacdfb09b0f3e07b77
 - id: doi:10.1101/2022.06.27.497742
   title: Changing word meanings in biomedical literature reveal pandemics and new
     technologies
