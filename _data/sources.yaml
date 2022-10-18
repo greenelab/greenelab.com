@@ -356,10 +356,11 @@
     - genomics
     - rare diseases
 
-- id: doi:10.1101/730085
+- id: doi:10.1186/s13040-022-00311-z
   image: https://greenelab.github.io/text_mined_hetnet_manuscript/images/figures/convolutional_neural_network/convolutional_neural_nework.png
   extra-links:
     - type: preprint
+      link: https://doi.org/10.1101/730085
     - type: manubot
       link: https://greenelab.github.io/text_mined_hetnet_manuscript/
     - type: source
