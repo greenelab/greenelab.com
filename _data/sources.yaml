@@ -110,8 +110,10 @@
 - id: arxiv:2106.00657
   image: https://user-images.githubusercontent.com/542643/120891100-ea972280-c5c3-11eb-805d-d6b467fb66f6.png
 
-- id: doi:10.1101/2021.05.24.445440
+- id: doi:10.1016/j.gpb.2022.09.011
   image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_2.png
+  - type: bioRxiv
+    link: https://doi.org/10.1101/2021.05.24.445440
 
 - id: arxiv:2105.14372
   image: https://raw.githubusercontent.com/Benjamin-Lee/deep-rules/master/content/images/thumbnail_tips_overview.png
