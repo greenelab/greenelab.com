@@ -542,8 +542,9 @@
   link: https://arxiv.org/abs/2106.00657
   image: https://user-images.githubusercontent.com/542643/120891100-ea972280-c5c3-11eb-805d-d6b467fb66f6.png
   _cache: 1c54b7f1edf329346057639c92c133011c05d5d65a800cc8a30db2018f7f828f
-- id: doi:10.1101/2021.05.24.445440
-  title: Generative neural networks separate common and specific transcriptional responses
+- id: doi:10.1016/j.gpb.2022.09.011
+  title: 'SOPHIE: Generative Neural Networks Separate Common and Specific Transcriptional
+    Responses'
   authors:
   - Alexandra J. Lee
   - Dallas L. Mould
@@ -554,11 +555,14 @@
   - James C. Costello
   - Deborah A. Hogan
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-05-24'
-  link: https://doi.org/gj6qv4
+  publisher: Genomics, Proteomics &amp; Bioinformatics
+  date: '2022-10-01'
+  link: https://doi.org/gq3vsr
   image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_2.png
-  _cache: fadb159fefe9feafb697c779df13494426efc5906576977d5e1e9a4971afaa81
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2021.05.24.445440
+  _cache: ceae910cfd9e5c3ced1cc07821faa9c5bf43bd3c83912ba273a5fcfaed884723
 - id: arxiv:2105.14372
   title: Ten Quick Tips for Deep Learning in Biology
   authors:
@@ -6571,6 +6575,19 @@
   orcid: 0000-0001-8713-9213
   member: casey-greene
   _cache: 5214c41371075f7f9587ee8d24dbc1364c80f6797f71f9aacdfb09b0f3e07b77
+- id: doi:10.1093/bioinformatics/btac663
+  title: 'wenda_gpu: fast domain adaptation for genomic data'
+  authors:
+  - Ariel A Hippen
+  - Jake Crawford
+  - Jacob R Gardner
+  - Casey S Greene
+  publisher: Bioinformatics
+  date: '2022-10-04'
+  link: https://doi.org/gq3vss
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: e3874825035f8c8e86e271b5c36c715f59aafb120f5b4ef39c9bac3a8b44057a
 - id: doi:10.1101/2022.06.27.497742
   title: Changing word meanings in biomedical literature reveal pandemics and new
     technologies
