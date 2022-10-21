@@ -112,7 +112,8 @@
 
 - id: doi:10.1016/j.gpb.2022.09.011
   image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_2.png
-  - type: bioRxiv
+  extra-links:
+  - type: preprint
     link: https://doi.org/10.1101/2021.05.24.445440
 
 - id: arxiv:2105.14372
