@@ -6529,6 +6529,37 @@
   - gene expression
   - nonlinear relationships
   _cache: c286c1e8e2c5696fa57b77f94f86d2708487532c9ca2440bb9503912114229e0
+- id: doi:10.1038/s41467-022-33628-8
+  title: Discerning asthma endotypes through comorbidity mapping
+  authors:
+  - Gengjie Jia
+  - Xue Zhong
+  - Hae Kyung Im
+  - Nathan Schoettler
+  - Milton Pividori
+  - D. Kyle Hogarth
+  - Anne I. Sperling
+  - Steven R. White
+  - Edward T. Naureckas
+  - Christopher S. Lyttle
+  - Chikashi Terao
+  - Yoichiro Kamatani
+  - Masato Akiyama
+  - Koichi Matsuda
+  - Michiaki Kubo
+  - Nancy J. Cox
+  - Carole Ober
+  - Andrey Rzhetsky
+  - Julian Solway
+  publisher: Nature Communications
+  date: '2022-11-07'
+  link: https://doi.org/gq68q3
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-33628-8/MediaObjects/41467_2022_33628_Fig1_HTML.png?as=webp
+  tags:
+  - asthma
+  - asthma endotypes
+  - asthma comorbidities
+  _cache: 86fb00543e198871f939ef113fe1ce59f952ce5ef4d28aa5f234550326e7026d
 - id: doi:10.1038/s41467-022-31411-3
   title: GenomicSuperSignature facilitates interpretation of RNA-seq experiments through
     robust, efficient comparison to public databases
