@@ -164,18 +164,23 @@
   link: https://arxiv.org/abs/2112.12554
   image: https://user-images.githubusercontent.com/542643/178981938-ea0171ca-f626-4d3d-9db6-d585bd98c828.png
   _cache: e8a2ccb848f502081f57a0793bcc1a8d0be7efdc27f0b17aa74a966aa35a94a2
-- id: doi:10.1101/2022.04.09.487671
+- id: doi:10.1093/bioinformatics/btac663
   title: 'wenda_gpu: fast domain adaptation for genomic data'
   authors:
-  - Ariel A. Hippen
+  - Ariel A Hippen
   - Jake Crawford
-  - Jacob R. Gardner
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-04-11'
-  link: https://doi.org/gpzf7p
+  - Jacob R Gardner
+  - Casey S Greene
+  publisher: Bioinformatics
+  date: '2022-10-04'
+  link: https://doi.org/gq3vss
   image: https://user-images.githubusercontent.com/542643/164915627-94f26649-397b-40b0-b27e-d1849f771f6a.png
-  _cache: bf0e1062401f18d00bdd7f2c6c5834ac3f7d63f9c9e18ddddabb62e9aa0458ec
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2022.04.09.487671
+  - type: GitHub
+    link: https://github.com/greenelab/wenda_gpu/
+  _cache: 907d09e84cd46235b4ad3235f87c828afcb1b3640c320abec9fee552104488f6
 - id: doi:10.1101/2022.04.14.488429
   title: Compendium-wide analysis of <i>P. aeruginosa</i> core and accessory genes
     reveal more nuanced transcriptional patterns
@@ -6560,6 +6565,59 @@
   - asthma endotypes
   - asthma comorbidities
   _cache: 86fb00543e198871f939ef113fe1ce59f952ce5ef4d28aa5f234550326e7026d
+- id: doi:10.1186/s13059-022-02705-y
+  title: Widespread redundancy in -omics profiles of cancer mutation states
+  authors:
+  - Jake Crawford
+  - Brock C. Christensen
+  - Maria Chikina
+  - Casey S. Greene
+  publisher: Genome Biology
+  date: '2022-06-27'
+  link: https://doi.org/gqfqnm
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 2d8da76cc7fbb6ceeaad1623850adc66abf0b02a37a38face44539261ab74d6b
+- id: doi:10.1093/bioinformatics/btac663
+  title: 'wenda_gpu: fast domain adaptation for genomic data'
+  authors:
+  - Ariel A Hippen
+  - Jake Crawford
+  - Jacob R Gardner
+  - Casey S Greene
+  publisher: Bioinformatics
+  date: '2022-10-04'
+  link: https://doi.org/gq3vss
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: e3874825035f8c8e86e271b5c36c715f59aafb120f5b4ef39c9bac3a8b44057a
+- id: doi:10.1186/s13040-022-00311-z
+  title: Expanding a database-derived biomedical knowledge graph via multi-relation
+    extraction from biomedical abstracts
+  authors:
+  - David N. Nicholson
+  - Daniel S. Himmelstein
+  - Casey S. Greene
+  publisher: BioData Mining
+  date: '2022-10-18'
+  link: https://doi.org/gq3bw2
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 5214c41371075f7f9587ee8d24dbc1364c80f6797f71f9aacdfb09b0f3e07b77
+- id: doi:10.1101/2022.06.27.497742
+  title: Changing word meanings in biomedical literature reveal pandemics and new
+    technologies
+  authors:
+  - David N. Nicholson
+  - Faisal Alquaddoomi
+  - Vincent Rubinetti
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-06-28'
+  link: https://doi.org/gqhrv9
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: fa93c803f3764ae5853054b675b3ce33c38cfdb26a51a42a3cd4deda48943fee
 - id: doi:10.1038/s41467-022-31411-3
   title: GenomicSuperSignature facilitates interpretation of RNA-seq experiments through
     robust, efficient comparison to public databases
@@ -6580,59 +6638,6 @@
   orcid: 0000-0001-8713-9213
   member: casey-greene
   _cache: 9acf7551a64e67017cf6683697f202ecb90651f75c8205fc75733303a46e2cc3
-- id: doi:10.1186/s13059-022-02705-y
-  title: Widespread redundancy in -omics profiles of cancer mutation states
-  authors:
-  - Jake Crawford
-  - Brock C. Christensen
-  - Maria Chikina
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2022-06-27'
-  link: https://doi.org/gqfqnm
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  _cache: 2d8da76cc7fbb6ceeaad1623850adc66abf0b02a37a38face44539261ab74d6b
-- id: doi:10.1186/s13040-022-00311-z
-  title: Expanding a database-derived biomedical knowledge graph via multi-relation
-    extraction from biomedical abstracts
-  authors:
-  - David N. Nicholson
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: BioData Mining
-  date: '2022-10-18'
-  link: https://doi.org/gq3bw2
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  _cache: 5214c41371075f7f9587ee8d24dbc1364c80f6797f71f9aacdfb09b0f3e07b77
-- id: doi:10.1093/bioinformatics/btac663
-  title: 'wenda_gpu: fast domain adaptation for genomic data'
-  authors:
-  - Ariel A Hippen
-  - Jake Crawford
-  - Jacob R Gardner
-  - Casey S Greene
-  publisher: Bioinformatics
-  date: '2022-10-04'
-  link: https://doi.org/gq3vss
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  _cache: e3874825035f8c8e86e271b5c36c715f59aafb120f5b4ef39c9bac3a8b44057a
-- id: doi:10.1101/2022.06.27.497742
-  title: Changing word meanings in biomedical literature reveal pandemics and new
-    technologies
-  authors:
-  - David N. Nicholson
-  - Faisal Alquaddoomi
-  - Vincent Rubinetti
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-06-28'
-  link: https://doi.org/gqhrv9
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  _cache: fa93c803f3764ae5853054b675b3ce33c38cfdb26a51a42a3cd4deda48943fee
 - id: doi:10.1101/2022.06.22.497194
   title: The Effects of Nonlinear Signal on Expression-Based Prediction Performance
   authors:
@@ -6687,18 +6692,6 @@
   orcid: 0000-0001-8713-9213
   member: casey-greene
   _cache: bfa130289378535fca6b9a240ad7c8de6e2af4d8896effd57101c7e5db62b6b6
-- id: doi:10.1038/s41562-021-01279-2
-  title: Computational audits combat disparities in recognition
-  authors:
-  - Ariel A. Hippen
-  - Natalie R. Davidson
-  - Casey S. Greene
-  publisher: Nature Human Behaviour
-  date: '2022-01-17'
-  link: https://doi.org/gn984d
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  _cache: 6be18a3a5c37c86c2d9688e5bdb8d07ed1dc3ea81c126f3003c11d62aa5ebf64
 - id: doi:10.1371/journal.pcbi.1009803
   title: Ten quick tips for deep learning in biology
   authors:
@@ -6776,6 +6769,18 @@
   orcid: 0000-0001-8713-9213
   member: casey-greene
   _cache: e93037f21e25a5838eb0dfe190e457378c2e8608cdddbf25054bb26273034ae7
+- id: doi:10.1038/s41562-021-01279-2
+  title: Computational audits combat disparities in recognition
+  authors:
+  - Ariel A. Hippen
+  - Natalie R. Davidson
+  - Casey S. Greene
+  publisher: Nature Human Behaviour
+  date: '2022-01-17'
+  link: https://doi.org/gn984d
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 6be18a3a5c37c86c2d9688e5bdb8d07ed1dc3ea81c126f3003c11d62aa5ebf64
 - id: doi:10.1101/2021.10.27.466140
   title: Widespread redundancy in -omics profiles of cancer mutation states
   authors:
