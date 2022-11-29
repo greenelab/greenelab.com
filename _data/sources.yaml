@@ -1,7 +1,7 @@
 - id: doi:10.1038/s43018-022-00450-6
   image: https://user-images.githubusercontent.com/542643/204615830-74cbe018-a2f5-4c1e-834f-726ce2de357c.png
   extra-links:
-    - type: GitHub
+    - type: source
       link: https://github.com/adumit/phase-1-hnscc-trial-prediction
 
 - id: arxiv:2208.08907
@@ -23,7 +23,7 @@
   extra-links:
     - type: preprint
       link: https://doi.org/10.1101/2022.04.09.487671
-    - type: GitHub
+    - type: source
       link: https://github.com/greenelab/wenda_gpu/
 
 - id: doi:10.1101/2022.04.14.488429
