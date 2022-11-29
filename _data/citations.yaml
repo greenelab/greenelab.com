@@ -1,6 +1,48 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1038/s43018-022-00450-6
+  title: A phase I/Ib trial and biological correlate analysis of neoadjuvant SBRT
+    with single-dose durvalumab in HPV-unrelated locally advanced HNSCC
+  authors:
+  - Laurel B. Darragh
+  - Michael M. Knitz
+  - Junxiao Hu
+  - Eric T. Clambey
+  - Jennifer Backus
+  - Andrew Dumit
+  - Von Samedi
+  - Andrew Bubak
+  - Casey Greene
+  - Timothy Waxweiler
+  - Sanjana Mehrotra
+  - Shilpa Bhatia
+  - Jacob Gadwa
+  - Thomas Bickett
+  - Miles Piper
+  - Kareem Fakhoury
+  - Arthur Liu
+  - Joshua Petit
+  - Daniel Bowles
+  - Ashesh Thaker
+  - Kimberly Atiyeh
+  - Julie Goddard
+  - Robert Hoyer
+  - Adrie Van Bokhoven
+  - Kimberly Jordan
+  - Antonio Jimeno
+  - "Angelo D\u2019Alessandro"
+  - David Raben
+  - Jessica D. McDermott
+  - Sana D. Karam
+  publisher: Nature Cancer
+  date: '2022-11-25'
+  link: https://doi.org/grb9v2
+  image: https://user-images.githubusercontent.com/542643/204615830-74cbe018-a2f5-4c1e-834f-726ce2de357c.png
+  extra-links:
+  - type: source
+    link: https://github.com/adumit/phase-1-hnscc-trial-prediction
+  _cache: 5eb37a9bd4d3b3e862caf3c074d46dac6e6ae7722e6e86dc860fa2be4a9c0b91
 - id: arxiv:2208.08907
   title: Application of Traditional Vaccine Development Strategies to SARS-CoV-2
   authors:
@@ -178,9 +220,9 @@
   extra-links:
   - type: preprint
     link: https://doi.org/10.1101/2022.04.09.487671
-  - type: GitHub
+  - type: source
     link: https://github.com/greenelab/wenda_gpu/
-  _cache: 907d09e84cd46235b4ad3235f87c828afcb1b3640c320abec9fee552104488f6
+  _cache: baf43607056ca8b77bcb9eb6f4ba479ecb92401e6d9b7c339f3ec26d23c70b3e
 - id: doi:10.1101/2022.04.14.488429
   title: Compendium-wide analysis of <i>P. aeruginosa</i> core and accessory genes
     reveal more nuanced transcriptional patterns
