@@ -1,6 +1,120 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2022.12.04.519045
+  title: Performance of computational algorithms to deconvolve heterogeneous bulk
+    tumor tissue depends on experimental factors
+  authors:
+  - Ariel A. Hippen
+  - Dalia K. Omran
+  - Lukas M. Weber
+  - Euihye Jung
+  - Ronny Drapkin
+  - Jennifer A. Doherty
+  - Stephanie C. Hicks
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-05'
+  link: https://doi.org/grgnw9
+  image: https://user-images.githubusercontent.com/542643/211156536-a2179f50-9d88-4b80-bb01-6247941bbe4b.png
+  _cache: dd717384dfb0098158189fc068a249a3e3f51674a78fed3312f345dbbd22641c
+- id: doi:10.1101/2022.09.13.507832
+  title: 'OpenPBTA: An Open Pediatric Brain Tumor Atlas'
+  authors:
+  - Joshua A. Shapiro
+  - Krutika S. Gaonkar
+  - Candace L. Savonen
+  - Stephanie J. Spielman
+  - Chante J. Bethell
+  - Run Jin
+  - Komal S. Rathi
+  - Yuankun Zhu
+  - Laura E. Egolf
+  - Bailey K. Farrow
+  - Daniel P. Miller
+  - Yang Yang
+  - Tejaswi Koganti
+  - Nighat Noureen
+  - Mateusz P. Koptyra
+  - Nhat Duong
+  - Adam A. Kraya
+  - Cassie Kline
+  - Yiran Guo
+  - Phillip B. Storm
+  - Javad Nazarian
+  - Stephen C. Mack
+  - Pichai Raman
+  - Siyuan Zheng
+  - Peter J. Madsen
+  - Nicholas Van Kuren
+  - Shannon Robins
+  - Xiaoyan Huang
+  - Angela J. Waanders
+  - Jung Kim
+  - Derek Hanson
+  - Carl J. Koschmann
+  - Sharon J. Diskin
+  - Rishi R. Lulla
+  - Miguel A. Brown
+  - Jessica Wong
+  - Jennifer L. Mason
+  - Laura Scolaro
+  - Meen Chul Kim
+  - Hongbo M. Xie
+  - Brian R. Rood
+  - Kristina A. Cole
+  - Ashley S. Margol
+  - Zalman Vaksman
+  - Rebecca S. Kaufman
+  - Allison P. Heath
+  - Brian M. Ennis
+  - Mariarita Santi
+  - Anna R. Poetsch
+  - Angela N. Viaene
+  - Douglas R. Stewart
+  - Steven M. Foltz
+  - Payal Jain
+  - Bo Zhang
+  - Shrivats Kannan
+  - Michael Prados
+  - Jena V. Lilly
+  - Sabine Mueller
+  - Adam C. Resnick
+  - Casey S. Greene
+  - Jo Lynne Rokita
+  - Jaclyn N. Taroni
+  - ' '
+  - ' '
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-09-16'
+  link: https://doi.org/gqvf99
+  image: https://user-images.githubusercontent.com/542643/211156503-c486bb87-5e6b-4295-88b9-2c454fe06e85.png
+  _cache: 6094c06f1f4b5df275bbed7c54827be3e1efc6f5523e140260f3600adbef7b53
+- id: doi:10.1101/2023.01.05.522939
+  title: 'The probability of edge existence due to node degree: a baseline for network-based
+    predictions'
+  authors:
+  - Michael Zietz
+  - Daniel S Himmelstein
+  - Kyle Kloster
+  - Christopher Williams
+  - Michael W Nagle
+  - Casey S Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-06'
+  link: https://doi.org/grk9gd
+  image: https://user-images.githubusercontent.com/542643/211156151-21a97245-c17b-4a94-ae72-76d6cf66a535.png
+  _cache: aa61ca45f21a629b70f3902b1f63d9d1992cd4c68fa54b3718fc138599085ce4
+- id: doi:10.1101/2023.01.05.522943
+  title: The Field-Dependent Nature of PageRank Values in Citation Networks
+  authors:
+  - Benjamin J Heil
+  - Casey S Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-06'
+  link: https://doi.org/grk9gf
+  image: https://user-images.githubusercontent.com/542643/211156073-7e289899-ca46-486e-9a8b-d78fe3f0c896.png
+  _cache: 499e52ecf433311bb094764cd5012e68c5fb789ea5f6d99a0d0ceef1e1023594
 - id: doi:10.1038/s43018-022-00450-6
   title: A phase I/Ib trial and biological correlate analysis of neoadjuvant SBRT
     with single-dose durvalumab in HPV-unrelated locally advanced HNSCC
@@ -6607,6 +6721,85 @@
   - asthma endotypes
   - asthma comorbidities
   _cache: 86fb00543e198871f939ef113fe1ce59f952ce5ef4d28aa5f234550326e7026d
+- id: doi:10.1101/2023.01.05.522943
+  title: The Field-Dependent Nature of PageRank Values in Citation Networks
+  authors:
+  - Benjamin J Heil
+  - Casey S Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-06'
+  link: https://doi.org/grk9gf
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 6d5f1f79055c068444568c08cfae8bed087d07c1ded3cd408690fb8d4528d28c
+- id: doi:10.1101/2023.01.05.522939
+  title: 'The probability of edge existence due to node degree: a baseline for network-based
+    predictions'
+  authors:
+  - Michael Zietz
+  - Daniel S Himmelstein
+  - Kyle Kloster
+  - Christopher Williams
+  - Michael W Nagle
+  - Casey S Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-06'
+  link: https://doi.org/grk9gd
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: aace2c54a76c58c312dd1f03a9e044a41ffba1062a9803ee732e6a2e0e668a6d
+- id: doi:10.1128/msystems.00342-22
+  title: Compendium-Wide Analysis of Pseudomonas aeruginosa Core and Accessory Genes
+    Reveals Transcriptional Patterns across Strains PAO1 and PA14
+  authors:
+  - Alexandra J. Lee
+  - Georgia Doing
+  - Samuel L. Neff
+  - Taylor Reiter
+  - Deborah A. Hogan
+  - Casey S. Greene
+  publisher: mSystems
+  date: '2022-12-21'
+  link: https://doi.org/grjqcc
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: de4c2c6ba79e0978fc82ec80941a5b7edde4a507e850578e349e798beb70b8d8
+- id: doi:10.1128/msystems.00341-22
+  title: Computationally Efficient Assembly of Pseudomonas aeruginosa Gene Expression
+    Compendia
+  authors:
+  - Georgia Doing
+  - Alexandra J. Lee
+  - Samuel L. Neff
+  - Taylor Reiter
+  - Jacob D. Holt
+  - Bruce A. Stanton
+  - Casey S. Greene
+  - Deborah A. Hogan
+  publisher: mSystems
+  date: '2022-12-21'
+  link: https://doi.org/grjqcd
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: df52395af8fe7bcb846c6637f84882c118cb290a928fbdf252d7db8c4ad19f89
+- id: doi:10.1101/2022.12.04.519045
+  title: Performance of computational algorithms to deconvolve heterogeneous bulk
+    tumor tissue depends on experimental factors
+  authors:
+  - Ariel A. Hippen
+  - Dalia K. Omran
+  - Lukas M. Weber
+  - Euihye Jung
+  - Ronny Drapkin
+  - Jennifer A. Doherty
+  - Stephanie C. Hicks
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-05'
+  link: https://doi.org/grgnw9
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 418adc225071587ab43d021d511a8395afde7e01a855ad006882593d3c5cb6bb
 - id: doi:10.1186/s13059-022-02705-y
   title: Widespread redundancy in -omics profiles of cancer mutation states
   authors:
