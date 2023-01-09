@@ -1,6 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1101/2023.01.05.522941
+  title: Hetnet connectivity search provides rapid insights into how two biomedical
+    entities are related
+  authors:
+  - Daniel S Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin J Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David N Nicholson
+  - Yun Hao
+  - Blair D Sullivan
+  - Michael W Nagle
+  - Casey S Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-07'
+  link: https://doi.org/grmcb9
+  image: https://user-images.githubusercontent.com/542643/211341569-e465826a-4cb1-41ea-a66f-162f420ea968.png
+  _cache: 05f3b4aa11ef4c578d2a4a402da7cf33e0c441fec79a83d0934da1c5cc07ca73
 - id: doi:10.1101/2022.12.04.519045
   title: Performance of computational algorithms to deconvolve heterogeneous bulk
     tumor tissue depends on experimental factors
