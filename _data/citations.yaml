@@ -6742,6 +6742,17 @@
   - asthma endotypes
   - asthma comorbidities
   _cache: 86fb00543e198871f939ef113fe1ce59f952ce5ef4d28aa5f234550326e7026d
+- id: doi:10.1101/2023.01.21.525030
+  title: A publishing infrastructure for AI-assisted academic authoring
+  authors:
+  - Milton Pividori
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-01-23'
+  link: https://doi.org/grpf8m
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: ee06fa1823a4e3684020c770fdfd7b617092bac8e96d17292f5f51c343f7895f
 - id: doi:10.1101/2023.01.05.522943
   title: The Field-Dependent Nature of PageRank Values in Citation Networks
   authors:
