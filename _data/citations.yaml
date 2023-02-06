@@ -6871,6 +6871,25 @@
   orcid: 0000-0001-8713-9213
   member: casey-greene
   _cache: 5214c41371075f7f9587ee8d24dbc1364c80f6797f71f9aacdfb09b0f3e07b77
+- id: doi:10.1016/j.gpb.2022.09.011
+  title: 'SOPHIE: Generative Neural Networks Separate Common and Specific Transcriptional
+    Responses'
+  authors:
+  - Alexandra J. Lee
+  - Dallas L. Mould
+  - Jake Crawford
+  - Dongbo Hu
+  - Rani K. Powers
+  - Georgia Doing
+  - James C. Costello
+  - Deborah A. Hogan
+  - Casey S. Greene
+  publisher: Genomics, Proteomics &amp; Bioinformatics
+  date: '2022-10-01'
+  link: https://doi.org/gq3vsr
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 320d1680a323146cf884508c3c1d1fcaa306f71c9ff0df56ffe058c0b941ad6b
 - id: doi:10.1101/2022.06.27.497742
   title: Changing word meanings in biomedical literature reveal pandemics and new
     technologies
