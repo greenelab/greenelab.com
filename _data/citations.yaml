@@ -6742,6 +6742,30 @@
   - asthma endotypes
   - asthma comorbidities
   _cache: 86fb00543e198871f939ef113fe1ce59f952ce5ef4d28aa5f234550326e7026d
+- id: doi:10.7554/eLife.84855.1
+  title: Analysis of science journalism reveals gender and regional disparities in
+    coverage
+  authors:
+  - Natalie R. Davidson
+  - Casey S. Greene
+  publisher: eLife Sciences Publications, Ltd
+  date: '2023-02-09'
+  link: https://doi.org/grrw82
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: aa110b388bb2ed0c692edff50e64523eb669d6088f1d47d263870cd056d9b321
+- id: doi:10.7554/eLife.84855
+  title: Analysis of science journalism reveals gender and regional disparities in
+    coverage
+  authors:
+  - Natalie R. Davidson
+  - Casey S. Greene
+  publisher: eLife Sciences Publications, Ltd
+  date: '2023-02-09'
+  link: https://doi.org/grrw83
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 537701006b1060a69c1621253f6432c27bdc063d5ff38504052d3eb672480411
 - id: doi:10.1101/2023.01.21.525030
   title: A publishing infrastructure for AI-assisted academic authoring
   authors:
