@@ -5669,21 +5669,23 @@
   - type: preprint
     link: http://dx.doi.org/10.1101/038950
   _cache: fc12386286ed94262285d37f8182a6c26d43438533a451d4a0a9359bc91b2c35
-- id: doi:10.1101/118349
-  title: Cross-Platform Normalization Enables Machine Learning Model Training On Microarray
-    And RNA-Seq Data Simultaneously
+- id: doi:10.1038/s42003-023-04588-6
+  title: Cross-platform normalization enables machine learning model training on microarray
+    and RNA-seq data simultaneously
   authors:
-  - Jaclyn N Taroni
-  - Casey S Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2017-03-20'
-  link: https://doi.org/gg7m5f
+  - Steven M. Foltz
+  - Casey S. Greene
+  - Jaclyn N. Taroni
+  publisher: Communications Biology
+  date: '2023-02-25'
+  link: https://doi.org/grt2z5
   image: https://www.biorxiv.org/content/biorxiv/early/2017/03/21/118349/F1.medium.gif
   extra-links:
   - type: preprint
+    link: http://doi.org/10.1101/118349
   - type: source
     link: https://github.com/greenelab/RNAseq_titration_results
-  _cache: d5480824700004895620861bbb07d240e3b2231b8acde101051085989e93848d
+  _cache: 3e5a10e1e13ba0e89e4b3a6ac1a39ab37e74243e32e38980827eb73bd27fefaa
 - id: doi:10.1038/nbt.3780
   title: Reproducibility of computational workflows is automated using continuous
     analysis
@@ -6742,6 +6744,53 @@
   - asthma endotypes
   - asthma comorbidities
   _cache: 86fb00543e198871f939ef113fe1ce59f952ce5ef4d28aa5f234550326e7026d
+- id: doi:10.1038/s42003-023-04588-6
+  title: Cross-platform normalization enables machine learning model training on microarray
+    and RNA-seq data simultaneously
+  authors:
+  - Steven M. Foltz
+  - Casey S. Greene
+  - Jaclyn N. Taroni
+  publisher: Communications Biology
+  date: '2023-02-25'
+  link: https://doi.org/grt2z5
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 19c7a672de1f099a702f12183e9d28384d1d68de2f162c95a5eaf737d03083ee
+- id: doi:10.1128/msystems.00342-22
+  title: Compendium-Wide Analysis of Pseudomonas aeruginosa Core and Accessory Genes
+    Reveals Transcriptional Patterns across Strains PAO1 and PA14
+  authors:
+  - Alexandra J. Lee
+  - Georgia Doing
+  - Samuel L. Neff
+  - Taylor Reiter
+  - Deborah A. Hogan
+  - Casey S. Greene
+  publisher: mSystems
+  date: '2022-12-21'
+  link: https://doi.org/grjqcc
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: de4c2c6ba79e0978fc82ec80941a5b7edde4a507e850578e349e798beb70b8d8
+- id: doi:10.1128/msystems.00341-22
+  title: Computationally Efficient Assembly of Pseudomonas aeruginosa Gene Expression
+    Compendia
+  authors:
+  - Georgia Doing
+  - Alexandra J. Lee
+  - Samuel L. Neff
+  - Taylor Reiter
+  - Jacob D. Holt
+  - Bruce A. Stanton
+  - Casey S. Greene
+  - Deborah A. Hogan
+  publisher: mSystems
+  date: '2022-12-21'
+  link: https://doi.org/grjqcd
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: df52395af8fe7bcb846c6637f84882c118cb290a928fbdf252d7db8c4ad19f89
 - id: doi:10.7554/eLife.84855.1
   title: Analysis of science journalism reveals gender and regional disparities in
     coverage
@@ -6804,40 +6853,6 @@
   orcid: 0000-0001-8713-9213
   member: casey-greene
   _cache: aace2c54a76c58c312dd1f03a9e044a41ffba1062a9803ee732e6a2e0e668a6d
-- id: doi:10.1128/msystems.00342-22
-  title: Compendium-Wide Analysis of Pseudomonas aeruginosa Core and Accessory Genes
-    Reveals Transcriptional Patterns across Strains PAO1 and PA14
-  authors:
-  - Alexandra J. Lee
-  - Georgia Doing
-  - Samuel L. Neff
-  - Taylor Reiter
-  - Deborah A. Hogan
-  - Casey S. Greene
-  publisher: mSystems
-  date: '2022-12-21'
-  link: https://doi.org/grjqcc
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  _cache: de4c2c6ba79e0978fc82ec80941a5b7edde4a507e850578e349e798beb70b8d8
-- id: doi:10.1128/msystems.00341-22
-  title: Computationally Efficient Assembly of Pseudomonas aeruginosa Gene Expression
-    Compendia
-  authors:
-  - Georgia Doing
-  - Alexandra J. Lee
-  - Samuel L. Neff
-  - Taylor Reiter
-  - Jacob D. Holt
-  - Bruce A. Stanton
-  - Casey S. Greene
-  - Deborah A. Hogan
-  publisher: mSystems
-  date: '2022-12-21'
-  link: https://doi.org/grjqcd
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  _cache: df52395af8fe7bcb846c6637f84882c118cb290a928fbdf252d7db8c4ad19f89
 - id: doi:10.1101/2022.12.04.519045
   title: Performance of computational algorithms to deconvolve heterogeneous bulk
     tumor tissue depends on experimental factors

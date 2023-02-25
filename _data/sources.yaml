@@ -687,10 +687,11 @@
     - type: preprint
       link: http://dx.doi.org/10.1101/038950
 
-- id: doi:10.1101/118349
+- id: doi:10.1038/s42003-023-04588-6
   image: https://www.biorxiv.org/content/biorxiv/early/2017/03/21/118349/F1.medium.gif
   extra-links:
     - type: preprint
+      link: http://doi.org/10.1101/118349
     - type: source
       link: https://github.com/greenelab/RNAseq_titration_results
 
