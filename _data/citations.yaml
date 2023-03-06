@@ -6744,6 +6744,150 @@
   - asthma endotypes
   - asthma comorbidities
   _cache: 86fb00543e198871f939ef113fe1ce59f952ce5ef4d28aa5f234550326e7026d
+- id: doi:10.1128/msystems.00927-22
+  title: Application of Traditional Vaccine Development Strategies to SARS-CoV-2
+  authors:
+  - Halie M. Rando
+  - Ronan Lordan
+  - Alexandra J. Lee
+  - Amruta Naik
+  - Nils Wellhausen
+  - Elizabeth Sell
+  - Likhitha Kolla
+  - Anthony Gitter
+  - Casey S. Greene
+  - Vikas Bansal
+  - John P. Barton
+  - Simina M. Boca
+  - Joel D. Boerckel
+  - Christian Brueffer
+  - James Brian Byrd
+  - Stephen Capone
+  - Shikta Das
+  - Anna Ada Dattoli
+  - John J. Dziak
+  - Jeffrey M. Field
+  - Soumita Ghosh
+  - Anthony Gitter
+  - Rishi Raj Goel
+  - Casey S. Greene
+  - Marouen Ben Guebila
+  - Daniel S. Himmelstein
+  - Fengling Hu
+  - Nafisa M. Jadavji
+  - Jeremy P. Kamil
+  - Sergey Knyazev
+  - Likhitha Kolla
+  - Alexandra J. Lee
+  - Ronan Lordan
+  - Tiago Lubiana
+  - Temitayo Lukan
+  - Adam L. MacLean
+  - David Mai
+  - Serghei Mangul
+  - David Manheim
+  - "Lucy D\u2019Agostino McGowan"
+  - Jesse G. Meyer
+  - Ariel I. Mundo
+  - Amruta Naik
+  - YoSon Park
+  - Dimitri Perrin
+  - Yanjun Qi
+  - Diane N. Rafizadeh
+  - Bharath Ramsundar
+  - Halie M. Rando
+  - Sandipan Ray
+  - Michael P. Robson
+  - Vincent Rubinetti
+  - Elizabeth Sell
+  - Lamonica Shinholster
+  - Ashwin N. Skelly
+  - Yuchen Sun
+  - Yusha Sun
+  - Gregory L. Szeto
+  - Ryan Velazquez
+  - Jinhui Wang
+  - Nils Wellhausen
+  - ' '
+  - ' '
+  publisher: mSystems
+  date: '2023-03-02'
+  link: https://doi.org/grv3d9
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 88fa4db83ab3eedde93cc78c8acb3eb27d01fde34d62df34b18283782992177d
+- id: doi:10.1128/msystems.00928-22
+  title: The Coming of Age of Nucleic Acid Vaccines during COVID-19
+  authors:
+  - Halie M. Rando
+  - Ronan Lordan
+  - Likhitha Kolla
+  - Elizabeth Sell
+  - Alexandra J. Lee
+  - Nils Wellhausen
+  - Amruta Naik
+  - Jeremy P. Kamil
+  - Anthony Gitter
+  - Casey S. Greene
+  - John P. Barton
+  - Simina M. Boca
+  - Joel D. Boerckel
+  - Christian Brueffer
+  - James Brian Byrd
+  - Stephen Capone
+  - Shikta Capone
+  - Anna Ada Dattoli
+  - John J. Dziak
+  - Jeffrey M. Field
+  - Soumita Ghosh
+  - Anthony Gitter
+  - Rishi Raj Goel
+  - Casey S. Greene
+  - Marouen Ben Guebila
+  - Daniel S. Himmelstein
+  - Fengling Hu
+  - Nafisa M. Jadavji
+  - Jeremy P. Kamil
+  - Sergey Knyazev
+  - Likhitha Kolla
+  - Alexandra J. Lee
+  - Ronan Lordan
+  - Tiago Lubiana
+  - Temitayo Lukan
+  - Adam L. MacLean
+  - David Mai
+  - Serghei Mangul
+  - David Manheim
+  - "Lucy D\u2019Agostino McGowan"
+  - Jesse G. Meyer
+  - Ariel I. Mundo
+  - Amruta Naik
+  - YoSon Park
+  - Dimitri Perrin
+  - Yanjun Qi
+  - Diane N. Rafizadeh
+  - Bharath Ramsundar
+  - Halie M. Rando
+  - Sandipan Ray
+  - Michael P. Robson
+  - Vincent Rubinetti
+  - Elizabeth Sell
+  - Lamonica Shinholster
+  - Ashwin N. Skelly
+  - Yuchen Sun
+  - Yusha Sun
+  - Gregory L. Szeto
+  - Ryan Velazquez
+  - Jinhui Wang
+  - Nils Wellhausen
+  - ' '
+  - ' '
+  publisher: mSystems
+  date: '2023-03-02'
+  link: https://doi.org/grv5vq
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  _cache: 79d91837a275884286836427b1ce795c2353c3305faf2f40e934b9dc191d887d
 - id: doi:10.1038/s42003-023-04588-6
   title: Cross-platform normalization enables machine learning model training on microarray
     and RNA-seq data simultaneously
