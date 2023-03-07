@@ -1,3 +1,8 @@
+- id: doi:10.1128/msystems.00928-22
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  tags:
+    - COVID19
+    
 - id: doi:10.1101/2023.01.05.522941
   image: https://user-images.githubusercontent.com/542643/211341569-e465826a-4cb1-41ea-a66f-162f420ea968.png
 
@@ -19,7 +24,7 @@
     - type: source
       link: https://github.com/adumit/phase-1-hnscc-trial-prediction
 
-- id: arxiv:2208.08907
+- id: doi:10.1128/msystems.00927-22
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   tags:
     - COVID19
