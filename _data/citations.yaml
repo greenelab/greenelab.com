@@ -1,6 +1,79 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1128/msystems.00928-22
+  title: The Coming of Age of Nucleic Acid Vaccines during COVID-19
+  authors:
+  - Halie M. Rando
+  - Ronan Lordan
+  - Likhitha Kolla
+  - Elizabeth Sell
+  - Alexandra J. Lee
+  - Nils Wellhausen
+  - Amruta Naik
+  - Jeremy P. Kamil
+  - Anthony Gitter
+  - Casey S. Greene
+  - John P. Barton
+  - Simina M. Boca
+  - Joel D. Boerckel
+  - Christian Brueffer
+  - James Brian Byrd
+  - Stephen Capone
+  - Shikta Capone
+  - Anna Ada Dattoli
+  - John J. Dziak
+  - Jeffrey M. Field
+  - Soumita Ghosh
+  - Anthony Gitter
+  - Rishi Raj Goel
+  - Casey S. Greene
+  - Marouen Ben Guebila
+  - Daniel S. Himmelstein
+  - Fengling Hu
+  - Nafisa M. Jadavji
+  - Jeremy P. Kamil
+  - Sergey Knyazev
+  - Likhitha Kolla
+  - Alexandra J. Lee
+  - Ronan Lordan
+  - Tiago Lubiana
+  - Temitayo Lukan
+  - Adam L. MacLean
+  - David Mai
+  - Serghei Mangul
+  - David Manheim
+  - "Lucy D\u2019Agostino McGowan"
+  - Jesse G. Meyer
+  - Ariel I. Mundo
+  - Amruta Naik
+  - YoSon Park
+  - Dimitri Perrin
+  - Yanjun Qi
+  - Diane N. Rafizadeh
+  - Bharath Ramsundar
+  - Halie M. Rando
+  - Sandipan Ray
+  - Michael P. Robson
+  - Vincent Rubinetti
+  - Elizabeth Sell
+  - Lamonica Shinholster
+  - Ashwin N. Skelly
+  - Yuchen Sun
+  - Yusha Sun
+  - Gregory L. Szeto
+  - Ryan Velazquez
+  - Jinhui Wang
+  - Nils Wellhausen
+  - ' '
+  - ' '
+  publisher: mSystems
+  date: '2023-03-02'
+  link: https://doi.org/grv5vq
+  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  tags:
+  - COVID19
+  _cache: 83e56cde2eb36146e3d5e9e15cb93aa465e8888224e33c45915db4a2342ee082
 - id: doi:10.1101/2023.01.05.522941
   title: Hetnet connectivity search provides rapid insights into how two biomedical
     entities are related
@@ -178,7 +251,7 @@
   - type: source
     link: https://github.com/adumit/phase-1-hnscc-trial-prediction
   _cache: 5eb37a9bd4d3b3e862caf3c074d46dac6e6ae7722e6e86dc860fa2be4a9c0b91
-- id: arxiv:2208.08907
+- id: doi:10.1128/msystems.00927-22
   title: Application of Traditional Vaccine Development Strategies to SARS-CoV-2
   authors:
   - Halie M. Rando
@@ -188,16 +261,69 @@
   - Nils Wellhausen
   - Elizabeth Sell
   - Likhitha Kolla
-  - COVID-19 Review Consortium
   - Anthony Gitter
   - Casey S. Greene
-  publisher: arXiv
-  date: '2022-08-19'
-  link: https://arxiv.org/abs/2208.08907
+  - Vikas Bansal
+  - John P. Barton
+  - Simina M. Boca
+  - Joel D. Boerckel
+  - Christian Brueffer
+  - James Brian Byrd
+  - Stephen Capone
+  - Shikta Das
+  - Anna Ada Dattoli
+  - John J. Dziak
+  - Jeffrey M. Field
+  - Soumita Ghosh
+  - Anthony Gitter
+  - Rishi Raj Goel
+  - Casey S. Greene
+  - Marouen Ben Guebila
+  - Daniel S. Himmelstein
+  - Fengling Hu
+  - Nafisa M. Jadavji
+  - Jeremy P. Kamil
+  - Sergey Knyazev
+  - Likhitha Kolla
+  - Alexandra J. Lee
+  - Ronan Lordan
+  - Tiago Lubiana
+  - Temitayo Lukan
+  - Adam L. MacLean
+  - David Mai
+  - Serghei Mangul
+  - David Manheim
+  - "Lucy D\u2019Agostino McGowan"
+  - Jesse G. Meyer
+  - Ariel I. Mundo
+  - Amruta Naik
+  - YoSon Park
+  - Dimitri Perrin
+  - Yanjun Qi
+  - Diane N. Rafizadeh
+  - Bharath Ramsundar
+  - Halie M. Rando
+  - Sandipan Ray
+  - Michael P. Robson
+  - Vincent Rubinetti
+  - Elizabeth Sell
+  - Lamonica Shinholster
+  - Ashwin N. Skelly
+  - Yuchen Sun
+  - Yusha Sun
+  - Gregory L. Szeto
+  - Ryan Velazquez
+  - Jinhui Wang
+  - Nils Wellhausen
+  - ' '
+  - ' '
+  publisher: mSystems
+  date: '2023-03-02'
+  link: https://doi.org/grv3d9
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   tags:
   - COVID19
-  _cache: f38213dd606606f2a95df3421083c4fcb937be54123637f9d87734b980c1d06e
+  _cache: 9e75b77109090c4e25de4b101b672d8ed1b9de0cbde29c28df7f4f7ffa0bfb88
 - id: doi:10.1101/2022.06.27.497742
   title: Changing word meanings in biomedical literature reveal pandemics and new
     technologies
