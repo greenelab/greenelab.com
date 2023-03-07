@@ -358,9 +358,9 @@
   - type: source
     link: https://github.com/greenelab/wenda_gpu/
   _cache: baf43607056ca8b77bcb9eb6f4ba479ecb92401e6d9b7c339f3ec26d23c70b3e
-- id: doi:10.1101/2022.04.14.488429
-  title: Compendium-wide analysis of <i>P. aeruginosa</i> core and accessory genes
-    reveal more nuanced transcriptional patterns
+- id: doi:10.1128/msystems.00342-22
+  title: Compendium-Wide Analysis of Pseudomonas aeruginosa Core and Accessory Genes
+    Reveals Transcriptional Patterns across Strains PAO1 and PA14
   authors:
   - Alexandra J. Lee
   - Georgia Doing
@@ -368,16 +368,16 @@
   - Taylor Reiter
   - Deborah A. Hogan
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-04-15'
-  link: https://doi.org/gpxkwr
+  publisher: mSystems
+  date: '2023-02-23'
+  link: https://doi.org/grjqcc
   image: https://raw.githubusercontent.com/greenelab/core-accessory-interactome/bf157513ab5041f8d0bf70766e79df2f06ea7bca/figure_generation/output/figure_1.svg
   extra-links:
   - type: preprint
     link: https://doi.org/10.1101/2022.04.14.488429
   - type: source
     link: https://github.com/greenelab/core-accessory-interactome
-  _cache: 080134c2811dfd3b5fe67e60154a2873aacb03ac55a7357d52c60557ea4ad4bd
+  _cache: 10394cb80b6fc9ec3f17cf3e360e13ea9bee5d1460bf717753e673b9cbed810c
 - id: doi:10.1016/j.csbj.2022.08.012
   title: Using genome-wide expression compendia to study microorganisms
   authors:
@@ -410,22 +410,26 @@
   link: https://doi.org/gpfpf4
   image: https://user-images.githubusercontent.com/542643/153752465-a788f7d3-707c-4804-91f5-04ad1aebaed4.png
   _cache: 589ed671694b642759a8dede10b9bb8e301f3528b36acc9475e4d5e3b296ddc1
-- id: doi:10.1101/2022.01.24.477642
-  title: Computationally efficient assembly of a <i>Pseudomonas aeruginos</i>a gene
-    expression compendium
+- id: doi:10.1128/msystems.00341-22
+  title: Computationally Efficient Assembly of Pseudomonas aeruginosa Gene Expression
+    Compendia
   authors:
   - Georgia Doing
   - Alexandra J. Lee
   - Samuel L. Neff
+  - Taylor Reiter
   - Jacob D. Holt
   - Bruce A. Stanton
   - Casey S. Greene
   - Deborah A. Hogan
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-01-25'
-  link: https://doi.org/gn984c
+  publisher: mSystems
+  date: '2023-02-23'
+  link: https://doi.org/grjqcd
   image: https://user-images.githubusercontent.com/542643/151672991-f0d02080-a780-4c79-a793-e27a7c0b4144.png
-  _cache: fe978fd71d038c82d0e06a9c132777b8f2999bca8af7c3d563ac3dd64b997559
+  extra-links:
+  - type: preprint
+    link: https://doi.org/10.1101/2022.01.24.477642
+  _cache: eebd390a10fb5c3d75500d36e176fb80d9137c49a0e79dfe224e377bb0b8ff37
 - id: doi:10.1038/s41562-021-01279-2
   title: Computational audits combat disparities in recognition
   authors:
