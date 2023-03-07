@@ -41,7 +41,7 @@
     - type: source
       link: https://github.com/greenelab/wenda_gpu/
 
-- id: doi:10.1101/2022.04.14.488429
+- id: doi:10.1128/msystems.00342-22
   image: https://raw.githubusercontent.com/greenelab/core-accessory-interactome/bf157513ab5041f8d0bf70766e79df2f06ea7bca/figure_generation/output/figure_1.svg
   extra-links:
     - type: preprint
@@ -58,8 +58,11 @@
 - id: doi:10.1371/journal.pcbi.1009757
   image: https://user-images.githubusercontent.com/542643/153752465-a788f7d3-707c-4804-91f5-04ad1aebaed4.png
 
-- id: doi:10.1101/2022.01.24.477642
+- id: doi:10.1128/msystems.00341-22
   image: https://user-images.githubusercontent.com/542643/151672991-f0d02080-a780-4c79-a793-e27a7c0b4144.png
+  extra-links:
+    - type: preprint
+      link: https://doi.org/10.1101/2022.01.24.477642
 
 - id: doi:10.1038/s41562-021-01279-2
   image: https://user-images.githubusercontent.com/542643/151673050-2dbf666a-eb90-4891-b26e-486131af8fc6.png
