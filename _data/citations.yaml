@@ -886,8 +886,8 @@
   - ovarian cancer
   - cancer
   _cache: ebad378db9f80e7fe701d30b50d4b59890d557cc50ab0a0e1f49b03d77b19e87
-- id: doi:10.1101/2021.03.04.433874
-  title: Linguistic Analysis of the bioRxiv Preprint Landscape
+- id: doi:10.1371/journal.pbio.3001470
+  title: Examining linguistic shifts between preprints and publications
   authors:
   - David N. Nicholson
   - Vincent Rubinetti
@@ -895,19 +895,19 @@
   - Marvin Thielk
   - Lawrence E. Hunter
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-03-04'
-  link: https://doi.org/gh7rph
+  publisher: PLOS Biology
+  date: '2022-02-01'
+  link: https://doi.org/gqqzn2
   image: https://raw.githubusercontent.com/greenelab/annorxiver_manuscript/master/content/images/figure-pieces/homescreen_doi.png
   extra-links:
   - type: preprint
   - type: biorxiv
-    link: https://www.biorxiv.org/content/10.1101/2021.03.04.433874v1
+    link: https://doi.org/10.1101/2021.03.04.433874
   tags:
   - bioRxiv
   - natural language processing
   - machine learning
-  _cache: b1a5c5aded150cd9862c1b24236cf4946fa99dd178d27744441f57c6e9702217
+  _cache: 091a128931a05e1397ca8a1cd6b6808d8f990c0a475787fbdf7d5eb52c5923cf
 - id: doi:10.1128/mSystems.00233-21
   title: Identification and Development of Therapeutics for COVID-19
   authors:
