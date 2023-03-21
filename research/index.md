@@ -16,12 +16,6 @@ Our approach to research prioritizes transparency, rigor, and reproducibility.
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" filters="file: sources.yaml" %}
-
 {%
   include button.html
   icon="fa-solid fa-book-open"
@@ -36,3 +30,9 @@ Our approach to research prioritizes transparency, rigor, and reproducibility.
 %}
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" filters="file: sources.yaml" %}

@@ -31,7 +31,7 @@ We work with a wide range of outstanding groups from around the world, and we're
 We want to push the frontier of data science and train the next generation of data scientists.
 
 {%
-  include link.html
+  include button.html
   icon="fa-solid fa-handshake-angle"
   text="Join the Team"
   link="join"
