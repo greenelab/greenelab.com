@@ -2,21 +2,21 @@
 layout: default
 ---
 
-{% capture col1 %}
+{% capture floatcontent %}
 
 {% include portrait.html lookup=page.slug %}
 
-<div>
+<div class="left">
   {% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
-    {% include button.html type=key link=value style="bare" %}
+    {% include button.html type=key link=value style="bare" %}<br>
   {% endfor %}
 </div>
 
 {% endcapture %}
 
-{% capture col2 %}
+{% include float.html content=floatcontent %}
 
 {{ content }}
 
@@ -45,7 +45,3 @@ layout: default
   See {{ page.name | default: page.title }}'s posts on the Blog page
 </a>
  -->
- 
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
