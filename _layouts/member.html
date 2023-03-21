@@ -6,7 +6,7 @@ layout: default
 
 {% include portrait.html lookup=page.slug %}
 
-<div class="left">
+<div>
   {% for link in page.links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
@@ -33,7 +33,7 @@ layout: default
 {%- endcapture %}
 
 <a href="{{ search | relative_url }}">
-  See {{ page.name | default: page.title }}'s papers on the Research page
+  Search for {{ page.name | default: page.title }}'s papers on the Research page
 </a>
 
 {% capture search -%}
