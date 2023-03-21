@@ -1,7 +1,6 @@
 ---
 title: "Infant in arms: Some thoughts from a father traveling solo with an infant"
-author: Casey Greene
-member: casey-greene
+author: casey-greene
 redirect_from: /musings/2019/1/29/infant-in-arms-some-thoughts-from-a-father-traveling-solo-with-an-infant
 ---
 
