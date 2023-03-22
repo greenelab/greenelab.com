@@ -1,4 +1,4 @@
-Visit **[greenelab.github.io/greenelab.com](https://greenelab.github.io/greenelab.com)** 🚀
+Visit **[greenelab.com](https://greenelab.com)** 🚀
 
 # Greene Lab Website
 
