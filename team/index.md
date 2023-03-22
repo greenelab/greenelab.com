@@ -11,7 +11,7 @@ redirect_from:
   - /trainees
 ---
 
-# <i class="fas fa-users"></i>Team
+# {% include icon.html icon="fa-solid fa-users" %}Team
 
 Our lab is made up of a highly engaged and collaborative team of researchers.
 We recognize that diverse teams do better research.
@@ -31,13 +31,12 @@ We work with a wide range of outstanding groups from around the world, and we're
 We want to push the frontier of data science and train the next generation of data scientists.
 
 {%
-  include link.html
-  icon="fas fa-hands-helping"
+  include button.html
+  icon="fa-solid fa-handshake-angle"
   text="Join the Team"
   link="join"
   style="button"
 %}
-{:.center}
 
 {% include section.html %}
 
@@ -58,54 +57,34 @@ They have all made lasting contributions to science and to our hearts. ❤️
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
-{:.center}
+{% capture content %}
+[![Gordon and Betty Moore Foundation](/images/team/gordon-and-betty-moore-foundation.png)](https://www.moore.org/)
 
-{%
-  include gallery.html
+[![National Cancer Institute](/images/team/national-cancer-institute.png)](https://www.cancer.gov/)
 
-  image1="images/team/gordon-and-betty-moore-foundation.png"
-  link1="https://www.moore.org/"
-  tooltip1="Gordon and Betty Moore Foundation"
+[![Alex's Lemonade Stand Foundation for Childhood Cancer](/images/team/alex's-lemonade-stand-foundation-for-childhood-cancer.png)](https://www.alexslemonade.org/)
 
-  image2="images/team/national-cancer-institute.png"
-  link2="https://www.cancer.gov/"
-  tooltip2="National Cancer Institute"
+[![Chan Zuckerberg Initiative](/images/team/chan-zuckerberg-initiative.png)](https://chanzuckerberg.com/)
 
-  image3="images/team/alex's-lemonade-stand-foundation-for-childhood-cancer.png"
-  link3="https://www.alexslemonade.org/"
-  tooltip3="Alex's Lemonade Stand Foundation for Childhood Cancer"
+[![Cystic Fibrosis Foundation](/images/team/cystic-fibrosis-foundation.png)](https://www.cff.org/)
 
-  image4="images/team/chan-zuckerberg-initiative.png"
-  link4="https://chanzuckerberg.com/"
-  tooltip4="Chan Zuckerberg Initiative"
+[![Alfred P. Sloan Foundation](/images/team/alfred-p-sloan-foundation.png)](https://sloan.org/)
 
-  image5="images/team/cystic-fibrosis-foundation.png"
-  link5="https://www.cff.org/"
-  tooltip5="Cystic Fibrosis Foundation"
+[![National Human Genome Research Institute](/images/team/national-human-genome-research-institute.png)](https://www.genome.gov/)
 
-  image6="images/team/alfred-p-sloan-foundation.png"
-  link6="https://sloan.org/"
-  tooltip6="Alfred P. Sloan Foundation"
+[![National Heart, Lung, and Blood Institute](/images/team/national-heart-lung-and-blood-institute.png)](https://www.nhlbi.nih.gov/)
 
-  image7="images/team/national-human-genome-research-institute.png"
-  link7="https://www.genome.gov/"
-  tooltip7="National Human Genome Research Institute"
+[![National Institute of Neurological Disorders and Stroke](/images/team/national-institute-of-neurological-disorders-and-stroke.png)](https://www.ninds.nih.gov/)
 
-  image8="images/team/national-heart-lung-and-blood-institute.png"
-  link8="https://www.nhlbi.nih.gov/"
-  tooltip8="National Heart, Lung, and Blood Institute"
+{% endcapture %}
 
-  image9="images/team/national-institute-of-neurological-disorders-and-stroke.png"
-  link9="https://www.ninds.nih.gov/"
-  tooltip9="National Institute of Neurological Disorders and Stroke"
-%}
+{% include grid.html content=content %}
 
 {% include section.html %}
 
 {%
   include figure.html
   image="images/team/group-photo-2.jpg"
-  description="The Greene Lab in their natural Philadelphia habitat"
+  caption="The Greene Lab in their natural Philadelphia habitat"
   width="100%"
 %}

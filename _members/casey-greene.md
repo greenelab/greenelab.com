@@ -25,6 +25,14 @@ In addition to developing deep learning methods for extracting context, a core m
 Before starting the Integrative Genomics Lab in 2012, Casey earned his Ph.D. for his study of gene-gene interactions in the field of computational genetics from Dartmouth College in 2009 and moved to the Lewis-Sigler Institute for Integrative Genomics at Princeton University where he worked as a postdoctoral fellow from 2009-2012.
 The overarching theme of his work has been the development and evaluation of methods that acknowledge the emergent complexity of biological systems.
 
+{% include float.html clear=true %}
+
 ## All papers under Casey's ORCID:
 
+{% capture content %}
+
 {% include list.html data="citations" component="citation" filters="member: casey-greene" %}
+
+{% endcapture %}
+
+{% include grid.html content=content %}

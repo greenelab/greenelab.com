@@ -1,7 +1,6 @@
 ---
 title: "Deep Learning in Biology Workshop"
-author: Alexandra Lee
-member: alex-lee
+author: alex-lee
 tags:
   - deep learning
   - workshop

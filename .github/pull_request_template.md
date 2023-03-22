@@ -1,8 +1,4 @@
-<!-- 
+This website is based on the Lab Website Template.
+See its documentation for working with this site:
 
-This website is built upon Lab Website Template.
-Please read its documentation carefully before submitting your changes:
-
-https://github.com/greenelab/lab-website-template/wiki
-
--->
+https://greene-lab.gitbook.io/lab-website-template-docs

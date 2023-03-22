@@ -15,14 +15,14 @@ We focus on bringing together publicly available [big data](https://en.wikipedia
 
 {% include section.html %}
 
-# Highlights
+## Highlights
 
 {% capture text %}
 We use data science to answer important questions in biology and medicine.
 In all of our research, we prioritize transparency, rigor, and reproducibility.
 
 {%
-  include link.html
+  include button.html
   link="research"
   text="See what we've published"
   icon="fas fa-arrow-right"
@@ -43,7 +43,7 @@ We believe that anyone around the world should be able to use and extend our wor
 We push to make software, tools, datasets, etc. that are freely available and openly licensed.
 
 {%
-  include link.html
+  include button.html
   link="tools"
   text="See our highlighted resources"
   icon="fas fa-arrow-right"
@@ -66,7 +66,7 @@ We are a team of enthusiastic researchers that want to push the frontier of data
 We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
-  include link.html
+  include button.html
   link="team"
   text="Meet our team"
   icon="fas fa-arrow-right"

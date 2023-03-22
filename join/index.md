@@ -2,7 +2,7 @@
 title: Join the Team
 ---
 
-# <i class="fas fa-hands-helping"></i>Join the Team
+# {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
 <!--
 

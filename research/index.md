@@ -6,7 +6,7 @@ nav:
 redirect_from: /publications
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 There is an abundance of publicly available data about various biological systems, but it can be difficult to draw insight from individual datasets.
 Our lab develops algorithms that integrate these data to help model and understand complex biological systems.
@@ -16,28 +16,23 @@ Our approach to research prioritizes transparency, rigor, and reproducibility.
 
 {% include section.html %}
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" filters="member: " %}
-
-{% include section.html %}
-
-## More
-
 {%
-  include link.html
-  icon="fas fa-book-open"
+  include button.html
+  icon="fa-solid fa-book-open"
   text="More on PubMed"
   link="https://pubmed.ncbi.nlm.nih.gov/?term=casey%20s%20greene"
 %}
 {%
-  include link.html
-  icon="fab fa-google"
+  include button.html
+  icon="fa-brands fa-google"
   text="More on Google Scholar"
   link="http://scholar.google.com/citations?hl=en&user=ETJoidYAAAAJ"
 %}
-{:.center}
 
 The citations on this page were generated automatically from just identifiers using the [Manubot cite utility](https://github.com/manubot/manubot#cite) developed right here in the Greene Lab!
+
+{% include search-box.html %}
+
+{% include search-info.html %}
+
+{% include list.html data="citations" component="citation" style="rich" filters="file: sources.yaml" %}

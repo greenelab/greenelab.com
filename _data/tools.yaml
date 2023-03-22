@@ -28,7 +28,7 @@
 
 - title: Lab Website Template
   group: featured
-  image: https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true
+  image: https://raw.githubusercontent.com/greenelab/lab-website-template/main/images/share.jpg?raw=true
   link: https://github.com/greenelab/lab-website-template
   description: What this website is built on! An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more. Spend less time reinventing the wheel, and more time running your lab.
   repo: greenelab/lab-website-template
@@ -44,6 +44,7 @@
 
 - title: hclust
   group: more
+  image: ""
   link: https://github.com/greenelab/hclust
   description: A JavaScript npm package for agglomerative hierarchical clustering.
   repo: greenelab/hclust

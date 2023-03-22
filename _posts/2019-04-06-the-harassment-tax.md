@@ -1,7 +1,6 @@
 ---
 title: The Harassment Tax
-author: Casey Greene
-member: casey-greene
+author: casey-greene
 redirect_from: /musings/2019/4/6/the-harassment-tax
 ---
 
