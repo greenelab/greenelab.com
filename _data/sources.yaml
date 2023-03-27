@@ -32,11 +32,21 @@
 - id: doi:10.1101/2022.06.27.497742
   image: https://user-images.githubusercontent.com/542643/179368710-0f832059-fc60-410c-b9bf-43d1cf381f18.png
 
-- id: arxiv:2112.12582
+- id: doi:10.1038/s42256-023-00618-4
   image: https://user-images.githubusercontent.com/542643/178981879-fc7de25a-34af-4275-b1ba-a6583f1c9a4a.png
+  buttons:
+    - type: preprint
+      link: https://arxiv.org/abs/2112.12582
+    - type: editorial
+      link: https://www.nature.com/articles/s42256-023-00643-3
 
-- id: arxiv:2112.12554
+- id: doi:10.1038/s42256-023-00617-5
   image: https://user-images.githubusercontent.com/542643/178981938-ea0171ca-f626-4d3d-9db6-d585bd98c828.png
+  buttons:
+    - type: preprint
+      link: https://arxiv.org/abs/2112.12554
+    - type: editorial
+      link: https://www.nature.com/articles/s42256-023-00643-3
 
 - id: doi:10.1093/bioinformatics/btac663
   image: https://user-images.githubusercontent.com/542643/164915627-94f26649-397b-40b0-b27e-d1849f771f6a.png

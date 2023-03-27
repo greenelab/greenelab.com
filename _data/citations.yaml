@@ -1,5 +1,78 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s42256-023-00617-5
+  title: Biomonitoring and precision health in deep space supported by artificial
+    intelligence
+  authors:
+  - Ryan T. Scott
+  - Lauren M. Sanders
+  - Erik L. Antonsen
+  - Jaden J. A. Hastings
+  - Seung-min Park
+  - Graham Mackintosh
+  - Robert J. Reynolds
+  - Adrienne L. Hoarfrost
+  - Aenor Sawyer
+  - Casey S. Greene
+  - Benjamin S. Glicksberg
+  - Corey A. Theriot
+  - Daniel C. Berrios
+  - Jack Miller
+  - Joel Babdor
+  - Richard Barker
+  - Sergio E. Baranzini
+  - Afshin Beheshti
+  - Stuart Chalk
+  - Guillermo M. Delgado-Aparicio
+  - Melissa Haendel
+  - Arif A. Hamid
+  - Philip Heller
+  - Daniel Jamieson
+  - Katelyn J. Jarvis
+  - John Kalantari
+  - Kia Khezeli
+  - Svetlana V. Komarova
+  - Matthieu Komorowski
+  - Prachi Kothiyal
+  - Ashish Mahabal
+  - Uri Manor
+  - Hector Garcia Martin
+  - Christopher E. Mason
+  - Mona Matar
+  - George I. Mias
+  - Jerry G. Myers
+  - Charlotte Nelson
+  - Jonathan Oribello
+  - Patricia Parsons-Wingerter
+  - R. K. Prabhu
+  - Amina Ann Qutub
+  - Jon Rask
+  - Amanda Saravia-Butler
+  - Suchi Saria
+  - Nitin Kumar Singh
+  - Michael Snyder
+  - Frank Soboczenski
+  - Karthik Soman
+  - David Van Valen
+  - Kasthuri Venkateswaran
+  - Liz Warren
+  - Liz Worthey
+  - Jason H. Yang
+  - Marinka Zitnik
+  - Sylvain V. Costes
+  publisher: Nature Machine Intelligence
+  date: '2023-03-23'
+  link: https://doi.org/grz34g
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/542643/178981938-ea0171ca-f626-4d3d-9db6-d585bd98c828.png
+  buttons:
+  - type: preprint
+    link: https://arxiv.org/abs/2112.12554
+  - type: editorial
+    link: https://www.nature.com/articles/s42256-023-00643-3
 - id: doi:10.1128/msystems.00927-22
   title: Application of Traditional Vaccine Development Strategies to SARS-CoV-2
   authors:
@@ -7188,13 +7261,13 @@
     link: https://github.com/adumit/phase-1-hnscc-trial-prediction
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2112.12582
-  title: 'Beyond Low Earth Orbit: Biological Research, Artificial Intelligence, and
-    Self-Driving Labs'
+- id: doi:10.1038/s42256-023-00618-4
+  title: Biological research and self-driving labs in deep space supported by artificial
+    intelligence
   authors:
   - Lauren M. Sanders
-  - Jason H. Yang
   - Ryan T. Scott
+  - Jason H. Yang
   - Amina Ann Qutub
   - Hector Garcia Martin
   - Daniel C. Berrios
@@ -7238,8 +7311,8 @@
   - Suchi Saria
   - Aenor Sawyer
   - Nitin Kumar Singh
-  - Frank Soboczenski
   - Michael Snyder
+  - Frank Soboczenski
   - Karthik Soman
   - Corey A. Theriot
   - David Van Valen
@@ -7248,76 +7321,15 @@
   - Liz Worthey
   - Marinka Zitnik
   - Sylvain V. Costes
-  publisher: arXiv
-  date: '2021-12-24'
-  link: https://arxiv.org/abs/2112.12582
+  publisher: Nature Machine Intelligence
+  date: '2023-03-23'
+  link: https://doi.org/grztqv
   image: https://user-images.githubusercontent.com/542643/178981879-fc7de25a-34af-4275-b1ba-a6583f1c9a4a.png
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2112.12554
-  title: 'Beyond Low Earth Orbit: Biomonitoring, Artificial Intelligence, and Precision
-    Space Health'
-  authors:
-  - Ryan T. Scott
-  - Erik L. Antonsen
-  - Lauren M. Sanders
-  - Jaden J. A. Hastings
-  - Seung-min Park
-  - Graham Mackintosh
-  - Robert J. Reynolds
-  - Adrienne L. Hoarfrost
-  - Aenor Sawyer
-  - Casey S. Greene
-  - Benjamin S. Glicksberg
-  - Corey A. Theriot
-  - Daniel C. Berrios
-  - Jack Miller
-  - Joel Babdor
-  - Richard Barker
-  - Sergio E. Baranzini
-  - Afshin Beheshti
-  - Stuart Chalk
-  - Guillermo M. Delgado-Aparicio
-  - Melissa Haendel
-  - Arif A. Hamid
-  - Philip Heller
-  - Daniel Jamieson
-  - Katelyn J. Jarvis
-  - John Kalantari
-  - Kia Khezeli
-  - Svetlana V. Komarova
-  - Matthieu Komorowski
-  - Prachi Kothiyal
-  - Ashish Mahabal
-  - Uri Manor
-  - Hector Garcia Martin
-  - Christopher E. Mason
-  - Mona Matar
-  - George I. Mias
-  - Jerry G. Myers,
-  - Charlotte Nelson
-  - Jonathan Oribello
-  - Patricia Parsons-Wingerter
-  - R. K. Prabhu
-  - Amina Ann Qutub
-  - Jon Rask
-  - Amanda Saravia-Butler
-  - Suchi Saria
-  - Nitin Kumar Singh
-  - Frank Soboczenski
-  - Michael Snyder
-  - Karthik Soman
-  - David Van Valen
-  - Kasthuri Venkateswaran
-  - Liz Warren
-  - Liz Worthey
-  - Jason H. Yang
-  - Marinka Zitnik
-  - Sylvain V. Costes
-  publisher: arXiv
-  date: '2021-12-24'
-  link: https://arxiv.org/abs/2112.12554
-  image: https://user-images.githubusercontent.com/542643/178981938-ea0171ca-f626-4d3d-9db6-d585bd98c828.png
+  buttons:
+  - type: preprint
+    link: https://arxiv.org/abs/2112.12582
+  - type: editorial
+    link: https://www.nature.com/articles/s42256-023-00643-3
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.csbj.2022.08.012
