@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1371/journal.pcbi.1010984
+  title: The effect of non-linear signal in classification problems using gene expression
+  authors:
+  - Benjamin J. Heil
+  - Jake Crawford
+  - Casey S. Greene
+  publisher: PLOS Computational Biology
+  date: '2023-03-27'
+  link: https://doi.org/gr2q6q
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/15317110/179038261-f5bc18a6-fcf6-4acb-9ea6-1c231cf30616.png
+  buttons:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2022.06.22.497194v2
+  - type: source
+    link: https://github.com/greenelab/linear_signal
+  - type: manubot
+    link: https://github.com/greenelab/linear_models_manuscript
+  tags:
+  - machine learning
+  - gene expression
+  - nonlinear relationships
 - id: doi:10.1038/s42256-023-00617-5
   title: Biomonitoring and precision health in deep space supported by artificial
     intelligence
@@ -521,20 +546,8 @@
   link: https://doi.org/gqhgwk
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: sources.py
-  file: sources.yaml
-  image: https://user-images.githubusercontent.com/15317110/179038261-f5bc18a6-fcf6-4acb-9ea6-1c231cf30616.png
-  buttons:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2022.06.22.497194v2
-  - type: source
-    link: https://github.com/greenelab/linear_signal
-  - type: manubot
-    link: https://github.com/greenelab/linear_models_manuscript
-  tags:
-  - machine learning
-  - gene expression
-  - nonlinear relationships
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2022.06.15.496326
   title: An efficient not-only-linear correlation coefficient based on machine learning
   authors:
