@@ -1,5 +1,16 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/nar/gkad289
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/542643/232873400-6146a32d-b11b-4514-8b26-14c6e4d6bcac.jpeg
 - id: doi:10.1371/journal.pcbi.1010984
   title: The effect of non-linear signal in classification problems using gene expression
   authors:
