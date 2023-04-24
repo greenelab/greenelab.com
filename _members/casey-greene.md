@@ -36,3 +36,11 @@ The overarching theme of his work has been the development and evaluation of met
 {% endcapture %}
 
 {% include grid.html content=content %}
+
+{% capture content %}
+
+{% include list.html data="citations" component="citation-id" filters="member: casey-greene, title: " %}
+
+{% endcapture %}
+
+{% include grid.html content=content %}
