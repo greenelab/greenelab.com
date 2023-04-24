@@ -27,7 +27,7 @@ The overarching theme of his work has been the development and evaluation of met
 
 {% include float.html clear=true %}
 
-## All papers under Casey's ORCID:
+## All publications under Casey's ORCID
 
 {% capture content %}
 
@@ -43,4 +43,8 @@ The overarching theme of his work has been the development and evaluation of met
 
 {% endcapture %}
 
+## Other publications
+
 {% include grid.html content=content %}
+
+## Select publications
