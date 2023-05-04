@@ -1,125 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: sources.py
-  file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/232873400-6146a32d-b11b-4514-8b26-14c6e4d6bcac.jpeg
-- id: doi:10.1371/journal.pcbi.1010984
-  title: The effect of non-linear signal in classification problems using gene expression
-  authors:
-  - Benjamin J. Heil
-  - Jake Crawford
-  - Casey S. Greene
-  publisher: PLOS Computational Biology
-  date: '2023-03-27'
-  link: https://doi.org/gr2q6q
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: sources.py
-  file: sources.yaml
-  image: https://user-images.githubusercontent.com/15317110/179038261-f5bc18a6-fcf6-4acb-9ea6-1c231cf30616.png
-  buttons:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2022.06.22.497194v2
-  - type: source
-    link: https://github.com/greenelab/linear_signal
-  - type: manubot
-    link: https://github.com/greenelab/linear_models_manuscript
-  tags:
-  - machine learning
-  - gene expression
-  - nonlinear relationships
-- id: doi:10.1038/s42256-023-00617-5
-  title: Biomonitoring and precision health in deep space supported by artificial
-    intelligence
-  authors:
-  - Ryan T. Scott
-  - Lauren M. Sanders
-  - Erik L. Antonsen
-  - Jaden J. A. Hastings
-  - Seung-min Park
-  - Graham Mackintosh
-  - Robert J. Reynolds
-  - Adrienne L. Hoarfrost
-  - Aenor Sawyer
-  - Casey S. Greene
-  - Benjamin S. Glicksberg
-  - Corey A. Theriot
-  - Daniel C. Berrios
-  - Jack Miller
-  - Joel Babdor
-  - Richard Barker
-  - Sergio E. Baranzini
-  - Afshin Beheshti
-  - Stuart Chalk
-  - Guillermo M. Delgado-Aparicio
-  - Melissa Haendel
-  - Arif A. Hamid
-  - Philip Heller
-  - Daniel Jamieson
-  - Katelyn J. Jarvis
-  - John Kalantari
-  - Kia Khezeli
-  - Svetlana V. Komarova
-  - Matthieu Komorowski
-  - Prachi Kothiyal
-  - Ashish Mahabal
-  - Uri Manor
-  - Hector Garcia Martin
-  - Christopher E. Mason
-  - Mona Matar
-  - George I. Mias
-  - Jerry G. Myers
-  - Charlotte Nelson
-  - Jonathan Oribello
-  - Patricia Parsons-Wingerter
-  - R. K. Prabhu
-  - Amina Ann Qutub
-  - Jon Rask
-  - Amanda Saravia-Butler
-  - Suchi Saria
-  - Nitin Kumar Singh
-  - Michael Snyder
-  - Frank Soboczenski
-  - Karthik Soman
-  - David Van Valen
-  - Kasthuri Venkateswaran
-  - Liz Warren
-  - Liz Worthey
-  - Jason H. Yang
-  - Marinka Zitnik
-  - Sylvain V. Costes
-  publisher: Nature Machine Intelligence
-  date: '2023-03-23'
-  link: https://doi.org/grz34g
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: sources.py
-  file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/178981938-ea0171ca-f626-4d3d-9db6-d585bd98c828.png
-  buttons:
-  - type: preprint
-    link: https://arxiv.org/abs/2112.12554
-  - type: editorial
-    link: https://www.nature.com/articles/s42256-023-00643-3
 - id: doi:10.1128/msystems.00927-22
   title: Application of Traditional Vaccine Development Strategies to SARS-CoV-2
   authors:
@@ -272,6 +152,204 @@
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   tags:
   - COVID19
+- id: doi:10.1093/nar/gkad289
+  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
+    and user-created collections of genes'
+  authors:
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/542643/232873400-6146a32d-b11b-4514-8b26-14c6e4d6bcac.jpeg
+- id: doi:10.5281/zenodo.7805407
+  title: Data underlying OpenPBTA Manuscript Figures and Molecular Alterations
+  authors:
+  - Joshua A. Shapiro
+  - Krutika S. Gaonkar
+  - Stephanie J. Spielman
+  - Candace L. Savonen
+  - Chante J. Bethell
+  - Run Jin
+  - Komal S. Rathi
+  - Yuankun Zhu
+  - Laura E. Egolf
+  - Bailey K. Farrow
+  - Daniel P. Miller
+  - Yang Yang
+  - Tejaswi Koganti
+  - Nighat Noureen
+  - Mateusz P. Koptyra
+  - Nhat Duong
+  - Mariarita Santi
+  - Jung Kim
+  - Shannon Robins
+  - Phillip B. Storm
+  - Stephen C. Mack
+  - Jena V. Lilly
+  - Hongbo M. Xie
+  - Payal Jain
+  - Pichai Raman
+  - Brian R. Rood
+  - Rishi R. Lulla
+  - Javad Nazarian
+  - Adam A. Kraya
+  - Zalman Vaksman
+  - Allison P. Heath
+  - Cassie Kline
+  - Laura Scolaro
+  - Angela N. Viaene
+  - Xiaoyan Huang
+  - Gregory P. Way
+  - Steven M. Foltz
+  - Bo Zhang
+  - Anna R. Poetsch
+  - Sabine Mueller
+  - Brian M. Ennis
+  - Michael Prados
+  - Sharon J. Diskin
+  - Siyuan Zheng
+  - Yiran Guo
+  - Shrivats Kannan
+  - Angela J. Waanders
+  - Ashley S. Margol
+  - Meen Chul Kim
+  - Derek Hanson
+  - Nicholas Van Kuren
+  - Jessica Wong
+  - Rebecca S. Kaufman
+  - Noel Coleman
+  - Christopher Blackden
+  - Kristina A. Cole
+  - Jennifer L. Mason
+  - Peter J. Madsen
+  - Carl J. Koschmann
+  - Douglas R. Stewart
+  - Eric Wafula
+  - Miguel A. Brown
+  - Adam C. Resnick
+  - Casey S. Greene
+  - Jo Lynne Rokita
+  - Jaclyn N. Taroni
+  - ' '
+  - ' '
+  publisher: Zenodo
+  date: '2023-04-06'
+  link: https://doi.org/gr6wd5
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1010984
+  title: The effect of non-linear signal in classification problems using gene expression
+  authors:
+  - Benjamin J. Heil
+  - Jake Crawford
+  - Casey S. Greene
+  publisher: PLOS Computational Biology
+  date: '2023-03-27'
+  link: https://doi.org/gr2q6q
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/15317110/179038261-f5bc18a6-fcf6-4acb-9ea6-1c231cf30616.png
+  buttons:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2022.06.22.497194v2
+  - type: source
+    link: https://github.com/greenelab/linear_signal
+  - type: manubot
+    link: https://github.com/greenelab/linear_models_manuscript
+  tags:
+  - machine learning
+  - gene expression
+  - nonlinear relationships
+- id: doi:10.1038/s42256-023-00617-5
+  title: Biomonitoring and precision health in deep space supported by artificial
+    intelligence
+  authors:
+  - Ryan T. Scott
+  - Lauren M. Sanders
+  - Erik L. Antonsen
+  - Jaden J. A. Hastings
+  - Seung-min Park
+  - Graham Mackintosh
+  - Robert J. Reynolds
+  - Adrienne L. Hoarfrost
+  - Aenor Sawyer
+  - Casey S. Greene
+  - Benjamin S. Glicksberg
+  - Corey A. Theriot
+  - Daniel C. Berrios
+  - Jack Miller
+  - Joel Babdor
+  - Richard Barker
+  - Sergio E. Baranzini
+  - Afshin Beheshti
+  - Stuart Chalk
+  - Guillermo M. Delgado-Aparicio
+  - Melissa Haendel
+  - Arif A. Hamid
+  - Philip Heller
+  - Daniel Jamieson
+  - Katelyn J. Jarvis
+  - John Kalantari
+  - Kia Khezeli
+  - Svetlana V. Komarova
+  - Matthieu Komorowski
+  - Prachi Kothiyal
+  - Ashish Mahabal
+  - Uri Manor
+  - Hector Garcia Martin
+  - Christopher E. Mason
+  - Mona Matar
+  - George I. Mias
+  - Jerry G. Myers
+  - Charlotte Nelson
+  - Jonathan Oribello
+  - Patricia Parsons-Wingerter
+  - R. K. Prabhu
+  - Amina Ann Qutub
+  - Jon Rask
+  - Amanda Saravia-Butler
+  - Suchi Saria
+  - Nitin Kumar Singh
+  - Michael Snyder
+  - Frank Soboczenski
+  - Karthik Soman
+  - David Van Valen
+  - Kasthuri Venkateswaran
+  - Liz Warren
+  - Liz Worthey
+  - Jason H. Yang
+  - Marinka Zitnik
+  - Sylvain V. Costes
+  publisher: Nature Machine Intelligence
+  date: '2023-03-23'
+  link: https://doi.org/grz34g
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/542643/178981938-ea0171ca-f626-4d3d-9db6-d585bd98c828.png
+  buttons:
+  - type: preprint
+    link: https://arxiv.org/abs/2112.12554
+  - type: editorial
+    link: https://www.nature.com/articles/s42256-023-00643-3
 - id: doi:10.1038/s42003-023-04588-6
   title: Cross-platform normalization enables machine learning model training on microarray
     and RNA-seq data simultaneously
