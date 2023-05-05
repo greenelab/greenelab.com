@@ -1,15 +1,17 @@
- ---
- name: Ben Heil
- image: images/team/ben.jpg
- role: phd
- group: alum
- links:
-   orcid: 0000-0002-2811-1031
-   email: ben.jer.heil@gmail.com
-   home-page: https://autobencoder.com
-   github: ben-heil
-   twitter: autobencoder
- ---
+---
+name: Ben Heil
+aliases:
+ - Benjamin J. Heil
+image: images/team/ben.jpg
+role: phd
+group: alum
+links:
+  orcid: 0000-0002-2811-1031
+  email: ben.jer.heil@gmail.com
+  home-page: https://autobencoder.com
+  github: ben-heil
+  twitter: autobencoder
+---
  
 Ben is a PhD student in the [Genomics and Computational Biology program at Penn](http://www.med.upenn.edu/gcb/).
 He graduated from Baylor University with a degree in bioinformatics in 2018, and joined the Greene lab in the summer of 2019.
