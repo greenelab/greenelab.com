@@ -1,20 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1186/s13040-023-00332-2
-  title: Changing word meanings in biomedical literature reveal pandemics and new
-    technologies
-  authors:
-  - David N. Nicholson
-  - Faisal Alquaddoomi
-  - Vincent Rubinetti
-  - Casey S. Greene
-  publisher: BioData Mining
-  date: '2023-05-05'
-  link: https://doi.org/gr7ft5
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1128/msystems.00927-22
   title: Application of Traditional Vaccine Development Strategies to SARS-CoV-2
   authors:
