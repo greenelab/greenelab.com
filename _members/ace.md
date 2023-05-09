@@ -1,7 +1,7 @@
 ---
 name: Ace
 image: images/team/ace.jpg
-role: mascot
+role: alum
 ---
 
 Ace is the Nicholson family’s miniature schnauzer.
