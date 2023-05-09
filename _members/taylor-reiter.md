@@ -4,7 +4,8 @@ aliases:
   - Taylor Reiter
   - Taylor E Reiter
 image: images/team/taylor_reiter.jpg
-role: alum
+role: postdoc
+group: alum
 links:
   orcid: 0000-0002-7388-421X
   email: taylor.reiter@cuanschutz.edu
