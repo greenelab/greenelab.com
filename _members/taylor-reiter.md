@@ -14,8 +14,8 @@ links:
   twitter: ReiterTaylor
 ---
 
-Taylor is a postdoctoral researcher who joined the GreeneLab in 2022.
+Taylor joined the GreeneLab in 2022.
 Her work was supported by the Computational Bioscience Program's T15 through the NIH NLM.
-She received her PhD in Food Science in 2020 from UC Davis under the mentorship of Drs. C. Titus Brown and Ben Montpetit where she worked on developing new methods to find hidden patterns in microbial sequencing data.
+She received her PhD in Food Science in 2020 from UC Davis under the mentorship of Drs. C. Titus Brown and Ben Montpetit where she developed new methods to find hidden patterns in microbial sequencing data.
 She used publicly availble RNA-seq data to improve functional inference from metatranscriptomes.
 After leaving the GreeneLab, she became a Data Scientist at [Arcadia Science](https://www.arcadiascience.com).
