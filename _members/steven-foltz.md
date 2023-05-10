@@ -8,7 +8,7 @@ links:
   email: stevenmasonfoltz@gmail.com
   google-scholar: p8O2sHgAAAAJ
   github: envest
-alum: true
+group: alum
 ---
 
 Steven was a postdoctoral researcher who worked with the [Childhood Cancer Data Lab](https://www.ccdatalab.org/) and the Greene Lab from 2020-2023.
