@@ -9,7 +9,7 @@ aliases:
 role: postdoc
 links:
   orcid: 0000-0001-7688-1770
-  email: halie.rando@pennmedicine.upenn.edu
+  email: hrando@smith.edu
   google-scholar: gWtl3GwAAAAJ
   github: rando2
 group: alum
