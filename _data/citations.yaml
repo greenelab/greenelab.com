@@ -1,5 +1,58 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.06.28.546898
+  title: Is a Picture Worth 1,000 SNPs? Effects of User-Submitted Photographs on Ancestry
+    Estimates from Direct-to-Consumer Canine Genetic Tests
+  authors:
+  - Halie Rando
+  - Kiley Graim
+  - Greg Hampikian
+  - Casey S Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-06-29'
+  link: https://doi.org/gsd85m
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/8975841/250271905-4eed44ba-528a-4a61-a4ec-fa90d51e61f9.jpg
+- id: doi:10.1093/gigascience/giad047
+  title: pendingpublications
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/gsd85n
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.06.26.546586
+  title: "Optimizer\u2019s dilemma: optimization strongly influences model selection\
+    \ in transcriptomic prediction"
+  authors:
+  - Jake Crawford
+  - Maria Chikina
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-06-26'
+  link: https://doi.org/gsdsvs
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.8044955
+  title: 'greenelab/phenoplier: a computational framework to integrate genetic studies
+    with gene co-expression patterns'
+  authors:
+  - Milton Pividori
+  - Casey Greene
+  publisher: Zenodo
+  date: '2023-06-22'
+  link: https://doi.org/gscpfx
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.06.14.544991
   title: Deconvolution reveals compositional differences in high-grade serous ovarian
     cancer subtypes
@@ -1464,7 +1517,7 @@
   - Jennifer A Doherty
   - David D Bowtell
   - Michael S Anglesio
-  publisher: Apollo - University of Cambridge Repository
+  publisher: American Association for Cancer Research (AACR)
   date: '2020-06-04'
   link: https://doi.org/gqs2p2
   orcid: 0000-0001-8713-9213
@@ -8051,7 +8104,7 @@
   - Jesse G. Meyer
   - Ariel I. Mundo
   publisher: Manubot
-  date: '2023-03-06'
+  date: '2023-05-01'
   link: https://greenelab.github.io/covid19-review/
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   buttons:
