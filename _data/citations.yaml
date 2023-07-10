@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/nar/gkad289
+  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
+    and user-created collections of genes'
+  authors:
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/542643/232873400-6146a32d-b11b-4514-8b26-14c6e4d6bcac.jpeg
 - id: doi:10.1101/2023.06.28.546898
   title: Is a Picture Worth 1,000 SNPs? Effects of User-Submitted Photographs on Ancestry
     Estimates from Direct-to-Consumer Canine Genetic Tests
@@ -259,28 +281,6 @@
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   tags:
   - COVID19
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: sources.py
-  file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/232873400-6146a32d-b11b-4514-8b26-14c6e4d6bcac.jpeg
 - id: doi:10.5281/zenodo.7805407
   title: Data underlying OpenPBTA Manuscript Figures and Molecular Alterations
   authors:
