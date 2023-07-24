@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.07.20.549951
+  title: 'BuDDI: Bulk Deconvolution with Domain Invariance to predict cell-type-specific
+    perturbations from bulk'
+  authors:
+  - Natalie R. Davidson
+  - Casey S. Greene
+  publisher: bioRxiv
+  date: '2023-07-22'
+  link: https://doi.org/gshs97
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/nar/gkad289
   title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
     and user-created collections of genes'
