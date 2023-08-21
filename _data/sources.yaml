@@ -1,6 +1,17 @@
 - id: doi:10.1101/2023.07.31.551386
   image: https://user-images.githubusercontent.com/542643/262141715-23a165d3-0156-4ba0-afc6-0ef260c46d7c.png
 
+- id: doi:10.1101/2023.07.20.549951
+  image: https://user-images.githubusercontent.com/542643/262144782-78a11c8e-1b10-44e0-85ec-1b709cfd94e4.png
+
+- id: doi:10.1093/nar/gkad289
+  image: https://user-images.githubusercontent.com/542643/262144983-aa829f2e-38fb-4dae-bd0b-80255e5208e6.png
+
+- id: doi:10.1101/2023.06.14.544991
+  image: https://user-images.githubusercontent.com/542643/262145314-a228feb4-024e-47f1-a070-70695e531970.png
+
+- id: doi:10.1038/s41592-023-01886-z
+  
 - id: doi:10.1101/2023.06.26.546586
   image: https://user-images.githubusercontent.com/542643/252371308-1ae174fe-1eb6-47c4-882b-5a3b982bc533.png
   
