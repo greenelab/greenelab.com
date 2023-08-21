@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2023.07.31.551386
+  title: 'MousiPLIER: A Mouse Pathway-Level Information Extractor Model'
+  authors:
+  - Shuo Zhang
+  - Benjamin J. Heil
+  - Weiguang Mao
+  - Maria Chikina
+  - Casey S. Greene
+  - Elizabeth A. Heller
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-08-02'
+  link: https://doi.org/gskcvr
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.07.20.549951
   title: 'BuDDI: Bulk Deconvolution with Domain Invariance to predict cell-type-specific
     perturbations from bulk'
