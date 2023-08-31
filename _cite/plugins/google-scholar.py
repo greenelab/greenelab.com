@@ -9,48 +9,48 @@ def main(entry):
     returns list of sources to cite
     """
 
-    # get id from entry
-    id = entry.get("gsid")
-    if not id:
-        raise Exception('No "gsid" key')
-
-    # get api key
-    api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY")
+    # get api key (serp api key to access google scholar)
+    api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY", "")
     if not api_key:
         raise Exception('No "GOOGLE_SCHOLAR_API_KEY" env var')
 
-    # serp api
+    # serp api properties
     params = {
         "engine": "google_scholar_author",
-        "author_id": id,
         "api_key": api_key,
-        "num": 100,
+        "num": 100,  # max allowed
     }
+
+    # get id from entry
+    _id = get_safe(entry, "gsid", "")
+    if not _id:
+        raise Exception('No "gsid" key')
 
     # query api
     @log_cache
     @cache.memoize(name=__file__, expire=1 * (60 * 60 * 24))
-    def query():
-        return GoogleSearch(params).get_dict().get("articles", [])
+    def query(_id):
+        params["author_id"] = _id
+        return get_safe(GoogleSearch(params).get_dict(), "articles", [])
 
-    response = query()
+    response = query(_id)
 
     # list of sources to return
     sources = []
 
     # go through response and format sources
     for work in response:
-
         # create source
-        source = {}
-
-        # format source fields
-        source["id"] = work.get("citation_id", "")
-        source["title"] = work.get("title", "")
-        source["authors"] = list(map(str.strip, work.get("authors", "").split(",")))
-        source["publisher"] = work.get("publication", "")
-        source["date"] = work.get("year", "") + "-01-01"
-        source["link"] = work.get("link", "")
+        year = get_safe(work, "year", "")
+        source = {
+            "id": get_safe(work, "citation_id", ""),
+            # api does not provide Manubot-citeable id, so keep citation details
+            "title": get_safe(work, "title", ""),
+            "authors": list(map(str.strip, get_safe(work, "authors", "").split(","))),
+            "publisher": get_safe(work, "publication", ""),
+            "date": (year + "-01-01") if year else "",
+            "link": get_safe(work, "link", ""),
+        }
 
         # copy fields from entry to source
         source.update(entry)

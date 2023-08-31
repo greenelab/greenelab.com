@@ -1,3 +1,7 @@
+"""
+utility functions for cite process and plugins
+"""
+
 import subprocess
 import json
 import yaml
@@ -45,7 +49,7 @@ def log(message="\n--------------------\n", indent=0, level="", newline=True):
         "SUCCESS": "[black on #10B981]",
         "INFO": "[grey70]",
     }
-    color = palette.get(level) or palette.get(indent) or "[white]"
+    color = get_safe(palette, level, "") or get_safe(palette, indent, "") or "[white]"
     if newline:
         print()
     print(indent * "    " + color + str(message) + "[/]", end="", flush=True)
@@ -53,10 +57,27 @@ def log(message="\n--------------------\n", indent=0, level="", newline=True):
 
 def label(entry):
     """
-    get "label" of dict entry
+    get "label" of dict entry (for logging purposes)
     """
 
-    return list(entry.keys())[0] + ": " + list(entry.values())[0]
+    return str(list(entry.keys())[0]) + ": " + str(list(entry.values())[0])
+
+
+def get_safe(item, path, default=None):
+    """
+    safely access value in nested lists/dicts
+    """
+
+    for part in str(path).split("."):
+        try:
+            part = int(part)
+        except ValueError:
+            part = part
+        try:
+            item = item[part]
+        except (KeyError, IndexError, AttributeError, TypeError):
+            return default
+    return item
 
 
 def list_of_dicts(data):
@@ -64,7 +85,7 @@ def list_of_dicts(data):
     check if data is list of dicts
     """
 
-    return type(data) == list and all(type(entry) == dict for entry in data)
+    return isinstance(data, list) and all(isinstance(entry, dict) for entry in data)
 
 
 def format_date(date):
@@ -72,6 +93,8 @@ def format_date(date):
     format date as YYYY-MM-DD, or no date if malformed
     """
 
+    if isinstance(date, int):
+        return datetime.fromtimestamp(date // 1000.0).strftime("%Y-%m-%d")
     try:
         return datetime.strptime(date, "%Y-%m-%d").strftime("%Y-%m-%d")
     except Exception:
@@ -143,18 +166,15 @@ def save_data(path, data):
 
 
 @log_cache
-@cache.memoize(name="manubot", expire=90 * (60 * 60 * 24))
-def cite_with_manubot(source):
+@cache.memoize(name="manubot", expire=365 * (60 * 60 * 24))
+def cite_with_manubot(_id):
     """
-    generate citation data for source with Manubot
+    generate citation data for source id with Manubot
     """
-
-    # source id
-    id = source.get("id")
 
     # run Manubot
     try:
-        commands = ["manubot", "cite", id, "--log-level=WARNING"]
+        commands = ["manubot", "cite", _id, "--log-level=WARNING"]
         output = subprocess.Popen(commands, stdout=subprocess.PIPE).communicate()
     except Exception as e:
         log(e, 3)
@@ -170,35 +190,36 @@ def cite_with_manubot(source):
     citation = {}
 
     # original id
-    citation["id"] = id
+    citation["id"] = _id
 
     # title
-    citation["title"] = manubot.get("title", "")
+    citation["title"] = get_safe(manubot, "title", "").strip()
 
     # authors
     citation["authors"] = []
-    for author in manubot.get("author", []):
-        given = author.get("given", "")
-        family = author.get("family", "")
-        citation["authors"].append(given + " " + family)
+    for author in get_safe(manubot, "author", {}):
+        given = get_safe(author, "given", "").strip()
+        family = get_safe(author, "family", "").strip()
+        if given or family:
+            citation["authors"].append(" ".join([given, family]))
 
     # publisher
-    container = manubot.get("container-title", "")
-    collection = manubot.get("collection-title", "")
-    publisher = manubot.get("publisher", "")
+    container = get_safe(manubot, "container-title", "").strip()
+    collection = get_safe(manubot, "collection-title", "").strip()
+    publisher = get_safe(manubot, "publisher", "").strip()
     citation["publisher"] = container or publisher or collection or ""
 
     # extract date part
     def date_part(citation, index):
         try:
-            return citation.get("issued").get("date-parts")[0][index]
-        except Exception:
+            return citation["issued"]["date-parts"][0][index]
+        except (KeyError, IndexError, TypeError):
             return ""
 
     # date
     year = date_part(manubot, 0)
     if year:
-        # fallbacks for no month or day
+        # fallbacks for month and day
         month = date_part(manubot, 1) or "1"
         day = date_part(manubot, 2) or "1"
         citation["date"] = format_date(f"{year}-{month}-{day}")
@@ -207,7 +228,7 @@ def cite_with_manubot(source):
         citation["date"] = ""
 
     # link
-    citation["link"] = manubot.get("URL", "")
+    citation["link"] = get_safe(manubot, "URL", "").strip()
 
     # return citation data
     return citation
