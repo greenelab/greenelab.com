@@ -8,7 +8,7 @@ background: images/backgrounds/anschutz.jpg
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Our lab is part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) and Center for Health AI.
+Our lab is part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and Center for Health AI.
 We are a geographically distributed team that is headquartered on the 6th Floor of the [Anschutz Health Sciences Building](https://www.ucdenver.edu/about/departments/FacilitiesManagement/FacilitiesProjects/ActiveProjects/Pages/AnschutzHealthSciencesBldg.aspx).
 
 {%
