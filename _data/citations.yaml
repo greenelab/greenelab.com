@@ -165,6 +165,33 @@
   title: Changing word meanings in biomedical literature reveal pandemics and new
     technologies
   authors:
+  - Ricardo Avila
+  - Vincent Rubinetti
+  - Xinghua Zhou
+  - Dongbo Hu
+  - Zhongchao Qian
+  - Marco Alvarado Cano
+  - Everaldo Rodolpho
+  - Ginger Tsueng
+  - Casey Greene
+  - Chunlei Wu
+  publisher: Nucleic Acids Research
+  date: '2023-04-18'
+  link: https://doi.org/gr5hb5
+  orcid: 0000-0002-4655-3773
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.05.522941
+  title: Hetnet connectivity search provides rapid insights into how two biomedical
+    entities are related
+  authors:
+  - Daniel S. Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin J. Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
   - David N. Nicholson
   - Faisal Alquaddoomi
   - Vincent Rubinetti
