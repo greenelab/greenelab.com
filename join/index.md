@@ -4,6 +4,8 @@ title: Join the Team
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
+You can learn a bit about what it's like to work in the lab by reading our [onboarding document](https://github.com/greenelab/onboarding/blob/master/onboarding.md).
+
 <!--
 
 ### Programmers
