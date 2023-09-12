@@ -7082,7 +7082,7 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02433-9/MediaObjects/13059_2021_2433_Fig4_HTML.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2021.07.05.450786
+- id: doi:10.1038/s41467-023-41057-4
   title: Projecting genetic associations through gene expression patterns highlights
     disease etiology and drug mechanisms
   authors:
@@ -7095,22 +7095,22 @@
   - Qiping Feng
   - Bahram Namjou
   - Krzysztof Kiryluk
-  - Iftikhar Kullo
+  - Iftikhar J. Kullo
   - Yuan Luo
   - Blair D. Sullivan
   - Benjamin F. Voight
   - Carsten Skarke
   - Marylyn D. Ritchie
-  - Struan F.A. Grant
+  - Struan F. A. Grant
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2021-07-06'
-  link: https://doi.org/10.1101/2021.07.05.450786
+  publisher: Nature Communications
+  date: '2023-09-09'
+  link: https://doi.org/gspsxr
   image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
   buttons:
   - type: preprint
   - type: biorxiv
-    link: https://www.biorxiv.org/content/10.1101/2021.07.05.450786v2
+    link: https://doi.org/10.1101/2021.07.05.450786
   tags:
   - gene modules
   - twas
