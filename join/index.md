@@ -24,27 +24,7 @@ Our data processing framework and webservers run on cloud instances, so experien
 ### Postdoctoral Researchers
 
 The Greene Lab welcomes applications for computational postdoctoral positions at the University of Colorado School of Medicine.
-The overarching theme of our work is to transform how we understand complex biological systems by integrating big data from diverse sources and developing computational methods that effectively model real-world processes.
-We then put these methods into the hands of every biologist, through the development of usable open-source tools, and the dissemination of successful applications.
-
-#### Objectives
-
-Postdocs in our lab contribute to the development of new analytical methods and/or the application of these methods to new datasets.
-Postdocs will have the opportunity to work with large collections of genomic data, both publicly available and from collaborative projects, and to extract testable biological hypotheses from these large collections.
-Research projects center around new computational methods to integrate genomic data as well as to incorporate additional environmental and phenotypic information with these genomic data.
-Postdocs are expected to contribute to the lab's culture of open scientific discovery and to share methodological advances and biological discoveries at both national and international venues.
-
-#### Qualifications
-
-1. Candidates are expected to have an MD, PhD, or equivalent, with a strong background in computer science, machine learning, statistics, genetics, bioinformatics, or closely related field and programming experience with attributable contributions to source code.
-
-2. The ideal candidate will have a track record of scientific productivity and leadership, and will strive for robust and reproducible analytical workflows.
-
-3. The ideal candidate will have experience handling large datasets in a UNIX/LINUX environment, experience with high performance cluster or cloud computing, and a knowledge of existing software packages used for machine learning.
-
-#### Applying
-
-Applications can only be accepted through the [CU Anschutz Taleo Portal](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=29720&lang=en).
+Learn about these opportunities through our recent Post-Doctoral Fellow posting, and applications can only be accepted through the [CU Anschutz Taleo Portal](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=29720&lang=en).
 
 ### Graduate Students
 
