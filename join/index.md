@@ -6,21 +6,6 @@ title: Join the Team
 
 You can learn a bit about working in the lab by reading our [onboarding document](https://github.com/greenelab/onboarding/blob/master/onboarding.md).
 
-<!--
-
-### Programmers
-
-Our programmers contribute most of the code that goes into our production-ready servers, apps, and analytical pipelines.
-They are expected to maintain high standards of documentation, clarity, efficiency, and maintainability in their own code, and also help the other members of the lab achieve the same in their code.
-
-For the machine learning aspects of our work, we currently use a technology stack consisting of Python, numpy/scipy/scikit-learn/theano, and R with assorted packages.
-For web development, we currently use a technology stack consisting of Postgres, Python, Django, JavaScript, and React.
-Our data processing framework and webservers run on cloud instances, so experience with optimizing workloads for this type of environment is a plus.
-
-[Contact Casey]({{ site.baseurl }}/contact) to be notified when job postings are available.
-
--->
-
 ### Postdoctoral Researchers
 
 The Greene Lab welcomes applications for computational postdoctoral positions at the University of Colorado School of Medicine.
@@ -38,6 +23,12 @@ We provide training in all aspects through group meetings, individual meetings, 
 
 If you have not yet joined one of the PhD programs above, the first step to joining our group is to apply and be admitted to one of these programs.
 If you are already a PhD student in one of the above programs and are interested in rotating in our lab, please [contact Casey]({{ site.baseurl }}/contact) to set up a time to discuss your interest.
+
+
+### Programmers
+
+We work with programmers at [DBMI's software engineering team](https://cu-dbmi.github.io/set-website/) to bring research products to practice.
+Visit their website to learn about opportunities on the team.
 
 <!--
 ### Undergraduate Students
