@@ -4,7 +4,7 @@ title: Join the Team
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
-You can learn a bit about what it's like to work in the lab by reading our [onboarding document](https://github.com/greenelab/onboarding/blob/master/onboarding.md).
+You can learn a bit about working in the lab by reading our [onboarding document](https://github.com/greenelab/onboarding/blob/master/onboarding.md).
 
 <!--
 
@@ -19,11 +19,13 @@ Our data processing framework and webservers run on cloud instances, so experien
 
 [Contact Casey]({{ site.baseurl }}/contact) to be notified when job postings are available.
 
+-->
+
 ### Postdoctoral Researchers
 
-The Greene Lab welcomes applications for computational postdoctoral positions at the University of Pennsylvania Perelman School of Medicine.
+The Greene Lab welcomes applications for computational postdoctoral positions at the University of Colorado School of Medicine.
 The overarching theme of our work is to transform how we understand complex biological systems by integrating big data from diverse sources and developing computational methods that effectively model real-world processes.
-We then put these methods into the hands of every biologist, through the development of usable open source tools, and the dissemination of successful applications.
+We then put these methods into the hands of every biologist, through the development of usable open-source tools, and the dissemination of successful applications.
 
 #### Objectives
 
@@ -40,17 +42,9 @@ Postdocs are expected to contribute to the lab's culture of open scientific disc
 
 3. The ideal candidate will have experience handling large datasets in a UNIX/LINUX environment, experience with high performance cluster or cloud computing, and a knowledge of existing software packages used for machine learning.
 
-#### Pay and Benefits
-
-Postdoc positions in our lab start at a non-negotiable starting salary, which is currently $70,000 per year.
-These positions are considered [Postdoctoral Trainee Appointments at Penn](https://www.med.upenn.edu/postdoc/bpp-policies-table-of-contents-section-3.html), which makes the postdoc eligible for [an insurance plan](https://clients.garnett-powers.com/pd/upenn/) and other benefits, including the [New Child Leave Policy](https://www.med.upenn.edu/postdoc/bpp-policies-table-of-contents-section-3.html).
-Additional information about Biomedical Postdoc Positions at Penn is available on [the program website](https://www.med.upenn.edu/postdoc/).
-
 #### Applying
 
-To apply, provide a CV, a one to two page statement of research interests, and the names and contact information for three references through [our application portal](https://greene-lab.breezy.hr/p/bf7972c74ec4).
-
--->
+Applications can only be accepted through the [CU Anschutz Taleo Portal](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=29720&lang=en).
 
 ### Graduate Students
 
@@ -59,7 +53,7 @@ The umbrella program is the [Biomedical Sciences Program](https://www.cuanschutz
 Our primary program affiliation is the University of Colorado's [Computational Biosciences Program](https://www.cuanschutz.edu/graduate-programs/computational-bioscience/home).
 We are also excited to welcome students who want to pursue computational research from [other graduate programs](https://www.cuanschutz.edu/graduate-programs) on a case-by-case basis.
 
-Our goal is to help our students to develop both a deep familiarity with the computational methods required for data-intensive science and a strong understanding of one or more biological application areas.
+Our goal is to help our students develop both a deep familiarity with the computational methods required for data-intensive science and a strong understanding of one or more biological application areas.
 We provide training in all aspects through group meetings, individual meetings, and a supportive lab environment.
 
 If you have not yet joined one of the PhD programs above, the first step to joining our group is to apply and be admitted to one of these programs.
