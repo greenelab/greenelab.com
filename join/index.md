@@ -5,6 +5,7 @@ title: Join the Team
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
 You can learn a bit about working in the lab by reading our [onboarding document](https://github.com/greenelab/onboarding/blob/master/onboarding.md).
+Positions across our Department of Biomedical Informatics, including in our lab, for staff and postdocs are usually listed on the [employment section of the DBMI website](http://medschool.cuanschutz.edu/dbmi).
 
 ### Postdoctoral Researchers
 
