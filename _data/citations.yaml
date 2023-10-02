@@ -650,6 +650,29 @@
   plugin: sources.py
   file: sources.yaml
   image: https://user-images.githubusercontent.com/542643/211156151-21a97245-c17b-4a94-ae72-76d6cf66a535.png
+- id: doi:10.5524/102389
+  title: Supporting data for "Hetnet connectivity search provides rapid insights into
+    how two biomedical entities are related"
+  authors:
+  - Himmelstein S Daniel
+  - Zietz Michael
+  - Rubinetti Vincent
+  - Kloster Kyle
+  - Heil J Benjamin
+  - Alquaddoomi Faisal
+  - Hu Dongbo
+  - Nicholson N David
+  - Hao Yun
+  - Sullivan D Blair
+  - Nagle W Michael
+  - Greene S Casey
+  publisher: GigaScience Database
+  date: '2023-01-01'
+  link: https://doi.org/gr77bv
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2022.12.04.519045
   title: Performance of computational algorithms to deconvolve heterogeneous bulk
     tumor tissue depends on experimental factors
