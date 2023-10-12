@@ -1,5 +1,40 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.5281/zenodo.8186993
+  title: Human Microbiome Compendium dataset
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Zenodo
+  date: '2023-10-11'
+  link: https://doi.org/gsvhxn
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.11.560955
+  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-11'
+  link: https://doi.org/gsvf5z
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/542643/274611735-0b4d7372-d935-4a0d-b3a3-909012346b35.png
 - id: doi:10.1101/2023.08.21.554169
   title: Analysis of<i>Pseudomonas aeruginosa</i>transcription in an<i>ex vivo</i>cystic
     fibrosis sputum model identifies metal restriction as a gene expression stimulus
@@ -17,6 +52,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
+  image: https://user-images.githubusercontent.com/542643/274611350-b55a8531-8fee-4125-8054-4db365ab8009.png
 - id: doi:10.1101/2023.07.31.551386
   title: 'MousiPLIER: A Mouse Pathway-Level Information Extractor Model'
   authors:
