@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1186/s13059-023-03077-7
+  title: Performance of computational algorithms to deconvolve heterogeneous bulk
+    ovarian tumor tissue depends on experimental factors
+  authors:
+  - Ariel A. Hippen
+  - Dalia K. Omran
+  - Lukas M. Weber
+  - Euihye Jung
+  - Ronny Drapkin
+  - Jennifer A. Doherty
+  - Stephanie C. Hicks
+  - Casey S. Greene
+  publisher: Genome Biology
+  date: '2023-10-20'
+  link: https://doi.org/gswt6v
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://user-images.githubusercontent.com/542643/211156536-a2179f50-9d88-4b80-bb01-6247941bbe4b.png
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.1101/2022.12.04.519045
 - id: doi:10.5281/zenodo.8186993
   title: Human Microbiome Compendium dataset
   authors:
@@ -726,9 +749,8 @@
   link: https://doi.org/10.1101/2022.12.04.519045
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: sources.py
-  file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/211156536-a2179f50-9d88-4b80-bb01-6247941bbe4b.png
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-022-02705-y
   title: Widespread redundancy in -omics profiles of cancer mutation states
   authors:
