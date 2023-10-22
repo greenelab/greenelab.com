@@ -39,8 +39,11 @@
 - id: doi:10.1101/2023.01.05.522941
   image: https://user-images.githubusercontent.com/542643/211341569-e465826a-4cb1-41ea-a66f-162f420ea968.png
 
-- id: doi:10.1101/2022.12.04.519045
+- id: doi:10.1186/s13059-023-03077-7
   image: https://user-images.githubusercontent.com/542643/211156536-a2179f50-9d88-4b80-bb01-6247941bbe4b.png
+  buttons:
+    - type: preprint
+      link: https://doi.org/10.1101/2022.12.04.519045
 
 - id: doi:10.1101/2022.09.13.507832
   image: https://user-images.githubusercontent.com/542643/211156503-c486bb87-5e6b-4295-88b9-2c454fe06e85.png
