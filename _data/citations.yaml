@@ -6800,6 +6800,63 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.ajhg.2023.12.001
+  title: 'Building a vertically integrated genomic learning health system: The biobank
+    at the Colorado Center for Personalized Medicine'
+  authors:
+  - Laura K. Wiley
+  - Jonathan A. Shortt
+  - Emily R. Roberts
+  - Jan Lowery
+  - Elizabeth Kudron
+  - Meng Lin
+  - David Mayer
+  - Melissa Wilson
+  - Tonya M. Brunetti
+  - Sameer Chavan
+  - Tzu L. Phang
+  - Nikita Pozdeyev
+  - Joseph Lesny
+  - Stephen J. Wicks
+  - Ethan T. Moore
+  - Joshua L. Morgenstern
+  - Alanna N. Roff
+  - Elise L. Shalowitz
+  - Adrian Stewart
+  - Cole Williams
+  - Michelle N. Edelmann
+  - Madelyne Hull
+  - J. Tacker Patton
+  - Lisen Axell
+  - Lisa Ku
+  - Yee Ming Lee
+  - Jean Jirikowic
+  - Anna Tanaka
+  - Emily Todd
+  - Sarah White
+  - Brett Peterson
+  - Emily Hearst
+  - Richard Zane
+  - Casey S. Greene
+  - Rasika Mathias
+  - Marilyn Coors
+  - Matthew Taylor
+  - Debashis Ghosh
+  - Michael G. Kahn
+  - Ian M. Brooks
+  - Christina L. Aquilante
+  - David Kao
+  - Nicholas Rafaels
+  - Kristy R. Crooks
+  - Steve Hess
+  - Kathleen C. Barnes
+  - Christopher R. Gignoux
+  publisher: The American Journal of Human Genetics
+  date: '2024-01-01'
+  link: https://doi.org/gtcwqq
+  image: https://private-user-images.githubusercontent.com/542643/294239653-924e038d-77d7-4bf0-aa80-7d532faa66fc.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.11.01.565179
   title: Molecular subtypes of high grade serous ovarian cancer across racial groups
     and gene expression platforms
