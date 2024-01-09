@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.5281/zenodo.8186993
+  title: Human Microbiome Compendium dataset
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Zenodo
+  date: '2023-10-11'
+  link: https://doi.org/gsvhxn
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/gigascience/giae001
   title: pendingpublications
   authors: []
@@ -702,23 +719,6 @@
   plugin: sources.py
   file: sources.yaml
   image: https://user-images.githubusercontent.com/542643/211156151-21a97245-c17b-4a94-ae72-76d6cf66a535.png
-- id: doi:10.5281/zenodo.8186993
-  title: Human Microbiome Compendium dataset
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Zenodo
-  date: '2023-10-11'
-  link: https://doi.org/gsvhxn
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.5524/102389
   title: Supporting data for "Hetnet connectivity search provides rapid insights into
     how two biomedical entities are related"
