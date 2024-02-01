@@ -26,12 +26,6 @@ We are a geographically distributed team that is headquartered on the 6th Floor 
 %}
 {%
   include button.html
-  type="phone"
-  text="(215) 573-2991"
-  link="+1-215-573-2991"
-%}
-{%
-  include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps/place/Anschutz+Health+Sciences+Building/@39.7454721,-104.8418929,15z/data=!4m2!3m1!1s0x0:0x85f675e778fce18c?sa=X&ved=2ahUKEwjd_MfInpL6AhWEhIkEHd6WDIcQ_BJ6BAhkEAU"
