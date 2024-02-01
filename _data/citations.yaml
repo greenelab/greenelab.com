@@ -17,6 +17,20 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/bioadv/vbae004
+  title: "Optimizer\u2019s dilemma: optimization strongly influences model selection\
+    \ in transcriptomic prediction"
+  authors:
+  - Jake Crawford
+  - Maria Chikina
+  - Casey S Greene
+  publisher: Bioinformatics Advances
+  date: '2024-01-01'
+  link: https://doi.org/gtdh5z
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/gigascience/giae001
   title: pendingpublications
   authors: []
