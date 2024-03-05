@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/spectrum.03157-23
+  title: "<i>Pseudomonas aeruginosa</i>\n            transcriptome analysis of metal\
+    \ restriction in\n            <i>ex vivo</i>\n            cystic fibrosis sputum"
+  authors:
+  - Samuel L. Neff
+  - Georgia Doing
+  - Taylor Reiter
+  - Thomas H. Hampton
+  - Casey S. Greene
+  - Deborah A. Hogan
+  publisher: Microbiology Spectrum
+  date: '2024-02-22'
+  link: https://doi.org/gtjtj2
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5281/zenodo.8186993
   title: Human Microbiome Compendium dataset
   authors:
