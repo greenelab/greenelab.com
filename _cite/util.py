@@ -166,7 +166,7 @@ def save_data(path, data):
 
 
 @log_cache
-@cache.memoize(name="manubot", expire=365 * (60 * 60 * 24))
+@cache.memoize(name="manubot", expire=90 * (60 * 60 * 24))
 def cite_with_manubot(_id):
     """
     generate citation data for source id with Manubot
