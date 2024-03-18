@@ -55,8 +55,6 @@ They have all made lasting contributions to science and to our hearts. ❤️
 
 {% include section.html %}
 
-## Funding
-
 {% capture content %}
 [![Gordon and Betty Moore Foundation](/images/team/gordon-and-betty-moore-foundation.png)](https://www.moore.org/)
 

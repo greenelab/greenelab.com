@@ -5244,24 +5244,6 @@
     link: https://github.com/greenelab/hgsc_subtypes
   - type: package
     link: https://hub.docker.com/r/gregway/hgsc_subtypes/
-- id: eid:2-s2.0-85012144154
-  title: Computational approaches to study microbes and microbiomes
-  publisher: Pacific Symposium on Biocomputing 2016, PSB 2016
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85012144154&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000386326200051
-  title: Computational approaches to study microbes and microbiomes
-  publisher: Pacific Symposium on Biocomputing 2016, PSB 2016
-  date: '2022-05-26'
-  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000386326200051&KeyUID=WOS:000386326200051
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/s13040-016-0085-5
   title: 'Erratum to: Evolving hard problems: generating human genetics datasets with
     a complex etiology'
@@ -5360,42 +5342,6 @@
   buttons:
   - url: http://doi.org/10.1038/srep39259
     text: Zhou et al.
-- id: eid:2-s2.0-85015595524
-  title: NO-BOUNDARY THINKING IN BIOINFORMATICS
-  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85015595524&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: source-work-id:0417180825983-87
-  title: NO-BOUNDARY THINKING IN BIOINFORMATICS
-  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85015595524&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84971009612
-  title: Nothing but a hound dog
-  publisher: Science Translational Medicine
-  date: '2022-05-25'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971009612&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: source-work-id:0417180825983-88
-  title: Nothing but a hound dog
-  publisher: Science Translational Medicine
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971009612&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/hmg/ddw160
   title: Pathway and network-based strategies to translate genetic discoveries into
     effective therapies
@@ -6104,66 +6050,6 @@
     text: Raw networks
   - type: app
     link: http://giant.princeton.edu/
-- id: eid:2-s2.0-84971231452
-  title: Unsupervised feature construction and knowledge extraction from genome-wide
-    assays of breast cancer with denoising autoencoders
-  publisher: 20th Pacific Symposium on Biocomputing, PSB 2015
-  date: '2022-05-25'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971231452&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: source-work-id:0417180825986-103
-  title: Unsupervised feature construction and knowledge extraction from genome-wide
-    assays of breast cancer with denoising autoencoders
-  publisher: 20th Pacific Symposium on Biocomputing, PSB 2015
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971231452&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:MEDLINE:25592575
-  title: Unsupervised feature construction and knowledge extraction from genome-wide
-    assays of breast cancer with denoising autoencoders.
-  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: '2022-05-24'
-  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=MEDLINE&KeyUT=MEDLINE:25592575&KeyUID=MEDLINE:25592575
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84905885881
-  title: Applications of bioinformatics to non-coding RNAs in the era of next-generation
-    sequencing
-  publisher: 19th Pacific Symposium on Biocomputing, PSB 2014
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84905885881&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: source-work-id:0417180825986-104
-  title: Applications of bioinformatics to non-coding RNAs in the era of next-generation
-    sequencing
-  publisher: 19th Pacific Symposium on Biocomputing, PSB 2014
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84905885881&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:MEDLINE:24297566
-  title: Applications of bioinformatics to non-coding RNAs in the era of next-generation
-    sequencing.
-  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: '2022-05-24'
-  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=MEDLINE&KeyUT=MEDLINE:24297566&KeyUID=MEDLINE:24297566
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1002/jcp.24662
   title: Big Data Bioinformatics
   authors:
@@ -6228,24 +6114,6 @@
   publisher: 2014 8th International Conference on Systems Biology (ISB)
   date: '2014-10-01'
   link: https://doi.org/10.1109/isb.2014.6990733
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84960944853
-  title: Text and data mining for biomedical discovery
-  publisher: 19th Pacific Symposium on Biocomputing, PSB 2014
-  date: '2022-05-25'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84960944853&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: source-work-id:0417180825987-109
-  title: Text and data mining for biomedical discovery
-  publisher: 19th Pacific Symposium on Biocomputing, PSB 2014
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84960944853&partnerID=MN8TOARS
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -6315,24 +6183,6 @@
   publisher: PLoS ONE
   date: '2013-08-02'
   link: https://doi.org/10.1371/journal.pone.0069678
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-84961190214
-  title: Text and data mining for biomedical discovery
-  publisher: 18th Pacific Symposium on Biocomputing, PSB 2013
-  date: '2022-05-25'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84961190214&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: source-work-id:0417180825987-112
-  title: Text and data mining for biomedical discovery
-  publisher: 18th Pacific Symposium on Biocomputing, PSB 2013
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84961190214&partnerID=MN8TOARS
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -6453,43 +6303,6 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/978-3-642-12211-8-7
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/978-3-642-12211-8-17
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-77949497409
-  title: Enabling personal genomics with an explicit test of epistasis
-  publisher: Pacific Symposium on Biocomputing 2010, PSB 2010
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-77949497409&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000411479100034
-  title: Enabling personal genomics with an explicit test of epistasis
-  publisher: Pacific Symposium on Biocomputing 2010, PSB 2010
-  date: '2022-05-26'
-  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000411479100034&KeyUID=WOS:000411479100034
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:MEDLINE:19908385
-  title: Enabling personal genomics with an explicit test of epistasis.
-  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
-  date: '2022-05-24'
-  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=MEDLINE&KeyUT=MEDLINE:19908385&KeyUID=MEDLINE:19908385
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1145/1830483.1830523
   title: Fast genome-wide epistasis analysis using ant colony optimization for multifactor
     dimensionality reduction analysis on graphics processing units
@@ -6534,21 +6347,6 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/978-3-642-12211-8-16
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000272540600026
-  title: A Computational Evolution System for Open-Ended Automated Learning of Complex
-    Genetic Relationships
-  publisher: Genetic Epidemiology
-  date: '2022-05-24'
-  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000272540600026&KeyUID=WOS:000272540600026
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/1756-0500-2-149
   title: Accelerating epistasis analysis in human genetics with consumer graphics
     hardware
@@ -6560,16 +6358,6 @@
   publisher: BMC Research Notes
   date: '2009-07-24'
   link: https://doi.org/10.1186/1756-0500-2-149
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000272540600064
-  title: Computationally Efficient Relief-based Algorithms for Detecting Epistasis
-    in Genome-wide Association Studies
-  publisher: Genetic Epidemiology
-  date: '2022-05-24'
-  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000272540600064&KeyUID=WOS:000272540600064
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -6732,59 +6520,6 @@
   publisher: Ant Colony Optimization and Swarm Intelligence
   date: ''
   link: https://doi.org/10.1007/978-3-540-87527-7_4
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000260871600142
-  title: Multifactor Dimensionality Reduction 2.0
-  publisher: Genetic Epidemiology
-  date: '2022-05-24'
-  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000260871600142&KeyUID=WOS:000260871600142
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-57349142365
-  title: Using expert knowledge in initialization for genome-wide analysis of epistasis
-    using genetic programming
-  publisher: 'GECCO''08: Proceedings of the 10th Annual Conference on Genetic and
-    Evolutionary Computation 2008'
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-57349142365&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: source-work-id:0417180825475-140
-  title: Using expert knowledge in initialization for genome-wide analysis of epistasis
-    using genetic programming
-  publisher: "GECCO\u201908: Proceedings of the 10th Annual Conference on Genetic\
-    \ and Evolutionary Computation 2008"
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-57349142365&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: eid:2-s2.0-38349045395
-  title: An expert knowledge-guided mutation operator for genome-wide genetic analysis
-    using genetic programming
-  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
-    in Artificial Intelligence and Lecture Notes in Bioinformatics)
-  date: '2022-05-24'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-38349045395&partnerID=MN8TOARS
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: source-work-id:0417180825475-141
-  title: An expert knowledge-guided mutation operator for genome-wide genetic analysis
-    using genetic programming
-  publisher: Lecture Notes in Computer Science (including subseries Lecture Notes
-    in Artificial Intelligence and Lecture Notes in Bioinformatics)
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-38349045395&partnerID=MN8TOARS
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py

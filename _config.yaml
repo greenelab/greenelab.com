@@ -5,6 +5,8 @@ logo-text: false
 header: images/backgrounds/laptop-paper.jpg
 footer: images/backgrounds/laptop-paper.jpg
 
+proofer: false
+
 # site social media and other links
 links:
   orcid: 0000-0001-8713-9213
