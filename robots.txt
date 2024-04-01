@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://greenelab.com/sitemap.xml
