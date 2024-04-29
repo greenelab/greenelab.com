@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.04.25.590992
+  title: Missing cell types in single-cell references impact deconvolution of bulk
+    data but are detectable
+  authors:
+  - Adriana Ivich
+  - Natalie R. Davidson
+  - Laurie Grieshober
+  - Weishan Li
+  - Stephanie C. Hicks
+  - Jennifer A. Doherty
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-04-28'
+  link: https://doi.org/gtsgj7
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1128/spectrum.03157-23
   title: "<i>Pseudomonas aeruginosa</i>\n            transcriptome analysis of metal\
     \ restriction in\n            <i>ex vivo</i>\n            cystic fibrosis sputum"
