@@ -1,5 +1,31 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.7554/eLife.84855
+  title: Analysis of science journalism reveals gender and regional disparities in
+    coverage
+  authors:
+  - Natalie R. Davidson
+  - Casey S. Greene
+  publisher: eLife Sciences Publications, Ltd
+  date: '2023-02-09'
+  link: https://doi.org/10.7554/elife.84855
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.84855.2
+  title: Analysis of science journalism reveals gender and regional disparities in
+    coverage
+  authors:
+  - Natalie R. Davidson
+  - Casey S. Greene
+  publisher: eLife Sciences Publications, Ltd
+  date: '2024-05-17'
+  link: https://doi.org/gtvsrt
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.04.25.590992
   title: Missing cell types in single-cell references impact deconvolution of bulk
     data but are detectable
@@ -721,19 +747,6 @@
   publisher: eLife Sciences Publications, Ltd
   date: '2023-02-09'
   link: https://doi.org/10.7554/elife.84855.1
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.7554/eLife.84855
-  title: Analysis of science journalism reveals gender and regional disparities in
-    coverage
-  authors:
-  - Natalie R. Davidson
-  - Casey S. Greene
-  publisher: eLife Sciences Publications, Ltd
-  date: '2023-02-09'
-  link: https://doi.org/10.7554/elife.84855
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
