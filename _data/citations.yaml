@@ -13,6 +13,19 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.7554/eLife.84855.3
+  title: Analysis of science journalism reveals gender and regional disparities in
+    coverage
+  authors:
+  - Natalie R Davidson
+  - Casey S Greene
+  publisher: eLife
+  date: '2024-05-28'
+  link: https://doi.org/gtw9dx
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.84855.2
   title: Analysis of science journalism reveals gender and regional disparities in
     coverage
