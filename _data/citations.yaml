@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/jamia/ocae139
+  title: A publishing infrastructure for Artificial Intelligence (AI)-assisted academic
+    authoring
+  authors:
+  - Milton Pividori
+  - Casey S Greene
+  publisher: Journal of the American Medical Informatics Association
+  date: '2024-06-14'
+  link: https://doi.org/gtw9d3
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/eLife.84855
   title: Analysis of science journalism reveals gender and regional disparities in
     coverage
