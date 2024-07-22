@@ -5314,6 +5314,16 @@
     link: https://github.com/greenelab/hgsc_subtypes
   - type: package
     link: https://hub.docker.com/r/gregway/hgsc_subtypes/
+- id: wosuid:WOS:000386326200051
+  title: Computational approaches to study microbes and microbiomes
+  authors: []
+  publisher: Pacific Symposium on Biocomputing 2016, PSB 2016
+  date: '2022-05-26'
+  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000386326200051&KeyUID=WOS:000386326200051
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13040-016-0085-5
   title: 'Erratum to: Evolving hard problems: generating human genetics datasets with
     a complex etiology'
@@ -6120,6 +6130,28 @@
     text: Raw networks
   - type: app
     link: http://giant.princeton.edu/
+- id: wosuid:MEDLINE:25592575
+  title: Unsupervised feature construction and knowledge extraction from genome-wide
+    assays of breast cancer with denoising autoencoders.
+  authors: []
+  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+  date: '2022-05-24'
+  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=MEDLINE&KeyUT=MEDLINE:25592575&KeyUID=MEDLINE:25592575
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:MEDLINE:24297566
+  title: Applications of bioinformatics to non-coding RNAs in the era of next-generation
+    sequencing.
+  authors: []
+  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+  date: '2022-05-24'
+  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=MEDLINE&KeyUT=MEDLINE:24297566&KeyUID=MEDLINE:24297566
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/jcp.24662
   title: Big Data Bioinformatics
   authors:
@@ -6373,6 +6405,26 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000411479100034
+  title: Enabling personal genomics with an explicit test of epistasis
+  authors: []
+  publisher: Pacific Symposium on Biocomputing 2010, PSB 2010
+  date: '2022-05-26'
+  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000411479100034&KeyUID=WOS:000411479100034
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:MEDLINE:19908385
+  title: Enabling personal genomics with an explicit test of epistasis.
+  authors: []
+  publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
+  date: '2022-05-24'
+  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=MEDLINE&KeyUT=MEDLINE:19908385&KeyUID=MEDLINE:19908385
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/1830483.1830523
   title: Fast genome-wide epistasis analysis using ant colony optimization for multifactor
     dimensionality reduction analysis on graphics processing units
@@ -6417,6 +6469,17 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:000272540600026
+  title: A Computational Evolution System for Open-Ended Automated Learning of Complex
+    Genetic Relationships
+  authors: []
+  publisher: Genetic Epidemiology
+  date: '2022-05-24'
+  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000272540600026&KeyUID=WOS:000272540600026
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/1756-0500-2-149
   title: Accelerating epistasis analysis in human genetics with consumer graphics
     hardware
@@ -6428,6 +6491,17 @@
   publisher: BMC Research Notes
   date: '2009-07-24'
   link: https://doi.org/10.1186/1756-0500-2-149
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000272540600064
+  title: Computationally Efficient Relief-based Algorithms for Detecting Epistasis
+    in Genome-wide Association Studies
+  authors: []
+  publisher: Genetic Epidemiology
+  date: '2022-05-24'
+  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000272540600064&KeyUID=WOS:000272540600064
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -6590,6 +6664,16 @@
   publisher: Ant Colony Optimization and Swarm Intelligence
   date: ''
   link: https://doi.org/10.1007/978-3-540-87527-7_4
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000260871600142
+  title: Multifactor Dimensionality Reduction 2.0
+  authors: []
+  publisher: Genetic Epidemiology
+  date: '2022-05-24'
+  link: http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000260871600142&KeyUID=WOS:000260871600142
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
