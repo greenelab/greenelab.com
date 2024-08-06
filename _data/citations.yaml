@@ -5474,6 +5474,21 @@
     link: http://dx.doi.org/10.1101/039800
   - type: source
     link: https://github.com/greenelab/DAPS
+- id: doi:10.1101/030650
+  title: ADAGE analysis of publicly available gene expression data collections illuminates
+    Pseudomonas aeruginosa-host interactions
+  authors:
+  - Jie Tan
+  - John H Hammond
+  - Deborah A Hogan
+  - Casey S Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2015-11-05'
+  link: https://doi.org/10.1101/030650
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7287/PEERJ.PREPRINTS.1460V1
   title: Cross-platform normalization of microarray and RNA-seq data for machine learning
     applications
@@ -6689,21 +6704,6 @@
   publisher: Journal of Molecular Evolution
   date: '2006-01-01'
   link: https://doi.org/10.1007/s00239-004-0312-4
-  orcid: 0000-0001-8713-9213
-  member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/030650
-  title: ADAGE analysis of publicly available gene expression data collections illuminates
-    Pseudomonas aeruginosa-host interactions
-  authors:
-  - Jie Tan
-  - John H Hammond
-  - Deborah A Hogan
-  - Casey S Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2015-11-05'
-  link: https://doi.org/10.1101/030650
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
