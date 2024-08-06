@@ -5420,7 +5420,7 @@
   file: sources.yaml
   image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/364.cover-source.gif
   buttons:
-  - url: http://doi.org/10.1038/srep39259
+  - link: http://doi.org/10.1038/srep39259
     text: Zhou et al.
 - id: doi:10.1093/hmg/ddw160
   title: Pathway and network-based strategies to translate genetic discoveries into
