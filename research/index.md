@@ -35,4 +35,4 @@ The citations on this page were generated automatically from just identifiers us
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filters="file: sources.yaml" %}
+{% include list.html data="citations" component="citation" style="rich" %}
