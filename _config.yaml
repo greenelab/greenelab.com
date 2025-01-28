@@ -46,11 +46,11 @@ collections:
 
 # jekyll plugins
 plugins:
-  - jekyll-spaceship
-  - jekyll-sitemap
-  - jekyll-redirect-from
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-spaceship
 
 # code block syntax highlighting
 highlighter: rouge
