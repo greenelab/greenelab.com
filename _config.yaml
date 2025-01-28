@@ -17,7 +17,9 @@ links:
   instagram: greenelab
 
 ### jekyll settings
+### jekyll settings
 
+# front matter defaults
 # front matter defaults
 defaults:
   # all markdown files
@@ -38,14 +40,21 @@ defaults:
 
 collections:
   # generate page for each member
+  # generate page for each member
   members:
+    output: true
+  # generate page for each post
+  posts:
     output: true
   # generate page for each post
   posts:
     output: true
 
 # jekyll plugins
+# jekyll plugins
 plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
   - jekyll-spaceship
   - jekyll-sitemap
   - jekyll-redirect-from
@@ -54,9 +63,28 @@ plugins:
 
 # code block syntax highlighting
 highlighter: rouge
+  - jekyll-last-modified-at
+
+# code block syntax highlighting
+highlighter: rouge
 
 # jekyll theme
 theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
 
 # sass settings
 sass:
