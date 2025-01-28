@@ -9330,6 +9330,30 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.cell.2024.12.017
+  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Mansooreh Ahmadian
+  - Parker Hicks
+  - Ashwin Chetty
+  - Daniel McDonald
+  - Pamela Ferretti
+  - Elizabeth Gibbons
+  - Marco Rossi
+  - Arjun Krishnan
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Cell
+  date: '2025-01-01'
+  link: https://doi.org/g82tvz
+  image: https://private-user-images.githubusercontent.com/542643/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.06.26.546586
   title: "Optimizer\u2019s dilemma: optimization strongly influences model selection\
     \ in transcriptomic prediction"
