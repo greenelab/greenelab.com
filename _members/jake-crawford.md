@@ -2,6 +2,7 @@
 name: Jake Crawford
 image: images/team/jake.jpg
 role: phd
+group: alum
 links:
   orcid: 0000-0001-6207-0782
   home-page: http://jjc2718.github.io/

@@ -5,6 +5,7 @@ aliases:
   - Natalie R Davidson
 image: images/team/natalie_davidson.jpg
 role: postdoc
+group: alum
 links:
   orcid: 0000-0002-1745-8072
   email: natalie.davidson@cuanschutz.edu
