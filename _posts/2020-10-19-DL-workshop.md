@@ -30,8 +30,6 @@ I am currently applying these methods to understand mechanisms of _P.aeruginosa_
 My goal is to develop methods that help gain insight into the complexities of disease traits.
 You can find my current research projects on my [github page](https://github.com/ajlee21).
 
-{% include section.html %}
-
 ## Deep learning in biology workshop
 
 To celebrate and pass on the knowledge, my lab mate, [Ben Heil](https://ben-heil.github.io/) and [I](https://twitter.com/localee_compact) are hosting a [“Deep Learning for Biologists Workshop”](https://ben-heil.github.io/2020-10-08-workshop/).

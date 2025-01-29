@@ -18,12 +18,8 @@ We recognize that diverse teams do better research.
 We foster an environment where team members are treated equally, and where we respect and admire our differences.
 The team includes postdocs, students at all levels, staff, and our lab mascots.
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
-{% include list.html data="members" component="portrait" filters="role: mascot, group: " %}
+{% include list.html data="members" component="portrait" filter="role == 'principal-investigator' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role != 'principal-investigator' and group != 'alum'" %}
 
 {% include section.html dark=true %}
 
@@ -46,12 +42,7 @@ Gone but never forgotten.
 These are past lab members who have moved on to the [Childhood Cancer Data Lab](https://www.alexslemonade.org/data-lab), other school programs, new jobs, or elsewhere.
 They have all made lasting contributions to science and to our hearts. ❤️
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: mascot, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
 {% include section.html %}
 
