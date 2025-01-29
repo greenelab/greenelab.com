@@ -7,7 +7,7 @@ aliases:
   - C.S. Greene
   - C. S. Greene
 image: images/team/casey.jpg
-role: principal-investigator
+role: pi
 links:
   orcid: 0000-0001-8713-9213
   home-page: https://greenelab.com

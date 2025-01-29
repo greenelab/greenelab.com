@@ -20,7 +20,7 @@ module Jekyll
 
     # strip all non-letter and non-number characters from string
     def regex_strip(string)
-      return string.gsub(/[^\p{L}\p{N}.,;:-]/u, " ").gsub(/\s+/, " ").strip
+      return string.gsub(/[^\p{L}\p{N}]/u, " ")
     end
   end
 end

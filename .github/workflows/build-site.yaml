@@ -20,14 +20,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Debug dump
-        uses: crazy-max/ghaction-dump-context@v2
+      # for debugging
+      - uses: crazy-max/ghaction-dump-context@v2
 
       - name: Checkout branch contents
         uses: actions/checkout@v4
 
       - name: Install Ruby packages
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v1.172.0
         with:
           ruby-version: "3.1"
           bundler-cache: true
@@ -36,8 +36,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
-      - name: SSH debug
-        if: runner.debug == '1'
+      # for debugging
+      - if: runner.debug == '1'
         uses: mxschmitt/action-tmate@v3
 
       - name: Set root url

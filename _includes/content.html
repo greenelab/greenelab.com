@@ -11,7 +11,7 @@
 
 {% for section in sections %}
   {% assign dark = section | regex_scan: "dark: (.*);" | default: "" %}
-  {% assign image = section
+  {% assign background = section
     | regex_scan: "background: (.*);"
     | default: nil
   %}
@@ -23,8 +23,8 @@
     {% if dark == "true" or dark == "false" %}
       data-dark="{{ dark }}"
     {% endif %}
-    {% if image %}
-      style="--image: url('{{ image | relative_url | uri_escape }}')"
+    {% if background %}
+      style="--image: url('{{ background | relative_url }}')"
     {% endif %}
   >
     {{ section }}

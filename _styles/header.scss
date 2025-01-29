@@ -1,8 +1,8 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 40px;
+$logo-big: 150px;
+$logo: 80px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -43,7 +43,6 @@ header a {
 }
 
 .logo > * {
-  width: unset;
   height: 100%;
 }
 
@@ -100,6 +99,7 @@ nav {
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
+  font-size: 1.1rem;
   font-family: var(--heading);
   text-transform: uppercase;
 }
@@ -149,7 +149,6 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
-    flex-shrink: 0;
   }
 
   .title-text {

@@ -1,23 +1,19 @@
 {% assign tags = include.tags
   | object_items
   | join: ","
-  | downcase
   | split: ","
   | array_filter
-  | join: ","
-  | regex_replace: "\s+", "-"
-  | split: ","
   | uniq
 %}
-{% assign link = include.link | default: page.dir %}
+{% assign link = include.link | default: page.dir | absolute_url %}
 {% if tags.size > 0 or include.repo %}
   <div
     class="tags"
     {% if include.repo %}
-      data-repo="{{ include.repo | xml_escape }}"
+      data-repo="{{ include.repo }}"
     {% endif %}
     {% if link %}
-      data-link="{{ link | relative_url | xml_escape }}"
+      data-link="{{ link }}"
     {% endif %}
   >
     {% for tag in tags %}
