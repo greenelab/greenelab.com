@@ -9463,7 +9463,7 @@
   publisher: Cell
   date: '2025-01-01'
   link: https://doi.org/g82tvz
-  image: https://greenelab.com/preview/pr-140/images/research/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
+  image: https://greenelab.com/images/research/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.07.31.551386
