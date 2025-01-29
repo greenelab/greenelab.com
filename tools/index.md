@@ -21,22 +21,22 @@ cleanly written, robustly constructed and tested, well-documented, easy-to-use, 
 
 ## Featured
 
-{% include list.html data="tools" component="card" filters="group: featured" %}
+{% include list.html data="tools" component="card" filter="group: featured" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html data="tools" component="card" filters="group: more" style="small" %}
+{% include list.html data="tools" component="card" filter="group: more" style="small" %}
 
 {% include section.html %}
 
 ## Affiliated Organizations
 
-{% include list.html data="tools" component="card" filters="group: other" style="small" %}
+{% include list.html data="tools" component="card" filter="group: other" style="small" %}
 
 {% include section.html %}
 
 ## Legacy
 
-{% include list.html data="tools" component="card" filters="group: legacy" style="small" %}
+{% include list.html data="tools" component="card" filter="group: legacy" style="small" %}
