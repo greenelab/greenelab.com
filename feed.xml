@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://greenelab.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://greenelab.com/" rel="alternate" type="text/html" /><updated>2024-08-26T18:41:59+00:00</updated><id>https://greenelab.com/feed.xml</id><title type="html">The Greene Lab</title><subtitle>Where data and biology meet</subtitle><entry><title type="html">Deep Learning in Biology Workshop</title><link href="https://greenelab.com/2020/10/19/DL-workshop.html" rel="alternate" type="text/html" title="Deep Learning in Biology Workshop" /><published>2020-10-19T00:00:00+00:00</published><updated>2024-08-26T18:40:30+00:00</updated><id>https://greenelab.com/2020/10/19/DL-workshop</id><content type="html" xml:base="https://greenelab.com/2020/10/19/DL-workshop.html"><![CDATA[<h2 id="discovering-the-beauty-of-math-and-the-fun-of-computer-science">Discovering the beauty of math and the fun of computer science</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://greenelab.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://greenelab.com/" rel="alternate" type="text/html" /><updated>2025-01-29T16:51:18+00:00</updated><id>https://greenelab.com/feed.xml</id><title type="html">The Greene Lab</title><subtitle>Where data and biology meet</subtitle><entry><title type="html">Deep Learning in Biology Workshop</title><link href="https://greenelab.com/2020/10/19/DL-workshop.html" rel="alternate" type="text/html" title="Deep Learning in Biology Workshop" /><published>2020-10-19T00:00:00+00:00</published><updated>2025-01-29T16:50:06+00:00</updated><id>https://greenelab.com/2020/10/19/DL-workshop</id><content type="html" xml:base="https://greenelab.com/2020/10/19/DL-workshop.html"><![CDATA[<h2 id="discovering-the-beauty-of-math-and-the-fun-of-computer-science">Discovering the beauty of math and the fun of computer science</h2>
 
 <p>My mother saw math in everything around us; in the geometry of a bridge we drove across, in the permutations of numbers that make up my birthday.
 Growing up she would get excited as she explained the solution to a math problem.
@@ -21,13 +21,6 @@ Overall, my dissertation research has focused on using deep learning methods to 
 I am currently applying these methods to understand mechanisms of <em>P.aeruginosa</em> infection.
 My goal is to develop methods that help gain insight into the complexities of disease traits.
 You can find my current research projects on my <a href="https://github.com/ajlee21">github page</a>.</p>
-
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
 
 <h2 id="deep-learning-in-biology-workshop">Deep learning in biology workshop</h2>
 
@@ -66,7 +59,7 @@ You can find my current research projects on my <a href="https://github.com/ajle
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
-</figure>]]></content><author><name>alex-lee</name></author><category term="deep learning" /><category term="workshop" /><summary type="html"><![CDATA[Discovering the beauty of math and the fun of computer science]]></summary></entry><entry><title type="html">Why do we have application fees?</title><link href="https://greenelab.com/2019/05/01/why-do-we-have-application-fees.html" rel="alternate" type="text/html" title="Why do we have application fees?" /><published>2019-05-01T00:00:00+00:00</published><updated>2024-08-26T18:40:30+00:00</updated><id>https://greenelab.com/2019/05/01/why-do-we-have-application-fees</id><content type="html" xml:base="https://greenelab.com/2019/05/01/why-do-we-have-application-fees.html"><![CDATA[<h2 id="context">Context</h2>
+</figure>]]></content><author><name>alex-lee</name></author><category term="deep learning" /><category term="workshop" /><summary type="html"><![CDATA[Discovering the beauty of math and the fun of computer science]]></summary></entry><entry><title type="html">Why do we have application fees?</title><link href="https://greenelab.com/2019/05/01/why-do-we-have-application-fees.html" rel="alternate" type="text/html" title="Why do we have application fees?" /><published>2019-05-01T00:00:00+00:00</published><updated>2025-01-29T16:50:06+00:00</updated><id>https://greenelab.com/2019/05/01/why-do-we-have-application-fees</id><content type="html" xml:base="https://greenelab.com/2019/05/01/why-do-we-have-application-fees.html"><![CDATA[<h2 id="context">Context</h2>
 
 <p>I’m considering this question in regards to PhD programs in the biological sciences.
 For a brief bit of context, these are programs where trainees, once they join a program, have their tuition paid for and also receive a stipend.
@@ -126,7 +119,7 @@ I am posting this to the blog in the hopes that another institution will find th
 
 <p><em>Update 5/1/19:</em></p>
 
-<p>After posting, I was pointed to <a href="http://dailynous.com/2017/10/04/carnegie-mellon-philosophy-eliminates-application-fee-guest-post-kevin-zollman/">CMU’s Department of Philosophy’s elimination of application fees in 2017</a>.</p>]]></content><author><name>casey-greene</name></author><summary type="html"><![CDATA[Context]]></summary></entry><entry><title type="html">The Harassment Tax</title><link href="https://greenelab.com/2019/04/06/the-harassment-tax.html" rel="alternate" type="text/html" title="The Harassment Tax" /><published>2019-04-06T00:00:00+00:00</published><updated>2024-08-26T18:40:30+00:00</updated><id>https://greenelab.com/2019/04/06/the-harassment-tax</id><content type="html" xml:base="https://greenelab.com/2019/04/06/the-harassment-tax.html"><![CDATA[<p><em>TL;DR: <a href="https://twitter.com/mhendr1cks/status/1112893604010262530">This twitter thread from Michael Hendricks</a> is on the money.</em></p>
+<p>After posting, I was pointed to <a href="http://dailynous.com/2017/10/04/carnegie-mellon-philosophy-eliminates-application-fee-guest-post-kevin-zollman/">CMU’s Department of Philosophy’s elimination of application fees in 2017</a>.</p>]]></content><author><name>casey-greene</name></author><summary type="html"><![CDATA[Context]]></summary></entry><entry><title type="html">The Harassment Tax</title><link href="https://greenelab.com/2019/04/06/the-harassment-tax.html" rel="alternate" type="text/html" title="The Harassment Tax" /><published>2019-04-06T00:00:00+00:00</published><updated>2025-01-29T16:50:06+00:00</updated><id>https://greenelab.com/2019/04/06/the-harassment-tax</id><content type="html" xml:base="https://greenelab.com/2019/04/06/the-harassment-tax.html"><![CDATA[<p><em>TL;DR: <a href="https://twitter.com/mhendr1cks/status/1112893604010262530">This twitter thread from Michael Hendricks</a> is on the money.</em></p>
 
 <p>In a recent article in Science about the National Academies developing a procedure to expel sexual harassers, Dr. Robert Weinberg (<a href="https://biology.mit.edu/profile/robert-a-weinberg/">Member, Whitehead Institute; and Daniel K. Ludwig Professor for Cancer Research in the Department of Biology at MIT</a>) was quoted as saying, “Before there is a mad rush to approve such an ejection procedure, it might be useful to ask whether sexual harassment by a member has anything whatsoever to do with their credibility as a scientist and the soundness of their research accomplishments—the criteria that were used to elect them in the first place.”
 When scientists reach these milestones by imposing costs on others through falsification, harassment, or other means they are externalizing costs onto the rest of the field.
@@ -169,7 +162,7 @@ The Chancellor of Vanderbilt University, Nick Zeppos, has failed to support her 
 It conspicuously ignores Dr. McLaughlin, a <a href="http://news.mit.edu/2018/media-lab-disobedience-award-winners-announced-1128">winner of the MIT Disobedience Prize</a>.</p>
 
 <p>P.S. I gave a talk at UAB recently, where I <a href="https://upenn.box.com/s/hqnry3kd75hg5upjml2z82g4bocgbb9z">included some slides</a> (+ a new bonus slide with Dr. Weinberg’s quotation for a seminar I’m giving at NYU on Monday, April 8).
-You are welcome to use them in your own talks (note the arrangement, which is my own, is CC0 licensed, but certain content is by others and not openly licensed and so uses of those portions must fall under fair use).</p>]]></content><author><name>casey-greene</name></author><summary type="html"><![CDATA[TL;DR: This twitter thread from Michael Hendricks is on the money.]]></summary></entry><entry><title type="html">Infant in arms: Some thoughts from a father traveling solo with an infant</title><link href="https://greenelab.com/2019/01/29/infant-in-arms.html" rel="alternate" type="text/html" title="Infant in arms: Some thoughts from a father traveling solo with an infant" /><published>2019-01-29T00:00:00+00:00</published><updated>2024-08-26T18:40:30+00:00</updated><id>https://greenelab.com/2019/01/29/infant-in-arms</id><content type="html" xml:base="https://greenelab.com/2019/01/29/infant-in-arms.html"><![CDATA[<h2 id="brief-context">Brief Context</h2>
+You are welcome to use them in your own talks (note the arrangement, which is my own, is CC0 licensed, but certain content is by others and not openly licensed and so uses of those portions must fall under fair use).</p>]]></content><author><name>casey-greene</name></author><summary type="html"><![CDATA[TL;DR: This twitter thread from Michael Hendricks is on the money.]]></summary></entry><entry><title type="html">Infant in arms: Some thoughts from a father traveling solo with an infant</title><link href="https://greenelab.com/2019/01/29/infant-in-arms.html" rel="alternate" type="text/html" title="Infant in arms: Some thoughts from a father traveling solo with an infant" /><published>2019-01-29T00:00:00+00:00</published><updated>2025-01-29T16:50:06+00:00</updated><id>https://greenelab.com/2019/01/29/infant-in-arms</id><content type="html" xml:base="https://greenelab.com/2019/01/29/infant-in-arms.html"><![CDATA[<h2 id="brief-context">Brief Context</h2>
 
 <p>As a scientist, I often attend conferences/meetings/etc.
 Making this work as a childless, married academic husband was reasonably straightforward for my wife and me.
@@ -194,13 +187,6 @@ Here I’m compiling some observations from my travel that may be informative or
     </figcaption>
   
 </figure>
-
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
 
 <h2 id="travel-supplies">Travel Supplies</h2>
 
@@ -231,11 +217,11 @@ I’ve found this helps with feeding, but it also gives our baby something to sl
 For me, it reduces the discomfort from having her on my lap for long stretches.</p>
 
 <figure class="figure">
-  <a class="figure-image" aria-label="Everything’s a toy! This cup was a big hit with me in Houston.">
+  <a class="figure-image" aria-label="Everything s a toy This cup was a big hit with me in Houston.">
     <img src="/images/blog/ada-4.jpg" style="
         width: auto;
         max-height: 300px;
-      " alt="Everything’s a toy! This cup was a big hit with me in Houston." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="Everything s a toy This cup was a big hit with me in Houston." loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
     <figcaption class="figure-caption">
@@ -276,13 +262,6 @@ For deplaning, I do this in reverse.
 Finding a routine that works has helped me to keep everything together in some hectic situations.
 The one caveat of going this route is to note that you need two gate-check tags - one for the stroller and a second one for the car seat.</p>
 
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
 <h2 id="feeding">Feeding</h2>
 
 <p><strong>Traveling with formula was the best option for me.</strong>
@@ -304,13 +283,6 @@ I’ve found that with the rate of heat loss from such cups, equal amounts of fo
 If the volume of the cup is too large the formula ends up too hot and I increase the risk of cooking it.
 If it’s too low, our baby won’t drink it.</p>
 
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
 <h2 id="in-air-and-airport">In Air and Airport</h2>
 
 <p><strong>Flights with a connection are better for longer itineraries.</strong>
@@ -319,11 +291,11 @@ I’ve found that when traveling with a baby, the opportunity to disembark, walk
 As a side benefit, these flights are often a bit cheaper than direct ones.</p>
 
 <figure class="figure">
-  <a class="figure-image" aria-label="Snack mix bags crinkle, and wow that is fun!">
+  <a class="figure-image" aria-label="Snack mix bags crinkle, and wow that is fun">
     <img src="/images/blog/ada-6.jpg" style="
         width: auto;
         max-height: 300px;
-      " alt="Snack mix bags crinkle, and wow that is fun!" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="Snack mix bags crinkle, and wow that is fun" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
     <figcaption class="figure-caption">
@@ -389,13 +361,6 @@ After service, the flight attendants must have asked the cockpit to reduce the t
 As soon as it started cooling down, she went to sleep and slept the rest of the flight.
 If I’d used the call button before service, I could have saved everyone a half-hour of listening to a crying baby.</p>
 
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
 <h2 id="hotels">Hotels</h2>
 
 <p><strong>For our baby at least, the first night in each new hotel room was a rough one.</strong>
@@ -411,13 +376,6 @@ We occasionally found the crib we had asked for (every time for our hotels in Ja
 But this seems to be something hotels in the US are more or less terrible at, so I’d say just imagine it won’t be there.
 We did purchase <a href="https://smile.amazon.com/Lotus-Travel-Crib-Lightweight-Comfortable/dp/B00AKKDSNG?sa-no-redirect=1">a travel crib</a>, which we have used when my wife and I have traveled together.
 My daughter sleeps better in this, but the weight and added item makes it too cumbersome for me to take when it’s just me.</p>
-
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
 
 <h2 id="other-venue-notes">Other Venue Notes</h2>
 
@@ -476,13 +434,6 @@ In 2019 both of these meetings include a weekend, making the policies even more 
 On the other hand, the <a href="https://ascb-embo2018.ascb.org/meetingpoliciesandchildren/">American Society for Cell Biology (ASCB)</a> has clear, inclusive policies during the meeting.
 <a href="http://psb.stanford.edu/">The Pacific Symposium on Biocomputing (PSB)</a>, a computational biology conference, has been family friendly for as long as I can remember.
 <a href="https://www.ashg.org/2017meeting/pages/general.shtml">The American Society for Human Genetics (ASHG)</a> and <a href="https://www.iscb.org/ismbeccb2019-general/faq#childrenallowed">International Society for Computational Biology (ISCB)</a> get special shoutouts for both providing childcare options and allowing children at the meeting itself providing parents with the flexibility they need.</p>
-
-<!-- section break -->
-<!--
-  background: ;
-  dark: ;
-  size: ;
--->
 
 <h2 id="closing-thoughts">Closing thoughts</h2>
 
