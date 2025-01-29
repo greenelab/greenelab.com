@@ -120,6 +120,7 @@ log("Generating citations")
 # list of new citations
 citations = []
 
+
 # loop through compiled sources
 for index, source in enumerate(sources):
     log(f"Processing source {index + 1} of {len(sources)}, {label(source)}")
@@ -173,6 +174,7 @@ for index, source in enumerate(sources):
 log()
 
 log("Saving updated citations")
+
 
 # save new citations
 try:
