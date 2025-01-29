@@ -5,7 +5,7 @@ aliases:
   - Milton D Pividori
 image: images/team/milton.jpg
 role: postdoc
-group: alumn
+group: alum
 links:
   orcid: 0000-0002-3035-4403
   email: miltondp@gmail.com

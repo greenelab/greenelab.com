@@ -6,6 +6,7 @@ aliases:
   - Ariel A. Hippen
 image: images/team/ariel.jpg
 role: phd
+group: alum
 links:
   orcid: 0000-0001-9336-6543
   email: ariel.hippen@gmail.com
