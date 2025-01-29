@@ -14,7 +14,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://private-user-images.githubusercontent.com/542643/405272317-fa5f5b94-e800-4cd1-8fdb-425e1658760b.PNG
+  image: https://user-images.githubusercontent.com/542643/405272317-fa5f5b94-e800-4cd1-8fdb-425e1658760b.PNG
 - id: doi:10.1038/s41551-024-01322-3
   title: Latent spaces for tumour transcriptomes
   authors:
@@ -327,7 +327,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://private-user-images.githubusercontent.com/542643/294239653-924e038d-77d7-4bf0-aa80-7d532faa66fc.png
+  image: https://user-images.githubusercontent.com/542643/294239653-924e038d-77d7-4bf0-aa80-7d532faa66fc.png
 - id: doi:10.2460/javma.23.07.0372
   title: Many direct-to-consumer canine genetic tests can identify the breed of purebred
     dogs
@@ -9463,7 +9463,7 @@
   publisher: Cell
   date: '2025-01-01'
   link: https://doi.org/g82tvz
-  image: https://private-user-images.githubusercontent.com/542643/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
+  image: https://user-images.githubusercontent.com/542643/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.07.31.551386
