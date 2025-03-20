@@ -1,5 +1,9 @@
 ---
 name: Grace Akatsu
+aliases:
+  - Grace Y. Akatsu
+  - Grace Y Akatsu
+  - Grace Akatsu
 image: images/team/grace_akatsu_headshot.jpg
 role: phd
 links:
