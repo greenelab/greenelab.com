@@ -1,4 +1,8 @@
-
+- id: doi:10.1186/s13059-025-03506-9
+  buttons:
+    - type: preprint
+      link: https://doi.org/gtsgj7
+  
 - id: doi:10.1016/j.cell.2024.12.017
   image: https://greenelab.com/images/research/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
   
