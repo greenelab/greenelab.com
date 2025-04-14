@@ -9509,6 +9509,25 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1186/s13059-025-03506-9
+  title: Missing cell types in single-cell references impact deconvolution of bulk
+    data but are detectable
+  authors:
+  - Adriana Ivich
+  - Natalie R. Davidson
+  - Laurie Grieshober
+  - Weishan Li
+  - Stephanie C. Hicks
+  - Jennifer A. Doherty
+  - Casey S. Greene
+  publisher: Genome Biology
+  date: '2025-04-07'
+  link: https://doi.org/g9fhz6
+  buttons:
+  - type: preprint
+    link: https://doi.org/gtsgj7
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cell.2024.12.017
   title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
   authors:
