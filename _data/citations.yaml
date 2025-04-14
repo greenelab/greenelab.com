@@ -9528,6 +9528,184 @@
     link: https://doi.org/gtsgj7
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.bonr.2025.101839
+  title: Can AI reveal the next generation of high-impact bone genomics targets?
+  authors:
+  - Casey S. Greene
+  - Christopher R. Gignoux
+  - "Marc Subirana-Gran\xE9s"
+  - Milton Pividori
+  - Stephanie C. Hicks
+  - Cheryl L. Ackert-Bicknell
+  publisher: Bone Reports
+  date: '2025-06-01'
+  link: https://doi.org/g9fh2s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1158/0008-5472.CAN-24-1879
+  title: Genomic Characterization of High-Grade Serous Ovarian Carcinoma Reveals Distinct
+    Somatic Features in Black Individuals
+  authors:
+  - Katherine A. Lawson-Michod
+  - Jeffrey R. Marks
+  - Lindsay J. Collin
+  - David A. Nix
+  - Natalie R. Davidson
+  - Chad D. Huff
+  - Yao Yu
+  - Aaron Atkinson
+  - Courtney E. Johnson
+  - Lucas A. Salas
+  - Lauren C. Peres
+  - Casey S. Greene
+  - Joellen M. Schildkraut
+  - Jennifer A. Doherty
+  publisher: Cancer Research
+  date: '2025-03-10'
+  link: https://doi.org/g9fh2t
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ajhg.2024.12.007
+  title: Characterizing substructure via mixture modeling in large-scale genetic summary
+    statistics
+  authors:
+  - Hayley R. Stoneman
+  - Adelle M. Price
+  - Nikole Scribner Trout
+  - Riley Lamont
+  - Souha Tifour
+  - Nikita Pozdeyev
+  - Heather D. Anderson
+  - Christina L. Aquilante
+  - Kelsey Arbogast
+  - Christopher H. Arehart
+  - Ian M. Brooks
+  - Tonya M. Brunetti
+  - Judith Brutus-Lestin
+  - Elizabeth E. Burke
+  - Emily M. Casteel
+  - Joanne B. Cole
+  - Curtis R. Coughlin
+  - Kristy Crooks
+  - Jacob Crawford
+  - Erin Culver
+  - Michelle N. Edelmann
+  - Matthew J. Fisher
+  - Alan W. Franklin
+  - Teresa C. Frye
+  - Hunter George
+  - Chris R. Gignoux
+  - Elizabeth K. Gilliland
+  - Casey S. Greene
+  - Brooke Hawkes
+  - Emily Hearst
+  - Audrey E. Hendricks
+  - Randi K. Johnson
+  - Colleen G. Julian
+  - Dave Kao
+  - Iain Konigsberg
+  - Lisa Ku
+  - Elizabeth L. Kudron
+  - Rashawnda Lacy
+  - Ethan M. Lange
+  - Yee Ming Lee
+  - Joe A. Lesny
+  - Meng Lin
+  - Jan T. Lowery
+  - Luciana B. Vargas
+  - Betzaida L. Maldonado
+  - Darcy Marceau
+  - James L. Martin
+  - Brianna L. Gates
+  - David Mayer
+  - Nicole L. McDaniel
+  - Andrew Monte
+  - Ethan Moore
+  - Ann Nadrash
+  - Jack Pattee
+  - Nikita Pozdeyev
+  - Alaa Radwan
+  - Nick Rafaels
+  - Sridharan Raghavan
+  - Neda Rasouli
+  - Elise L. Shalowitz
+  - Hoda Sherif
+  - Johnathan A. Shortt
+  - Adrian M. Stewart
+  - Kristen J. Sutton
+  - Carolyn T. Swartz
+  - Anna Tanaka
+  - Matthew R.G. Taylor
+  - Candace Teague
+  - Emily B. Todd
+  - Katy E. Trinkley
+  - Laura K. Wiley
+  - Kristy Crooks
+  - Meng Lin
+  - Nicholas Rafaels
+  - Christopher R. Gignoux
+  - Katie M. Marker
+  - Audrey E. Hendricks
+  publisher: The American Journal of Human Genetics
+  date: '2025-02-01'
+  link: https://doi.org/g9fh2v
+  tags:
+  - CCPM banner
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/mus.28301
+  title: Prevalence of Pathogenic Transthyretin Gene Variants in the Rocky Mountain
+    Region
+  authors:
+  - Ellie Jacoby
+  - Dianna Quan
+  - Emily Todd
+  - Jonathan Shortt
+  - Harry Smith
+  - Nicholas Rafaels
+  - Kristy Crooks
+  publisher: Muscle &amp; Nerve
+  date: '2024-12-10'
+  link: https://doi.org/g9fh2w
+  tags:
+  - CCPM banner
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.01.21.25320918
+  title: Homologous recombination deficiency in ovarian high-grade serous carcinoma
+    by self-reported race
+  authors:
+  - Katherine A. Lawson-Michod
+  - Courtney E. Johnson
+  - Mollie E. Barnard
+  - Natalie Davidson
+  - Lindsay J. Collin
+  - David A. Nix
+  - Chad Huff
+  - Andy Berchuck
+  - Lucas A. Salas
+  - Casey Greene
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-01-28'
+  link: https://doi.org/g9fh2x
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.cels.2024.08.005
+  title: An efficient, not-only-linear correlation coefficient based on clustering
+  authors:
+  - Milton Pividori
+  - Marylyn D. Ritchie
+  - Diego H. Milone
+  - Casey S. Greene
+  publisher: Cell Systems
+  date: '2024-09-01'
+  link: https://doi.org/nhs4
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.cell.2024.12.017
   title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
   authors:
