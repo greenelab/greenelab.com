@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.5281/zenodo.15597460
+  title: hetionet-analysis
+  authors:
+  - Sutanu Nandi
+  - Negar Janani
+  - Dave Bunten
+  - Casey Greene
+  publisher: Zenodo
+  date: '2025-06-05'
+  link: https://doi.org/g9pm9s
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.15485442
+  title: Manubot AI Editor
+  authors:
+  - Milton Pividori
+  - Faisal Alquaddoomi
+  - Vincent Rubinetti
+  - Dave Bunten
+  - Casey Greene
+  publisher: Zenodo
+  date: '2025-05-21'
+  link: https://doi.org/g9k849
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5281/zenodo.15122187
   title: Human Microbiome Compendium dataset
   authors:
@@ -44,7 +73,7 @@
   - Sean Davis
   - Ran Blekhman
   publisher: Zenodo
-  date: '2024-09-16'
+  date: '2025-04-01'
   link: https://doi.org/gsvhxn
   orcid: 0000-0001-8713-9213
   member: casey-greene
@@ -86,7 +115,7 @@
   - Dave Bunten
   - Casey Greene
   publisher: Zenodo
-  date: '2025-02-22'
+  date: '2025-05-21'
   link: https://doi.org/g855cq
   orcid: 0000-0001-8713-9213
   member: casey-greene
@@ -1297,6 +1326,23 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5524/102479
+  title: 'Supporting data for "The probability of edge existence due to node degree:
+    a baseline for network-based predictions"'
+  authors:
+  - Michael Zietz
+  - Daniel, S Himmelstein
+  - Kyle Kloster
+  - Christopher Williams
+  - Michael, W Nagle
+  - Casey, S Greene
+  publisher: GigaScience Database
+  date: '2023-01-01'
+  link: https://doi.org/gs9sq5
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1128/msystems.00928-22
   title: The Coming of Age of Nucleic Acid Vaccines during COVID-19
   authors:
@@ -1914,6 +1960,17 @@
   tags:
   - machine learning
   - diversity
+- id: doi:10.17615/vzc0-qk25
+  title: 'Author Correction: Community-wide hackathons to identify central themes
+    in single-cell multi-omics'
+  authors: []
+  publisher: Springer Nature
+  date: '2021-01-01'
+  link: https://doi.org/g9kjv4
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-021-02468-y
   title: 'Author Correction: Community-wide hackathons to identify central themes
     in single-cell multi-omics'
@@ -2201,6 +2258,16 @@
   - type: preprint
   - type: medRxiv
     link: https://www.biorxiv.org/content/2021.06.23.21259416
+- id: doi:10.17615/edpt-y058
+  title: 'Characterizing Long COVID: Deep Phenotype of a Complex Condition'
+  authors: []
+  publisher: Elsevier
+  date: '2021-01-01'
+  link: https://doi.org/g9kjv5
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-021-02433-9
   title: Community-wide hackathons to identify central themes in single-cell multi-omics
   authors:
@@ -2243,6 +2310,16 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02433-9/MediaObjects/13059_2021_2433_Fig4_HTML.png
+- id: doi:10.17615/96cj-z232
+  title: Community-wide hackathons to identify central themes in single-cell multi-omics
+  authors: []
+  publisher: Springer Nature
+  date: '2021-01-01'
+  link: https://doi.org/g9kjv6
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1128/mSystems.00122-21
   title: Dietary Supplements and Nutraceuticals under Investigation for COVID-19 Prevention
     and Treatment
@@ -2625,6 +2702,25 @@
   tags:
   - reproducibility
   - machine learning
+- id: doi:10.5524/100921
+  title: Supporting data for "Genetic demultiplexing of pooled single-cell RNA-sequencing
+    samples in cancer facilitates effective experimental design"
+  authors:
+  - Lukas, M Weber
+  - Ariel, A Hippen
+  - Peter, F Hickey
+  - Kristofer, C Berrett
+  - Jason Gertz
+  - Jennifer, Anne Doherty
+  - Casey, S Greene
+  - Stephanie, C Hicks
+  publisher: GigaScience Database
+  date: '2021-01-01'
+  link: https://doi.org/g9mwd9
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/arxiv.2105.14372
   title: Ten Quick Tips for Deep Learning in Biology
   authors:
@@ -9725,7 +9821,7 @@
   - Sean Davis
   - Ran Blekhman
   publisher: Cell
-  date: '2025-01-01'
+  date: '2025-02-01'
   link: https://doi.org/g82tvz
   image: https://greenelab.com/images/research/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
   plugin: sources.py
