@@ -18,7 +18,15 @@
   image: /images/research/pmc_11790236_pcbi.1012742.g001.jpg
 - id: doi:10.1016/j.ajhg.2023.12.001
   image: /images/research/github_6d8d5eac-8db8-4b8f-8390-8a59e4179172.png
-- id: doi:10.1101/2023.11.01.565179
+- id: doi:10.1- id: doi:10.1101/055913
+  buttons:
+  - type: preprint
+  - type: server
+    link: https://github.com/greenelab/tribe
+    text: Tribe server
+  - type: app
+    link: https://github.com/greenelab/tribe-client
+    text: Tribe web app1.01.565179
   image: /images/research/280800085-53508d42-5f7a-4994-9c4a-d81c8e4a1b9e.png
 - id: doi:10.1101/2023.10.11.560955
   image: /images/research/274611735-0b4d7372-d935-4a0d-b3a3-909012346b35.png
@@ -479,7 +487,6 @@
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/836825v1
 - id: doi:10.1126/sciadv.aba2083
-  image: /images/research/sciadv_eaba2083_F1.large.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/833210
@@ -527,16 +534,13 @@
   - type: source
     link: https://github.com/marislab
 - id: doi:10.1002/gepi.22262
-  image: /images/research/wiley_gepi22262-fig-0001-m.jpg
   buttons:
   - url: https://www.penncil.org/software
     text: YETI2 Software
 - id: doi:10.1101/793091
-  image: /images/research/biorxiv_793091_F2.medium.gif
   buttons:
   - type: preprint
 - id: doi:10.1101/787903
-  image: /images/research/biorxiv_787903_F1.medium.gif
   buttons:
   - type: preprint
 - id: doi:10.1126/science.aaz5900
@@ -578,7 +582,6 @@
 - id: doi:10.1136/annrheumdis-2017-212935
   image: /images/research/ard_bmj_77_8_cover.jpg
 - id: doi:10.1098/rsif.2017.0387
-  image: /images/research/royal_society_rsif20170387f01.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/142760
@@ -675,7 +678,6 @@
   - type: source
     link: https://github.com/greenelab/continuous_analysis
 - id: doi:10.1126/scitranslmed.aam6058
-  image: /images/research/stm_sciencemag_9_376_cover.gif
   buttons:
   - url: http://doi.org/10.1016/j.cels.2016.12.011
     text: Khurana et al.
@@ -719,7 +721,6 @@
     link: https://github.org/greenelab/tribe-client
     text: Tribe web app
 - id: doi:10.1142/9789813235533_0008
-  image: /images/research/biorxiv_174474_F2.medium.gif
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/174474
@@ -740,17 +741,11 @@
   - type: preprint
     link: http://arxiv.org/abs/1601.00891
 - id: doi:10.1126/scitranslmed.aai8224
-  image: /images/research/stm_sciencemag_8_358_cover.gif
 - id: doi:10.1126/scitranslmed.aah5494
-  image: /images/research/stm_sciencemag_8_352_cover.gif
 - id: doi:10.1126/scitranslmed.aag3101
-  image: /images/research/stm_sciencemag_8_346_cover.gif
 - id: doi:10.1126/scitranslmed.aaf9196
-  image: /images/research/stm_sciencemag_8_340_cover.gif
 - id: doi:10.1126/scitranslmed.aaf6940
-  image: /images/research/stm_sciencemag_8_334_cover.gif
 - id: doi:10.1161/CIRCGENETICS.115.001181
-  image: /images/research/aha_179fig01.jpg
   buttons:
   - type: source
     link: https://github.com/dhimmel/snplentiful
@@ -769,7 +764,6 @@
   - type: source
     link: https://github.com/greenelab/adage
 - id: doi:10.1126/scitranslmed.aal3701
-  image: /images/research/stm_sciencemag_8_370_cover.gif
   buttons:
   - url: http://doi.org/10.1038/srep39259
     text: Tatlow et al.
@@ -790,7 +784,6 @@
   - type: source
     link: https://github.com/greenelab/DAPS
 - id: doi:10.1126/scitranslmed.aal0067
-  image: /images/research/stm_sciencemag_8_364_cover.gif
   buttons:
   - link: http://doi.org/10.1038/srep39259
     text: Zhou et al.
@@ -860,7 +853,6 @@
 - id: doi:10.1186/1756-0381-7-17
   image: /images/research/13040_2014_Article_115_Fig1_HTML.jpg
 - id: doi:10.1002/jcp.24662
-  image: /images/research/wiley_jcp24662-fig-0001-m.jpg
 - id: doi:10.1186/gm550
   image: /images/research/13073_2013_Article_556_Fig4_HTML.jpg
 - id: doi:10.1371/journal.pcbi.1002957
@@ -873,7 +865,6 @@
 - id: doi:10.1007/978-3-642-37189-9_2
   image: /images/research/978-3-642-37189-9.jpg
 - id: doi:10.1111/j.1749-6632.2011.06383.x
-  image: /images/research/nyaspubs_wiley_nyas_2012_1260_cover.gif
 - id: doi:10.1093/nar/gks458
   image: /images/research/pmc_3394282_gks458f1.jpg
 - id: doi:10.1371/journal.pcbi.1002816
