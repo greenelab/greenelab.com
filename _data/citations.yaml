@@ -135,7 +135,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://private-user-images.githubusercontent.com/542643/405272317-fa5f5b94-e800-4cd1-8fdb-425e1658760b.PNG
+  image: /images/research/pmc_11790236_pcbi.1012742.g001.jpg
 - id: doi:10.1038/s41551-024-01322-3
   title: Latent spaces for tumour transcriptomes
   authors:
@@ -423,7 +423,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://private-user-images.githubusercontent.com/542643/294239653-924e038d-77d7-4bf0-aa80-7d532faa66fc.png
+  image: /images/research/github_6d8d5eac-8db8-4b8f-8390-8a59e4179172.png
 - id: doi:10.2460/javma.23.07.0372
   title: Many direct-to-consumer canine genetic tests can identify the breed of purebred
     dogs
@@ -689,7 +689,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/274611350-b55a8531-8fee-4125-8054-4db365ab8009.png
+  image: /images/research/274611350-b55a8531-8fee-4125-8054-4db365ab8009.png
 - id: doi:10.7554/ELIFE.84855
   title: Analysis of science journalism reveals gender and regional disparities in
     coverage
@@ -774,7 +774,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  image: /images/research/N000-overview.png
   tags:
   - COVID19
 - id: doi:10.1038/s43018-022-00507-6
@@ -886,7 +886,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/178981879-fc7de25a-34af-4275-b1ba-a6583f1c9a4a.png
+  image: /images/research/178981879-fc7de25a-34af-4275-b1ba-a6583f1c9a4a.png
   buttons:
   - type: preprint
     link: https://arxiv.org/abs/2112.12582
@@ -959,7 +959,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/178981938-ea0171ca-f626-4d3d-9db6-d585bd98c828.png
+  image: /images/research/178981938-ea0171ca-f626-4d3d-9db6-d585bd98c828.png
   buttons:
   - type: preprint
     link: https://arxiv.org/abs/2112.12554
@@ -979,7 +979,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/262144782-78a11c8e-1b10-44e0-85ec-1b709cfd94e4.png
+  image: /images/research/262144782-78a11c8e-1b10-44e0-85ec-1b709cfd94e4.png
 - id: doi:10.1186/s13040-023-00332-2
   title: Changing word meanings in biomedical literature reveal pandemics and new
     technologies
@@ -995,7 +995,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/179368710-0f832059-fc60-410c-b9bf-43d1cf381f18.png
+  image: /images/research/179368710-0f832059-fc60-410c-b9bf-43d1cf381f18.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2022.06.27.497742
@@ -1016,7 +1016,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://raw.githubusercontent.com/greenelab/core-accessory-interactome/bf157513ab5041f8d0bf70766e79df2f06ea7bca/figure_generation/output/figure_1.svg
+  image: /images/research/figure_1.svg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2022.04.14.488429
@@ -1041,7 +1041,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/151672991-f0d02080-a780-4c79-a793-e27a7c0b4144.png
+  image: /images/research/151672991-f0d02080-a780-4c79-a793-e27a7c0b4144.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2022.01.24.477642
@@ -1064,7 +1064,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/252370773-d74c01ff-8230-4e0b-815a-48a2dfa05c9a.png
+  image: /images/research/252370773-d74c01ff-8230-4e0b-815a-48a2dfa05c9a.png
 - id: doi:10.1016/j.celrep.2023.112600
   title: Macrophages in SHH subgroup medulloblastoma display dynamic heterogeneity
     that varies with treatment modality
@@ -1138,7 +1138,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/274611735-0b4d7372-d935-4a0d-b3a3-909012346b35.png
+  image: /images/research/274611735-0b4d7372-d935-4a0d-b3a3-909012346b35.png
 - id: doi:10.1038/s41592-023-01886-z
   title: Machine learning in rare disease
   authors:
@@ -1155,7 +1155,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/262425906-9b6e243a-c371-44dd-849c-5a2ce240a99b.png
+  image: /images/research/262425906-9b6e243a-c371-44dd-849c-5a2ce240a99b.png
 - id: doi:10.1101/2023.11.01.565179
   title: Molecular subtypes of high-grade serous ovarian cancer across racial groups
     and gene expression platforms
@@ -1181,7 +1181,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/280800085-53508d42-5f7a-4994-9c4a-d81c8e4a1b9e.png
+  image: /images/research/280800085-53508d42-5f7a-4994-9c4a-d81c8e4a1b9e.png
 - id: doi:10.1093/nar/gkad289
   title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
     and user-created collections of genes'
@@ -1203,7 +1203,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/232873400-6146a32d-b11b-4514-8b26-14c6e4d6bcac.jpeg
+  image: /images/research/232873400-6146a32d-b11b-4514-8b26-14c6e4d6bcac.jpeg
 - id: doi:10.1016/j.xgen.2023.100340
   title: 'OpenPBTA: The Open Pediatric Brain Tumor Atlas'
   authors:
@@ -1299,7 +1299,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/211156536-a2179f50-9d88-4b80-bb01-6247941bbe4b.png
+  image: /images/research/211156536-a2179f50-9d88-4b80-bb01-6247941bbe4b.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2022.12.04.519045
@@ -1414,7 +1414,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  image: /images/research/N000-overview.png
   tags:
   - COVID19
 - id: doi:10.1101/2023.01.05.522943
@@ -1429,7 +1429,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/211156073-7e289899-ca46-486e-9a8b-d78fe3f0c896.png
+  image: /images/research/211156073-7e289899-ca46-486e-9a8b-d78fe3f0c896.png
 - id: doi:10.1371/journal.pcbi.1010984
   title: The effect of non-linear signal in classification problems using gene expression
   authors:
@@ -1443,7 +1443,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/15317110/179038261-f5bc18a6-fcf6-4acb-9ea6-1c231cf30616.png
+  image: /images/research/179038261-f5bc18a6-fcf6-4acb-9ea6-1c231cf30616.png
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/2022.06.22.497194v2
@@ -1469,7 +1469,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://greenelab.github.io/ccc-manuscript/images/intro/relationships.svg
+  image: /images/research/relationships.svg
   tags:
   - correlation coefficient
   - nonlinear relationships
@@ -1515,7 +1515,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/204615830-74cbe018-a2f5-4c1e-834f-726ce2de357c.png
+  image: /images/research/204615830-74cbe018-a2f5-4c1e-834f-726ce2de357c.png
   buttons:
   - type: source
     link: https://github.com/adumit/phase-1-hnscc-trial-prediction
@@ -1607,7 +1607,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/151673050-2dbf666a-eb90-4891-b26e-486131af8fc6.png
+  image: /images/research/151673050-2dbf666a-eb90-4891-b26e-486131af8fc6.png
 - id: doi:10.1101/2022.01.24.477642
   title: Computationally efficient assembly of a <i>Pseudomonas aeruginos</i>a gene
     expression compendium
@@ -1642,7 +1642,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://raw.githubusercontent.com/greenelab/annorxiver_manuscript/master/content/images/figure-pieces/homescreen_doi.png
+  image: /images/research/homescreen_doi.png
   buttons:
   - type: preprint
   - type: biorxiv
@@ -1665,7 +1665,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://greenelab.github.io/text_mined_hetnet_manuscript/images/figures/convolutional_neural_network/convolutional_neural_nework.png
+  image: /images/research/convolutional_neural_nework.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/730085
@@ -1697,7 +1697,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/120705507-27a0cf00-c475-11eb-85d5-7458f1edc5ac.png
+  image: /images/research/120705507-27a0cf00-c475-11eb-85d5-7458f1edc5ac.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2021.05.26.445900
@@ -1781,7 +1781,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://raw.githubusercontent.com/greenelab/generic-expression-patterns/master/figure_generation/output/figure_2.png
+  image: /images/research/figure_2.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2021.05.24.445440
@@ -1802,7 +1802,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/153752465-a788f7d3-707c-4804-91f5-04ad1aebaed4.png
+  image: /images/research/153752465-a788f7d3-707c-4804-91f5-04ad1aebaed4.png
 - id: doi:10.1101/2022.06.22.497194
   title: The Effects of Nonlinear Signal on Expression-Based Prediction Performance
   authors:
@@ -1832,7 +1832,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/13107360/161335013-5e0f1f87-66d4-4b05-ad29-b56a877ff05a.svg
+  image: /images/research/161335013-5e0f1f87-66d4-4b05-ad29-b56a877ff05a.svg
   buttons:
   - type: preprint
     link: https://arxiv.org/abs/2203.13946
@@ -1850,7 +1850,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/2345877/140061720-96b5451a-c9af-493f-85b2-cc4c723d316b.png
+  image: /images/research/140061720-96b5451a-c9af-493f-85b2-cc4c723d316b.png
   buttons:
   - type: source
     link: https://github.com/greenelab/mpmp
@@ -1923,7 +1923,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/120706674-9d596a80-c476-11eb-9ee4-e0e0d6a95ba3.png
+  image: /images/research/120706674-9d596a80-c476-11eb-9ee4-e0e0d6a95ba3.png
   buttons:
   - type: preprint
     link: https://arxiv.org/abs/2104.11364
@@ -1942,7 +1942,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://raw.githubusercontent.com/greenelab/iscb-diversity/20d21504463c0487aa844be0ff236b3a51c70fa4/figs/2020-01-31_groupings.png
+  image: /images/research/2020-01-31_groupings.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2020.04.14.927251
@@ -2188,7 +2188,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/131275719-cc94220d-35c9-4608-a1ca-26116dff6b0c.png
+  image: /images/research/131275719-cc94220d-35c9-4608-a1ca-26116dff6b0c.png
 - id: doi:10.1016/j.ebiom.2021.103722
   title: 'Characterizing Long COVID: Deep Phenotype of a Complex Condition'
   authors:
@@ -2251,7 +2251,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
+  image: /images/research/F1.large.jpg
   tags:
   - COVID19
   buttons:
@@ -2309,7 +2309,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02433-9/MediaObjects/13059_2021_2433_Fig4_HTML.png
+  image: /images/research/13059_2021_2433_Fig4_HTML.png
 - id: doi:10.17615/96cj-z232
   title: Community-wide hackathons to identify central themes in single-cell multi-omics
   authors: []
@@ -2334,7 +2334,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  image: /images/research/N000-overview.png
   tags:
   - COVID19
 - id: doi:10.1016/j.trecan.2020.10.011
@@ -2392,7 +2392,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
+  image: /images/research/pmc_8458035_F4.medium.gif
   tags:
   - cancer
   - single cell
@@ -2441,7 +2441,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png
+  image: /images/research/91751835-6bd40b80-eb93-11ea-8afe-527d168dd9a9.png
   buttons:
   - type: preprint
     link: https://www.medrxiv.org/content/10.1101/2020.02.17.20024133v1
@@ -2501,7 +2501,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  image: /images/research/N000-overview.png
   buttons: null
   tags:
   - COVID19
@@ -2551,7 +2551,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/107096146-4ba21b80-67c7-11eb-9358-eb2e0ffd927c.png
+  image: /images/research/107096146-4ba21b80-67c7-11eb-9358-eb2e0ffd927c.png
   tags:
   - cancer
 - id: doi:10.1101/2021.03.04.433874
@@ -2603,7 +2603,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/02/13/2020.02.12.945642/F1.medium.gif
+  image: /images/research/pmc_10450591_nihms-1689237-f0001.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2020.02.12.945642
@@ -2698,7 +2698,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/15317110/131545249-9b4e2cce-ad60-410a-820f-392490a6bcc9.png
+  image: /images/research/131545249-9b4e2cce-ad60-410a-820f-392490a6bcc9.png
   tags:
   - reproducibility
   - machine learning
@@ -2818,7 +2818,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jamia/Issue/27/7/1/jaminfo_27_7cover.png?Expires=1602076593&Signature=PJtOE-b7zCHoq8TnOebGlkhPQHCusUttK3TTxF2sGkL~5IYtwyFSIN2GGKGxegyiMY1oRLiQAXVkXjkz4Rmp3cHgjavLWo5oVVErdHtHY3l2h1OV~zRXWi5uFYI2jnRnWMH5UI29uoF1QtboyAsivGiW3jlsmV306pArHY43RYG2dfxPqun1x8v76YlSCo87zXJBj0kbrt-gr16QnatK8LVzdVK-w5tJ4YModbKK~P1819Zy4mu-51yqXJ0LrHtzJjpuXHaDDWCZgYOfajcR7fTnHLGTeGc9fy9WQIybQlahxhZ6QaBKEHh9odGQEO10xbdmBYBlwlkStkwD5OoUDg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_7454687_ocaa196f1.jpg
   tags:
   - COVID19
 - id: doi:10.1101/2021.03.03.433798
@@ -3131,7 +3131,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
+  image: /images/research/97004985-cb072a00-150b-11eb-9d4b-765ec1893a11.png
   tags:
   - cancer
   - machine learning
@@ -3198,7 +3198,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41591-020-0929-x/MediaObjects/41591_2020_929_Fig2_HTML.png?as=webp
+  image: /images/research/41591_2020_929_Fig2_HTML.png
   buttons:
   - type: preprint
     link: https://www.medrxiv.org/content/10.1101/2020.04.02.20051284v1
@@ -3218,7 +3218,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02021-3/MediaObjects/13059_2020_2021_Fig1_HTML.png?as=webp
+  image: /images/research/13059_2020_2021_Fig1_HTML.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/573782
@@ -3241,7 +3241,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: /images/research/1-s2.0-S2001037020302804-gr1.jpg
   buttons:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
@@ -3263,7 +3263,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/05/03/2020.05.03.066597/F3.medium.gif
+  image: /images/research/pmc_7607552_giaa117fig3.jpg
   buttons:
   - type: preprint
     link: 10.1101/2020.05.03.066597
@@ -3410,7 +3410,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/91751846-6e366580-eb93-11ea-854d-8f4bb210a46b.png
+  image: /images/research/91751846-6e366580-eb93-11ea-854d-8f4bb210a46b.png
   tags:
   - ovarian cancer
   - genomics
@@ -3434,7 +3434,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://onlinelibrary.wiley.com/cms/asset/0182dbee-6bca-4fec-88ee-77210a49db5b/gepi22262-fig-0002-m.png
+  image: /images/research/wiley_gepi22262-fig-0001-m.jpg
   buttons:
   - url: https://www.penncil.org/software
     text: YETI2 Software
@@ -3509,7 +3509,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://github.com/jjc2718/gene-graph-conv/raw/master/data/img/pipeline.png
+  image: /images/research/gene_graph_conv_pipeline.png
   buttons:
   - type: source
     link: https://github.com/jjc2718/gene-graph-conv
@@ -3539,7 +3539,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.mdpi.com/genes/genes-11-00226/article_deploy/html/images/genes-11-00226-g001-550.jpg
+  image: /images/research/mdpi_genes-11-00226-g001.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2020.01.13.904771
@@ -3642,7 +3642,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41562-020-00944-2/MediaObjects/41562_2020_944_Fig1_HTML.png
+  image: /images/research/41562_2020_944_Fig1_HTML.png
   buttons:
   - type: preprint
     link: doi.org/10.1101/2020.06.09.20126813
@@ -3938,7 +3938,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0923753420398410-gr3.jpg
+  image: /images/research/1-s2.0-S0923753420398410-gr3.jpg
   tags:
   - ovarian cancer
   - genomics
@@ -3964,7 +3964,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.pnas.org/content/pnas/117/6/3167/F1.medium.gif
+  image: /images/research/pmc_7022198_pnas.1917576117fig01.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/802934
@@ -4064,7 +4064,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://user-images.githubusercontent.com/542643/90901663-424c0080-e399-11ea-8ee1-3c4917e62317.png
+  image: /images/research/90901663-424c0080-e399-11ea-8ee1-3c4917e62317.png
   tags:
   - open science
   - data sharing
@@ -4114,7 +4114,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/48/9/10.1093_nar_gkaa248/1/m_gkaa248fig7.jpeg?Expires=1600742402&Signature=a3DVBQf6IPBTbcXdHyusihTzZrA0I9xlwQYnd7s3MxBFYW6rR9IVAPviPEDVjO9bRh1zYrF-GQvFmHqNmYwqLAU4eDGIacdoTQiGSHCRg6mwmLlFu7G47cCxHCcecTdJ-52vP029njoxuwTrvm6nl9EDagSLy4Qip66n0EB6G8qGZPENbG-oqDWyx9qLQRQDM-GrHO57VsWDF4fuZrSKpBqh6Uy8LFE3zEKejBvk56lGLmgaDba6Ym4xYsUDOxdWNqT2sFB9xKA3YUBDDZblHBVddWU-dMHI3gWsT5EIZHgNV632sOJFSX-0QdBJNcBLL3Uxh518FAnzwyAzbn85xA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_7229819_gkaa248fig1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/361816
@@ -4256,7 +4256,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://i2.wp.com/retractionwatch.com/wp-content/uploads/2019/02/bioinformatics.png?ssl=1
+  image: /images/research/retractionwatch_bioinformatics.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/301242
@@ -4275,7 +4275,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
+  image: /images/research/annualreviews_bd020001_f1.gif
 - id: doi:10.1101/566455
   title: Genomic profiling of childhood tumor patient-derived xenograft models to
     enable rational clinical trial design
@@ -4380,7 +4380,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40478-019-0803-6/MediaObjects/40478_2019_803_Fig1_HTML.png
+  image: /images/research/40478_2019_803_Fig1_HTML.png
   buttons:
   - type: source
     link: https://github.com/greenelab/gbm_immune_validation
@@ -4418,7 +4418,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://marlin-prod.literatumonline.com/cms/attachment/4595b12d-3d00-4941-98ba-39b2cfde8c1c/fx1.jpg
+  image: /images/research/marlin_literatumonline_fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/multi-plier
@@ -4440,7 +4440,7 @@
   plugin: sources.py
   file: sources.yaml
   type: paper
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  image: /images/research/pmc_6611653_pcbi.1007128.g001.jpg
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
@@ -4480,7 +4480,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41587-019-0143-x/MediaObjects/41587_2019_143_Fig1_HTML.png
+  image: /images/research/41587_2019_143_Fig1_HTML.png
 - id: doi:10.1101/653105
   title: The CAFA challenge reports improved protein function prediction and new functional
     annotations for hundreds of genes through experimental screens
@@ -4794,7 +4794,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41592/16/10
+  image: /images/research/image_b353934da7bf.png
 - id: doi:10.5281/zenodo.1435834
   title: Node connectivity measurements for Hetionet v1.0 metapaths
   authors:
@@ -4836,7 +4836,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/7/11/10.1093_gigascience_giy129/1/m_giy129fig1.jpeg?Expires=1601648405&Signature=XSCUsfUsGfH2J7gEDa5xpcocENrfaaI-ole5zEg6u27lRJgtAr3vw1jixN5AqDtXJZjSZZc2mF1EGrUyzA~i40w6Nfc92ZuBeDuFOrDbZzk40MH~~IbNVHPDloZUXJrjRCjjIuNfh8irL1addlgeIRvfaO2GoeH~MubiyYSZPmb6aek-WhxNcaSzvgkFwMokMJ9IbfIH2WnHxLok5sa-2p0SCegIW32QksWOTx8mBCyCeuT57er8ov22e6VRjj0~iWDxEmdO0HhNSWZb1sEvnFv~FI1DxtQXCbR7JqBy02Aon5713sVzVOcDLKZ3-64IaM0htgHVzlBEYWFTHYW6rw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_6258825_giy129fig1.jpg
 - id: doi:10.1142/9789813235533_0051
   title: Advances in Text Mining and Visualization for Precision Medicine
   authors:
@@ -4864,7 +4864,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41592-018-0230-9/MediaObjects/41592_2018_230_Fig1_HTML.png
+  image: /images/research/41592_2018_230_Fig1_HTML.png
 - id: doi:10.1016/j.tig.2018.07.003
   title: 'Enter the Matrix: Factorization Uncovers Knowledge from Omics'
   authors:
@@ -5688,7 +5688,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6005735/bin/nihms951452f2.jpg
+  image: /images/research/pmc_6005735_nihms951452f1.jpg
 - id: doi:10.1101/427898
   title: Inflammatory and JAK-STAT Pathways as Shared Molecular Targets for ANCA-Associated
     Vasculitis and Nephrotic Syndrome
@@ -6496,7 +6496,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://ard.bmj.com/sites/default/files/highwire/annrheumdis/77/8.cover-source.jpg
+  image: /images/research/ard_bmj_77_8_cover.jpg
 - id: doi:10.6084/M9.FIGSHARE.6982919
   title: MultiPLIER Fileset
   authors:
@@ -7336,7 +7336,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: /images/research/elife_32822_fig8-v3.webp
   buttons:
   - type: preprint
     link: https://doi.org/10.7287/peerj.preprints.3100v1
@@ -7402,7 +7402,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13073-017-0417-1/MediaObjects/13073_2017_417_Fig1_HTML.gif
+  image: /images/research/13073_2017_417_Fig1_HTML.gif
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/038950
@@ -7433,7 +7433,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
+  image: /images/research/12864_2017_3519_Fig1_HTML.gif
 - id: doi:10.1101/156620
   title: 'ADAGE signature analysis: differential expression analysis with data-defined
     gene sets'
@@ -7466,7 +7466,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/w200/springer-static/cover-hires/journal/41588/49/4
+  image: /images/research/image_3d42d932d329.png
 - id: doi:10.1101/118349
   title: Cross-Platform Normalization Enables Machine Learning Model Training On Microarray
     And RNA-Seq Data Simultaneously
@@ -7569,7 +7569,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fejhg.2017.108/MediaObjects/41431_2017_Article_BFejhg2017108_Fig1_HTML.jpg
+  image: /images/research/41431_2017_Article_BFejhg2017108_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/087718
@@ -7608,7 +7608,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2017/10388/10388/20161122/10388.cover.jpg
+  image: /images/research/worldscientific_10388_cover.jpg
 - id: doi:10.1101/142760
   title: Opportunities and obstacles for deep learning in biology and medicine
   authors:
@@ -7703,7 +7703,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnbt.3780/MediaObjects/41587_2017_Article_BFnbt3780_Fig5_ESM.jpg
+  image: /images/research/41587_2017_Article_BFnbt3780_Fig5_ESM.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/056473
@@ -7720,7 +7720,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/9/376.cover-source.gif
+  image: /images/research/stm_sciencemag_9_376_cover.gif
   buttons:
   - url: http://doi.org/10.1016/j.cels.2016.12.011
     text: Khurana et al.
@@ -7745,7 +7745,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/33/20/10.1093_bioinformatics_btx344/5/m_btx344f3.png?Expires=1601577677&Signature=0Lb8YXeMA0JlFqxJzfyC9L97ZO6xeWRJgP8MUK5g~ULMl1~6O6bulHBPgUYjJT-eh~CRiHvt3loMSLg4BltxVyNEPcudUjXkc7jCxtNtE9gNNKiL-1skXFx~5AECSuNiNVWeK94SOyTHJD-Gl-~9~bD9AHAxqP2YapeWGDheAVJYctH3Fedcmg71wQAONSkOhGN7h6xqB-DzZ6G1omRzN-sRbSJ7stwUFW3X55judpYt4wSeFt-HW1-s4qmmRRdIjx4dV~Ek9lWxi3quf~htrYzaM4RlMfomaOxLDF7kA6dWA2EJKr~vnl3uKb1BQTIpi1CsBBn5HscriMRhosQMyQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_6410887_btx344f1.jpg
 - id: doi:10.1016/j.cels.2017.06.003
   title: Unsupervised Extraction of Stable Expression Signatures from Public Compendia
     with an Ensemble of Neural Networks
@@ -7856,7 +7856,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/346.cover-source.gif
+  image: /images/research/stm_sciencemag_8_346_cover.gif
 - id: doi:10.1371/journal.pbio.1002475
   title: Evolution of High Cellulolytic Activity in Symbiotic Streptomyces through
     Selection of Expanded Gene Content and Coordinated Gene Expression
@@ -7906,7 +7906,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
+  image: /images/research/biorxiv_055913_F4.large.jpg
   buttons:
   - type: preprint
   - type: server
@@ -7974,7 +7974,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/358.cover-source.gif
+  image: /images/research/stm_sciencemag_8_358_cover.gif
 - id: doi:10.1128/mSystems.00025-15
   title: ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene
     Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions
@@ -7990,7 +7990,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
+  image: /images/research/msystems_asm_e00025-15_F2.medium.gif
   buttons:
   - type: preprint
     link: http://biorxiv.org/content/early/2015/11/05/030650
@@ -8010,7 +8010,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1602101879&Signature=IYi5bePZ81JyUSLBS1QBu5PYoNpQKT8wIvgSvye7q3cWTS7s7DtN0UK8RO-CS0HsdkgSzPb-84yOEqESiyEO2ItquI0dBSt039MK0eeIBypBMvyT6N-qVc56IqO7JZczrKZLmNKs1LKUo3cWVuXijFTDhKI5BIDVkY8nVP8~-QOrMyEjxZ9SEYgvztC4nLUPyYijRyzzIa6O0pkSSfxnK3yAV53S3QLyJlXErjzIcHkUB8xnlfHF5CptEwhAmfbVRvhG3RVjzPpgkk35HroLcHH~j5SlJM88F5nIlOcwSF6eSbrK1RksXMq1ccT6aO4Fkjmb~-j2VJ2AnCrl51h5Jg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_4719066_bbv018f1p.jpg
 - id: doi:10.1186/s13059-016-1037-6
   title: An expanded evaluation of protein function prediction methods shows an improvement
     in accuracy
@@ -8169,7 +8169,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-016-1037-6/MediaObjects/13059_2016_1037_Fig1_HTML.gif
+  image: /images/research/13059_2016_1037_Fig1_HTML.gif
   buttons:
   - type: preprint
     link: http://arxiv.org/abs/1601.00891
@@ -8184,7 +8184,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/370.cover-source.gif
+  image: /images/research/stm_sciencemag_8_370_cover.gif
   buttons:
   - url: http://doi.org/10.1038/srep39259
     text: Tatlow et al.
@@ -8199,7 +8199,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/334.cover-source.gif
+  image: /images/research/stm_sciencemag_8_334_cover.gif
 - id: doi:10.7717/peerj.1621
   title: Cross-platform normalization of microarray and RNA-seq data for machine learning
     applications
@@ -8214,7 +8214,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://dfzljdn9uc3pi.cloudfront.net/2016/1621/1/fig-3-2x.jpg
+  image: /images/research/peerj_1621_fig-3-2x.jpg
   buttons:
   - type: preprint
     link: https://peerj.com/preprints/1460/
@@ -8250,7 +8250,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.ahajournals.org/cms/asset/16c0b7fc-c17d-4ed8-9c9c-bdbb46211d77/179fig01.jpg
+  image: /images/research/aha_179fig01.jpg
   buttons:
   - type: source
     link: https://github.com/dhimmel/snplentiful
@@ -8305,7 +8305,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/352.cover-source.gif
+  image: /images/research/stm_sciencemag_8_352_cover.gif
 - id: doi:10.1126/scitranslmed.aal0067
   title: "How to know what we don\u2019t"
   authors:
@@ -8317,7 +8317,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/364.cover-source.gif
+  image: /images/research/stm_sciencemag_8_364_cover.gif
   buttons:
   - link: http://doi.org/10.1038/srep39259
     text: Zhou et al.
@@ -8340,7 +8340,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-016-0082-8/MediaObjects/13040_2016_82_Fig2_HTML.gif?as=webp
+  image: /images/research/13040_2016_82_Fig2_HTML.gif
   buttons:
   - type: source
     link: https://github.com/greenelab/adni-netwas
@@ -8411,7 +8411,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664175/bin/ddv44001.jpg
+  image: /images/research/pmc_4664175_ddv44001.jpg
 - id: doi:10.1038/ncomms9019
   title: International genome-wide meta-analysis identifies new primary biliary cirrhosis
     risk loci and targetable pathogenic pathways
@@ -8884,7 +8884,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://sharma.me.uh.edu/wp-content/uploads/2014/03/nature-communications.png
+  image: /images/research/sharma_nature-communications.png
 - id: doi:10.1186/s12864-015-2250-5
   title: Leveraging global gene expression patterns to predict expression of unmeasured
     genes
@@ -8902,7 +8902,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-015-2250-5/MediaObjects/12864_2015_2250_Fig3_HTML.gif
+  image: /images/research/12864_2015_2250_Fig3_HTML.gif
   buttons:
   - type: source
     link: https://github.com/greenelab/greedy-geneset-selection
@@ -8925,7 +8925,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1004005.g006
+  image: /images/research/pmc_4288710_pcbi.1004005.g001.jpg
 - id: doi:10.1038/NMETH.3249
   title: Targeted exploration and analysis of large cross-platform human transcriptomic
     compendia
@@ -8967,7 +8967,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-015-0050-8/MediaObjects/13040_2015_50_Fig1_HTML.gif
+  image: /images/research/13040_2015_50_Fig1_HTML.gif
 - id: doi:10.1038/ng.3259
   title: Understanding multicellular function and disease with human tissue-specific
     networks
@@ -8994,7 +8994,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fng.3259/MediaObjects/41588_2015_Article_BFng3259_Fig2_HTML.jpg
+  image: /images/research/41588_2015_Article_BFng3259_Fig2_HTML.jpg
   buttons:
   - type: data
     link: http://giant.princeton.edu/download/
@@ -9039,7 +9039,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://onlinelibrary.wiley.com/cms/asset/d463a6c3-1a39-4c6b-91f9-43046991a462/jcp.v229.12.cover.jpg
+  image: /images/research/wiley_jcp24662-fig-0001-m.jpg
 - id: doi:10.1186/1756-0381-7-17
   title: "Computational genetics analysis of grey matter density in Alzheimer\u2019\
     s disease"
@@ -9059,7 +9059,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2F1756-0381-7-17/MediaObjects/13040_2014_Article_115_Fig1_HTML.jpg
+  image: /images/research/13040_2014_Article_115_Fig1_HTML.jpg
 - id: doi:10.1186/gm550
   title: Predicting targeted drug combinations based on Pareto optimal patterns of
     coexpression network connectivity
@@ -9074,7 +9074,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fgm550/MediaObjects/13073_2013_Article_556_Fig4_HTML.jpg
+  image: /images/research/13073_2013_Article_556_Fig4_HTML.jpg
 - id: doi:10.1101/gr.155697.113
   title: Defining cell-type specificity at the transcriptional level in human disease
   authors:
@@ -9100,7 +9100,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://genome.cshlp.org/content/23/11/1862/F2.large.jpg
+  image: /images/research/pmc_3814886_1862fig1.jpg
   buttons:
   - url: http://www.nature.com/nrg/journal/v14/n10/full/nrg3580.html
     text: Highlighted by Nature Reviews Genetics
@@ -9123,7 +9123,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1002957.g001
+  image: /images/research/pmc_3597527_pcbi.1002957.g001.jpg
 - id: doi:10.1371/journal.pone.0069678
   title: LT-IIb(T13I), a Non-Toxic Type II Heat-Labile Enterotoxin, Augments the Capacity
     of a Ricin Toxin Subunit Vaccine to Evoke Neutralizing Antibodies and Protective
@@ -9159,7 +9159,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/w306/springer-static/cover/book/978-3-642-37189-9.jpg
+  image: /images/research/978-3-642-37189-9.jpg
 - id: doi:10.1111/j.1749-6632.2011.06383.x
   title: Accurate evaluation and analysis of functional genomics data and methods
   authors:
@@ -9172,7 +9172,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://nyaspubs.onlinelibrary.wiley.com/cms/asset/14e45db3-4d64-4d0c-9cf6-73172d45242f/nyas.2012.1260.issue-1.cover.gif
+  image: /images/research/nyaspubs_wiley_nyas_2012_1260_cover.gif
 - id: doi:10.1371/journal.pcbi.1002816
   title: 'Chapter 2: Data-Driven View of Disease Biology'
   authors:
@@ -9185,7 +9185,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1002816.g004
+  image: /images/research/pmc_3531282_pcbi.1002816.g001.jpg
 - id: doi:10.1093/nar/gks458
   title: 'IMP: a multi-species functional genomics portal for integration, visualization
     and prediction of protein functions and networks'
@@ -9203,7 +9203,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/nar/Issue/40/W1/1/m_cover.gif?Expires=1601999470&Signature=Q2NOjEoX0jcl9eWLTHkXNaCRT2TNG3fWyJCMInmS2TIOqI5F0IvesRQm4Whc6JC~wzeR9Tjy25OxhJkIYEDBSYu9v4MVrA34r5POVBDcw2zCnNP-3G7CNaFar8g9N5AjzuxsC93tWtq7XUSd3NV4fC5BoyblYb9OYXVUfLIvy-GIYp4D6-wdgs1SyqaDcDrANy~VpQJdNn4Hs0wMLMfd1zcPFvbK-~DFEZ6joshnHYHRbECR7is7a-~-JYqeSqDS2~ZH2cwYO3heAgicnuC0sFltn7DJb8CLTLnpiaHs6yFpyHuKv-XOnVh7zcX~rFnvJEgFmDlUNDEHYAuvsFzwQQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_3394282_gks458f1.jpg
 - id: doi:10.1007/978-3-642-21314-4_36
   title: An Analysis of New Expert Knowledge Scaling Methods for Biologically Inspired
     Computing
@@ -9823,7 +9823,7 @@
   publisher: Cell
   date: '2025-02-01'
   link: https://doi.org/g82tvz
-  image: https://greenelab.com/images/research/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
+  image: /images/research/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.07.31.551386
@@ -9838,7 +9838,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-08-02'
   link: https://doi.org/gskcvr
-  image: https://user-images.githubusercontent.com/542643/262141715-23a165d3-0156-4ba0-afc6-0ef260c46d7c.png
+  image: /images/research/262141715-23a165d3-0156-4ba0-afc6-0ef260c46d7c.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.06.26.546586
@@ -9851,7 +9851,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-06-26'
   link: https://doi.org/gsdsvs
-  image: https://user-images.githubusercontent.com/542643/252371308-1ae174fe-1eb6-47c4-882b-5a3b982bc533.png
+  image: /images/research/252371308-1ae174fe-1eb6-47c4-882b-5a3b982bc533.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.06.28.546898
@@ -9865,7 +9865,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-06-29'
   link: https://doi.org/gsd85m
-  image: https://user-images.githubusercontent.com/8975841/250271905-4eed44ba-528a-4a61-a4ec-fa90d51e61f9.jpg
+  image: /images/research/250271905-4eed44ba-528a-4a61-a4ec-fa90d51e61f9.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.01.05.522941
@@ -9887,7 +9887,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-01-07'
   link: https://doi.org/grmcb9
-  image: https://user-images.githubusercontent.com/542643/211341569-e465826a-4cb1-41ea-a66f-162f420ea968.png
+  image: /images/research/211341569-e465826a-4cb1-41ea-a66f-162f420ea968.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.09.13.507832
@@ -9958,7 +9958,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-09-16'
   link: https://doi.org/gqvf99
-  image: https://user-images.githubusercontent.com/542643/211156503-c486bb87-5e6b-4295-88b9-2c454fe06e85.png
+  image: /images/research/211156503-c486bb87-5e6b-4295-88b9-2c454fe06e85.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2023.01.05.522939
@@ -9974,7 +9974,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2023-01-06'
   link: https://doi.org/grk9gd
-  image: https://user-images.githubusercontent.com/542643/211156151-21a97245-c17b-4a94-ae72-76d6cf66a535.png
+  image: /images/research/211156151-21a97245-c17b-4a94-ae72-76d6cf66a535.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/bioinformatics/btac663
@@ -9987,7 +9987,7 @@
   publisher: Bioinformatics
   date: '2022-10-04'
   link: https://doi.org/gq3vss
-  image: https://user-images.githubusercontent.com/542643/164915627-94f26649-397b-40b0-b27e-d1849f771f6a.png
+  image: /images/research/164915627-94f26649-397b-40b0-b27e-d1849f771f6a.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2022.04.09.487671
@@ -10019,7 +10019,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-10-26'
   link: https://doi.org/gnbdnb
-  image: https://user-images.githubusercontent.com/172687/140064066-677bad73-ae37-4968-aa77-ad854b6c8251.png
+  image: /images/research/140064066-677bad73-ae37-4968-aa77-ad854b6c8251.png
   plugin: sources.py
   file: sources.yaml
 - id: url:http://ceur-ws.org/Vol-2976/paper-2.pdf
@@ -10037,7 +10037,7 @@
   publisher: Digital Infrastructures for Scholarly Content Objects 2021
   date: '2021-09-30'
   link: http://ceur-ws.org/Vol-2976/paper-2.pdf
-  image: https://user-images.githubusercontent.com/8975841/137757668-cf24b018-5539-4969-965f-305fee56b2d3.png
+  image: /images/research/137757668-cf24b018-5539-4969-965f-305fee56b2d3.png
   buttons:
   - type: arxiv
     link: https://arxiv.org/abs/2109.08633
@@ -10069,7 +10069,7 @@
   publisher: Nature Communications
   date: '2023-09-09'
   link: https://doi.org/gspsxr
-  image: https://raw.githubusercontent.com/greenelab/phenoplier_manuscript/master/content/images/entire_process/entire_process.svg
+  image: /images/research/entire_process.svg
   buttons:
   - type: preprint
   - type: biorxiv
@@ -10091,7 +10091,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-06-22'
   link: https://doi.org/gkscd5
-  image: https://user-images.githubusercontent.com/542643/122943080-f1e45d00-d333-11eb-8b8c-d481ebc554e5.png
+  image: /images/research/122943080-f1e45d00-d333-11eb-8b8c-d481ebc554e5.png
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2106.00657
@@ -10106,7 +10106,7 @@
   publisher: arXiv
   date: '2021-09-08'
   link: https://arxiv.org/abs/2106.00657
-  image: https://user-images.githubusercontent.com/542643/120891100-ea972280-c5c3-11eb-805d-d6b467fb66f6.png
+  image: /images/research/120891100-ea972280-c5c3-11eb-805d-d6b467fb66f6.png
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2105.14372
@@ -10135,7 +10135,7 @@
   publisher: arXiv
   date: '2022-05-04'
   link: https://arxiv.org/abs/2105.14372
-  image: https://raw.githubusercontent.com/Benjamin-Lee/deep-rules/master/content/images/thumbnail_tips_overview.png
+  image: /images/research/thumbnail_tips_overview.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2021.03.20.21253896
@@ -10167,7 +10167,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2021-03-26'
   link: https://doi.org/gjk3ng
-  image: https://user-images.githubusercontent.com/8975841/112666874-013a3400-8e33-11eb-9be9-5c74f3e397ea.png
+  image: /images/research/112666874-013a3400-8e33-11eb-9be9-5c74f3e397ea.png
   buttons:
   - type: preprint
   - type: medrxiv
@@ -10192,7 +10192,7 @@
   publisher: PLOS Computational Biology
   date: '2021-08-24'
   link: https://doi.org/gng37g
-  image: https://raw.githubusercontent.com/greenelab/mito-filtering/master/plots/16030X2_linear_posterior.png
+  image: /images/research/16030X2_linear_posterior.png
   buttons:
   - type: preprint
   - type: biorxiv
@@ -10244,7 +10244,7 @@
   publisher: mSystems
   date: '2021-10-26'
   link: https://doi.org/gm8k9b
-  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  image: /images/research/N000-overview.png
   tags:
   - COVID19
   plugin: sources.py
@@ -10309,7 +10309,7 @@
   publisher: Manubot
   date: '2024-02-02'
   link: https://greenelab.github.io/covid19-review/
-  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  image: /images/research/N000-overview.png
   buttons:
   - type: preprint
   - type: manubot
@@ -10326,7 +10326,7 @@
   publisher: Current Opinion in Biotechnology
   date: '2020-06-01'
   link: https://doi.org/gg7m47
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0958166919301594-gr1.jpg
+  image: /images/research/1-s2.0-S0958166919301594-gr1.jpg
   buttons:
   - type: manubot
     link: https://greenelab.github.io/biopriors-review/
@@ -10347,7 +10347,7 @@
   publisher: GigaScience
   date: '2020-06-01'
   link: https://doi.org/ggzr3d
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/gigascience/9/6/10.1093_gigascience_giaa056/1/m_giaa056fig1.jpeg?Expires=1600608874&Signature=vKBY0fvYvV5TcOcCtC9ad0uE~SQ8l1XLZ5nj49vTnBQcsTIeaGmNMxq3EJmLTIKoVSnN109y3rvlNKgujEyGt5NV9IRbUzT4wZqTjPdLBCC7vI2GMDidFGzp5sDOS4POZrNv1QoGXnKjPgRi9~QhkCZ8MXBHjSJo1BJYnwvAhtyLq04HM~FyGshG230kakE3XNW942i3NGPPRAeKLurk7FpaqUJvj8SHpwmpogrOOQA5p11fo7XuI1Ea5n3jjol5mkAX-gspAssWP0hWnJpO1WfFaeDbm8kWHWw68EIu8pzsMlmK9nNAJ2p59iUBIil2Y4D1eL3sJTGX4ZtY51ElPw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_7263079_giaa056fig1.jpg
   buttons:
   - type: manubot
     link: https://mangul-lab-usc.github.io/enhancing_reproducibility/
@@ -10369,7 +10369,7 @@
   publisher: 'Circulation: Cardiovascular Quality and Outcomes'
   date: '2019-07-01'
   link: https://doi.org/ggbpgq
-  image: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
+  image: /images/research/aha_e005122fig02.gif
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/159756
@@ -10403,7 +10403,7 @@
   publisher: Genome Biology
   date: '2020-09-11'
   link: https://doi.org/ghxddg
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
+  image: /images/research/pmc_7488497_13059_2020_2113_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/836825v1
@@ -10425,7 +10425,7 @@
   publisher: Science Advances
   date: '2020-09-11'
   link: https://doi.org/ghbvbf
-  image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
+  image: /images/research/sciadv_eaba2083_F1.large.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/833210
@@ -10611,7 +10611,7 @@
   publisher: Genome Biology
   date: '2019-11-19'
   link: https://doi.org/ggnxpz
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-019-1835-8/MediaObjects/13059_2019_1835_Fig11_HTML.png
+  image: /images/research/13059_2019_1835_Fig11_HTML.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/653105
@@ -10736,7 +10736,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-04'
   link: https://doi.org/gg7m52
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/04/793091/F2.medium.gif
+  image: /images/research/biorxiv_793091_F2.medium.gif
   buttons:
   - type: preprint
   plugin: sources.py
@@ -10799,7 +10799,7 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-03'
   link: https://doi.org/ggh6rz
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/787903/F1.medium.gif
+  image: /images/research/biorxiv_787903_F1.medium.gif
   buttons:
   - type: preprint
   plugin: sources.py
@@ -11020,7 +11020,7 @@
   publisher: Science
   date: '2020-09-11'
   link: https://doi.org/ghxdfd
-  image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
+  image: /images/research/pmc_7646251_nihms-1640089-f0001.jpg
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/786053v1
@@ -11060,7 +11060,7 @@
   publisher: Genome Biology
   date: '2021-01-26'
   link: https://doi.org/ghxdc9
-  image: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
+  image: /images/research/pmc_7836161_13059_2020_2252_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350
@@ -11073,7 +11073,7 @@
   publisher: Nature
   date: '2019-01-23'
   link: https://doi.org/gftqjj
-  image: https://media.nature.com/lw800/magazine-assets/d41586-019-00218-6/d41586-019-00218-6_16402666.jpg
+  image: /images/research/nature_d41586-019-00218-6_16402666.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.118.200867
@@ -11111,7 +11111,7 @@
   publisher: BioData Mining
   date: '2018-07-03'
   link: https://doi.org/gdt7f5
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-018-0175-7/MediaObjects/13040_2018_175_Fig3_HTML.png
+  image: /images/research/13040_2018_175_Fig3_HTML.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/147645
@@ -11171,7 +11171,7 @@
   publisher: Journal of The Royal Society Interface
   date: '2018-04-01'
   link: https://doi.org/gddkhn
-  image: https://royalsocietypublishing.org/cms/asset/1b0430b1-5a66-4523-83be-29b435eddf86/rsif20170387f01.jpg
+  image: /images/research/royal_society_rsif20170387f01.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/142760
@@ -11193,7 +11193,7 @@
   publisher: Journal of Bacteriology
   date: '2018-04-15'
   link: https://doi.org/gg7qrt
-  image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
+  image: /images/research/jb_asm_e00703-17_F4.medium.gif
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/198481
@@ -11208,7 +11208,7 @@
   publisher: Biocomputing 2019
   date: '2018-11-01'
   link: https://doi.org/gf5pc7
-  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/11263/11263/20181129-01/11263.cover.jpg
+  image: /images/research/worldscientific_11263_cover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pubmed:29218914
@@ -11222,7 +11222,7 @@
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: '2018-01-01'
   link: https://www.ncbi.nlm.nih.gov/pubmed/29218914
-  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/10864/10864/20171025-01/10864.cover.jpg
+  image: /images/research/worldscientific_10864_cover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: pmc:PMC5760988
@@ -11257,7 +11257,7 @@
   publisher: Current Epidemiology Reports
   date: '2017-07-10'
   link: https://doi.org/gg7qrv
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40471-017-0115-y/MediaObjects/40471_2017_115_Fig1_HTML.gif
+  image: /images/research/40471_2017_115_Fig1_HTML.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s42003-023-04588-6
@@ -11270,7 +11270,7 @@
   publisher: Communications Biology
   date: '2023-02-25'
   link: https://doi.org/grt2z5
-  image: https://www.biorxiv.org/content/biorxiv/early/2017/03/21/118349/F1.medium.gif
+  image: /images/research/pmc_9968332_42003_2023_4588_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: http://doi.org/10.1101/118349
@@ -11291,7 +11291,7 @@
   publisher: BMC Genomics
   date: '2017-02-06'
   link: https://doi.org/gg7qr9
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-017-3519-7/MediaObjects/12864_2017_3519_Fig1_HTML.gif
+  image: /images/research/12864_2017_3519_Fig1_HTML.gif
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/075382
@@ -11314,7 +11314,7 @@
   publisher: BMC Bioinformatics
   date: '2017-11-22'
   link: https://doi.org/gg7m57
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-017-1905-4/MediaObjects/12859_2017_1905_Fig5_HTML.gif
+  image: /images/research/12859_2017_1905_Fig5_HTML.gif
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/156620
@@ -11353,7 +11353,7 @@
   publisher: Biocomputing 2018
   date: '2017-11-17'
   link: https://doi.org/gfspsd
-  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/02/174474/F2.medium.gif
+  image: /images/research/biorxiv_174474_F2.medium.gif
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/174474
@@ -11371,7 +11371,7 @@
   publisher: Current Genetic Medicine Reports
   date: '2016-09-09'
   link: https://doi.org/ggpcr7
-  image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40142-016-0102-5/MediaObjects/40142_2016_102_Fig1_HTML.gif
+  image: /images/research/40142_2016_102_Fig1_HTML.gif
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/062695
@@ -11384,7 +11384,7 @@
   publisher: Science Translational Medicine
   date: '2016-05-25'
   link: https://doi.org/gg7qr2
-  image: https://stm.sciencemag.org/sites/default/files/styles/sci_issue_archive_cover/public/highwire/scitransmed/8/340.cover-source.gif
+  image: /images/research/stm_sciencemag_8_340_cover.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.116.033514
@@ -11421,7 +11421,7 @@
   publisher: Journal of Biomedical Informatics
   date: '2016-12-01'
   link: https://doi.org/gbw7bv
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S153204641630140X-gr5.jpg
+  image: /images/research/1-s2.0-S153204641630140X-gr5.jpg
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/039800
@@ -11438,7 +11438,7 @@
   publisher: Human Molecular Genetics
   date: '2016-06-23'
   link: https://doi.org/f9ppwj
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/hmg/25/R2/10.1093_hmg_ddw160/3/m_ddw160f1p.png?Expires=1601769334&Signature=K2jmIC5xYLrHG8-37EmtkiSQ9yTClOrLyJZT5X3zp1PZg0ZLOha6z-ThS2ps~tlmzex8dLv9803lQzq-Cv-uJ3hn3rfjlyEp-kIENK4r0WdSkbSFtCItGgSfnQh5gH58vmh5MxAfw7EnMOXISQjOubndFfoiKxqfr0Cqp3Cm5UgNlW4NRCAFnEzvDzpcWoYKc-T2R~dkN1cXowMBafqvBe8~vsNnD9g473Ijryd-k5CPrW4g8~YwOhBsGlcRj64atYo4P9Kz-i-jn9JTr~UtxOUXaVcQVAQeqKXs877rLfzDjp58yWx2UeNuqGbS5oRWn~5Ljo80oIZHxIEIC-DcRw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_5036870_ddw160f1p.jpg
   buttons:
   - type: preprint
     link: http://biorxiv.org/content/early/2016/05/03/051524
@@ -11481,7 +11481,7 @@
   publisher: Nature Methods
   date: '2015-01-12'
   link: https://doi.org/ggfb5t
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnmeth.3249/MediaObjects/41592_2015_Article_BFnmeth3249_Fig5_ESM.jpg
+  image: /images/research/41592_2015_Article_BFnmeth3249_Fig5_ESM.jpg
   buttons:
   - type: app
     link: http://seek.princeton.edu/
@@ -11523,7 +11523,7 @@
   publisher: arXiv
   date: '2022-04-29'
   link: https://arxiv.org/abs/2204.12598
-  image: https://greenelab.github.io/covid19-review/images/N000-overview.png
+  image: /images/research/N000-overview.png
   tags:
   - COVID19
   plugin: sources.py
@@ -11553,7 +11553,7 @@
   publisher: Nature Communications
   date: '2022-11-07'
   link: https://doi.org/gq68q3
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-33628-8/MediaObjects/41467_2022_33628_Fig1_HTML.png?as=webp
+  image: /images/research/41467_2022_33628_Fig1_HTML.png
   tags:
   - asthma
   - asthma endotypes
