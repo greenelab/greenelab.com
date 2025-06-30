@@ -15,9 +15,9 @@
 - id: doi:10.1016/j.cell.2024.12.017
   image: /images/research/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
 - id: doi:10.1371/journal.pcbi.1012742
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11790236/bin/pcbi.1012742.g001.jpg
+  image: /images/research/pmc_11790236_pcbi.1012742.g001.jpg
 - id: doi:10.1016/j.ajhg.2023.12.001
-  image: https://raw.githubusercontent.com/greenelab/connectivity-search-analyses/master/figures/genome_res_2017_fig_1.png
+  image: /images/research/github_6d8d5eac-8db8-4b8f-8390-8a59e4179172.png
 - id: doi:10.1- id: doi:10.1101/055913
   buttons:
   - type: preprint
@@ -255,7 +255,7 @@
   - open science
   - machine learning
 - id: doi:10.1093/gigascience/giab062
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8458035/bin/F4.medium.gif
+  image: /images/research/pmc_8458035_F4.medium.gif
   tags:
   - cancer
   - single cell
@@ -277,7 +277,7 @@
   tags:
   - COVID19
 - id: doi:10.1093/jamia/ocaa196
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7454687/bin/ocaa196f1.jpg
+  image: /images/research/pmc_7454687_ocaa196f1.jpg
   tags:
   - COVID19
 - id: doi:10.1038/s41562-020-00944-2
@@ -315,14 +315,14 @@
   - url: https://arxiv.org/abs/1910.06738
     text: arXiv
 - id: doi:10.1093/gigascience/giaa056
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7263079/bin/giaa056fig1.jpg
+  image: /images/research/pmc_7263079_giaa056fig1.jpg
   buttons:
   - type: manubot
     link: https://mangul-lab-usc.github.io/enhancing_reproducibility/
   - url: https://arxiv.org/abs/2001.05127
     text: arXiv
 - id: doi:10.1093/gigascience/giaa117
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7607552/bin/giaa117fig3.jpg
+  image: /images/research/pmc_7607552_giaa117fig3.jpg
   buttons:
   - type: preprint
     link: 10.1101/2020.05.03.066597
@@ -334,7 +334,7 @@
   - machine learning
   - data integration
 - id: doi:10.1093/nar/gkaa248
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7229819/bin/gkaa248fig1.jpg
+  image: /images/research/pmc_7229819_gkaa248fig1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/361816
@@ -379,7 +379,7 @@
   - url: https://arxiv.org/abs/2003.00898
     text: arXiv
 - id: doi:10.3390/genes11020226
-  image: https://www.mdpi.com/genes/genes-11-00226/article_deploy/html/images/genes-11-00226-g001-550.jpg
+  image: /images/research/mdpi_genes-11-00226-g001.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2020.01.13.904771
@@ -396,7 +396,7 @@
   tags:
   - genetics
 - id: doi:10.1016/j.celrep.2021.108917
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10450591/bin/nihms-1689237-f0001.jpg
+  image: /images/research/pmc_10450591_nihms-1689237-f0001.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/2020.02.12.945642
@@ -416,12 +416,12 @@
   - knowledge graphs
   - open science
 - id: doi:10.1073/pnas.1917576117
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7022198/bin/pnas.1917576117fig01.jpg
+  image: /images/research/pmc_7022198_pnas.1917576117fig01.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/802934
 - id: doi:10.1101/2020.01.17.910703
-  image: https://github.com/jjc2718/gene-graph-conv/raw/master/data/img/pipeline.png
+  image: /images/research/gene_graph_conv_pipeline.png
   buttons:
   - type: source
     link: https://github.com/jjc2718/gene-graph-conv
@@ -437,7 +437,7 @@
   tags:
   - knowledge graphs
 - id: doi:10.1038/s41592-019-0585-6
-  image: https://jamanetwork.com/cms/10.1001/jamapsychiatry.2019.1766/asset/b353934da7bf.png
+  image: /images/research/image_b353934da7bf.png
 - id: doi:10.1146/annurev-biodatasci-072018-021348
   image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
 - id: doi:10.1161/CIRCOUTCOMES.118.005122
@@ -450,7 +450,7 @@
 - id: doi:10.1371/journal.pcbi.1007128
   type: paper
   date: 2020-12-4
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6611653/bin/pcbi.1007128.g001.jpg
+  image: /images/research/pmc_6611653_pcbi.1007128.g001.jpg
   buttons:
   - type: manubot
     link: https://greenelab.github.io/meta-review/
@@ -468,12 +468,12 @@
 - id: doi:10.1038/s41587-019-0143-x
   image: /images/research/41587_2019_143_Fig1_HTML.png
 - id: doi:10.1016/j.cels.2019.04.003
-  image: https://marlin.cshl.edu/images/fx1.jpg
+  image: /images/research/marlin_literatumonline_fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/multi-plier
 - id: doi:10.1093/bioinformatics/bty828
-  image: https://i2.wp.com/retractionwatch.com/wp-content/uploads/2019/02/bioinformatics.png?ssl=1
+  image: /images/research/retractionwatch_bioinformatics.png
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/301242
@@ -482,7 +482,7 @@
 - id: doi:10.1016/j.devcel.2019.03.001
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
 - id: doi:10.1186/s13059-020-02113-0
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7488497/bin/13059_2020_2113_Fig1_HTML.jpg
+  image: /images/research/pmc_7488497_13059_2020_2113_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/836825v1
@@ -544,17 +544,17 @@
   buttons:
   - type: preprint
 - id: doi:10.1126/science.aaz5900
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7646251/bin/nihms-1640089-f0001.jpg
+  image: /images/research/pmc_7646251_nihms-1640089-f0001.jpg
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/786053v1
 - id: doi:10.1186/s13059-020-02252-4
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836161/bin/13059_2020_2252_Fig1_HTML.jpg
+  image: /images/research/pmc_7836161_13059_2020_2252_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350
 - id: doi:10.1038/d41586-019-00218-6
-  image: https://media.springernature.com/lw800/springer-static/image/art%3A10.1038%2Fd41586-019-00218-6/MediaObjects/d41586-019-00218-6_16402666.jpg
+  image: /images/research/nature_d41586-019-00218-6_16402666.jpg
 - id: doi:10.1534/g3.118.200867
   image: https://www.g3journal.org/content/ggg/9/1/251/F2.medium.gif
   buttons:
@@ -578,9 +578,9 @@
     link: https://github.com/kathyxchen/crosstalk-correction
     text: Crosstalk correction
 - id: doi:10.1097/CCM.0000000000003148
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6005735/bin/nihms951452f1.jpg
+  image: /images/research/pmc_6005735_nihms951452f1.jpg
 - id: doi:10.1136/annrheumdis-2017-212935
-  image: https://ard.bmj.com/content/77/8.cover-source.jpg
+  image: /images/research/ard_bmj_77_8_cover.jpg
 - id: doi:10.1098/rsif.2017.0387
   buttons:
   - type: preprint
@@ -606,7 +606,7 @@
   - type: preprint
     link: https://doi.org/10.1101/198481
 - id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  image: /images/research/elife_32822_fig8-v3.webp
   buttons:
   - type: preprint
     link: https://doi.org/10.7287/peerj.preprints.3100v1
@@ -619,18 +619,18 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
 - id: doi:10.1093/gigascience/giy129
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6258825/bin/giy129fig1.jpg
+  image: /images/research/pmc_6258825_giy129fig1.jpg
 - id: doi:10.1038/s41592-018-0230-9
   image: /images/research/41592_2018_230_Fig1_HTML.png
 - id: doi:10.1142/9789813279827_0033
-  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/11263/11263/20181129-01/11263.cover.jpg
+  image: /images/research/worldscientific_11263_cover.jpg
 - id: doi:10.1016/j.tig.2018.07.003
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ea974986-ac13-4ba3-91c1-b0adba5b7ea9/gr5.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/196915
 - id: pubmed:29218914
-  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/10864/10864/20171025-01/10864.cover.jpg
+  image: /images/research/worldscientific_10864_cover.jpg
 - id: pmc:PMC5760988
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/bin/nihms921846f2.jpg
   buttons:
@@ -657,14 +657,14 @@
 - id: doi:10.1056/NEJMc1705477
   image: https://fertility-media.womenandinfants.org/logo-nejm.png
 - id: doi:10.1038/ng.3830
-  image: https://jamanetwork.com/cms/10.1001/jamapsychiatry.2019.1766/asset/3d42d932d329.png
+  image: /images/research/image_3d42d932d329.png
 - id: doi:10.1186/s13073-017-0417-1
   image: /images/research/13073_2017_417_Fig1_HTML.gif
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/038950
 - id: doi:10.1038/s42003-023-04588-6
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9968332/bin/42003_2023_4588_Fig1_HTML.jpg
+  image: /images/research/pmc_9968332_42003_2023_4588_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: http://doi.org/10.1101/118349
@@ -727,9 +727,9 @@
   - type: source
     link: https://github.com/greenelab/tybalt
 - id: doi:10.1093/bioinformatics/btx344
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6410887/bin/btx344f1.jpg
+  image: /images/research/pmc_6410887_btx344f1.jpg
 - id: doi:10.1142/9789813207813_0060
-  image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2017/10388/10388/20161122/10388.cover.jpg
+  image: /images/research/worldscientific_10388_cover.jpg
 - id: doi:10.1007/s40142-016-0102-5
   image: /images/research/40142_2016_102_Fig1_HTML.gif
   buttons:
@@ -788,12 +788,12 @@
   - link: http://doi.org/10.1038/srep39259
     text: Zhou et al.
 - id: doi:10.1093/hmg/ddw160
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5036870/bin/ddw160f1p.jpg
+  image: /images/research/pmc_5036870_ddw160f1p.jpg
   buttons:
   - type: preprint
     link: http://biorxiv.org/content/early/2016/05/03/051524
 - id: doi:10.7717/peerj.1621
-  image: https://dfzljdn9uc3pi.cloudfront.net/2016/1621/1/fig-3-2x.jpg
+  image: /images/research/peerj_1621_fig-3-2x.jpg
   buttons:
   - type: preprint
     link: https://peerj.com/preprints/1460/
@@ -813,11 +813,11 @@
   - url: http://psb.stanford.edu/psb-online/proceedings/psb16/greene.pdf
     text: PDF
 - id: doi:10.1093/bib/bbv018
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4719066/bin/bbv018f1p.jpg
+  image: /images/research/pmc_4719066_bbv018f1p.jpg
 - id: doi:10.1093/bib/bbv087
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1038/ncomms9019
-  image: https://sharma.me.uh.edu/wp-content/uploads/2014/03/nature-communications.png
+  image: /images/research/sharma_nature-communications.png
 - id: doi:10.1186/s13040-015-0050-8
   image: /images/research/13040_2015_50_Fig1_HTML.gif
 - id: doi:10.1038/ng.3259
@@ -832,14 +832,14 @@
   - type: app
     link: http://giant.princeton.edu/
 - id: doi:10.1093/hmg/ddv440
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4664175/bin/ddv44001.jpg
+  image: /images/research/pmc_4664175_ddv44001.jpg
 - id: doi:10.1186/s12864-015-2250-5
   image: /images/research/12864_2015_2250_Fig3_HTML.gif
   buttons:
   - type: source
     link: https://github.com/greenelab/greedy-geneset-selection
 - id: doi:10.1371/journal.pcbi.1004005
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4288710/bin/pcbi.1004005.g001.jpg
+  image: /images/research/pmc_4288710_pcbi.1004005.g001.jpg
 - id: doi:10.1038/nmeth.3249
   image: /images/research/41592_2015_Article_BFnmeth3249_Fig5_ESM.jpg
   buttons:
@@ -856,19 +856,19 @@
 - id: doi:10.1186/gm550
   image: /images/research/13073_2013_Article_556_Fig4_HTML.jpg
 - id: doi:10.1371/journal.pcbi.1002957
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3597527/bin/pcbi.1002957.g001.jpg
+  image: /images/research/pmc_3597527_pcbi.1002957.g001.jpg
 - id: doi:10.1101/gr.155697.113
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3814886/bin/1862fig1.jpg
+  image: /images/research/pmc_3814886_1862fig1.jpg
   buttons:
   - url: http://www.nature.com/nrg/journal/v14/n10/full/nrg3580.html
     text: Highlighted by Nature Reviews Genetics
 - id: doi:10.1007/978-3-642-37189-9_2
-  image: https://media.springernature.com/w306/springer-static/cover-hires/book/978-3-642-37189-9
+  image: /images/research/978-3-642-37189-9.jpg
 - id: doi:10.1111/j.1749-6632.2011.06383.x
 - id: doi:10.1093/nar/gks458
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3394282/bin/gks458f1.jpg
+  image: /images/research/pmc_3394282_gks458f1.jpg
 - id: doi:10.1371/journal.pcbi.1002816
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3531282/bin/pcbi.1002816.g001.jpg
+  image: /images/research/pmc_3531282_pcbi.1002816.g001.jpg
 - id: arxiv:2204.12598
   image: /images/research/N000-overview.png
   tags:
