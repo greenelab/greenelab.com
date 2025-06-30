@@ -1,14 +1,55 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/jamia/ocae139
-  title: A publishing infrastructure for Artificial Intelligence (AI)-assisted academic
-    authoring
+- id: doi:10.5281/zenodo.15597460
+  title: hetionet-analysis
+  authors:
+  - Sutanu Nandi
+  - Negar Janani
+  - Dave Bunten
+  - Casey Greene
+  publisher: Zenodo
+  date: '2025-06-05'
+  link: https://doi.org/g9pm9s
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.15485442
+  title: Manubot AI Editor
   authors:
   - Milton Pividori
-  - Casey S Greene
-  publisher: Journal of the American Medical Informatics Association
-  date: '2024-06-14'
-  link: https://doi.org/gtw9d3
+  - Faisal Alquaddoomi
+  - Vincent Rubinetti
+  - Dave Bunten
+  - Casey Greene
+  publisher: Zenodo
+  date: '2025-05-21'
+  link: https://doi.org/g9k849
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.15122187
+  title: Human Microbiome Compendium dataset
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Ahmadian Mansooreh
+  - Parker Hicks
+  - Ashwin Chetty
+  - Daniel McDonald
+  - Pamela Ferretti
+  - Elizabeth Gibbons
+  - Marco Rossi
+  - Arjun Krishnan
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Zenodo
+  date: '2025-04-01'
+  link: https://doi.org/g9dkkn
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -19,13 +60,193 @@
   - Richard J. Abdill
   - Samantha P. Graham
   - Vincent Rubinetti
+  - Ahmadian Mansooreh
+  - Parker Hicks
+  - Ashwin Chetty
+  - Daniel McDonald
+  - Pamela Ferretti
+  - Elizabeth Gibbons
+  - Marco Rossi
+  - Arjun Krishnan
   - Frank W. Albert
   - Casey S. Greene
   - Sean Davis
   - Ran Blekhman
   publisher: Zenodo
-  date: '2023-10-11'
+  date: '2025-04-01'
   link: https://doi.org/gsvhxn
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.106706
+  title: Research turns hope into reality
+  authors:
+  - Anna C Greene
+  - Casey S Greene
+  publisher: eLife
+  date: '2025-03-26'
+  link: https://doi.org/g8998h
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.14911574
+  title: Manubot AI Editor
+  authors:
+  - Milton Pividori
+  - Faisal Alquaddoomi
+  - Vincent Rubinetti
+  - Dave Bunten
+  - Casey Greene
+  publisher: Zenodo
+  date: '2025-02-22'
+  link: https://doi.org/g855cp
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.14911573
+  title: Manubot AI Editor
+  authors:
+  - Milton Pividori
+  - Faisal Alquaddoomi
+  - Vincent Rubinetti
+  - Dave Bunten
+  - Casey Greene
+  publisher: Zenodo
+  date: '2025-06-05'
+  link: https://doi.org/g855cq
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1012742
+  title: 'BuDDI: Bulk Deconvolution with Domain Invariance to predict cell-type-specific
+    perturbations from bulk'
+  authors:
+  - Natalie R. Davidson
+  - Fan Zhang
+  - Casey S. Greene
+  publisher: PLOS Computational Biology
+  date: '2025-01-17'
+  link: https://doi.org/g82pkm
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: https://private-user-images.githubusercontent.com/542643/405272317-fa5f5b94-e800-4cd1-8fdb-425e1658760b.PNG
+- id: doi:10.1038/s41551-024-01322-3
+  title: Latent spaces for tumour transcriptomes
+  authors:
+  - Adriana Ivich
+  - Casey S. Greene
+  publisher: Nature Biomedical Engineering
+  date: '2024-12-17'
+  link: https://doi.org/g8wpqr
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.patter.2024.101115
+  title: Best holdout assessment is sufficient for cancer transcriptomic model selection
+  authors:
+  - Jake Crawford
+  - Maria Chikina
+  - Casey S. Greene
+  publisher: Patterns
+  date: '2024-12-01'
+  link: https://doi.org/g8t4kk
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.13733642
+  title: Human Microbiome Compendium dataset
+  authors:
+  - Richard J. Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Ahmadian Mansooreh
+  - Parker Hicks
+  - Ashwin Chetty
+  - Daniel McDonald
+  - Pamela Ferretti
+  - Elizabeth Gibbons
+  - Marco Rossi
+  - Arjun Krishnan
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Zenodo
+  date: '2024-09-16'
+  link: https://doi.org/g392xs
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.13733483
+  title: 'Data from: Integration of 168,000 samples reveals global patterns of the
+    human gut microbiome'
+  authors:
+  - Richard Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Mansooreh Ahmadian
+  - Parker Hicks
+  - Ashwin Chetty
+  - Daniel McDonald
+  - Pamela Ferretti
+  - Elizabeth Gibbons
+  - Marco Rossi
+  - Arjun Krishnan
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Zenodo
+  date: '2024-09-12'
+  link: https://doi.org/gxvbn8
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5281/zenodo.13733482
+  title: 'Data from: Integration of 168,000 samples reveals global patterns of the
+    human gut microbiome'
+  authors:
+  - Richard Abdill
+  - Samantha P. Graham
+  - Vincent Rubinetti
+  - Mansooreh Ahmadian
+  - Parker Hicks
+  - Ashwin Chetty
+  - Daniel McDonald
+  - Pamela Ferretti
+  - Elizabeth Gibbons
+  - Marco Rossi
+  - Arjun Krishnan
+  - Frank W. Albert
+  - Casey S. Greene
+  - Sean Davis
+  - Ran Blekhman
+  publisher: Zenodo
+  date: '2024-09-12'
+  link: https://doi.org/gxvbph
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jamia/ocae139
+  title: A publishing infrastructure for Artificial Intelligence (AI)-assisted academic
+    authoring
+  authors:
+  - Milton Pividori
+  - Casey S Greene
+  publisher: Journal of the American Medical Informatics Association
+  date: '2024-06-14'
+  link: https://doi.org/gtw9d3
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -213,7 +434,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2023-06-29'
-  link: https://doi.org/10.1101/2023.06.28.546898
+  link: https://doi.org/gsd85m
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -248,7 +469,7 @@
   - Elizabeth A. Heller
   publisher: Cold Spring Harbor Laboratory
   date: '2023-08-02'
-  link: https://doi.org/10.1101/2023.07.31.551386
+  link: https://doi.org/gskcvr
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -317,7 +538,7 @@
   - Casey S. Greene
   - Deborah A. Hogan
   publisher: Microbiology Spectrum
-  date: '2024-02-22'
+  date: '2024-04-02'
   link: https://doi.org/gtjtj2
   orcid: 0000-0001-8713-9213
   member: casey-greene
@@ -334,6 +555,7 @@
   - Deepashree Venkatesh Prasad
   - Nozomi Ichihara
   - Arkadii Yakovets
+  - Avrohom M. Gottlieb
   - Kurt G. Wheeler
   - Chante J. Bethell
   - Steven M. Foltz
@@ -348,10 +570,17 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/gigascience/giae001
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'The probability of edge existence due to node degree: a baseline for network-based
+    predictions'
+  authors:
+  - Michael Zietz
+  - Daniel S Himmelstein
+  - Kyle Kloster
+  - Christopher Williams
+  - Michael W Nagle
+  - Casey S Greene
+  publisher: GigaScience
+  date: '2024-01-01'
   link: https://doi.org/gtcbks
   orcid: 0000-0001-8713-9213
   member: casey-greene
@@ -361,11 +590,11 @@
   title: 'greenelab/phenoplier: a computational framework to integrate genetic studies
     with gene co-expression patterns'
   authors:
-  - Milton Pividori
-  - Casey Greene
+  - ' Milton Pividori'
+  - ' Casey Greene'
   publisher: Zenodo
   date: '2023-06-22'
-  link: https://doi.org/10.5281/zenodo.8044955
+  link: https://doi.org/gscpfx
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -441,7 +670,7 @@
   - Jaclyn N. Taroni
   publisher: Zenodo
   date: '2023-04-06'
-  link: https://doi.org/10.5281/zenodo.7805407
+  link: https://doi.org/gr6wd5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -458,7 +687,7 @@
   - Deborah A. Hogan
   publisher: Cold Spring Harbor Laboratory
   date: '2023-08-21'
-  link: https://doi.org/10.1101/2023.08.21.554169
+  link: https://doi.org/gsmvkq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -601,7 +830,7 @@
   - Sylvain V. Costes
   publisher: Nature Machine Intelligence
   date: '2023-03-23'
-  link: https://doi.org/10.1038/s42256-023-00618-4
+  link: https://doi.org/grztqv
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -674,7 +903,7 @@
   - Sylvain V. Costes
   publisher: Nature Machine Intelligence
   date: '2023-03-23'
-  link: https://doi.org/10.1038/s42256-023-00617-5
+  link: https://doi.org/grz34g
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -690,10 +919,11 @@
     perturbations from bulk
   authors:
   - Natalie R. Davidson
+  - Fan Zhang
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2023-07-22'
-  link: https://doi.org/10.1101/2023.07.20.549951
+  link: https://doi.org/gshs97
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -709,7 +939,7 @@
   - Casey S. Greene
   publisher: BioData Mining
   date: '2023-05-05'
-  link: https://doi.org/10.1186/s13040-023-00332-2
+  link: https://doi.org/gr7ft5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -730,7 +960,7 @@
   - Casey S. Greene
   publisher: mSystems
   date: '2023-02-23'
-  link: https://doi.org/10.1128/msystems.00342-22
+  link: https://doi.org/grjqcc
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -755,7 +985,7 @@
   - Deborah A. Hogan
   publisher: mSystems
   date: '2023-02-23'
-  link: https://doi.org/10.1128/msystems.00341-22
+  link: https://doi.org/grjqcd
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -778,7 +1008,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2023-06-15'
-  link: https://doi.org/10.1101/2023.06.14.544991
+  link: https://doi.org/gsctmw
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -835,7 +1065,7 @@
   - Casey S Greene
   publisher: GigaScience
   date: '2022-12-28'
-  link: https://doi.org/10.1093/gigascience/giad047
+  link: https://doi.org/gsd85n
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -869,21 +1099,21 @@
   - Casey Greene
   publisher: Nature Methods
   date: '2023-05-29'
-  link: https://doi.org/10.1038/s41592-023-01886-z
+  link: https://doi.org/gr9twg
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
   image: https://user-images.githubusercontent.com/542643/262425906-9b6e243a-c371-44dd-849c-5a2ce240a99b.png
 - id: doi:10.1101/2023.11.01.565179
-  title: Molecular subtypes of high grade serous ovarian cancer across racial groups
+  title: Molecular subtypes of high-grade serous ovarian cancer across racial groups
     and gene expression platforms
   authors:
   - Natalie R. Davidson
   - Mollie E. Barnard
   - Ariel A. Hippen
   - Amy Campbell
-  - Courtney Johnson
+  - Courtney E. Johnson
   - Gregory P. Way
   - Brian K. Dalley
   - Andrew Berchuck
@@ -917,7 +1147,7 @@
   - Chunlei Wu
   publisher: Nucleic Acids Research
   date: '2023-04-18'
-  link: https://doi.org/10.1093/nar/gkad289
+  link: https://doi.org/gr5hb5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -990,7 +1220,7 @@
   - Jaclyn N. Taroni
   publisher: Cold Spring Harbor Laboratory
   date: '2022-09-16'
-  link: https://doi.org/10.1101/2022.09.13.507832
+  link: https://doi.org/gqvf99
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1023,21 +1253,38 @@
   title: Supporting data for "Hetnet connectivity search provides rapid insights into
     how two biomedical entities are related"
   authors:
-  - Himmelstein S Daniel
-  - Zietz Michael
-  - Rubinetti Vincent
-  - Kloster Kyle
-  - Heil J Benjamin
-  - Alquaddoomi Faisal
-  - Hu Dongbo
-  - Nicholson N David
-  - Hao Yun
-  - Sullivan D Blair
-  - Nagle W Michael
-  - Greene S Casey
+  - Daniel, S Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin, J Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David, N Nicholson
+  - Yun Hao
+  - Blair, D Sullivan
+  - Michael, W Nagle
+  - Casey, S Greene
   publisher: GigaScience Database
   date: '2023-01-01'
   link: https://doi.org/gr77bv
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5524/102479
+  title: 'Supporting data for "The probability of edge existence due to node degree:
+    a baseline for network-based predictions"'
+  authors:
+  - Michael Zietz
+  - Daniel, S Himmelstein
+  - Kyle Kloster
+  - Christopher Williams
+  - Michael, W Nagle
+  - Casey, S Greene
+  publisher: GigaScience Database
+  date: '2023-01-01'
+  link: https://doi.org/gs9sq5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1070,7 +1317,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2023-01-06'
-  link: https://doi.org/10.1101/2023.01.05.522943
+  link: https://doi.org/grk9gf
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1084,7 +1331,7 @@
   - Casey S. Greene
   publisher: PLOS Computational Biology
   date: '2023-03-27'
-  link: https://doi.org/10.1371/journal.pcbi.1010984
+  link: https://doi.org/gr2q6q
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1110,7 +1357,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2022-06-17'
-  link: https://doi.org/10.1101/2022.06.15.496326
+  link: https://doi.org/gqcvbw
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1156,7 +1403,7 @@
   - Sana D. Karam
   publisher: Nature Cancer
   date: '2022-11-25'
-  link: https://doi.org/10.1038/s43018-022-00450-6
+  link: https://doi.org/grb9v2
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1235,7 +1482,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2022-04-15'
-  link: https://doi.org/10.1101/2022.04.14.488429
+  link: https://doi.org/gpxkwr
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1248,7 +1495,7 @@
   - Casey S. Greene
   publisher: Nature Human Behaviour
   date: '2022-01-17'
-  link: https://doi.org/10.1038/s41562-021-01279-2
+  link: https://doi.org/gn984d
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1267,7 +1514,7 @@
   - Deborah A. Hogan
   publisher: Cold Spring Harbor Laboratory
   date: '2022-01-25'
-  link: https://doi.org/10.1101/2022.01.24.477642
+  link: https://doi.org/gn984c
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1283,7 +1530,7 @@
   - Casey S. Greene
   publisher: PLOS Biology
   date: '2022-02-01'
-  link: https://doi.org/10.1371/journal.pbio.3001470
+  link: https://doi.org/gqqzn2
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1306,7 +1553,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2019-08-08'
-  link: https://doi.org/10.1101/730085
+  link: https://doi.org/gf6qxh
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1327,7 +1574,7 @@
   - Sean Davis
   publisher: Nature Communications
   date: '2022-06-27'
-  link: https://doi.org/10.1038/s41467-022-31411-3
+  link: https://doi.org/gqd7hm
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1391,7 +1638,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2022-12-05'
-  link: https://doi.org/10.1101/2022.12.04.519045
+  link: https://doi.org/grgnw9
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1411,7 +1658,7 @@
   - Casey S. Greene
   publisher: Genomics, Proteomics &amp; Bioinformatics
   date: '2022-10-01'
-  link: https://doi.org/10.1016/j.gpb.2022.09.011
+  link: https://doi.org/gq3vsr
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1432,7 +1679,7 @@
   - Casey Greene
   publisher: PLOS Computational Biology
   date: '2022-02-10'
-  link: https://doi.org/10.1371/journal.pcbi.1009757
+  link: https://doi.org/gpfpf4
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1446,7 +1693,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2022-06-26'
-  link: https://doi.org/10.1101/2022.06.22.497194
+  link: https://doi.org/gqhgwk
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1476,7 +1723,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2021-10-28'
-  link: https://doi.org/10.1101/2021.10.27.466140
+  link: https://doi.org/gnbdm9
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1490,7 +1737,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2022-04-11'
-  link: https://doi.org/10.1101/2022.04.09.487671
+  link: https://doi.org/gpzf7p
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1517,7 +1764,7 @@
   - Matthew H. Brush
   publisher: Zenodo
   date: '2021-04-09'
-  link: https://doi.org/10.5281/zenodo.4677668
+  link: https://doi.org/gqs2pz
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1576,7 +1823,7 @@
   - Casey S. Greene
   publisher: Cell Systems
   date: '2021-09-01'
-  link: https://doi.org/10.1016/j.cels.2021.07.007
+  link: https://doi.org/gmhq49
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1599,6 +1846,17 @@
   tags:
   - machine learning
   - diversity
+- id: doi:10.17615/vzc0-qk25
+  title: 'Author Correction: Community-wide hackathons to identify central themes
+    in single-cell multi-omics'
+  authors: []
+  publisher: Springer Nature
+  date: '2021-01-01'
+  link: https://doi.org/g9kjv4
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1186/s13059-021-02468-y
   title: 'Author Correction: Community-wide hackathons to identify central themes
     in single-cell multi-omics'
@@ -1811,7 +2069,7 @@
   - Warren A. Kibbe
   publisher: JCO Clinical Cancer Informatics
   date: '2021-12-01'
-  link: https://doi.org/10.1200/cci.21.00040
+  link: https://doi.org/gmmvf6
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1874,7 +2132,17 @@
   - Peter N Robinson
   publisher: Cold Spring Harbor Laboratory
   date: '2021-06-29'
-  link: https://doi.org/10.1101/2021.06.23.21259416
+  link: https://doi.org/gk5nmb
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.17615/edpt-y058
+  title: 'Characterizing Long COVID: Deep Phenotype of a Complex Condition'
+  authors: []
+  publisher: Elsevier
+  date: '2021-01-01'
+  link: https://doi.org/g9kjv5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1915,12 +2183,22 @@
   - Elana Fertig
   publisher: Genome Biology
   date: '2021-08-05'
-  link: https://doi.org/10.1186/s13059-021-02433-9
+  link: https://doi.org/gmfhz2
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs13059-021-02433-9/MediaObjects/13059_2021_2433_Fig4_HTML.png
+- id: doi:10.17615/96cj-z232
+  title: Community-wide hackathons to identify central themes in single-cell multi-omics
+  authors: []
+  publisher: Springer Nature
+  date: '2021-01-01'
+  link: https://doi.org/g9kjv6
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/arxiv.2102.02250
   title: Dietary Supplements and Nutraceuticals Under Investigation for COVID-19 Prevention
     and Treatment
@@ -1943,7 +2221,7 @@
   - Casey S. Greene
   publisher: Trends in Cancer
   date: '2021-04-01'
-  link: https://doi.org/10.1016/j.trecan.2020.10.011
+  link: https://doi.org/ghk5xh
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -1967,7 +2245,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2021-05-24'
-  link: https://doi.org/10.1101/2021.05.24.445440
+  link: https://doi.org/gj6qv4
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -1986,7 +2264,7 @@
   - Stephanie C. Hicks
   publisher: Cold Spring Harbor Laboratory
   date: '2020-11-07'
-  link: https://doi.org/10.1101/2020.11.06.371963
+  link: https://doi.org/ghjkzq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2027,7 +2305,7 @@
   - Struan F. A. Grant
   publisher: Genome Biology
   date: '2021-01-04'
-  link: https://doi.org/10.1186/s13059-020-02207-9
+  link: https://doi.org/ghrnpb
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2054,7 +2332,7 @@
   - Sean Davis
   publisher: Cold Spring Harbor Laboratory
   date: '2021-05-27'
-  link: https://doi.org/10.1101/2021.05.26.445900
+  link: https://doi.org/gj74m9
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2087,7 +2365,7 @@
   - Casey S. Greene
   publisher: mSystems
   date: '2021-12-21'
-  link: https://doi.org/10.1128/msystems.00233-21
+  link: https://doi.org/gnbhqq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2137,7 +2415,7 @@
   - Sana D. Karam
   publisher: Cancer Research
   date: '2021-02-01'
-  link: https://doi.org/10.1158/0008-5472.can-20-3892
+  link: https://doi.org/ghzkn7
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2156,7 +2434,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2021-03-04'
-  link: https://doi.org/10.1101/2021.03.04.433874
+  link: https://doi.org/gh7rph
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2189,7 +2467,7 @@
   - Malay Haldar
   publisher: Cell Reports
   date: '2021-03-01'
-  link: https://doi.org/10.1016/j.celrep.2021.108917
+  link: https://doi.org/gjmxjr
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2268,7 +2546,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2021-07-06'
-  link: https://doi.org/10.1101/2021.07.05.450786
+  link: https://doi.org/gk9g25
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2284,7 +2562,7 @@
   - Stephanie C. Hicks
   publisher: Nature Methods
   date: '2021-08-30'
-  link: https://doi.org/10.1038/s41592-021-01256-7
+  link: https://doi.org/gmnnqh
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2293,6 +2571,25 @@
   tags:
   - reproducibility
   - machine learning
+- id: doi:10.5524/100921
+  title: Supporting data for "Genetic demultiplexing of pooled single-cell RNA-sequencing
+    samples in cancer facilitates effective experimental design"
+  authors:
+  - Lukas, M Weber
+  - Ariel, A Hippen
+  - Peter, F Hickey
+  - Kristofer, C Berrett
+  - Jason Gertz
+  - Jennifer, Anne Doherty
+  - Casey, S Greene
+  - Stephanie, C Hicks
+  publisher: GigaScience Database
+  date: '2021-01-01'
+  link: https://doi.org/g9mwd9
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1009803
   title: Ten quick tips for deep learning in biology
   authors:
@@ -2318,7 +2615,7 @@
   - Simina M. Boca
   publisher: PLOS Computational Biology
   date: '2022-03-24'
-  link: https://doi.org/10.1371/journal.pcbi.1009803
+  link: https://doi.org/gpsg5v
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2385,7 +2682,7 @@
   - Ken R Gersing
   publisher: Journal of the American Medical Informatics Association
   date: '2020-08-17'
-  link: https://doi.org/10.1093/jamia/ocaa196
+  link: https://doi.org/gg8v28
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2408,7 +2705,7 @@
   - Stephanie C. Hicks
   publisher: PLOS Computational Biology
   date: '2021-08-24'
-  link: https://doi.org/10.1371/journal.pcbi.1009290
+  link: https://doi.org/gng37g
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2554,7 +2851,7 @@
   - Michael S Anglesio
   publisher: American Association for Cancer Research (AACR)
   date: '2020-06-04'
-  link: https://doi.org/10.17863/cam.53202
+  link: https://doi.org/gqs2p2
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2569,7 +2866,7 @@
   - Casey Greene
   publisher: Zenodo
   date: '2020-04-08'
-  link: https://doi.org/10.5281/zenodo.3744941
+  link: https://doi.org/gqs2p3
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2585,7 +2882,7 @@
   - Casey S. Greene
   publisher: figshare
   date: '2020-01-01'
-  link: https://doi.org/10.6084/m9.figshare.12285494
+  link: https://doi.org/gqs2p5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2601,7 +2898,7 @@
   - Casey S. Greene
   publisher: figshare
   date: '2020-01-01'
-  link: https://doi.org/10.6084/m9.figshare.12285500.v1
+  link: https://doi.org/gqs2p8
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2617,7 +2914,7 @@
   - Casey S. Greene
   publisher: figshare
   date: '2020-01-01'
-  link: https://doi.org/10.6084/m9.figshare.12285506
+  link: https://doi.org/gqs2p9
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2633,7 +2930,7 @@
   - Casey S. Greene
   publisher: figshare
   date: '2020-01-01'
-  link: https://doi.org/10.6084/m9.figshare.12285512
+  link: https://doi.org/gqs2qd
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2649,7 +2946,7 @@
   - Casey S. Greene
   publisher: figshare
   date: '2020-01-01'
-  link: https://doi.org/10.6084/m9.figshare.12285515
+  link: https://doi.org/gqs2qf
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2665,7 +2962,7 @@
   - Casey S. Greene
   publisher: figshare
   date: '2020-01-01'
-  link: https://doi.org/10.6084/m9.figshare.12285518
+  link: https://doi.org/gqs2qj
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2681,7 +2978,7 @@
   - Casey S. Greene
   publisher: figshare
   date: '2020-01-01'
-  link: https://doi.org/10.6084/m9.figshare.12285521.v1
+  link: https://doi.org/gqs2qm
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2696,7 +2993,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2020-04-14'
-  link: https://doi.org/10.1101/2020.04.14.927251
+  link: https://doi.org/ggr64p
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2708,7 +3005,7 @@
   - James C. Costello
   publisher: Cancer Cell
   date: '2020-11-01'
-  link: https://doi.org/10.1016/j.ccell.2020.10.014
+  link: https://doi.org/ghgd2f
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2775,7 +3072,7 @@
   - Paul Wilmes
   publisher: Nature Medicine
   date: '2020-06-02'
-  link: https://doi.org/10.1038/s41591-020-0929-x
+  link: https://doi.org/gg7qrp
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2795,7 +3092,7 @@
   - Casey S. Greene
   publisher: figshare
   date: '2020-01-01'
-  link: https://doi.org/10.6084/m9.figshare.c.4972634.v1
+  link: https://doi.org/gqs2qp
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -2807,7 +3104,7 @@
   - Casey S. Greene
   publisher: Computational and Structural Biotechnology Journal
   date: '2020-06-02'
-  link: https://doi.org/10.1016/j.csbj.2020.05.017
+  link: https://doi.org/gg7m48
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2829,7 +3126,7 @@
   - Casey S Greene
   publisher: GigaScience
   date: '2020-11-01'
-  link: https://doi.org/10.1093/gigascience/giaa117
+  link: https://doi.org/ghhtpf
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -2976,7 +3273,7 @@
   - Michael S. Anglesio
   publisher: Clinical Cancer Research
   date: '2020-10-15'
-  link: https://doi.org/10.1158/1078-0432.ccr-20-0103
+  link: https://doi.org/gg7qrq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3000,7 +3297,7 @@
   - Yong Chen
   publisher: Genetic Epidemiology
   date: '2019-10-04'
-  link: https://doi.org/10.1002/gepi.22262
+  link: https://doi.org/gg7m46
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3075,7 +3372,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2020-01-21'
-  link: https://doi.org/10.1101/2020.01.17.910703
+  link: https://doi.org/gg7m5p
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3105,7 +3402,7 @@
   - Sara JC Gosline
   publisher: Cold Spring Harbor Laboratory
   date: '2020-01-14'
-  link: https://doi.org/10.1101/2020.01.13.904771
+  link: https://doi.org/gg7m5n
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -3199,7 +3496,7 @@
   - Xihong Lin
   publisher: Nature Human Behaviour
   date: '2020-08-26'
-  link: https://doi.org/10.1038/s41562-020-00944-2
+  link: https://doi.org/gg9dfq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3495,7 +3792,7 @@
   - N. Zeps
   publisher: Annals of Oncology
   date: '2020-09-01'
-  link: https://doi.org/10.1016/j.annonc.2020.05.019
+  link: https://doi.org/gg4mzh
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3520,7 +3817,7 @@
   - Deborah A. Hogan
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-13'
-  link: https://doi.org/10.1101/802934
+  link: https://doi.org/gg7m53
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -3601,7 +3898,7 @@
   - Serghei Mangul
   publisher: GigaScience
   date: '2020-06-01'
-  link: https://doi.org/10.1093/gigascience/giaa056
+  link: https://doi.org/ggzr3d
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3622,7 +3919,7 @@
   - Casey S. Greene
   publisher: Nature Reviews Genetics
   date: '2020-07-21'
-  link: https://doi.org/10.1038/s41576-020-0257-5
+  link: https://doi.org/gg7c57
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3672,7 +3969,7 @@
   - Elizabeth A Heller
   publisher: Nucleic Acids Research
   date: '2020-04-22'
-  link: https://doi.org/10.1093/nar/gkaa248
+  link: https://doi.org/gg7m5c
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3690,14 +3987,14 @@
   title: Supporting data for "Correcting for experiment-specific variability in expression
     compendia can remove underlying signals"
   authors:
-  - Lee J Alexandra
-  - Park YoSon
-  - Doing Georgia
-  - Hogan A Deborah
-  - Greene S Casey
+  - Alexandra, J Lee
+  - YoSon Park
+  - Georgia Doing
+  - Deborah, A Hogan
+  - Casey, S Greene
   publisher: GigaScience Database
   date: '2020-01-01'
-  link: https://doi.org/10.5524/100796
+  link: https://doi.org/gqs2qq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -3769,7 +4066,7 @@
   - Hugo J. W. L. Aerts
   publisher: Nature
   date: '2020-10-14'
-  link: https://doi.org/10.1038/s41586-020-2766-y
+  link: https://doi.org/ghfq95
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3793,7 +4090,7 @@
   - Arun P. Wiita
   publisher: Blood Advances
   date: '2019-10-29'
-  link: https://doi.org/10.1182/bloodadvances.2019000303
+  link: https://doi.org/gg7m56
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3814,7 +4111,7 @@
   - Jay C Dunlap
   publisher: Bioinformatics
   date: '2018-09-24'
-  link: https://doi.org/10.1093/bioinformatics/bty828
+  link: https://doi.org/gg7qrs
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3833,7 +4130,7 @@
   - Casey S. Greene
   publisher: Annual Review of Biomedical Data Science
   date: '2019-07-20'
-  link: https://doi.org/10.1146/annurev-biodatasci-072018-021348
+  link: https://doi.org/ggns8p
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3938,7 +4235,7 @@
   - Nadia Dahmane
   publisher: Acta Neuropathologica Communications
   date: '2019-11-29'
-  link: https://doi.org/10.1186/s40478-019-0803-6
+  link: https://doi.org/gg7qrr
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3976,7 +4273,7 @@
   - Casey S. Greene
   publisher: Cell Systems
   date: '2019-05-01'
-  link: https://doi.org/10.1016/j.cels.2019.04.003
+  link: https://doi.org/gf75g5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -3997,7 +4294,7 @@
   - Anthony Gitter
   publisher: PLOS Computational Biology
   date: '2020-12-04'
-  link: https://doi.org/10.1371/journal.pcbi.1007128
+  link: https://doi.org/c7np
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -4024,7 +4321,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2018-08-05'
-  link: https://doi.org/10.1101/385534
+  link: https://doi.org/gdxxjf
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -4040,7 +4337,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2019-03-11'
-  link: https://doi.org/10.1101/573782
+  link: https://doi.org/gfxjxf
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -4051,7 +4348,7 @@
   - Casey S. Greene
   publisher: Nature Biotechnology
   date: '2019-05-28'
-  link: https://doi.org/10.1038/s41587-019-0143-x
+  link: https://doi.org/gg7qs3
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -4230,7 +4527,7 @@
   - Iddo Friedberg
   publisher: Genome Biology
   date: '2019-11-19'
-  link: https://doi.org/10.1186/s13059-019-1835-8
+  link: https://doi.org/ggnxpz
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -4318,7 +4615,7 @@
   - Peter S. White
   publisher: Developmental Cell
   date: '2019-04-01'
-  link: https://doi.org/10.1016/j.devcel.2019.03.001
+  link: https://doi.org/gg3jcv
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -4368,7 +4665,7 @@
   - Xiaowei Zhuang
   publisher: Nature Methods
   date: '2019-09-27'
-  link: https://doi.org/10.1038/s41592-019-0585-6
+  link: https://doi.org/gf92fq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -4385,7 +4682,7 @@
   - Casey Greene
   publisher: Zenodo
   date: '2018-11-06'
-  link: https://doi.org/10.5281/zenodo.1435834
+  link: https://doi.org/gg2wr7
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -4398,7 +4695,7 @@
   - Casey S Greene
   publisher: PeerJ
   date: '2018-09-20'
-  link: https://doi.org/10.7287/peerj.preprints.27229
+  link: https://doi.org/gqs2qt
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -4410,7 +4707,7 @@
   - Casey S Greene
   publisher: GigaScience
   date: '2018-11-01'
-  link: https://doi.org/10.1093/gigascience/giy129
+  link: https://doi.org/gg7m5b
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -4438,7 +4735,7 @@
   - Casey S. Greene
   publisher: Nature Methods
   date: '2018-11-30'
-  link: https://doi.org/10.1038/s41592-018-0230-9
+  link: https://doi.org/ggjn34
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -4461,7 +4758,7 @@
   - Elana J. Fertig
   publisher: Trends in Genetics
   date: '2018-10-01'
-  link: https://doi.org/10.1016/j.tig.2018.07.003
+  link: https://doi.org/gd93tk
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -5239,7 +5536,7 @@
   - Armaz Mariamidze
   publisher: Cell Reports
   date: '2018-04-01'
-  link: https://doi.org/10.1016/j.celrep.2018.03.076
+  link: https://doi.org/gfspsc
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -5262,7 +5559,7 @@
   - Scott D. Halpern
   publisher: Critical Care Medicine
   date: '2018-07-01'
-  link: https://doi.org/10.1097/ccm.0000000000003148
+  link: https://doi.org/gdr5g6
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -6042,7 +6339,7 @@
   - Armaz Mariamidze
   publisher: Cell Reports
   date: '2018-04-01'
-  link: https://doi.org/10.1016/j.celrep.2018.03.046
+  link: https://doi.org/gfspsb
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -6069,8 +6366,8 @@
   - Matthias Kretzler
   - Peter A Merkel
   publisher: Annals of the Rheumatic Diseases
-  date: '2018-05-03'
-  link: https://doi.org/10.1136/annrheumdis-2017-212935
+  date: '2018-08-01'
+  link: https://doi.org/gdhgh9
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -6083,7 +6380,7 @@
   - Casey Greene
   publisher: figshare
   date: '2018-01-01'
-  link: https://doi.org/10.6084/m9.figshare.6982919.v1
+  link: https://doi.org/gqs2qw
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -6103,7 +6400,7 @@
   - Giovanni Bosco
   publisher: G3 Genes|Genomes|Genetics
   date: '2019-01-01'
-  link: https://doi.org/10.1534/g3.118.200867
+  link: https://doi.org/gg7m58
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -6896,7 +7193,7 @@
   - Armaz Mariamidze
   publisher: Cell
   date: '2018-04-01'
-  link: https://doi.org/10.1016/j.cell.2018.03.035
+  link: https://doi.org/gc7r9b
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -6912,7 +7209,7 @@
   - Casey S Greene
   publisher: PeerJ
   date: '2017-10-12'
-  link: https://doi.org/10.7287/peerj.preprints.3100v2
+  link: https://doi.org/ch4c
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -6925,7 +7222,7 @@
   - Casey Greene
   publisher: figshare
   date: '2017-01-01'
-  link: https://doi.org/10.6084/m9.figshare.5035997
+  link: https://doi.org/gqs2qx
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -6966,7 +7263,7 @@
   - Michael L. Whitfield
   publisher: Genome Medicine
   date: '2017-03-23'
-  link: https://doi.org/10.1186/s13073-017-0417-1
+  link: https://doi.org/gfsptx
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -6997,7 +7294,7 @@
   - Garret A. FitzGerald
   publisher: Scientific Reports
   date: '2017-12-07'
-  link: https://doi.org/10.1038/s41598-017-17362-6
+  link: https://doi.org/gcqtpp
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7015,7 +7312,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2017-06-27'
-  link: https://doi.org/10.1101/156620
+  link: https://doi.org/gcw9f6
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7030,7 +7327,7 @@
   - Lawrence E Hunter
   publisher: Nature Genetics
   date: '2017-04-01'
-  link: https://doi.org/10.1038/ng.3830
+  link: https://doi.org/gcgk8d
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7044,7 +7341,7 @@
   - Casey S Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2017-03-20'
-  link: https://doi.org/10.1101/118349
+  link: https://doi.org/gg7m5f
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7054,7 +7351,7 @@
   authors: []
   publisher: New England Journal of Medicine
   date: '2017-06-08'
-  link: https://doi.org/10.1056/nejmc1705477
+  link: https://doi.org/gftw32
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7077,7 +7374,7 @@
   - Elana J. Fertig
   publisher: Cold Spring Harbor Laboratory
   date: '2017-10-02'
-  link: https://doi.org/10.1101/196915
+  link: https://doi.org/gg7m5k
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7102,7 +7399,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2017-08-11'
-  link: https://doi.org/10.1101/174474
+  link: https://doi.org/gcm44d
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7117,7 +7414,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2017-07-20'
-  link: https://doi.org/10.1101/166207
+  link: https://doi.org/gg7m5j
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7133,7 +7430,7 @@
   - Struan F. A. Grant
   publisher: Cold Spring Harbor Laboratory
   date: '2016-11-15'
-  link: https://doi.org/10.1101/087718
+  link: https://doi.org/gg7m5d
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7147,7 +7444,7 @@
   - Giovanni Bosco
   publisher: G3 Genes|Genomes|Genetics
   date: '2017-11-01'
-  link: https://doi.org/10.1534/g3.117.300172
+  link: https://doi.org/gg7qrx
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7170,7 +7467,7 @@
   - XIUZHEN HUANG
   publisher: Biocomputing 2017
   date: '2016-11-22'
-  link: https://doi.org/10.1142/9789813207813_0060
+  link: https://doi.org/gg7qr8
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7217,7 +7514,7 @@
   - Casey S. Greene
   publisher: Journal of The Royal Society Interface
   date: '2018-04-01'
-  link: https://doi.org/10.1098/rsif.2017.0387
+  link: https://doi.org/gddkhn
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7240,7 +7537,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2017-06-08'
-  link: https://doi.org/10.1101/147645
+  link: https://doi.org/gg7m5g
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7258,7 +7555,7 @@
   - Casey S. Greene
   publisher: 'Circulation: Cardiovascular Quality and Outcomes'
   date: '2019-07-01'
-  link: https://doi.org/10.1161/circoutcomes.118.005122
+  link: https://doi.org/ggbpgq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7277,7 +7574,7 @@
   - Casey S Greene
   publisher: Nature Biotechnology
   date: '2017-03-13'
-  link: https://doi.org/10.1038/nbt.3780
+  link: https://doi.org/f9ttx6
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7294,7 +7591,7 @@
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: '2017-02-08'
-  link: https://doi.org/10.1126/scitranslmed.aam6058
+  link: https://doi.org/gg7qrw
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7319,7 +7616,7 @@
   - Li Shen
   publisher: Bioinformatics
   date: '2017-07-20'
-  link: https://doi.org/10.1093/bioinformatics/btx344
+  link: https://doi.org/gb4nps
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7341,7 +7638,7 @@
   - Casey S. Greene
   publisher: Cell Systems
   date: '2017-07-01'
-  link: https://doi.org/10.1016/j.cels.2017.06.003
+  link: https://doi.org/gcw9f4
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7368,7 +7665,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2016-10-03'
-  link: https://doi.org/10.1101/078659
+  link: https://doi.org/gcgk9c
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7385,7 +7682,7 @@
   - Casey S. Greene
   publisher: BMC Genomics
   date: '2017-02-06'
-  link: https://doi.org/10.1186/s12864-017-3519-7
+  link: https://doi.org/gg7qr9
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7407,7 +7704,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2016-08-28'
-  link: https://doi.org/10.1101/062695
+  link: https://doi.org/gkvcfm
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7427,7 +7724,7 @@
   - Jennifer A Doherty
   publisher: G3 Genes|Genomes|Genetics
   date: '2016-12-01'
-  link: https://doi.org/10.1534/g3.116.033514
+  link: https://doi.org/gg7qsd
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7446,7 +7743,7 @@
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: '2016-07-06'
-  link: https://doi.org/10.1126/scitranslmed.aag3101
+  link: https://doi.org/gg7qr3
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7468,7 +7765,7 @@
   - Cameron R. Currie
   publisher: PLOS Biology
   date: '2016-06-08'
-  link: https://doi.org/10.1371/journal.pbio.1002475
+  link: https://doi.org/f8r9b6
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7480,7 +7777,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2016-06-01'
-  link: https://doi.org/10.1101/056473
+  link: https://doi.org/bp4s
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7496,7 +7793,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2016-05-27'
-  link: https://doi.org/10.1101/055913
+  link: https://doi.org/gg7qrn
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7518,7 +7815,7 @@
   - Benjamin F. Voight
   publisher: Human Molecular Genetics
   date: '2016-06-23'
-  link: https://doi.org/10.1093/hmg/ddw160
+  link: https://doi.org/f9ppwj
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7534,7 +7831,7 @@
   - Casey S. Greene
   publisher: Journal of Biomedical Informatics
   date: '2016-12-01'
-  link: https://doi.org/10.1016/j.jbi.2016.10.007
+  link: https://doi.org/gbw7bv
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7563,7 +7860,7 @@
   - Michael L Whitfield
   publisher: Cold Spring Harbor Laboratory
   date: '2016-02-06'
-  link: https://doi.org/10.1101/038950
+  link: https://doi.org/gkvwr5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7574,7 +7871,7 @@
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: '2016-09-28'
-  link: https://doi.org/10.1126/scitranslmed.aai8224
+  link: https://doi.org/gg7qr5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7590,7 +7887,7 @@
   - Casey S. Greene
   publisher: mSystems
   date: '2016-02-23'
-  link: https://doi.org/10.1128/msystems.00025-15
+  link: https://doi.org/gcgmbq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7610,7 +7907,7 @@
   - Jason H. Moore
   publisher: Briefings in Bioinformatics
   date: '2015-03-30'
-  link: https://doi.org/10.1093/bib/bbv018
+  link: https://doi.org/f78jms
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7769,7 +8066,7 @@
   - Predrag Radivojac
   publisher: Genome Biology
   date: '2016-09-07'
-  link: https://doi.org/10.1186/s13059-016-1037-6
+  link: https://doi.org/gg7qsc
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7784,7 +8081,7 @@
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: '2016-12-21'
-  link: https://doi.org/10.1126/scitranslmed.aal3701
+  link: https://doi.org/gg7qr7
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7799,7 +8096,7 @@
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: '2016-04-13'
-  link: https://doi.org/10.1126/scitranslmed.aaf6940
+  link: https://doi.org/gg7qrz
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7814,7 +8111,7 @@
   - Casey S Greene
   publisher: PeerJ
   date: '2015-10-30'
-  link: https://doi.org/10.7287/peerj.preprints.1460
+  link: https://doi.org/gqs2q5
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7828,7 +8125,7 @@
   - Jason H. Moore
   publisher: BioData Mining
   date: '2016-02-03'
-  link: https://doi.org/10.1186/s13040-016-0085-5
+  link: https://doi.org/gqs2q3
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -7841,7 +8138,7 @@
   - Daniel S. Himmelstein
   publisher: 'Circulation: Cardiovascular Genetics'
   date: '2016-04-01'
-  link: https://doi.org/10.1161/circgenetics.115.001181
+  link: https://doi.org/bffr
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7881,7 +8178,7 @@
   - Kerrington D. Smith
   publisher: Oncotarget
   date: '2016-02-25'
-  link: https://doi.org/10.18632/oncotarget.7718
+  link: https://doi.org/gg7qsf
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7896,7 +8193,7 @@
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: '2016-08-17'
-  link: https://doi.org/10.1126/scitranslmed.aah5494
+  link: https://doi.org/gg7qr4
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7908,7 +8205,7 @@
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: '2016-11-09'
-  link: https://doi.org/10.1126/scitranslmed.aal0067
+  link: https://doi.org/gg7qr6
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7931,7 +8228,7 @@
   - Casey S. Greene
   publisher: BioData Mining
   date: '2016-01-19'
-  link: https://doi.org/10.1186/s13040-016-0082-8
+  link: https://doi.org/gg7qsb
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7946,7 +8243,7 @@
   - Casey S. Greene
   publisher: Science Translational Medicine
   date: '2016-05-25'
-  link: https://doi.org/10.1126/scitranslmed.aaf9196
+  link: https://doi.org/gg7qr2
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -7963,23 +8260,23 @@
   - Casey S. Greene
   publisher: Briefings in Bioinformatics
   date: '2015-09-29'
-  link: https://doi.org/10.1093/bib/bbv087
+  link: https://doi.org/f78v8s
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1101/030650
-  title: ADAGE analysis of publicly available gene expression data collections illuminates
-    Pseudomonas aeruginosa-host interactions
+  title: ADAGE analysis of publicly available gene expression data collections illuminates<i>Pseudomonas
+    aeruginosa-host</i>interactions
   authors:
   - Jie Tan
-  - John H Hammond
-  - Deborah A Hogan
-  - Casey S Greene
+  - John H. Hammond
+  - Deborah A. Hogan
+  - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2015-11-05'
-  link: https://doi.org/10.1101/030650
+  link: https://doi.org/gkw55s
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8014,7 +8311,7 @@
   - Christopher I. Amos
   publisher: Human Molecular Genetics
   date: '2015-10-19'
-  link: https://doi.org/10.1093/hmg/ddv440
+  link: https://doi.org/f77xg8
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8487,7 +8784,7 @@
   - Katherine A. Siminovitch
   publisher: Nature Communications
   date: '2015-09-22'
-  link: https://doi.org/10.1038/ncomms9019
+  link: https://doi.org/gg7qsh
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8505,7 +8802,7 @@
   - Jennifer A. Doherty
   publisher: BMC Genomics
   date: '2015-12-01'
-  link: https://doi.org/10.1186/s12864-015-2250-5
+  link: https://doi.org/gb3hpw
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8528,7 +8825,7 @@
   - Michael L. Whitfield
   publisher: PLoS Computational Biology
   date: '2015-01-08'
-  link: https://doi.org/10.1371/journal.pcbi.1004005
+  link: https://doi.org/gg7qsj
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8553,7 +8850,7 @@
   - Olga G Troyanskaya
   publisher: Nature Methods
   date: '2015-01-12'
-  link: https://doi.org/10.1038/nmeth.3249
+  link: https://doi.org/ggfb5t
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8570,7 +8867,7 @@
   - Casey S. Greene
   publisher: 2014 8th International Conference on Systems Biology (ISB)
   date: '2014-10-01'
-  link: https://doi.org/10.1109/isb.2014.6990733
+  link: https://doi.org/gqs2q6
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8596,7 +8893,7 @@
   - Olga G Troyanskaya
   publisher: Nature Genetics
   date: '2015-04-27'
-  link: https://doi.org/10.1038/ng.3259
+  link: https://doi.org/f7dvkv
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8643,7 +8940,7 @@
   - Chao Cheng
   publisher: Journal of Cellular Physiology
   date: '2014-08-27'
-  link: https://doi.org/10.1002/jcp.24662
+  link: https://doi.org/gg7qsk
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8663,7 +8960,7 @@
   - Jason H Moore
   publisher: BioData Mining
   date: '2014-08-22'
-  link: https://doi.org/10.1186/1756-0381-7-17
+  link: https://doi.org/gb5fnc
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8677,8 +8974,8 @@
   - Casey S Greene
   - Jason H Moore
   publisher: Genome Medicine
-  date: '2014-01-01'
-  link: https://doi.org/10.1186/gm550
+  date: '2014-04-30'
+  link: https://doi.org/gg7qsm
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8704,7 +9001,7 @@
   - Matthias Kretzler
   publisher: Genome Research
   date: '2013-08-15'
-  link: https://doi.org/10.1101/gr.155697.113
+  link: https://doi.org/f5g4hm
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8727,7 +9024,7 @@
   - Olga G. Troyanskaya
   publisher: PLoS Computational Biology
   date: '2013-03-14'
-  link: https://doi.org/10.1371/journal.pcbi.1002957
+  link: https://doi.org/f4qtp9
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8748,7 +9045,7 @@
   - Terry D. Connell
   publisher: PLoS ONE
   date: '2013-08-02'
-  link: https://doi.org/10.1371/journal.pone.0069678
+  link: https://doi.org/f5c52s
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8761,9 +9058,9 @@
   - Gavin D. Grant
   - Michael L. Whitfield
   - Casey S. Greene
-  publisher: Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics
+  publisher: Lecture Notes in Computer Science
   date: '2013-01-01'
-  link: https://doi.org/10.1007/978-3-642-37189-9_2
+  link: https://doi.org/gg7qsn
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8776,7 +9073,7 @@
   - Olga G. Troyanskaya
   publisher: Annals of the New York Academy of Sciences
   date: '2012-01-23'
-  link: https://doi.org/10.1111/j.1749-6632.2011.06383.x
+  link: https://doi.org/fxwvwd
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8789,7 +9086,7 @@
   - Olga G. Troyanskaya
   publisher: PLoS Computational Biology
   date: '2012-12-27'
-  link: https://doi.org/10.1371/journal.pcbi.1002816
+  link: https://doi.org/f4hnd3
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8807,7 +9104,7 @@
   - Olga G. Troyanskaya
   publisher: Nucleic Acids Research
   date: '2012-06-07'
-  link: https://doi.org/10.1093/nar/gks458
+  link: https://doi.org/gg7qsq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: sources.py
@@ -8822,9 +9119,9 @@
   - Peter C. Andrews
   - Jeff Kiralis
   - Jason H. Moore
-  publisher: Advances in Artificial Life. Darwin Meets von Neumann
+  publisher: Lecture Notes in Computer Science
   date: '2011-01-01'
-  link: https://doi.org/10.1007/978-3-642-21314-4_36
+  link: https://doi.org/cqgts7
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8836,9 +9133,9 @@
   - Casey S. Greene
   - Douglas P. Hill
   - Jason H. Moore
-  publisher: Advances in Artificial Life. Darwin Meets von Neumann
+  publisher: Lecture Notes in Computer Science
   date: '2011-01-01'
-  link: https://doi.org/10.1007/978-3-642-21283-3_39
+  link: https://doi.org/fht72w
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8852,7 +9149,7 @@
   - Jason H Moore
   publisher: BioData Mining
   date: '2011-07-07'
-  link: https://doi.org/10.1186/1756-0381-4-21
+  link: https://doi.org/b44mk9
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8864,7 +9161,7 @@
   - O. G. Troyanskaya
   publisher: Nucleic Acids Research
   date: '2011-06-07'
-  link: https://doi.org/10.1093/nar/gkr440
+  link: https://doi.org/fntw26
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8913,7 +9210,7 @@
   publisher: Proceedings of the 12th annual conference on Genetic and evolutionary
     computation
   date: '2010-07-07'
-  link: https://doi.org/10.1145/1830483.1830523
+  link: https://doi.org/cx5jbx
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8925,7 +9222,7 @@
   - Olga G. Troyanskaya
   publisher: Seminars in Nephrology
   date: '2010-09-01'
-  link: https://doi.org/10.1016/j.semnephrol.2010.07.002
+  link: https://doi.org/fcqz8c
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8942,7 +9239,7 @@
   - Brent T. Harris
   publisher: Bioinformatics
   date: '2010-01-16'
-  link: https://doi.org/10.1093/bioinformatics/btq009
+  link: https://doi.org/dwgn7v
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8968,7 +9265,7 @@
   - Jason H Moore
   publisher: BMC Research Notes
   date: '2009-07-24'
-  link: https://doi.org/10.1186/1756-0500-2-149
+  link: https://doi.org/cwbbv6
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -8996,7 +9293,7 @@
   - Jason H. Moore
   publisher: 2009 IEEE Congress on Evolutionary Computation
   date: '2009-05-01'
-  link: https://doi.org/10.1109/cec.2009.4983308
+  link: https://doi.org/fqc2pn
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9011,7 +9308,7 @@
   publisher: Proceedings of the 11th Annual conference on Genetic and evolutionary
     computation
   date: '2009-07-08'
-  link: https://doi.org/10.1145/1569901.1570160
+  link: https://doi.org/d5qxfp
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9026,7 +9323,7 @@
   - Jason H. Moore
   publisher: PLoS ONE
   date: '2009-06-02'
-  link: https://doi.org/10.1371/journal.pone.0005639
+  link: https://doi.org/cp74td
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9040,7 +9337,7 @@
   - Jason H. Moore
   publisher: 2009 IEEE Congress on Evolutionary Computation
   date: '2009-05-01'
-  link: https://doi.org/10.1109/cec.2009.4983027
+  link: https://doi.org/d9h6xt
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9054,9 +9351,9 @@
   - Jeff Kiralis
   - Peter C. Andrews
   - Jason H. Moore
-  publisher: Evolutionary Computation, Machine Learning and Data Mining in Bioinformatics
+  publisher: Lecture Notes in Computer Science
   date: '2009-01-01'
-  link: https://doi.org/10.1007/978-3-642-01184-9_9
+  link: https://doi.org/ftr2gf
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9070,7 +9367,7 @@
   - Jason H. Moore
   publisher: 2009 IEEE Congress on Evolutionary Computation
   date: '2009-05-01'
-  link: https://doi.org/10.1109/cec.2009.4983093
+  link: https://doi.org/cpsttz
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9084,7 +9381,7 @@
   publisher: Nature-Inspired Informatics for Intelligent Applications and Knowledge
     Discovery
   date: ''
-  link: https://doi.org/10.4018/978-1-60566-705-8.ch007
+  link: https://doi.org/bzdszx
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9099,7 +9396,7 @@
   - Jason H Moore
   publisher: BioData Mining
   date: '2009-09-22'
-  link: https://doi.org/10.1186/1756-0381-2-5
+  link: https://doi.org/c2fwqq
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9111,7 +9408,7 @@
   - Jason H. Moore
   publisher: ACM SIGEVOlution
   date: '2008-07-01'
-  link: https://doi.org/10.1145/1527063.1527064
+  link: https://doi.org/d8n2bv
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9126,9 +9423,9 @@
   - Morena Barili
   - Casey S. Greene
   - Raffaella Scorza
-  publisher: Arthritis &amp; Rheumatism
-  date: '2008-07-15'
-  link: https://doi.org/10.1002/art.23836
+  publisher: Arthritis Care &amp; Research
+  date: '2008-06-24'
+  link: https://doi.org/bkbbdx
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9139,9 +9436,9 @@
   - Casey S. Greene
   - Bill C. White
   - Jason H. Moore
-  publisher: Ant Colony Optimization and Swarm Intelligence
+  publisher: Lecture Notes in Computer Science
   date: ''
-  link: https://doi.org/10.1007/978-3-540-87527-7_4
+  link: https://doi.org/cm2vwk
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9180,7 +9477,7 @@
   - John F. McDonald
   publisher: Journal of Molecular Evolution
   date: '2006-01-01'
-  link: https://doi.org/10.1007/s00239-004-0312-4
+  link: https://doi.org/fdxbwv
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9192,7 +9489,7 @@
   - Casey Stephen. Greene
   publisher: Dartmouth College Library Press
   date: ''
-  link: https://doi.org/10.1349/ddlp.303
+  link: https://doi.org/gqs2q7
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9206,7 +9503,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2023-06-26'
-  link: https://doi.org/10.1101/2023.06.26.546586
+  link: https://doi.org/gsdsvs
   image: https://user-images.githubusercontent.com/542643/252371308-1ae174fe-1eb6-47c4-882b-5a3b982bc533.png
   plugin: sources.py
   file: sources.yaml
@@ -9276,7 +9573,7 @@
   - Nils Wellhausen
   publisher: mSystems
   date: '2023-04-27'
-  link: https://doi.org/10.1128/msystems.00928-22
+  link: https://doi.org/grv5vq
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   tags:
   - COVID19
@@ -9300,7 +9597,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2023-01-07'
-  link: https://doi.org/10.1101/2023.01.05.522941
+  link: https://doi.org/grmcb9
   image: https://user-images.githubusercontent.com/542643/211341569-e465826a-4cb1-41ea-a66f-162f420ea968.png
   plugin: sources.py
   file: sources.yaml
@@ -9316,7 +9613,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2023-01-06'
-  link: https://doi.org/10.1101/2023.01.05.522939
+  link: https://doi.org/grk9gd
   image: https://user-images.githubusercontent.com/542643/211156151-21a97245-c17b-4a94-ae72-76d6cf66a535.png
   plugin: sources.py
   file: sources.yaml
@@ -9386,7 +9683,7 @@
   - Nils Wellhausen
   publisher: mSystems
   date: '2023-04-27'
-  link: https://doi.org/10.1128/msystems.00927-22
+  link: https://doi.org/grv3d9
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   tags:
   - COVID19
@@ -9401,7 +9698,7 @@
   - Casey S Greene
   publisher: Bioinformatics
   date: '2022-10-04'
-  link: https://doi.org/10.1093/bioinformatics/btac663
+  link: https://doi.org/gq3vss
   image: https://user-images.githubusercontent.com/542643/164915627-94f26649-397b-40b0-b27e-d1849f771f6a.png
   buttons:
   - type: preprint
@@ -9421,7 +9718,7 @@
   - Casey S. Greene
   publisher: Computational and Structural Biotechnology Journal
   date: '2022-01-01'
-  link: https://doi.org/10.1016/j.csbj.2022.08.012
+  link: https://doi.org/gqnfdb
   image: https://user-images.githubusercontent.com/13107360/161335013-5e0f1f87-66d4-4b05-ad29-b56a877ff05a.svg
   buttons:
   - type: preprint
@@ -9437,7 +9734,7 @@
   - Casey S. Greene
   publisher: Genome Biology
   date: '2022-06-27'
-  link: https://doi.org/10.1186/s13059-022-02705-y
+  link: https://doi.org/gqfqnm
   image: https://user-images.githubusercontent.com/2345877/140061720-96b5451a-c9af-493f-85b2-cc4c723d316b.png
   buttons:
   - type: source
@@ -9469,7 +9766,7 @@
   - Marylyn D. Ritchie
   publisher: Cold Spring Harbor Laboratory
   date: '2021-10-26'
-  link: https://doi.org/10.1101/2021.10.21.21265225
+  link: https://doi.org/gnbdnb
   image: https://user-images.githubusercontent.com/172687/140064066-677bad73-ae37-4968-aa77-ad854b6c8251.png
   plugin: sources.py
   file: sources.yaml
@@ -9590,7 +9887,7 @@
   - Peter N Robinson
   publisher: eBioMedicine
   date: '2021-12-01'
-  link: https://doi.org/10.1016/j.ebiom.2021.103722
+  link: https://doi.org/gnmkm7
   image: https://www.medrxiv.org/content/medrxiv/early/2021/06/29/2021.06.23.21259416/F1.large.jpg?width=800&height=600&carousel=1
   tags:
   - COVID19
@@ -9608,7 +9905,7 @@
   - Casey S. Greene
   publisher: Cold Spring Harbor Laboratory
   date: '2021-06-22'
-  link: https://doi.org/10.1101/2021.06.21.449261
+  link: https://doi.org/gkscd5
   image: https://user-images.githubusercontent.com/542643/122943080-f1e45d00-d333-11eb-8b8c-d481ebc554e5.png
   plugin: sources.py
   file: sources.yaml
@@ -9677,7 +9974,7 @@
   - Elana J. Fertig
   publisher: PLOS Biology
   date: '2021-10-07'
-  link: https://doi.org/10.1371/journal.pbio.3001419
+  link: https://doi.org/gm3hdh
   image: https://user-images.githubusercontent.com/542643/120706674-9d596a80-c476-11eb-9ee4-e0e0d6a95ba3.png
   buttons:
   - type: preprint
@@ -9712,7 +10009,7 @@
   - Melissa A. Haendel
   publisher: Cold Spring Harbor Laboratory
   date: '2021-03-26'
-  link: https://doi.org/10.1101/2021.03.20.21253896
+  link: https://doi.org/gjk3ng
   image: https://user-images.githubusercontent.com/8975841/112666874-013a3400-8e33-11eb-9be9-5c74f3e397ea.png
   buttons:
   - type: preprint
@@ -9731,7 +10028,7 @@
   - Casey S. Greene
   publisher: mSystems
   date: '2021-06-29'
-  link: https://doi.org/10.1128/msystems.00122-21
+  link: https://doi.org/gj9qvs
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   tags:
   - COVID19
@@ -9776,7 +10073,7 @@
   - Casey S. Greene
   publisher: mSystems
   date: '2021-10-26'
-  link: https://doi.org/10.1128/msystems.00095-21
+  link: https://doi.org/gm8k9b
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   tags:
   - COVID19
@@ -9796,7 +10093,7 @@
   - Stephanie C Hicks
   publisher: GigaScience
   date: '2021-09-01'
-  link: https://doi.org/10.1093/gigascience/giab062
+  link: https://doi.org/gmwhsc
   image: https://www.biorxiv.org/content/biorxiv/early/2020/11/07/2020.11.06.371963/F4.medium.gif
   tags:
   - cancer
@@ -9865,7 +10162,7 @@
   - Jesse G. Meyer
   - Ariel I. Mundo
   publisher: Manubot
-  date: '2023-07-30'
+  date: '2024-02-02'
   link: https://greenelab.github.io/covid19-review/
   image: https://greenelab.github.io/covid19-review/images/N000-overview.png
   buttons:
@@ -9883,7 +10180,7 @@
   - Casey S Greene
   publisher: Current Opinion in Biotechnology
   date: '2020-06-01'
-  link: https://doi.org/10.1016/j.copbio.2019.12.021
+  link: https://doi.org/gg7m47
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0958166919301594-gr1.jpg
   buttons:
   - type: manubot
@@ -9903,7 +10200,7 @@
   - Casey S. Greene
   publisher: Genome Biology
   date: '2020-05-11'
-  link: https://doi.org/10.1186/s13059-020-02021-3
+  link: https://doi.org/gg2mjh
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13059-020-02021-3/MediaObjects/13059_2020_2021_Fig1_HTML.png?as=webp
   buttons:
   - type: preprint
@@ -9935,7 +10232,7 @@
   - Sara JC Gosline
   publisher: Genes
   date: '2020-02-21'
-  link: https://doi.org/10.3390/genes11020226
+  link: https://doi.org/gg4rbj
   image: https://www.mdpi.com/genes/genes-11-00226/article_deploy/html/images/genes-11-00226-g001-550.jpg
   buttons:
   - type: preprint
@@ -9956,7 +10253,7 @@
   - Casey S. Greene
   publisher: BioData Mining
   date: '2022-10-18'
-  link: https://doi.org/10.1186/s13040-022-00311-z
+  link: https://doi.org/gq3bw2
   image: https://greenelab.github.io/text_mined_hetnet_manuscript/images/figures/convolutional_neural_network/convolutional_neural_nework.png
   buttons:
   - type: preprint
@@ -9987,7 +10284,7 @@
   - Deborah A. Hogan
   publisher: Proceedings of the National Academy of Sciences
   date: '2020-01-24'
-  link: https://doi.org/10.1073/pnas.1917576117
+  link: https://doi.org/gg7m49
   image: https://www.pnas.org/content/pnas/117/6/3167/F1.medium.gif
   buttons:
   - type: preprint
@@ -10019,7 +10316,7 @@
   - Stephen B. Montgomery
   publisher: Genome Biology
   date: '2020-09-11'
-  link: https://doi.org/10.1186/s13059-020-02113-0
+  link: https://doi.org/ghxddg
   image: https://www.biorxiv.org/content/biorxiv/early/2019/11/09/836825/F2.medium.gif
   buttons:
   - type: preprint
@@ -10041,7 +10338,7 @@
   - Hae K. Im
   publisher: Science Advances
   date: '2020-09-11'
-  link: https://doi.org/10.1126/sciadv.aba2083
+  link: https://doi.org/ghbvbf
   image: https://advances.sciencemag.org/content/advances/6/37/eaba2083/F1.large.jpg
   buttons:
   - type: preprint
@@ -10129,7 +10426,7 @@
   - John M. Maris
   publisher: Cell Reports
   date: '2019-11-01'
-  link: https://doi.org/10.1016/j.celrep.2019.09.071
+  link: https://doi.org/gg596n
   image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ed25df6f-6a3d-4f8b-8bc0-99089088d20e/fx1.jpg
   buttons:
   - type: preprint
@@ -10172,7 +10469,7 @@
   - S. B. Montgomery
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-04'
-  link: https://doi.org/10.1101/793091
+  link: https://doi.org/gg7m52
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/04/793091/F2.medium.gif
   buttons:
   - type: preprint
@@ -10235,7 +10532,7 @@
   - Tuuli Lappalainen
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-03'
-  link: https://doi.org/10.1101/787903
+  link: https://doi.org/ggh6rz
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/787903/F1.medium.gif
   buttons:
   - type: preprint
@@ -10456,7 +10753,7 @@
   - Simona Volpi
   publisher: Science
   date: '2020-09-11'
-  link: https://doi.org/10.1126/science.aaz5900
+  link: https://doi.org/ghxdfd
   image: https://www.biorxiv.org/content/biorxiv/early/2019/10/03/786053/F2.medium.gif
   buttons:
   - type: preprint
@@ -10496,7 +10793,7 @@
   - Hae Kyung Im
   publisher: Genome Biology
   date: '2021-01-26'
-  link: https://doi.org/10.1186/s13059-020-02252-4
+  link: https://doi.org/ghxdc9
   image: https://www.biorxiv.org/content/biorxiv/early/2020/05/23/814350/F3.medium.gif
   buttons:
   - type: preprint
@@ -10508,8 +10805,8 @@
   authors:
   - Marissa Fessenden
   publisher: Nature
-  date: '2019-01-01'
-  link: https://doi.org/10.1038/d41586-019-00218-6
+  date: '2019-01-23'
+  link: https://doi.org/gftqjj
   image: https://media.nature.com/lw800/magazine-assets/d41586-019-00218-6/d41586-019-00218-6_16402666.jpg
   plugin: sources.py
   file: sources.yaml
@@ -10525,7 +10822,7 @@
   - Casey S. Greene
   publisher: BioData Mining
   date: '2018-07-03'
-  link: https://doi.org/10.1186/s13040-018-0175-7
+  link: https://doi.org/gdt7f5
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-018-0175-7/MediaObjects/13040_2018_175_Fig3_HTML.png
   buttons:
   - type: preprint
@@ -10557,7 +10854,7 @@
   - George A. O'Toole
   publisher: Journal of Bacteriology
   date: '2018-04-15'
-  link: https://doi.org/10.1128/jb.00703-17
+  link: https://doi.org/gg7qrt
   image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
   buttons:
   - type: preprint
@@ -10576,7 +10873,7 @@
   - Casey S Greene
   publisher: eLife
   date: '2018-03-01'
-  link: https://doi.org/10.7554/elife.32822
+  link: https://doi.org/ckcj
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   buttons:
   - type: preprint
@@ -10599,7 +10896,7 @@
   - Casey S. Greene
   publisher: Biocomputing 2019
   date: '2018-11-01'
-  link: https://doi.org/10.1142/9789813279827_0033
+  link: https://doi.org/gf5pc7
   image: https://www.worldscientific.com/na101/home/literatum/publisher/wspc/books/content/books/2018/11263/11263/20181129-01/11263.cover.jpg
   plugin: sources.py
   file: sources.yaml
@@ -10647,7 +10944,7 @@
   - Struan FA Grant
   publisher: European Journal of Human Genetics
   date: '2017-08-09'
-  link: https://doi.org/10.1038/ejhg.2017.108
+  link: https://doi.org/gbq2j6
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fejhg.2017.108/MediaObjects/41431_2017_Article_BFejhg2017108_Fig1_HTML.jpg
   buttons:
   - type: preprint
@@ -10668,7 +10965,7 @@
   - Joellen M. Schildkraut
   publisher: Current Epidemiology Reports
   date: '2017-07-10'
-  link: https://doi.org/10.1007/s40471-017-0115-y
+  link: https://doi.org/gg7qrv
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40471-017-0115-y/MediaObjects/40471_2017_115_Fig1_HTML.gif
   plugin: sources.py
   file: sources.yaml
@@ -10681,7 +10978,7 @@
   - Jaclyn N. Taroni
   publisher: Communications Biology
   date: '2023-02-25'
-  link: https://doi.org/10.1038/s42003-023-04588-6
+  link: https://doi.org/grt2z5
   image: https://www.biorxiv.org/content/biorxiv/early/2017/03/21/118349/F1.medium.gif
   buttons:
   - type: preprint
@@ -10702,7 +10999,7 @@
   - Casey S. Greene
   publisher: BMC Bioinformatics
   date: '2017-11-22'
-  link: https://doi.org/10.1186/s12859-017-1905-4
+  link: https://doi.org/gg7m57
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12859-017-1905-4/MediaObjects/12859_2017_1905_Fig5_HTML.gif
   buttons:
   - type: preprint
@@ -10725,7 +11022,7 @@
   - Casey S. Greene
   publisher: Biocomputing 2018
   date: '2017-11-17'
-  link: https://doi.org/10.1142/9789813235533_0008
+  link: https://doi.org/gfspsd
   image: https://www.biorxiv.org/content/biorxiv/early/2017/10/02/174474/F2.medium.gif
   buttons:
   - type: preprint
@@ -10743,7 +11040,7 @@
   - Casey S. Greene
   publisher: Current Genetic Medicine Reports
   date: '2016-09-09'
-  link: https://doi.org/10.1007/s40142-016-0102-5
+  link: https://doi.org/ggpcr7
   image: https://media.springernature.com/m312/springer-static/image/art%3A10.1007%2Fs40142-016-0102-5/MediaObjects/40142_2016_102_Fig1_HTML.gif
   buttons:
   - type: preprint
@@ -10759,7 +11056,7 @@
   - Casey S. Greene
   publisher: PeerJ
   date: '2016-01-21'
-  link: https://doi.org/10.7717/peerj.1621
+  link: https://doi.org/gg7qsg
   image: https://dfzljdn9uc3pi.cloudfront.net/2016/1621/1/fig-3-2x.jpg
   buttons:
   - type: preprint
@@ -10800,7 +11097,7 @@
   - Carol Kim
   publisher: BioData Mining
   date: '2015-06-01'
-  link: https://doi.org/10.1186/s13040-015-0050-8
+  link: https://doi.org/gb5fp5
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs13040-015-0050-8/MediaObjects/13040_2015_50_Fig1_HTML.gif
   plugin: sources.py
   file: sources.yaml
@@ -10823,7 +11120,7 @@
   - Olga G Troyanskaya
   publisher: Nature Methods
   date: '2015-01-12'
-  link: https://doi.org/10.1038/nmeth.3249
+  link: https://doi.org/ggfb5t
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnmeth.3249/MediaObjects/41592_2015_Article_BFnmeth3249_Fig5_ESM.jpg
   buttons:
   - type: app
@@ -10895,7 +11192,7 @@
   - Julian Solway
   publisher: Nature Communications
   date: '2022-11-07'
-  link: https://doi.org/10.1038/s41467-022-33628-8
+  link: https://doi.org/gq68q3
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-33628-8/MediaObjects/41467_2022_33628_Fig1_HTML.png?as=webp
   tags:
   - asthma
