@@ -1,0 +1,701 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+	
+
+    
+    <script>
+     // <!-- Google Tag Manager -->
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KXPN39');
+    //<!-- End Google Tag Manager -->
+    </script>
+    
+
+    <title>Genomic characterization of patient-derived xenograft models established from fine needle aspirate biopsies of a primary pancreatic ductal adenocarcinoma and... | Oncotarget</title>
+
+    
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <meta name="description" content="https://doi.org/10.18632/oncotarget.7718 Robert J. Allaway, Dawn A. Fischer, Francine B. de Abreu, Timothy B. Gardner, Stuart R. Gordon, Richard J. Barth, Thomas A. Colacchio, Matthew Wood, Balint..." />
+
+    
+	
+
+	<link rel="icon" href="https://www.oncotarget.com/favicon.ico" />
+
+	
+	<meta name="dc.creator" content="Robert J. Allaway"/>
+	<meta name="dc.creator" content="Dawn A. Fischer"/>
+	<meta name="dc.creator" content="Francine B. de Abreu"/>
+	<meta name="dc.creator" content="Timothy B. Gardner"/>
+	<meta name="dc.creator" content="Stuart R. Gordon"/>
+	<meta name="dc.creator" content="Richard J. Barth"/>
+	<meta name="dc.creator" content="Thomas A. Colacchio"/>
+	<meta name="dc.creator" content="Matthew Wood"/>
+	<meta name="dc.creator" content="Balint Z. Kacsoh"/>
+	<meta name="dc.creator" content="Stephanie J. Bouley"/>
+	<meta name="dc.creator" content="Jingxuan Cui"/>
+	<meta name="dc.creator" content="Joanna Hamilton"/>
+	<meta name="dc.creator" content="Jungbin A. Choi"/>
+	<meta name="dc.creator" content="Joshua T. Lange"/>
+	<meta name="dc.creator" content="Jason D. Peterson"/>
+	<meta name="dc.creator" content="Vijayalakshmi Padmanabhan"/>
+	<meta name="dc.creator" content="Craig R. Tomlinson"/>
+	<meta name="dc.creator" content="Gregory J. Tsongalis"/>
+	<meta name="dc.creator" content="Arief A. Suriawinata"/>
+	<meta name="dc.creator" content="Casey S. Greene"/>
+	<meta name="dc.creator" content="Yolanda Sanchez"/>
+	<meta name="dc.creator" content="Kerrington D. Smith"/>
+	<meta name="dc.date" scheme="ISO8601" content="2016-02-25"/>
+	<meta name="dc.date.created" scheme="ISO8601" content="2016-02-25"/>
+    <meta name="dc.date.datesubmitted" scheme="ISO8601" content="2016-02-25"/>
+		<meta name="dc.date.issued" scheme="ISO8601" content="2016-03-29"/>
+	<meta name="dc.date.modified" scheme="ISO8601" content="2016-03-29"/>
+	<meta name="dc.description" xml:lang="en" content="  //      Robert J. Allaway 1  * , Dawn A. Fischer 2  * , Francine B. de Abreu 3 , Timothy B. Gardner 4 , Stuart R. Gordon 4 , Richard J. Barth 2,  5 , Thomas A. Colacchio 2,  5 , Matthew Wood 1  ,9 , Balint Z. Kacsoh 6 , Stephanie J. Bouley 1 , Jingxuan Cui 6 , Joanna Hamilton 1,  7 , Jungbin A. Choi 1 , Joshua T. Lange 1 , Jason D. Peterson 3 , Vijayalakshmi Padmanabhan 3 , Craig R. Tomlinson 1,  5,  7 , Gregory J. Tsongalis 3,  5 , Arief A. Suriawinata 3 , Casey S. Greene 5,  6,  8  * , Yolanda Sanchez 1,  5  * , Kerrington D. Smith 2,  5     1 Department of Pharmacology and Toxicology, Geisel School of Medicine, Dartmouth College, Hanover, NH 03755, USA    2 Department of Surgery, Division of Surgical Oncology, Dartmouth-Hitchcock Medical Center, Lebanon, NH 03756, USA    3 Department of Pathology, Dartmouth-Hitchcock Medical Center, Lebanon, NH 03756, USA    4 Department of Medicine, Section of Gastroenterology and Hepatology, Dartmouth-Hitchcock Medical Center, Lebanon, NH 03756, USA    5 Dartmouth-Hitchcock Norris Cotton Cancer Center, Lebanon, NH 03756, USA    6 Department of Genetics, Geisel School of Medicine, Dartmouth College, Hanover, NH 03756, USA    7 Department of Medicine, Dartmouth-Hitchcock Medical Center, Lebanon, NH 03756, USA    8 Institute for Quantitative Biomedical Sciences, Dartmouth College, Hanover, NH 03755, USA    9 Current location: Department of Pathology, University of California, San Francisco, CA 94143, USA    * These authors have contributed equally to this work   Correspondence to:   Kerrington Smith, e-mail:  kerrington.d.smith@hitchcock.org     Keywords:  patient-derived xenograft, fine needle aspirate biopsy, pancreatic ductal adenocarcinoma, KRAS, CDK9    Received:  July 03, 2015&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp; Accepted:  January 13, 2016&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp; Published:  February 25, 2016     ABSTRACT   N-of-1 trials target actionable mutations, yet such approaches do not test genomically-informed therapies in patient tumor models prior to patient treatment. To address this, we developed patient-derived xenograft (PDX) models from fine needle aspiration (FNA) biopsies (FNA-PDX) obtained from primary pancreatic ductal adenocarcinoma (PDAC) at the time of diagnosis. Here, we characterize PDX models established from one primary and two metastatic sites of one patient. We identified an activating  KRAS  G12R mutation among other mutations in these models. In explant cells derived from these PDX tumor models with a  KRAS  G12R mutation, treatment with inhibitors of CDKs (including CDK9) reduced phosphorylation of a marker of CDK9 activity (phospho-RNAPII CTD Ser2/5) and reduced viability/growth of explant cells derived from PDAC PDX models. Similarly, a CDK inhibitor reduced phospho-RNAPII CTD Ser2/5, increased apoptosis, and inhibited tumor growth in FNA-PDX and patient-matched metastatic-PDX models. In summary, PDX models can be constructed from FNA biopsies of PDAC which in turn can enable genomic characterization and identification of potential therapies. "/>
+	<meta name="dc.format" scheme="IMT" content="application/force-download"/>
+	<meta name="dc.format" scheme="IMT" content="text/html"/>
+	<meta name="dc.identifier" content="https://doi.org/10.18632/oncotarget.7718"/>
+	<meta name="dc.identifier.pagenumber" content="17087-17102"/>
+	<meta name="citation_doi" content="10.18632/oncotarget.7718"/>
+	<meta name="dc.identifier.uri" content="https://www.oncotarget.com/article/7718/"/>
+	<meta name="dc.language" scheme="ISO639-1" content=""/>
+	<meta name="dc.source" content="Oncotarget"/>
+	<meta name="dc.source.issn" content="1949-2553"/>
+<meta name="dc.source.uri" content="https://www.oncotarget.com/"/>
+	<meta name="dc.source.issue" content="13"/>
+<meta name="dc.source.volume" content="7"/>
+					<meta name="dc.title" content="Genomic characterization of patient-derived xenograft models established from fine needle aspirate biopsies of a primary pancreatic ductal adenocarcinoma and from patient-matched metastatic sites"/>
+	
+<meta name="dc.type" content="Text.Serial.Journal"/>
+<meta name="dc.type.articletype" content="Research Papers"/>
+
+
+<!-- OGP -->
+	<meta property="og:type"  content="article" />
+	<meta property="og:title" content="Genomic characterization of patient-derived xenograft models established from fine needle aspirate biopsies of a primary pancreatic ductal adenocarcinoma and... | Oncotarget" />
+				<meta property="og:description" content="https://doi.org/10.18632/oncotarget.7718 Robert J. Allaway, Dawn A. Fischer, Francine B. de Abreu, Timothy B. Gardner, Stuart R. Gordon, Richard J. Barth, Thomas A. Colacchio, Matthew Wood, Balint..."/>
+		<meta property="og:url"   content="https://www.oncotarget.com/article/7718/" />
+	<meta property="og:image" content="https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117356"  />
+<!-- /OGP --><!-- Twitter Card -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@Oncotarget" />
+<meta name="twitter:title" content="Genomic characterization of patient-derived xenograft models established from fine needle aspirate biopsies of a primary pancreatic ductal adenocarcinoma and... | Oncotarget" />
+  <meta name="twitter:description" content="https://doi.org/10.18632/oncotarget.7718 Robert J. Allaway, Dawn A. Fischer, Francine B. de Abreu, Timothy B. Gardner, Stuart R. Gordon, Richard J. Barth, Thomas A. Colacchio, Matthew Wood, Balint..."/>
+<meta name="twitter:image" content="https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117356"  />
+<!-- /Twitter Card -->		<meta name="gs_meta_revision" content="1.1" />
+	<meta name="citation_journal_title" content="Oncotarget"/>
+	<meta name="citation_issn" content="1949-2553"/>
+	<meta name="citation_author" content="Robert J. Allaway"/>
+		
+	<meta name="citation_author" content="Dawn A. Fischer"/>
+		
+	<meta name="citation_author" content="Francine B. de Abreu"/>
+		
+	<meta name="citation_author" content="Timothy B. Gardner"/>
+		
+	<meta name="citation_author" content="Stuart R. Gordon"/>
+		
+	<meta name="citation_author" content="Richard J. Barth"/>
+		
+	<meta name="citation_author" content="Thomas A. Colacchio"/>
+		
+	<meta name="citation_author" content="Matthew Wood"/>
+		
+	<meta name="citation_author" content="Balint Z. Kacsoh"/>
+		
+	<meta name="citation_author" content="Stephanie J. Bouley"/>
+		
+	<meta name="citation_author" content="Jingxuan Cui"/>
+		
+	<meta name="citation_author" content="Joanna Hamilton"/>
+		
+	<meta name="citation_author" content="Jungbin A. Choi"/>
+		
+	<meta name="citation_author" content="Joshua T. Lange"/>
+		
+	<meta name="citation_author" content="Jason D. Peterson"/>
+		
+	<meta name="citation_author" content="Vijayalakshmi Padmanabhan"/>
+		
+	<meta name="citation_author" content="Craig R. Tomlinson"/>
+		
+	<meta name="citation_author" content="Gregory J. Tsongalis"/>
+		
+	<meta name="citation_author" content="Arief A. Suriawinata"/>
+		
+	<meta name="citation_author" content="Casey S. Greene"/>
+		
+	<meta name="citation_author" content="Yolanda Sanchez"/>
+		
+	<meta name="citation_author" content="Kerrington D. Smith"/>
+		
+	<meta name="citation_authors" content="Allaway, Robert J.; Fischer, Dawn A.; de Abreu, Francine B.; Gardner, Timothy B.; Gordon, Stuart R.; Barth, Richard J.; Colacchio, Thomas A.; Wood, Matthew; Kacsoh, Balint Z.; Bouley, Stephanie J.; Cui, Jingxuan; Hamilton, Joanna; Choi, Jungbin A.; Lange, Joshua T.; Peterson, Jason D.; Padmanabhan, Vijayalakshmi; Tomlinson, Craig R.; Tsongalis, Gregory J.; Suriawinata, Arief A.; Greene, Casey S.; Sanchez, Yolanda; Smith, Kerrington D."/>
+	<meta name="citation_title" content="Genomic characterization of patient-derived xenograft models established from fine needle aspirate biopsies of a primary pancreatic ductal adenocarcinoma and from patient-matched metastatic sites"/>
+	<meta name="citation_publication_date" content="2016-02-25"/>
+	<meta name="citation_volume" content="7"/>
+			<meta name="citation_issue" content="13"/>
+		<meta name="citation_firstpage" content="17087"/>
+	<meta name="citation_lastpage" content="17102"/>
+	<meta name="citation_abstract_html_url" content="https://www.oncotarget.com/article/7718/"/>
+				
+        	<meta name="citation_pdf_url" content="https://www.oncotarget.com/article/7718/pdf/" />
+                    	<meta name="citation_fulltext_html_url" content="https://www.oncotarget.com/article/7718/text/"/>
+    	<meta name="citation_publisher" content="Impact Journals"/>
+	
+
+	<link rel="stylesheet" href="https://www.oncotarget.com/styles/paper.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.oncotarget.com/jquery.bubblepopup.v2.3.1.css"type="text/css" />
+
+	<link rel="stylesheet" href="https://www.oncotarget.com/lib/pkp/styles/pkp.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.oncotarget.com/lib/pkp/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.oncotarget.com/styles/common.css" type="text/css" />
+	<link rel="stylesheet" href="https://www.oncotarget.com/styles/articleView.css" type="text/css" />
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.min.css" type="text/css"/>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.6/css/all.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"> 
+
+	<link rel="stylesheet" href="https://www.oncotarget.com/style/agingTemp.min.css" type="text/css" />
+
+	
+	
+	
+
+	<link rel="stylesheet" href="https://www.oncotarget.com/styles/sidebar.css" type="text/css" />	<link rel="stylesheet" href="https://www.oncotarget.com/styles/leftSidebar.css" type="text/css" />	<link rel="stylesheet" href="https://www.oncotarget.com/styles/rightSidebar.css?v=1.0.1" type="text/css" />	<link rel="stylesheet" href="https://www.oncotarget.com/styles/bothSidebars.css" type="text/css" />
+			<link rel="stylesheet" href="https://www.oncotarget.com/public/site/sitestyle.css" type="text/css" />
+	
+	
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	  ga('create', 'UA-74807910-1', 'auto');
+	  ga('send', 'pageview');
+	</script>
+	
+
+    <!-- altmetric embed -->
+    <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+	<!-- Base Jquery -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+	
+	<script type="text/javascript" src="https://www.oncotarget.com/lib/pkp/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="https://www.oncotarget.com/lib/pkp/js/fontController.min.js" ></script>
+	<script type="text/javascript" src="https://www.oncotarget.com/lib/pkp/js/general.min.js"></script>
+
+	
+	<script language="javascript" type="text/javascript" src="https://www.oncotarget.com/js/articleView.min.js"></script>
+	<script language="javascript" type="text/javascript" src="https://www.oncotarget.com/js/pdfobject.js"></script>
+
+
+	
+	<script>
+	function SelectText(element) {
+		var text = document.getElementById(element);
+		if ($.browser.msie) {
+			var range = document.body.createTextRange();
+			range.moveToElementText(text);
+			range.select();
+		} else if ($.browser.mozilla || $.browser.opera) {
+			var selection = window.getSelection();
+			var range = document.createRange();
+			range.selectNodeContents(text);
+			selection.removeAllRanges();
+			selection.addRange(range);
+		} else if ($.browser.safari) {
+			var selection = window.getSelection();
+			selection.setBaseAndExtent(text, 0, text, 1);
+		}
+		document.getElementById(element).scrollIntoView();
+	}
+	</script>
+	<script type="text/javascript" src="/js/email.min.js"></script>
+	<script type="text/javascript" src="/js/pops.min.js"></script>
+	<script type="text/javascript" src="/jquery.bubblepopup.v2.3.1.min.js"></script>
+	<script type="text/javascript" src="/js/menu.min.js"></script>
+	
+	
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KXPN39"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div id="container">
+<div id="fade" class="black_overlay"></div>
+<div id="header">
+	<a href="/"><div id="home-clickable-area"></div></a>
+	<div class="nav-content">
+		<ul class="socialList segregateSubmit">
+			<li class="social-links"><a href="https://www.facebook.com/Oncotarget/" target="_blank"><i class="fa-brands fa-facebook-square"></i></a></li>
+			<li class="social-links"><a href="https://twitter.com/Oncotarget" target="_blank"><i class="fa-brands fa-x-twitter"></i></a></li>
+			<li class="social-links"><a href="https://www.instagram.com/oncotargetjrnl/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+			<li class="social-links"><a href="https://www.linkedin.com/company/oncotarget" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+			<li class="social-links"><a href="https://www.youtube.com/@OncotargetJournal" target="_blank"><i class="fa-brands fa-youtube-square"></i></a></li>
+			<li class="social-links"><a href="https://www.reddit.com/user/Oncotarget" target="_blank"><i class="fa-brands fa-reddit-square"></i></a></li>
+		</ul>
+	
+		<span class="sidebar-toggle-mobile icon icon-menu"></span>
+		<span id="mobile-search" class="icon icon-search hide-on-large-only"></span>
+	</div>
+	
+	<small class="issnLabel">Online ISSN: 1949-2553</small>
+	<div class="nav-search">
+		<form method="get" action="/index.php">
+			<input type="hidden" name="journal" value="oncotarget" />
+			<input type="hidden" name="page" value="pages" />
+			<input type="hidden" name="op" value="view" />
+			<input type="hidden" name="path[]" value="elasticsearch" />
+			<input type="hidden" name="searchPage" value="1" />
+	
+			<label>Search:</label><br/>
+			<input type="text" name="general">
+			<input type="submit" style="display:none">
+		</form>
+	</div>
+</div>
+
+
+<div id="clear">
+<p>Oncotarget</p>
+</div>
+
+
+<div id="leftSidebar">
+	
+ 
+ <style>
+ .anchor-no-underline,
+ .anchor-no-underline:link,
+ .anchor-no-underline:visited,
+ .anchor-no-underline:hover,
+ .anchor-no-underline:active {
+     text-decoration: none;
+ }
+
+  a.subscribe-button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    border: 0 none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: bold;
+    font-size:1em;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 22px;
+    margin-top:5px;
+    margin-bottom:20px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: top;
+    white-space: nowrap;
+    width: auto;
+    background-color:#761118;
+  }
+
+
+  #oncoscience-promo {
+    border-color: #27ae60 !important;
+    background-color: #27ae60!important;
+  }
+  #oncoscience-promo .navbar-section{
+    background-color: #27ae60;
+  }
+
+  #oncoscience-promo a, #oncoscience-promo a:visited {
+    color: #ffffff !important;
+  }
+
+ </style>
+ 
+
+	<div class="block" id="sidebarNavigation">
+	<span class="blockTitle" style="display:none;">Journal Content</span>
+	<!--Custom -->
+	<ul class="menu" id="navmenu">
+		<li id="home"><a href="/">Home</a></li>
+		<li id="board"><a href="/editorial-board/">Editorial Board</a></li>
+		<li><a href="http://oncotarget.msubmit.net">Submission</a></li>
+					<li id="currentiss"><a href="/archive/v16/">Current Volume</a></li>
+						<li id="archives"><a href="/archive/">Archive</a></li>
+        <li id="scientific-integrity"><a style="color: #0e71b1;" href="/scientific-integrity/">Scientific Integrity</a></li>
+		<li id="about"><a href="/editorial-policies/">Editorial Policies</a></li>
+		<li id="ethics"><a href="/ethics-statement/">Publication Ethics Statements</a></li>
+		<li id="ot_special_collections"><a href="/collections/">Special Collections</a></li>
+		<li id="ot_videos"><a href="/videos/interview/">Interviews with Outstanding Authors</a></li>
+		<li id="ot_news"><a href="/news/pr/">Oncotarget In The News</a></li>
+		<li id="ot_conferences"><a href="/news/conferences/">Sponsored Conferences</a></li>
+		<li id="search"><a href="/search/">Search</a></li>
+		<li id="contact"><a href="/contact/">Contact Information</a>
+		
+								</ul>
+	<!-- end custom-->
+	</div>
+
+	<div class="block secblock topredblock">
+		<div class="a_new_domain_link">
+			<p>
+				Oncotarget (a primarily oncology-focused, peer-reviewed, open access journal) aims to maximize research impact through insightful peer-review; eliminate borders between specialties by linking different fields of oncology, cancer research and biomedical sciences; and foster application of basic and clinical science.
+			</p>
+			<p>
+				Its scope is unique. The term "oncotarget" encompasses all molecules, pathways, cellular functions, cell types, and even tissues that can be viewed as targets relevant to cancer as well as other diseases. <b>The term was introduced in the inaugural Editorial</b>, <a class="anchor-no-underline" href="https://www.oncotarget.com/article/101/">Introducing Oncotarget</a>.
+			</p>
+			<p>
+				As of January 1, 2022, <em>Oncotarget</em> has shifted to a continuous publishing model. Papers will now be published continuously within yearly volumes in their final and complete form and then quickly released to Pubmed.
+			</p>
+		</div>
+		<div class="a_new_domain_link"></div>
+	</div>
+
+
+	
+
+	<div class="block secblock topredblock">
+		<p class="navbar-section"><span style="font-size:13px;font-weight:700;margin-left:0.3em;"></span></p>
+		<h4 class="navbar-section">Publication Alerts</h4>
+
+		
+		<div style="padding: 10px;">
+			Subscribe to receive alerts once a paper has been published by Oncotarget.
+		</div>
+		<div style="text-align:center;">
+			<a href="/subscribe/" class="subscribe-button">Subscribe</a>
+		</div>
+
+
+		
+			</div>
+
+
+	<div class="block secblock topredblock" style="padding-bottom:0;">
+		<h4 class="navbar-section">2nd European Cancer<br />and Oncology Congress</h4>
+		<div style="display:block;text-align: center;font-size: 1.1em;">
+    <a href="https://cancer.c2pforum.com/" target="_blank"><img src="/images/cancer-congress-2025.png" style="width:100%;margin-top:0px;" alt="Cancer Congress 2025"></a>
+		</div>
+	</div>
+
+
+	<div class="block secblock topredblock" id="oncoscience-promo" style="padding-bottom:0;">
+		<h4 class="navbar-section">Oncoscience</h4>
+		<a href="https://www.oncoscience.us/" target="_blank"><img src="/images/Oncoscience_Logo.png" style="width:100%;margin-top:0px;" alt="Oncoscience Logo"></a>
+		<p style="margin-block-start: 0.5em;margin-block-end: 0.5em;margin-inline-start: 0.5em;
+    margin-inline-end: 0.5em;"><a class="anchor-no-underline" href="https://www.oncoscience.us/" target="_blank"><em>Oncoscience</em> is a peer-reviewed, open-access journal dedicated to cancer research without financial barriers. It is a unique journal that provides FREE publication and access for both authors and readers. Oncoscience is indexed and archived by PubMed and PMC. It is recognized by Impact Journals as a philanthropic endeavor.</a></p>
+	</div>
+
+
+
+
+	<div class="block secblock topredblock" style="padding-bottom:0;">
+	<h4 class="navbar-section">Post-Publication Promotion</h4>
+		<div style="display:block;text-align: center;font-size: 1.1em;">
+			<p style="margin-block-start: 0.5em;margin-block-end: 0.5em;">
+				Learn about our <b>FREE</b></p>
+			<p style="margin-block-start: 0.5em;margin-block-end: 0.5em;"><a class="anchor-no-underline" href="/editorial-policies/#post-publication-promotion">Post-Publication Promotion Services</a>
+			</p>
+		</div>
+	</div>
+
+
+  
+	
+
+ 
+
+    <div style="padding:10px 4px 10px 10px;display:block;" class="block secblock topredblock">
+        <p style="font-size: 1.1em;">Rapamycin Press LLC dba Impact Journals is the publisher of Oncotarget: <a class="anchor-no-underline" target="_blank" href="https://www.impactjournals.com/">www.impactjournals.com</a>.</p>
+        <p style="font-size: 1.1em;">Impact Journals is a member of the <a class="anchor-no-underline" target="_blank" href="https://wellcome.org/">Wellcome Trust List of Compliant Publishers</a>.</p>
+        <p style="font-size: 1.1em;">Impact Journals is a member of the <a class="anchor-no-underline" target="_blank" href="https://www.sspnet.org/">Society for Scholarly Publishing</a>.</p>
+    </div>
+
+
+		<div class="block secblock topredblock" style="padding:10px 4px 10px 10px;display:block;">
+		<p>On December 23, 2022, Oncotarget server experienced a DDoS attack. As a result, Oncotarget site was inaccessible for a few hours. Oncotarget team swiftly dealt with the situation and took it under control.
+		This malicious action will be reported to the FBI.</p>
+	</div>
+
+			
+
+
+
+
+
+</div>
+
+
+<div id="main" style="width:75%; clear:none; float:right;">
+
+
+<div id="content">
+<style scoped>
+
+	.rhs_banners {
+		display: table;
+		float: right;
+		margin-right: 10px;
+	}
+	.addthis_container-row {
+		display: table-row;
+	}
+	
+	.addthis_container {
+		display: table-cell;
+		padding:8px;
+	}
+	.article-notice .banner-main {
+		font-size: 16px;
+	}
+	.article-notice-investigation .banner-main strong {
+		font-size: 16px;
+	}
+
+	.article-notice-investigation .banner-main {
+		height: 45px;
+	}
+
+	span.investigation-warning {
+		/*margin-left: 0 !important;*/
+	}
+	.fullTextHtmlWrapper {
+		position: relative;
+	}
+	.fullTextHtmlWrapper #retraction-watermark {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		background: url('data:image/svg+xml;utf8,<svg style="transform:rotate(45deg)" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><text x="30" y="130" fill="%23941b21" fill-opacity="0.5">R E T R A C T E D</text></svg>') 0 0/900px 900px;
+	}
+
+					
+			div.OncoFigure {
+				overflow:scroll;
+			}
+			div.OncoFigure p.TableHeading{
+				overflow:scroll;
+			}
+		
+	</style>
+
+
+
+	<style scoped>
+	
+		#articleTitle {
+			left: 0 !important;
+		}
+		.__dimensions_badge_embed__ {
+			margin-bottom: 5px;
+		}
+		.__dimensions_badge_embed__ .__dimensions_Badge_style_small_circle .__dimensions_Badge_Image {
+			width: 50px;
+			height: 50px;
+		}
+		.__dimensions_badge_embed__ > .__dimensions_Link, .__dimensions_badge_embed__ > .__dimensions_Link:hover {
+			margin-right: 0.75em;
+		}
+		.__dimensions_badge_embed__ .__dimensions_Badge_style_small_circle .__db_score {
+			font-size: 28px;
+		}
+		.altmetric-embed > a {
+			padding-right: 7px;
+		}
+		.special_collections_banner-row {
+			display: table-row;
+		}
+
+		.special_collections_banner {
+			display: table-cell;
+			width: 165px;
+			padding: 1px;
+			border: 1px solid #e8e8e8;
+		}
+		.special_collections_banner img {
+			width: 165px;
+			max-height: 100px;
+		}
+	
+			</style>
+
+	<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+	<div class="issue-info" style="display: none">
+		Published in <a href="/archive/v7/i13/">Oncotarget V7I13</a>, <span class="issue-date">Mar 29, 2016</span>
+	</div>
+
+
+
+
+
+ 	
+	<h4 class="tocSectionTitle">Research Papers:</h4>
+
+			
+
+	<div class = "titleAndBadge">
+									<div data-badge-type="donut" data-doi="10.18632/oncotarget.7718" data-template="oncotarget"
+				data-hide-no-mentions="true" data-hide-less-than="12" data-condensed='true' data-link-target="_blank" data-badge-popover="left" class="altmetric-embed">
+			</div>
+				<h1 id="articleTitle" class="tocArticleTitle">Genomic characterization of patient-derived xenograft models established from fine needle aspirate biopsies of a primary pancreatic ductal adenocarcinoma and from patient-matched metastatic sites</h1>
+	</div>
+
+	<div id="primitiveHeader">
+				<p class="author" id="titleAuthors" align="justify">
+				<span id="p66011" class="p66011 author special">Robert J. Allaway</span><span id="p66012" class="p66012 author special">, Dawn A. Fischer</span><span id="p66013" class="p66013 author special">, Francine B. de Abreu</span><span id="p66014" class="p66014 author special">, Timothy B. Gardner</span><span id="p66015" class="p66015 author special">, Stuart R. Gordon</span><span id="p66016" class="p66016 author special">, Richard J. Barth</span><span id="p66017" class="p66017 author special">, Thomas A. Colacchio</span><span id="p66018" class="p66018 author special">, Matthew Wood</span><span id="p66019" class="p66019 author special">, Balint Z. Kacsoh</span><span id="p66020" class="p66020 author special">, Stephanie J. Bouley</span><span id="p66021" class="p66021 author special">, Jingxuan Cui</span><span id="p66022" class="p66022 author special">, Joanna Hamilton</span><span id="p66023" class="p66023 author special">, Jungbin A. Choi</span><span id="p66024" class="p66024 author special">, Joshua T. Lange</span><span id="p66025" class="p66025 author special">, Jason D. Peterson</span><span id="p66026" class="p66026 author special">, Vijayalakshmi Padmanabhan</span><span id="p66027" class="p66027 author special">, Craig R. Tomlinson</span><span id="p66028" class="p66028 author special">, Gregory J. Tsongalis</span><span id="p66029" class="p66029 author special">, Arief A. Suriawinata</span><span id="p66030" class="p66030 author special">, Casey S. Greene</span><span id="p66031" class="p66031 author special">, Yolanda Sanchez</span><span id="p66032" class="p66032 author special"> and&nbsp;Kerrington D. Smith&nbsp;<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%6b%65%72%72%69%6e%67%74%6f%6e.%64.%73%6d%69%74%68@%68%69%74%63%68%63%6f%63%6b.%6f%72%67" class="miniemail">&#x5f;</a></span>			</p>
+			</div>
+
+
+			<div class="galleria">
+							<p>
+																		<a href="https://www.oncotarget.com/article/7718/pdf/" class="file" target="_parent">PDF</a>
+																																&nbsp;|&nbsp;								<a href="https://www.oncotarget.com/article/7718/text/" class="file" target="_parent">HTML</a>
+																		
+											<span>&nbsp;|&nbsp;&nbsp;<a href="javascript:openRTWindow('https://www.oncotarget.com/index.php?journal=oncotarget&amp;page=rt&amp;op=suppFiles&amp;path%5B%5D=7718&amp;path%5B%5D=0');" class="file">Supplementary Files</a></span>
+																<span>&nbsp;|&nbsp;&nbsp;<a href="javascript:openRTWindow('https://www.oncotarget.com/index.php?journal=oncotarget&amp;page=rt&amp;op=captureCite&amp;path%5B%5D=7718&amp;path%5B%5D=0');" class="file">How to cite</a></span>
+					
+					
+					
+					
+					
+					
+				</p>
+						<p style="margin-top:6px;">
+				<div class="article-issue-info">
+																Oncotarget. 2016; 7:17087-17102. <a href="https://doi.org/10.18632/oncotarget.7718">https://doi.org/10.18632/oncotarget.7718</a>
+									</div>
+			</p>
+		</div>
+
+
+					<div class="metrics">
+				<p class="metrics-p">
+					<span class="metrics-bold" style="float:left;margin-right: 5px;">Metrics: </span>
+					<span style="float:left;">
+																														<span class="metrics-bold">PDF</span> 1944 views									<span class="metrics-bold metrics-divider">&nbsp;|&nbsp;&nbsp;</span>
+																																																																					<span class="metrics-bold">HTML</span> 4450 views										<span class="metrics-bold metrics-divider">&nbsp;|&nbsp;&nbsp;</span>
+																																			</span>
+					<span class="metrics-explained">?</span>
+					<span>&nbsp;</span>
+				</p>
+			</div>
+			
+	
+
+			<div id="articleAbstract" >
+																			<p id="lookhere" style="display:none;">																	</p>
+							
+										<h2 class="body-heading" id="abstractHeader">
+					<br/>
+					Abstract
+				</h2>
+						<p class="body-bodytext">
+															<div id="extendedInfo"><script type="text/javascript">// <![CDATA[
+$('.header-date').hide();$('#titleAuthors').hide();$('#abstractHeader').hide();
+// ]]></script> <div id="primitiveHeader"><p class="Authors">Robert J. Allaway<span id="A1" class="AuthorSuper">1</span><span id="A10" class="AuthorSuper">*</span>, Dawn A. Fischer<span id="A2" class="AuthorSuper">2</span><span id="A10" class="AuthorSuper">*</span>, Francine B. de Abreu<span id="A3" class="AuthorSuper">3</span>, Timothy B. Gardner<span id="A4" class="AuthorSuper">4</span>, Stuart R. Gordon<span id="A4" class="AuthorSuper">4</span>, Richard J. Barth<span id="A2" class="AuthorSuper">2,</span><span id="A5" class="AuthorSuper">5</span>, Thomas A. Colacchio<span id="A2" class="AuthorSuper">2,</span><span id="A5" class="AuthorSuper">5</span>, Matthew Wood<span class="AuthorSuper">1</span><span id="A9" class="AuthorSuper">,9</span>, Balint Z. Kacsoh<span id="A6" class="AuthorSuper">6</span>, Stephanie J. Bouley<span id="A1" class="AuthorSuper">1</span>, Jingxuan Cui<span id="A6" class="AuthorSuper">6</span>, Joanna Hamilton<span id="A1" class="AuthorSuper">1,</span><span id="A7" class="AuthorSuper">7</span>, Jungbin A. Choi<span id="A1" class="AuthorSuper">1</span>, Joshua T. Lange<span id="A1" class="AuthorSuper">1</span>, Jason D. Peterson<span id="A3" class="AuthorSuper">3</span>, Vijayalakshmi Padmanabhan<span id="A3" class="AuthorSuper">3</span>, Craig R. Tomlinson<span id="A1" class="AuthorSuper">1,</span><span id="A5" class="AuthorSuper">5,</span><span id="A7" class="AuthorSuper">7</span>, Gregory J. Tsongalis<span id="A3" class="AuthorSuper">3,</span><span id="A5" class="AuthorSuper">5</span>, Arief A. Suriawinata<span id="A3" class="AuthorSuper">3</span>, Casey S. Greene<span id="A5" class="AuthorSuper">5,</span><span id="A6" class="AuthorSuper">6,</span><span id="A8" class="AuthorSuper">8</span><span id="A10" class="AuthorSuper">*</span>, Yolanda Sanchez<span id="A1" class="AuthorSuper">1,</span><span id="A5" class="AuthorSuper">5</span><span id="A10" class="AuthorSuper">*</span>, Kerrington D. Smith<span id="A2" class="AuthorSuper">2,</span><span id="A5" class="AuthorSuper">5</span></p> <p id="A1" class="org"><span class="AuthorNumber">1</span>Department of Pharmacology and Toxicology, Geisel School of Medicine, Dartmouth College, Hanover, NH 03755, USA</p> <p id="A2" class="org"><span class="AuthorNumber">2</span>Department of Surgery, Division of Surgical Oncology, Dartmouth-Hitchcock Medical Center, Lebanon, NH 03756, USA</p> <p id="A3" class="org"><span class="AuthorNumber">3</span>Department of Pathology, Dartmouth-Hitchcock Medical Center, Lebanon, NH 03756, USA</p> <p id="A4" class="org"><span class="AuthorNumber">4</span>Department of Medicine, Section of Gastroenterology and Hepatology, Dartmouth-Hitchcock Medical Center, Lebanon, NH 03756, USA</p> <p id="A5" class="org"><span class="AuthorNumber">5</span>Dartmouth-Hitchcock Norris Cotton Cancer Center, Lebanon, NH 03756, USA</p> <p id="A6" class="org"><span class="AuthorNumber">6</span>Department of Genetics, Geisel School of Medicine, Dartmouth College, Hanover, NH 03756, USA</p> <p id="A7" class="org"><span class="AuthorNumber">7</span>Department of Medicine, Dartmouth-Hitchcock Medical Center, Lebanon, NH 03756, USA</p> <p id="A8" class="org"><span class="AuthorNumber">8</span>Institute for Quantitative Biomedical Sciences, Dartmouth College, Hanover, NH 03755, USA</p> <p id="A9" class="org"><span class="AuthorNumber">9</span>Current location: Department of Pathology, University of California, San Francisco, CA 94143, USA</p> <p id="A10" class="org"><span class="AuthorNumber">*</span>These authors have contributed equally to this work</p> <p id="fn" class="pub-info">Correspondence to:</p> <p id="vcard">Kerrington Smith, e-mail: <a href="/cdn-cgi/l/email-protection#650e0017170c0b02110a0b4b014b16080c110d250d0c11060d060a060e4b0a1702"><span class="__cf_email__" data-cfemail="32595740405b5c55465d5c1c561c415f5b465a725a5b46515a515d51591c5d4055">[email&#160;protected]</span></a></p> <p class="Keywords"><span class="CorespondanceBold">Keywords:</span> patient-derived xenograft, fine needle aspirate biopsy, pancreatic ductal adenocarcinoma, KRAS, CDK9</p> <p class="Date"><span class="CorespondanceBold">Received:</span> July 03, 2015&emsp;&emsp;&emsp;&emsp;<span class="CorespondanceBold">Accepted:</span> January 13, 2016&emsp;&emsp;&emsp;&emsp;<span class="CorespondanceBold">Published:</span> February 25, 2016</p></div></div> <p class="body-heading">ABSTRACT</p> <p class="BodyText">N-of-1 trials target actionable mutations, yet such approaches do not test genomically-informed therapies in patient tumor models prior to patient treatment. To address this, we developed patient-derived xenograft (PDX) models from fine needle aspiration (FNA) biopsies (FNA-PDX) obtained from primary pancreatic ductal adenocarcinoma (PDAC) at the time of diagnosis. Here, we characterize PDX models established from one primary and two metastatic sites of one patient. We identified an activating <em>KRAS</em> G12R mutation among other mutations in these models. In explant cells derived from these PDX tumor models with a <em>KRAS</em> G12R mutation, treatment with inhibitors of CDKs (including CDK9) reduced phosphorylation of a marker of CDK9 activity (phospho-RNAPII CTD Ser2/5) and reduced viability/growth of explant cells derived from PDAC PDX models. Similarly, a CDK inhibitor reduced phospho-RNAPII CTD Ser2/5, increased apoptosis, and inhibited tumor growth in FNA-PDX and patient-matched metastatic-PDX models. In summary, PDX models can be constructed from FNA biopsies of PDAC which in turn can enable genomic characterization and identification of potential therapies.</p>
+												</p>
+		</div>
+	
+	
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	if ($("#extendedInfo").length || $("#PDFer").length) {
+		$(".oldStyle").hide();
+		$("#sidebarRTAuthorBios").hide();
+	}
+	if(!$('#AuthorInformation').length) {
+		$(".oldStyle").hide();
+		$("#sidebarRTAuthorBios").hide();
+	}
+</script>
+
+
+
+
+<script type="text/javascript">
+var rmHeaderBorderTop = {
+	noBD: function(){
+		var artPageHeadings = document.getElementsByClassName('Heading');
+		for (var i = 0; i < artPageHeadings.length; i++) {
+			artPageHeadings[i].setAttribute('style','border-top-width:0px');
+		}
+	}
+}
+rmHeaderBorderTop.noBD();
+</script>
+
+
+
+<script>
+	window.addEventListener("load", pageLoaded, false);
+	function pageLoaded() {
+		let tarArtBT = $('#content > div.titleAndBadge');
+		if (tarArtBT[0].children[0].className === "altmetric-embed altmetric-hidden") {
+			tarArtBT[0].children[0].nextElementSibling.setAttribute('class', 'tocArticleTitleHidden');
+		}
+	}
+</script>
+
+
+
+	<div style="position:relative; top:10px;">
+		<div id="trendmd-suggestions"></div>		<br />
+		<a rel="license" target="_new" href="https://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="/images/80x15.png" /></a>
+		All site content, except where otherwise noted, is licensed under a <a target="_blank" rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 License</a>.
+		<br/>
+		<span class="article__pii">
+							PII: <em>7718</em>
+					</span>
+	</div>
+
+</div>
+<div style="clear:both;"/>
+</div>
+
+	
+		<script defer src='//js.trendmd.com/trendmd.min.js' data-trendmdconfig='{"journal_id":"76717", "element":"#trendmd-suggestions"}'></script>
+	
+
+	<script type="text/javascript">
+		
+		let tracker = null;
+		let trenmd_widget = $("#trendmd-suggestions");
+		let lft_sbar = $("#leftSidebar");
+		let prev_container_height = 0;
+	
+		new MutationObserver(() => {
+			let child = $(trenmd_widget).children('div').first();
+			if (child && !tracker) {
+				$(child).find('h3:contains("We recommend")').html("Recommended articles from TrendMD").css('text-transform','none');
+				tracker = new MutationObserver(() => {
+					let container_height = $(child).height();
+					if (prev_container_height == container_height) { return; }
+	
+					$(trenmd_widget).height(container_height);
+					$(lft_sbar).height($(lft_sbar).height()-prev_container_height);
+					dispatchEvent(new Event('load'));
+					prev_container_height = container_height;
+				}).observe($(child).get(0), { attributes:true, subtree: true });
+			}
+		}).observe(document.querySelector('div#trendmd-suggestions'), { childList: true });
+	
+	</script>
+
+</body>
+</html>
