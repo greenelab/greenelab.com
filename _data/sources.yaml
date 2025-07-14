@@ -18,7 +18,7 @@
   image: /images/research/pmc_11790236_pcbi.1012742.g001.jpg
 - id: doi:10.1016/j.ajhg.2023.12.001
   image: /images/research/github_6d8d5eac-8db8-4b8f-8390-8a59e4179172.png
-- id: doi:10.1- id: doi:10.1101/055913
+- id: doi:10.1101/055913
   buttons:
   - type: preprint
   - type: server
