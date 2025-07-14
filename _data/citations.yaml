@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/1055-9965.EPI-25-0371
+  title: An analytic pipeline to obtain reliable genetic ancestry estimates from tumor-derived
+    RNA sequencing data
+  authors:
+  - Courtney E. Johnson
+  - Ximing Ran
+  - Julia Wrobel
+  - Natalie R. Davidson
+  - Casey S. Greene
+  - Michael P. Epstein
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: Cancer Epidemiology, Biomarkers &amp; Prevention
+  date: '2025-07-07'
+  link: https://doi.org/g9stn9
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5281/zenodo.15597460
   title: hetionet-analysis
   authors:
@@ -1179,9 +1200,8 @@
   link: https://doi.org/gs3vwj
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: sources.py
-  file: sources.yaml
-  image: /images/research/280800085-53508d42-5f7a-4994-9c4a-d81c8e4a1b9e.png
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/nar/gkad289
   title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
     and user-created collections of genes'
@@ -3434,7 +3454,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/wiley_gepi22262-fig-0001-m.jpg
   buttons:
   - url: https://www.penncil.org/software
     text: YETI2 Software
@@ -4275,7 +4294,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/annualreviews_bd020001_f1.gif
+  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
 - id: doi:10.1101/566455
   title: Genomic profiling of childhood tumor patient-derived xenograft models to
     enable rational clinical trial design
@@ -7720,7 +7739,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/stm_sciencemag_9_376_cover.gif
   buttons:
   - url: http://doi.org/10.1016/j.cels.2016.12.011
     text: Khurana et al.
@@ -7856,7 +7874,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/stm_sciencemag_8_346_cover.gif
 - id: doi:10.1371/journal.pbio.1002475
   title: Evolution of High Cellulolytic Activity in Symbiotic Streptomyces through
     Selection of Expanded Gene Content and Coordinated Gene Expression
@@ -7906,7 +7923,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/biorxiv_055913_F4.large.jpg
   buttons:
   - type: preprint
   - type: server
@@ -7915,6 +7931,7 @@
   - type: app
     link: https://github.org/greenelab/tribe-client
     text: Tribe web app
+  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
 - id: doi:10.1101/051524
   title: Pathway and network-based strategies to translate genetic discoveries into
     effective therapies
@@ -7974,7 +7991,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/stm_sciencemag_8_358_cover.gif
 - id: doi:10.1128/mSystems.00025-15
   title: ADAGE-Based Integration of Publicly Available Pseudomonas aeruginosa Gene
     Expression Data with Denoising Autoencoders Illuminates Microbe-Host Interactions
@@ -7990,7 +8006,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/msystems_asm_e00025-15_F2.medium.gif
+  image: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
   buttons:
   - type: preprint
     link: http://biorxiv.org/content/early/2015/11/05/030650
@@ -8184,7 +8200,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/stm_sciencemag_8_370_cover.gif
   buttons:
   - url: http://doi.org/10.1038/srep39259
     text: Tatlow et al.
@@ -8199,7 +8214,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/stm_sciencemag_8_334_cover.gif
 - id: doi:10.7717/peerj.1621
   title: Cross-platform normalization of microarray and RNA-seq data for machine learning
     applications
@@ -8250,7 +8264,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/aha_179fig01.jpg
   buttons:
   - type: source
     link: https://github.com/dhimmel/snplentiful
@@ -8305,7 +8318,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/stm_sciencemag_8_352_cover.gif
 - id: doi:10.1126/scitranslmed.aal0067
   title: "How to know what we don\u2019t"
   authors:
@@ -8317,7 +8329,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/stm_sciencemag_8_364_cover.gif
   buttons:
   - link: http://doi.org/10.1038/srep39259
     text: Zhou et al.
@@ -9039,7 +9050,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/wiley_jcp24662-fig-0001-m.jpg
 - id: doi:10.1186/1756-0381-7-17
   title: "Computational genetics analysis of grey matter density in Alzheimer\u2019\
     s disease"
@@ -9172,7 +9182,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: /images/research/nyaspubs_wiley_nyas_2012_1260_cover.gif
 - id: doi:10.1371/journal.pcbi.1002816
   title: 'Chapter 2: Data-Driven View of Disease Biology'
   authors:
@@ -10369,7 +10378,7 @@
   publisher: 'Circulation: Cardiovascular Quality and Outcomes'
   date: '2019-07-01'
   link: https://doi.org/ggbpgq
-  image: /images/research/aha_e005122fig02.gif
+  image: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/159756
@@ -10425,7 +10434,6 @@
   publisher: Science Advances
   date: '2020-09-11'
   link: https://doi.org/ghbvbf
-  image: /images/research/sciadv_eaba2083_F1.large.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/833210
@@ -10736,7 +10744,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-04'
   link: https://doi.org/gg7m52
-  image: /images/research/biorxiv_793091_F2.medium.gif
   buttons:
   - type: preprint
   plugin: sources.py
@@ -10799,7 +10806,6 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2019-10-03'
   link: https://doi.org/ggh6rz
-  image: /images/research/biorxiv_787903_F1.medium.gif
   buttons:
   - type: preprint
   plugin: sources.py
@@ -11171,7 +11177,6 @@
   publisher: Journal of The Royal Society Interface
   date: '2018-04-01'
   link: https://doi.org/gddkhn
-  image: /images/research/royal_society_rsif20170387f01.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/142760
@@ -11193,7 +11198,7 @@
   publisher: Journal of Bacteriology
   date: '2018-04-15'
   link: https://doi.org/gg7qrt
-  image: /images/research/jb_asm_e00703-17_F4.medium.gif
+  image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/198481
@@ -11353,7 +11358,6 @@
   publisher: Biocomputing 2018
   date: '2017-11-17'
   link: https://doi.org/gfspsd
-  image: /images/research/biorxiv_174474_F2.medium.gif
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/174474
@@ -11384,7 +11388,6 @@
   publisher: Science Translational Medicine
   date: '2016-05-25'
   link: https://doi.org/gg7qr2
-  image: /images/research/stm_sciencemag_8_340_cover.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.116.033514
