@@ -574,6 +574,7 @@
   - Deepashree Venkatesh Prasad
   - Nozomi Ichihara
   - Arkadii Yakovets
+  - Avrohom M. Gottlieb
   - Kurt G. Wheeler
   - Chante J. Bethell
   - Steven M. Foltz
@@ -1327,18 +1328,18 @@
   title: Supporting data for "Hetnet connectivity search provides rapid insights into
     how two biomedical entities are related"
   authors:
-  - Himmelstein S Daniel
-  - Zietz Michael
-  - Rubinetti Vincent
-  - Kloster Kyle
-  - Heil J Benjamin
-  - Alquaddoomi Faisal
-  - Hu Dongbo
-  - Nicholson N David
-  - Hao Yun
-  - Sullivan D Blair
-  - Nagle W Michael
-  - Greene S Casey
+  - Daniel, S Himmelstein
+  - Michael Zietz
+  - Vincent Rubinetti
+  - Kyle Kloster
+  - Benjamin, J Heil
+  - Faisal Alquaddoomi
+  - Dongbo Hu
+  - David, N Nicholson
+  - Yun Hao
+  - Blair, D Sullivan
+  - Michael, W Nagle
+  - Casey, S Greene
   publisher: GigaScience Database
   date: '2023-01-01'
   link: https://doi.org/gr77bv
@@ -4146,11 +4147,11 @@
   title: Supporting data for "Correcting for experiment-specific variability in expression
     compendia can remove underlying signals"
   authors:
-  - Lee J Alexandra
-  - Park YoSon
-  - Doing Georgia
-  - Hogan A Deborah
-  - Greene S Casey
+  - Alexandra, J Lee
+  - YoSon Park
+  - Georgia Doing
+  - Deborah, A Hogan
+  - Casey, S Greene
   publisher: GigaScience Database
   date: '2020-01-01'
   link: https://doi.org/gqs2qq
