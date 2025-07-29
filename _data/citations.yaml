@@ -1948,6 +1948,26 @@
   buttons:
   - type: preprint
     link: https://arxiv.org/abs/2104.11364
+- id: doi:10.48550/arxiv.2109.08633
+  title: An Open-Publishing Response to the COVID-19 Infodemic
+  authors:
+  - Halie M. Rando
+  - Simina M. Boca
+  - Lucy D'Agostino McGowan
+  - Daniel S. Himmelstein
+  - Michael P. Robson
+  - Vincent Rubinetti
+  - Ryan Velazquez
+  - COVID-19 Review Consortium
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/gt6s6s
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.cels.2021.07.007
   title: Analysis of scientific society honors reveals disparities
   authors:
@@ -4473,6 +4493,29 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
+- id: issn:23356936 23356928
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/23356936 23356928
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/385534
+  title: Parameter tuning is a key part of dimensionality reduction via deep variational
+    autoencoders for single cell RNA transcriptomics
+  authors:
+  - Qiwen Hu
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-08-05'
+  link: https://doi.org/gdxxjf
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -8215,6 +8258,16 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
+- id: wosuid:WOS:000386326200051
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000386326200051
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7717/peerj.1621
   title: Cross-platform normalization of microarray and RNA-seq data for machine learning
     applications
@@ -8356,6 +8409,17 @@
   buttons:
   - type: source
     link: https://github.com/greenelab/adni-netwas
+- id: doi:10.1126/scitranslmed.aaf9196
+  title: Nothing but a hound dog
+  authors:
+  - Casey S. Greene
+  publisher: Science Translational Medicine
+  date: '2016-05-25'
+  link: https://doi.org/gg7qr2
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1093/bib/bbv087
   title: Recent Advances and Emerging Applications in Text and Data Mining for Biomedical
     Discovery
@@ -9016,12 +9080,30 @@
     text: Raw networks
   - type: app
     link: http://giant.princeton.edu/
+- title: Unsupervised feature construction and knowledge extraction from genome-wide
+    assays of breast cancer with denoising autoencoders
+  publisher: 20th Pacific Symposium on Biocomputing, PSB 2015
+  date: '2024-08-07'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84971231452&partnerID=MN8TOARS
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: wosuid:MEDLINE:25592575
   title: Web of Science
   authors: []
   publisher: ''
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:MEDLINE:25592575
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Applications of bioinformatics to non-coding RNAs in the era of next-generation
+    sequencing
+  publisher: 19th Pacific Symposium on Biocomputing, PSB 2014
+  date: '2024-08-07'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84905885881&partnerID=MN8TOARS
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9151,6 +9233,17 @@
   publisher: PLoS ONE
   date: '2013-08-02'
   link: https://doi.org/f5c52s
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:23356936
+  title: ISSN 2335-6936 (Online) | Pacific symposium on biocomputing ... | The ISSN
+    Portal
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/23356936
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9294,6 +9387,16 @@
   publisher: Lecture Notes in Computer Science
   date: '2010-01-01'
   link: https://doi.org/ftvddm
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000411479100034
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000411479100034
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -9570,6 +9673,16 @@
   publisher: ''
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000260871600142
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- title: Using expert knowledge in initialization for genome-wide analysis of epistasis
+    using genetic programming
+  publisher: 'GECCO''08: Proceedings of the 10th Annual Conference on Genetic and
+    Evolutionary Computation 2008'
+  date: '2024-08-07'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-57349142365&partnerID=MN8TOARS
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -11380,15 +11493,6 @@
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/062695
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1126/scitranslmed.aaf9196
-  title: Nothing but a hound dog
-  authors:
-  - Casey S. Greene
-  publisher: Science Translational Medicine
-  date: '2016-05-25'
-  link: https://doi.org/gg7qr2
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.116.033514
