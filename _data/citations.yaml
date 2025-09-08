@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/1055-9965.EPI-25-0762
+  title: Homologous recombination deficiency and survival in ovarian high-grade serous
+    carcinoma by self-reported race
+  authors:
+  - Katherine A. Lawson-Michod
+  - Courtney E. Johnson
+  - Mollie E. Barnard
+  - Natalie R. Davidson
+  - Lindsay J. Collin
+  - David A. Nix
+  - Chad D. Huff
+  - Andrew Berchuck
+  - Lucas A. Salas
+  - Casey S. Greene
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: Cancer Epidemiology, Biomarkers &amp; Prevention
+  date: '2025-09-04'
+  link: https://doi.org/g92tv7
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/1055-9965.EPI-25-0371
   title: An analytic pipeline to obtain reliable genetic ancestry estimates from tumor-derived
     RNA sequencing data
@@ -17,6 +42,103 @@
   publisher: Cancer Epidemiology, Biomarkers &amp; Prevention
   date: '2025-07-07'
   link: https://doi.org/g9stn9
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.c.8012108
+  title: Data from An Analytic Pipeline to Obtain Reliable Genetic Ancestry Estimates
+    from Tumor-Derived RNA Sequencing Data
+  authors:
+  - Courtney E. Johnson
+  - Ximing Ran
+  - Julia Wrobel
+  - Natalie R. Davidson
+  - Casey S. Greene
+  - Michael P. Epstein
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-09-02'
+  link: https://doi.org/g92tv8
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.30029672
+  title: Supplementary Figure S1 from An Analytic Pipeline to Obtain Reliable Genetic
+    Ancestry Estimates from Tumor-Derived RNA Sequencing Data
+  authors:
+  - Courtney E. Johnson
+  - Ximing Ran
+  - Julia Wrobel
+  - Natalie R. Davidson
+  - Casey S. Greene
+  - Michael P. Epstein
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-09-02'
+  link: https://doi.org/g92tv9
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.30029669
+  title: Supplementary Table S1 from An Analytic Pipeline to Obtain Reliable Genetic
+    Ancestry Estimates from Tumor-Derived RNA Sequencing Data
+  authors:
+  - Courtney E. Johnson
+  - Ximing Ran
+  - Julia Wrobel
+  - Natalie R. Davidson
+  - Casey S. Greene
+  - Michael P. Epstein
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-09-02'
+  link: https://doi.org/g92twb
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.30029666
+  title: Supplementary Table S2 from An Analytic Pipeline to Obtain Reliable Genetic
+    Ancestry Estimates from Tumor-Derived RNA Sequencing Data
+  authors:
+  - Courtney E. Johnson
+  - Ximing Ran
+  - Julia Wrobel
+  - Natalie R. Davidson
+  - Casey S. Greene
+  - Michael P. Epstein
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-09-02'
+  link: https://doi.org/g92twc
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.08.20.671333
+  title: Integrating single-cell and single-nucleus datasets improves bulk RNA-seq
+    deconvolution
+  authors:
+  - Adriana Ivich
+  - Casey S. Greene
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-08-24'
+  link: https://doi.org/g9x39d
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -136,7 +258,7 @@
   - Dave Bunten
   - Casey Greene
   publisher: Zenodo
-  date: '2025-05-21'
+  date: '2025-06-05'
   link: https://doi.org/g855cq
   orcid: 0000-0001-8713-9213
   member: casey-greene
