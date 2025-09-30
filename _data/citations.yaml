@@ -25,6 +25,24 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2025.09.15.676244
+  title: Characterizing intra- and inter-tumor heterogeneity in Ovarian high-grade
+    serous carcinoma subtypes using single-cell and spatial transcriptomics
+  authors:
+  - Weishan Li
+  - Laurie Grieshober
+  - Jason Gertz
+  - Adriana Ivich
+  - Jennifer A. Doherty
+  - Casey S. Greene
+  - Stephanie C. Hicks
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-09-15'
+  link: https://doi.org/g939k7
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/1055-9965.EPI-25-0371
   title: An analytic pipeline to obtain reliable genetic ancestry estimates from tumor-derived
     RNA sequencing data
