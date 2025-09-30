@@ -161,6 +161,18 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5281/zenodo.17228741
+  title: Lab Website Template
+  authors:
+  - Vincent Rubinetti
+  - Casey Greene
+  publisher: Zenodo
+  date: '2025-07-30'
+  link: https://doi.org/g95gnp
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5281/zenodo.15597460
   title: hetionet-analysis
   authors:
