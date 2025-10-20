@@ -44,8 +44,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1055-9965.EPI-25-0371
-  title: An analytic pipeline to obtain reliable genetic ancestry estimates from tumor-derived
-    RNA sequencing data
+  title: An Analytic Pipeline to Obtain Reliable Genetic Ancestry Estimates from Tumor-Derived
+    RNA Sequencing Data
   authors:
   - Courtney E. Johnson
   - Ximing Ran
