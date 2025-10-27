@@ -3119,7 +3119,7 @@
   - Robert Brown
   - Jenny Chang-Claude
   - Georgia Chenevix-Trench
-  - Anna DeFazio
+  - Anna deFazio
   - Peter A Fasching
   - "Mar\xEDa J Garc\xEDa"
   - Simon A Gayther
@@ -3846,107 +3846,6 @@
   - H. Sudderuddin
   - R. Mackenzie
   - J. George
-  - S. Fereday
-  - J. Hendley
-  - N. Traficante
-  - H. Steed
-  - J.M. Koziak
-  - "M. K\xF6bel"
-  - I.A. McNeish
-  - T. Goranova
-  - D. Ennis
-  - G. Macintyre
-  - D. Silva De Silva
-  - "T. Ram\xF3n y Cajal"
-  - "J. Garc\xEDa-Donas"
-  - S. Hernando Polo
-  - G.C. Rodriguez
-  - K.L. Cushing-Haugen
-  - H.R. Harris
-  - C.S. Greene
-  - R.A. Zelaya
-  - S. Behrens
-  - R.T. Fortner
-  - P. Sinn
-  - E. Herpel
-  - J. Lester
-  - "J. Lubi\u0144ski"
-  - O. Oszurek
-  - "A. To\u0142oczko"
-  - C. Cybulski
-  - J. Menkiszak
-  - C.L. Pearce
-  - M.C. Pike
-  - C. Tseng
-  - J. Alsop
-  - V. Rhenius
-  - H. Song
-  - M. Jimenez-Linan
-  - A.M. Piskorz
-  - A. Gentry-Maharaj
-  - C. Karpinskyj
-  - M. Widschwendter
-  - N. Singh
-  - C.J. Kennedy
-  - R. Sharma
-  - P.R. Harnett
-  - B. Gao
-  - S.E. Johnatty
-  - R. Sayer
-  - J. Boros
-  - S.J. Winham
-  - G.L. Keeney
-  - S.H. Kaufmann
-  - M.C. Larson
-  - H. Luk
-  - B.Y. Hernandez
-  - P.J. Thompson
-  - L.R. Wilkens
-  - M.E. Carney
-  - B. Trabert
-  - J. Lissowska
-  - L. Brinton
-  - M.E. Sherman
-  - C. Bodelon
-  - S. Hinsley
-  - L.A. Lewsley
-  - R. Glasspool
-  - S.N. Banerjee
-  - E.A. Stronach
-  - P. Haluska
-  - I. Ray-Coquard
-  - S. Mahner
-  - B. Winterhoff
-  - D. Slamon
-  - D.A. Levine
-  - L.E. Kelemen
-  - J. Benitez
-  - J. Chang-Claude
-  - J. Gronwald
-  - A.H. Wu
-  - U. Menon
-  - M.T. Goodman
-  - J.M. Schildkraut
-  - N. Wentzensen
-  - R. Brown
-  - A. Berchuck
-  - G. Chenevix-Trench
-  - A. deFazio
-  - S.A. Gayther
-  - "M.J. Garc\xEDa"
-  - M.J. Henderson
-  - M.A. Rossing
-  - A. Beeghly-Fadiel
-  - P.A. Fasching
-  - S. Orsulic
-  - B.Y. Karlan
-  - G.E. Konecny
-  - D.G. Huntsman
-  - D.D. Bowtell
-  - J.D. Brenton
-  - J.A. Doherty
-  - P.D.P. Pharoah
-  - S.J. Ramus
   - D. Bowtell
   - G. Chenevix-Trench
   - A. Green
@@ -4103,6 +4002,107 @@
   - D. Purdie
   - D. Whiteman
   - N. Zeps
+  - S. Fereday
+  - J. Hendley
+  - N. Traficante
+  - H. Steed
+  - J.M. Koziak
+  - "M. K\xF6bel"
+  - I.A. McNeish
+  - T. Goranova
+  - D. Ennis
+  - G. Macintyre
+  - D. Silva De Silva
+  - "T. Ram\xF3n y Cajal"
+  - "J. Garc\xEDa-Donas"
+  - S. Hernando Polo
+  - G.C. Rodriguez
+  - K.L. Cushing-Haugen
+  - H.R. Harris
+  - C.S. Greene
+  - R.A. Zelaya
+  - S. Behrens
+  - R.T. Fortner
+  - P. Sinn
+  - E. Herpel
+  - J. Lester
+  - "J. Lubi\u0144ski"
+  - O. Oszurek
+  - "A. To\u0142oczko"
+  - C. Cybulski
+  - J. Menkiszak
+  - C.L. Pearce
+  - M.C. Pike
+  - C. Tseng
+  - J. Alsop
+  - V. Rhenius
+  - H. Song
+  - M. Jimenez-Linan
+  - A.M. Piskorz
+  - A. Gentry-Maharaj
+  - C. Karpinskyj
+  - M. Widschwendter
+  - N. Singh
+  - C.J. Kennedy
+  - R. Sharma
+  - P.R. Harnett
+  - B. Gao
+  - S.E. Johnatty
+  - R. Sayer
+  - J. Boros
+  - S.J. Winham
+  - G.L. Keeney
+  - S.H. Kaufmann
+  - M.C. Larson
+  - H. Luk
+  - B.Y. Hernandez
+  - P.J. Thompson
+  - L.R. Wilkens
+  - M.E. Carney
+  - B. Trabert
+  - J. Lissowska
+  - L. Brinton
+  - M.E. Sherman
+  - C. Bodelon
+  - S. Hinsley
+  - L.A. Lewsley
+  - R. Glasspool
+  - S.N. Banerjee
+  - E.A. Stronach
+  - P. Haluska
+  - I. Ray-Coquard
+  - S. Mahner
+  - B. Winterhoff
+  - D. Slamon
+  - D.A. Levine
+  - L.E. Kelemen
+  - J. Benitez
+  - J. Chang-Claude
+  - J. Gronwald
+  - A.H. Wu
+  - U. Menon
+  - M.T. Goodman
+  - J.M. Schildkraut
+  - N. Wentzensen
+  - R. Brown
+  - A. Berchuck
+  - G. Chenevix-Trench
+  - A. deFazio
+  - S.A. Gayther
+  - "M.J. Garc\xEDa"
+  - M.J. Henderson
+  - M.A. Rossing
+  - A. Beeghly-Fadiel
+  - P.A. Fasching
+  - S. Orsulic
+  - B.Y. Karlan
+  - G.E. Konecny
+  - D.G. Huntsman
+  - D.D. Bowtell
+  - J.D. Brenton
+  - J.A. Doherty
+  - P.D.P. Pharoah
+  - S.J. Ramus
   publisher: Annals of Oncology
   date: '2020-09-01'
   link: https://doi.org/gg4mzh
@@ -6753,11 +6753,6 @@
   - Mitchell J. Frederick
   - Frank McCormick
   - Matthew Meyerson
-  - Eliezer M. Van Allen
-  - Andrew D. Cherniack
-  - Giovanni Ciriello
-  - Chris Sander
-  - Nikolaus Schultz
   - Samantha J. Caesar-Johnson
   - John A. Demchok
   - Ina Felau
@@ -7483,6 +7478,11 @@
   - Jung Il Lee
   - "Nat\xE1lia D. Aredes"
   - Armaz Mariamidze
+  - Eliezer M. Van Allen
+  - Andrew D. Cherniack
+  - Giovanni Ciriello
+  - Chris Sander
+  - Nikolaus Schultz
   publisher: Cell
   date: '2018-04-01'
   link: https://doi.org/gc7r9b
