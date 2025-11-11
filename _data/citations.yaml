@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1158/1055-9965.c.8126108
+  title: Data from Homologous Recombination Deficiency and Survival in Ovarian High-Grade
+    Serous Carcinoma by Self-Reported Race
+  authors:
+  - Katherine A. Lawson-Michod
+  - Courtney E. Johnson
+  - Mollie E. Barnard
+  - Natalie R. Davidson
+  - Lindsay J. Collin
+  - David A. Nix
+  - Chad D. Huff
+  - Andrew Berchuck
+  - Lucas A. Salas
+  - Casey S. Greene
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-03'
+  link: https://doi.org/g99tmd
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/1055-9965.EPI-25-0762
   title: Homologous recombination deficiency and survival in ovarian high-grade serous
     carcinoma by self-reported race
@@ -21,6 +46,156 @@
   publisher: Cancer Epidemiology, Biomarkers &amp; Prevention
   date: '2025-09-04'
   link: https://doi.org/g92tv7
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.30517322
+  title: Supplementary Figure 1 from Homologous Recombination Deficiency and Survival
+    in Ovarian High-Grade Serous Carcinoma by Self-Reported Race
+  authors:
+  - Katherine A. Lawson-Michod
+  - Courtney E. Johnson
+  - Mollie E. Barnard
+  - Natalie R. Davidson
+  - Lindsay J. Collin
+  - David A. Nix
+  - Chad D. Huff
+  - Andrew Berchuck
+  - Lucas A. Salas
+  - Casey S. Greene
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-03'
+  link: https://doi.org/g99tmf
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.30517319
+  title: Supplementary Figure 2 from Homologous Recombination Deficiency and Survival
+    in Ovarian High-Grade Serous Carcinoma by Self-Reported Race
+  authors:
+  - Katherine A. Lawson-Michod
+  - Courtney E. Johnson
+  - Mollie E. Barnard
+  - Natalie R. Davidson
+  - Lindsay J. Collin
+  - David A. Nix
+  - Chad D. Huff
+  - Andrew Berchuck
+  - Lucas A. Salas
+  - Casey S. Greene
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-03'
+  link: https://doi.org/g99tmg
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.30517313
+  title: Supplementary Figure 3 from Homologous Recombination Deficiency and Survival
+    in Ovarian High-Grade Serous Carcinoma by Self-Reported Race
+  authors:
+  - Katherine A. Lawson-Michod
+  - Courtney E. Johnson
+  - Mollie E. Barnard
+  - Natalie R. Davidson
+  - Lindsay J. Collin
+  - David A. Nix
+  - Chad D. Huff
+  - Andrew Berchuck
+  - Lucas A. Salas
+  - Casey S. Greene
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-03'
+  link: https://doi.org/g99tmh
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.30517310
+  title: Supplementary Table 1 from Homologous Recombination Deficiency and Survival
+    in Ovarian High-Grade Serous Carcinoma by Self-Reported Race
+  authors:
+  - Katherine A. Lawson-Michod
+  - Courtney E. Johnson
+  - Mollie E. Barnard
+  - Natalie R. Davidson
+  - Lindsay J. Collin
+  - David A. Nix
+  - Chad D. Huff
+  - Andrew Berchuck
+  - Lucas A. Salas
+  - Casey S. Greene
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-03'
+  link: https://doi.org/g99tmj
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.30517307
+  title: Supplementary Table 2 from Homologous Recombination Deficiency and Survival
+    in Ovarian High-Grade Serous Carcinoma by Self-Reported Race
+  authors:
+  - Katherine A. Lawson-Michod
+  - Courtney E. Johnson
+  - Mollie E. Barnard
+  - Natalie R. Davidson
+  - Lindsay J. Collin
+  - David A. Nix
+  - Chad D. Huff
+  - Andrew Berchuck
+  - Lucas A. Salas
+  - Casey S. Greene
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-03'
+  link: https://doi.org/g99tmk
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1055-9965.30517304
+  title: Supplementary Table 3 from Homologous Recombination Deficiency and Survival
+    in Ovarian High-Grade Serous Carcinoma by Self-Reported Race
+  authors:
+  - Katherine A. Lawson-Michod
+  - Courtney E. Johnson
+  - Mollie E. Barnard
+  - Natalie R. Davidson
+  - Lindsay J. Collin
+  - David A. Nix
+  - Chad D. Huff
+  - Andrew Berchuck
+  - Lucas A. Salas
+  - Casey S. Greene
+  - Jeffrey R. Marks
+  - Lauren C. Peres
+  - Jennifer A. Doherty
+  - Joellen M. Schildkraut
+  publisher: American Association for Cancer Research (AACR)
+  date: '2025-11-03'
+  link: https://doi.org/g99tmm
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
