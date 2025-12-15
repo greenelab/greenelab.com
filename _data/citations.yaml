@@ -38,8 +38,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1158/1055-9965.EPI-25-0762
-  title: Homologous recombination deficiency and survival in ovarian high-grade serous
-    carcinoma by self-reported race
+  title: Homologous Recombination Deficiency and Survival in Ovarian High-Grade Serous
+    Carcinoma by Self-Reported Race
   authors:
   - Katherine A. Lawson-Michod
   - Courtney E. Johnson
