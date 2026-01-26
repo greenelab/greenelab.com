@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.01.14.699527
+  title: Deconvolved tumor adipocyte proportions and high grade serous ovarian carcinoma
+    survival
+  authors:
+  - Adriana Ivich
+  - Laurie Grieshober
+  - Natalie R. Davidson
+  - Grace Y. Akatsu
+  - Lauren C. Peres
+  - Stephanie C. Hicks
+  - Jeffrey R. Marks
+  - Joellen M. Schildkraut
+  - Jennifer A. Doherty
+  - Casey S. Greene
+  publisher: openRxiv
+  date: '2026-01-19'
+  link: https://doi.org/hbmcxb
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.5281/zenodo.17228741
   title: Lab Website Template
   authors:
@@ -798,7 +819,7 @@
   - Stephanie C. Hicks
   - Jennifer A. Doherty
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-04-28'
   link: https://doi.org/gtsgj7
   orcid: 0000-0001-8713-9213
@@ -908,7 +929,7 @@
   - "Jennifer O\u2019Malley"
   - Casey S. Greene
   - Jaclyn N. Taroni
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-04-24'
   link: https://doi.org/gt6s6h
   orcid: 0000-0001-8713-9213
@@ -1022,8 +1043,10 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2023.08.21.554169
-  title: Analysis of<i>Pseudomonas aeruginosa</i>transcription in an<i>ex vivo</i>cystic
-    fibrosis sputum model identifies metal restriction as a gene expression stimulus
+  title: "Analysis of\n                  <i>Pseudomonas aeruginosa</i>\n         \
+    \         transcription in an\n                  <i>ex vivo</i>\n            \
+    \      cystic fibrosis sputum model identifies metal restriction as a gene expression\
+    \ stimulus"
   authors:
   - Samuel L. Neff
   - Georgia Doing
@@ -1031,7 +1054,7 @@
   - Thomas H. Hampton
   - Casey S. Greene
   - Deborah A. Hogan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-08-21'
   link: https://doi.org/gsmvkq
   orcid: 0000-0001-8713-9213
@@ -1315,13 +1338,13 @@
   - type: editorial
     link: https://www.nature.com/articles/s42256-023-00643-3
 - id: doi:10.1101/2023.07.20.549951
-  title: BuDDI:<i>Bulk Deconvolution with Domain Invariance</i>to predict cell-type-specific
-    perturbations from bulk
+  title: "BuDDI:\n                  <i>Bulk Deconvolution with Domain Invariance</i>\n\
+    \                  to predict cell-type-specific perturbations from bulk"
   authors:
   - Natalie R. Davidson
   - Fan Zhang
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-07-22'
   link: https://doi.org/gshs97
   orcid: 0000-0001-8713-9213
@@ -1406,7 +1429,7 @@
   - Jennifer A. Doherty
   - Stephanie C. Hicks
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-06-15'
   link: https://doi.org/gsctmw
   orcid: 0000-0001-8713-9213
@@ -1480,7 +1503,7 @@
   - Casey S. Greene
   - Sean Davis
   - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-10-11'
   link: https://doi.org/gsvf5z
   orcid: 0000-0001-8713-9213
@@ -1523,7 +1546,7 @@
   - Joellen M. Schildkraut
   - Casey S. Greene
   - Jennifer A. Doherty
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-11-04'
   link: https://doi.org/gs3vwj
   orcid: 0000-0001-8713-9213
@@ -1770,7 +1793,7 @@
   authors:
   - Benjamin J. Heil
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-01-06'
   link: https://doi.org/grk9gf
   orcid: 0000-0001-8713-9213
@@ -1810,7 +1833,7 @@
   - Marylyn D. Ritchie
   - Diego H. Milone
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-06-17'
   link: https://doi.org/gqcvbw
   orcid: 0000-0001-8713-9213
@@ -1918,7 +1941,7 @@
   - Steve Hess
   - Kathleen C Barnes
   - Christopher R Gignoux
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-06-14'
   link: https://doi.org/gt6s6n
   orcid: 0000-0001-8713-9213
@@ -1926,8 +1949,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2022.04.14.488429
-  title: Compendium-wide analysis of <i>P. aeruginosa</i> core and accessory genes
-    reveal more nuanced transcriptional patterns
+  title: "Compendium-wide analysis of\n                  <i>P. aeruginosa</i>\n  \
+    \                core and accessory genes reveal more nuanced transcriptional\
+    \ patterns"
   authors:
   - Alexandra J. Lee
   - Georgia Doing
@@ -1935,7 +1959,7 @@
   - Taylor Reiter
   - Deborah A. Hogan
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-04-15'
   link: https://doi.org/gpxkwr
   orcid: 0000-0001-8713-9213
@@ -1957,8 +1981,8 @@
   file: sources.yaml
   image: /images/research/151673050-2dbf666a-eb90-4891-b26e-486131af8fc6.png
 - id: doi:10.1101/2022.01.24.477642
-  title: Computationally efficient assembly of a <i>Pseudomonas aeruginos</i>a gene
-    expression compendium
+  title: "Computationally efficient assembly of a\n                  <i>Pseudomonas\
+    \ aeruginos</i>\n                  a gene expression compendium"
   authors:
   - Georgia Doing
   - Alexandra J. Lee
@@ -1967,7 +1991,7 @@
   - Bruce A. Stanton
   - Casey S. Greene
   - Deborah A. Hogan
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-01-25'
   link: https://doi.org/gn984c
   orcid: 0000-0001-8713-9213
@@ -2102,7 +2126,7 @@
   - Jennifer A. Doherty
   - Stephanie C. Hicks
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-12-05'
   link: https://doi.org/grgnw9
   orcid: 0000-0001-8713-9213
@@ -2157,7 +2181,7 @@
   - Benjamin J. Heil
   - Jake Crawford
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-06-26'
   link: https://doi.org/gqhgwk
   orcid: 0000-0001-8713-9213
@@ -2211,7 +2235,7 @@
   - Jake Crawford
   - Jacob R. Gardner
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-04-11'
   link: https://doi.org/gpzf7p
   orcid: 0000-0001-8713-9213
@@ -2714,7 +2738,7 @@
   - James C. Costello
   - Deborah A. Hogan
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-05-24'
   link: https://doi.org/gj6qv4
   orcid: 0000-0001-8713-9213
@@ -2809,7 +2833,7 @@
   - Casey Greene
   - Levi Waldron
   - Sean Davis
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-05-27'
   link: https://doi.org/gj74m9
   orcid: 0000-0001-8713-9213
@@ -2911,7 +2935,7 @@
   - Marvin Thielk
   - Lawrence E. Hunter
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-03-04'
   link: https://doi.org/gh7rph
   orcid: 0000-0001-8713-9213
@@ -2979,7 +3003,7 @@
   - Hae Kyung Im
   - Casey S. Greene
   - Marylyn D. Ritchie
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-10-26'
   link: https://doi.org/gnbdnb
   orcid: 0000-0001-8713-9213
@@ -3023,7 +3047,7 @@
   - Marylyn D. Ritchie
   - Struan F.A. Grant
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-07-06'
   link: https://doi.org/gk9g25
   orcid: 0000-0001-8713-9213
@@ -3460,7 +3484,7 @@
   - Ariel A. Hippen Anderson
   - Matthew R. Gazzara
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-04-14'
   link: https://doi.org/ggr64p
   orcid: 0000-0001-8713-9213
@@ -3837,7 +3861,7 @@
   - Babette S. Zemel
   - Kurt Hankenson
   - Struan F. A. Grant
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-02-20'
   link: https://doi.org/gg7m5r
   orcid: 0000-0001-8713-9213
@@ -3849,7 +3873,7 @@
   authors:
   - Jake Crawford
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-01-21'
   link: https://doi.org/gg7m5p
   orcid: 0000-0001-8713-9213
@@ -3935,7 +3959,7 @@
   - Ben Silbermann
   - Feng Zhang
   - Xihong Lin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-06-11'
   link: https://doi.org/gg8skn
   orcid: 0000-0001-8713-9213
@@ -4290,8 +4314,8 @@
   - ovarian cancer
   - genomics
 - id: doi:10.1073/pnas.1917576117
-  title: "<i>Pseudomonas aeruginosa lasR</i>\n            mutant fitness in microoxia\
-    \ is supported by an Anr-regulated oxygen-binding hemerythrin"
+  title: "<i>Pseudomonas aeruginosa lasR</i>\n                    mutant fitness in\
+    \ microoxia is supported by an Anr-regulated oxygen-binding hemerythrin"
   authors:
   - Michelle E. Clay
   - John H. Hammond
@@ -4440,7 +4464,7 @@
   - Hakon Hakonarson
   - Tom Curran
   - Malay Haldar
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-02-13'
   link: https://doi.org/gg7m5q
   orcid: 0000-0001-8713-9213
@@ -4809,7 +4833,7 @@
   - Vincent Rubinetti
   - Daniel S. Himmelstein
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-03-11'
   link: https://doi.org/gfxjxf
   orcid: 0000-0001-8713-9213
@@ -5277,9 +5301,6 @@
   - Peter W. Laird
   - David A. Wheeler
   - Ilya Shmulevich
-  - Raymond J. Monnat
-  - Yonghong Xiao
-  - Chen Wang
   - Samantha J. Caesar-Johnson
   - John A. Demchok
   - Ina Felau
@@ -6005,6 +6026,9 @@
   - Jung Il Lee
   - "Nat\xE1lia D. Aredes"
   - Armaz Mariamidze
+  - Raymond J. Monnat
+  - Yonghong Xiao
+  - Chen Wang
   publisher: Cell Reports
   date: '2018-04-01'
   link: https://doi.org/gfspsc
@@ -6059,7 +6083,7 @@
   - Jeffrey Krischer
   - Peter A. Merkel
   - Matthias Kretzler
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2018-09-27'
   link: https://doi.org/gkwxhp
   orcid: 0000-0001-8713-9213
@@ -6081,8 +6105,6 @@
   - Marco Mina
   - Giovanni Ciriello
   - Nikolaus Schultz
-  - Yolanda Sanchez
-  - Casey S. Greene
   - Samantha J. Caesar-Johnson
   - John A. Demchok
   - Ina Felau
@@ -6808,6 +6830,8 @@
   - Jung Il Lee
   - "Nat\xE1lia D. Aredes"
   - Armaz Mariamidze
+  - Yolanda Sanchez
+  - Casey S. Greene
   publisher: Cell Reports
   date: '2018-04-01'
   link: https://doi.org/gfspsb
@@ -7719,7 +7743,7 @@
   - Casey S. Greene
   - Deborah A. Hogan
   - "George A. O\u2019Toole"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-10-04'
   link: https://doi.org/gg7m5m
   orcid: 0000-0001-8713-9213
@@ -7791,7 +7815,7 @@
   - "Ren\xE9 A. Zelaya"
   - Deborah A. Hogan
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-06-27'
   link: https://doi.org/gcw9f6
   orcid: 0000-0001-8713-9213
@@ -7820,7 +7844,7 @@
   authors:
   - Jaclyn N Taroni
   - Casey S Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-03-20'
   link: https://doi.org/gg7m5f
   orcid: 0000-0001-8713-9213
@@ -7853,7 +7877,7 @@
   - Michael F. Ochs
   - Yanxun Xu
   - Elana J. Fertig
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-10-02'
   link: https://doi.org/gg7m5k
   orcid: 0000-0001-8713-9213
@@ -7878,7 +7902,7 @@
   authors:
   - Gregory P. Way
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-08-11'
   link: https://doi.org/gcm44d
   orcid: 0000-0001-8713-9213
@@ -7893,7 +7917,7 @@
   - Gregory P. Way
   - Jennifer A. Doherty
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-07-20'
   link: https://doi.org/gg7m5j
   orcid: 0000-0001-8713-9213
@@ -8012,7 +8036,7 @@
   - Georgia Doing
   - Deborah A. Hogan
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2017-06-08'
   link: https://doi.org/gg7m5g
   orcid: 0000-0001-8713-9213
@@ -8133,7 +8157,7 @@
   - Michael T. Laub
   - Deborah A. Hogan
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2016-10-03'
   link: https://doi.org/gcgk9c
   orcid: 0000-0001-8713-9213
@@ -8164,7 +8188,7 @@
   - Arjun Krishnan
   - Jaclyn N. Taroni
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2016-08-28'
   link: https://doi.org/gkvcfm
   orcid: 0000-0001-8713-9213
@@ -8228,7 +8252,7 @@
   authors:
   - Brett K. Beaulieu-Jones
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2016-06-01'
   link: https://doi.org/bp4s
   orcid: 0000-0001-8713-9213
@@ -8244,7 +8268,7 @@
   - Alex T. Frase
   - Marylyn D. Ritchie
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2016-05-27'
   link: https://doi.org/gg7qrn
   orcid: 0000-0001-8713-9213
@@ -8301,7 +8325,7 @@
   - Patricia A Pioli
   - J. Matthew Mahoney
   - Michael L Whitfield
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2016-02-06'
   link: https://doi.org/gkvwr5
   orcid: 0000-0001-8713-9213
@@ -8701,14 +8725,14 @@
   file: sources.yaml
   image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1101/030650
-  title: ADAGE analysis of publicly available gene expression data collections illuminates<i>Pseudomonas
-    aeruginosa-host</i>interactions
+  title: "ADAGE analysis of publicly available gene expression data collections illuminates\n\
+    \                  <i>Pseudomonas aeruginosa-host</i>\n                  interactions"
   authors:
   - Jie Tan
   - John H. Hammond
   - Deborah A. Hogan
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2015-11-05'
   link: https://doi.org/gkw55s
   orcid: 0000-0001-8713-9213
@@ -10122,7 +10146,7 @@
   - Lauren C. Peres
   - Jennifer A. Doherty
   - Joellen M. Schildkraut
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-01-28'
   link: https://doi.org/g9fh2x
   plugin: sources.py
@@ -10172,7 +10196,7 @@
   - Maria Chikina
   - Casey S. Greene
   - Elizabeth A. Heller
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-08-02'
   link: https://doi.org/gskcvr
   image: /images/research/262141715-23a165d3-0156-4ba0-afc6-0ef260c46d7c.png
@@ -10185,7 +10209,7 @@
   - Jake Crawford
   - Maria Chikina
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-06-26'
   link: https://doi.org/gsdsvs
   image: /images/research/252371308-1ae174fe-1eb6-47c4-882b-5a3b982bc533.png
@@ -10199,7 +10223,7 @@
   - Kiley Graim
   - Greg Hampikian
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-06-29'
   link: https://doi.org/gsd85m
   image: /images/research/250271905-4eed44ba-528a-4a61-a4ec-fa90d51e61f9.jpg
@@ -10221,7 +10245,7 @@
   - Blair D. Sullivan
   - Michael W. Nagle
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-01-07'
   link: https://doi.org/grmcb9
   image: /images/research/211341569-e465826a-4cb1-41ea-a66f-162f420ea968.png
@@ -10292,7 +10316,7 @@
   - Casey S. Greene
   - Jo Lynne Rokita
   - Jaclyn N. Taroni
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2022-09-16'
   link: https://doi.org/gqvf99
   image: /images/research/211156503-c486bb87-5e6b-4295-88b9-2c454fe06e85.png
@@ -10308,7 +10332,7 @@
   - Christopher Williams
   - Michael W. Nagle
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-01-06'
   link: https://doi.org/grk9gd
   image: /images/research/211156151-21a97245-c17b-4a94-ae72-76d6cf66a535.png
@@ -10353,7 +10377,7 @@
   - Hae Kyung Im
   - Casey S. Greene
   - Marylyn D. Ritchie
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-10-26'
   link: https://doi.org/gnbdnb
   image: /images/research/140064066-677bad73-ae37-4968-aa77-ad854b6c8251.png
@@ -10425,7 +10449,7 @@
   authors:
   - Natalie R. Davidson
   - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-06-22'
   link: https://doi.org/gkscd5
   image: /images/research/122943080-f1e45d00-d333-11eb-8b8c-d481ebc554e5.png
@@ -10501,7 +10525,7 @@
   - Anupam Sule
   - Umit Topaloglu
   - Melissa A. Haendel
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-03-26'
   link: https://doi.org/gjk3ng
   image: /images/research/112666874-013a3400-8e33-11eb-9be9-5c74f3e397ea.png
@@ -11069,7 +11093,7 @@
   - T. Quertermous
   - K. Kirkegaard
   - S. B. Montgomery
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-10-04'
   link: https://doi.org/gg7m52
   buttons:
@@ -11131,7 +11155,7 @@
   - Alexis Battle
   - Kristin G Ardlie
   - Tuuli Lappalainen
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2019-10-03'
   link: https://doi.org/ggh6rz
   buttons:
@@ -11411,8 +11435,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.118.200867
-  title: New<i>Drosophila</i>Long-Term Memory Genes Revealed by Assessing Computational
-    Function Prediction Methods
+  title: "New\n                    <i>Drosophila</i>\n                    Long-Term\
+    \ Memory Genes Revealed by Assessing Computational Function Prediction Methods"
   authors:
   - Balint Z Kacsoh
   - Stephen Barton
@@ -11662,8 +11686,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1534/g3.117.300172
-  title: Machine Learning Analysis Identifies<i>Drosophila Grunge/Atrophin</i>as an
-    Important Learning and Memory Gene Required for Memory Retention and Social Learning
+  title: "Machine Learning Analysis Identifies\n                    <i>Drosophila\
+    \ Grunge/Atrophin</i>\n                    as an Important Learning and Memory\
+    \ Gene Required for Memory Retention and Social Learning"
   authors:
   - Balint Z Kacsoh
   - Casey S Greene
