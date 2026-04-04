@@ -44,12 +44,8 @@
 
 {% assign subtitle = site.subtitle %}
 
-{% capture site_url -%}
-  {{ "/" | absolute_url }}
-{%- endcapture %}
-{% capture page_url -%}
-  {{ page.url | absolute_url }}
-{%- endcapture %}
+{% assign site_url = "/" | absolute_url %}
+{% assign page_url = page.url | absolute_url %}
 
 {% assign description_source = page.meta_description | default: page.description %}
 {% if description_source == nil or description_source == "" %}
