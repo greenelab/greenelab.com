@@ -8,11 +8,7 @@
 {% endif %}
 
 {% assign type = site.data.types[page.role] %}
-{% if page.collection == "members" and page.group == "alum" %}
-  {% assign role_title = page.job_title %}
-{% else %}
-  {% assign role_title = page.job_title | default: type.description %}
-{% endif %}
+{% assign role_title = page.job_title | default: type.description %}
 
 {% assign author_name = page.author %}
 {% if page.author %}
