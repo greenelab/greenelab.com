@@ -10,7 +10,7 @@ Positions across our Department of Biomedical Informatics, including in our lab,
 ### Postdoctoral Researchers
 
 The Greene Lab welcomes applications for computational postdoctoral positions at the University of Colorado School of Medicine.
-Learn about these opportunities through our recent Post-Doctoral Fellow posting, and applications can only be accepted through the [CU Anschutz Taleo Portal](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=29720&lang=en).
+Open postdoctoral roles are listed on the [employment section of the DBMI website](https://medschool.cuanschutz.edu/dbmi/employment), and applications are handled through the CU Anschutz jobs portal linked from those postings.
 
 ### Graduate Students
 

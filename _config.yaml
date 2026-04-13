@@ -1,6 +1,7 @@
 # site properties and page defaults
 title: The Greene Lab
 description: Where data and biology meet
+url: https://greenelab.com
 logo-text: false
 header: images/backgrounds/laptop-paper.jpg
 footer: images/backgrounds/laptop-paper.jpg

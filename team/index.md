@@ -76,6 +76,6 @@ They have all made lasting contributions to science and to our hearts. ❤️
 {%
   include figure.html
   image="images/team/group-photo-2.jpg"
-  caption="The Greene Lab in their natural Philadelphia habitat"
+  caption="The Greene Lab during its Philadelphia era"
   width="100%"
 %}

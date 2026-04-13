@@ -55,7 +55,7 @@ We push to make software, tools, datasets, etc. that are freely available and op
 {%
   include feature.html
   image="images/home/code-photo.jpg"
-  link="resources"
+  link="tools"
   title="Open source, all the way"
   flip=true
   text=text
