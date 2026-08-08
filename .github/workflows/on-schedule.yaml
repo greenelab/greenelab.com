@@ -4,7 +4,8 @@ run-name: On schedule
 on:
   # run periodically
   schedule:
-    - cron: "0 0 * * 1"
+    # Monday at 00:17 UTC; avoids peak scheduler load.
+    - cron: "17 0 * * 1"
 
   # run manually by user
   workflow_dispatch:
