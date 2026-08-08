@@ -1,5 +1,5 @@
 name: versioning
-run-name: versioning tasks
+run-name: Versioning tasks
 
 on:
   pull_request:
@@ -20,27 +20,28 @@ jobs:
       github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     steps:
-      - name: Debug dump
-        uses: crazy-max/ghaction-dump-context@v2
-      - if: runner.debug == '1'
-        uses: mxschmitt/action-tmate@v3
-
-      - name: Checkout base branch contents
-        uses: actions/checkout@v4
+      - name: Checkout main branch contents
+        uses: actions/checkout@v7
         with:
           ref: main
-          path: base
+          path: main
 
-      - name: Checkout pr branch contents
-        uses: actions/checkout@v4
+      - name: Checkout PR branch contents
+        uses: actions/checkout@v7
         with:
           path: pr
 
+      - name: Lint actions
+        run: |
+          bash <(curl https://raw.githubusercontent.com/rhysd/actionlint/main/scripts/download-actionlint.bash)
+          ./actionlint -color
+        working-directory: pr
+
       - name: Install packages
-        run: npm install yaml semver
+        run: npm install yaml@2 semver@7
 
       - name: Check version, date, changelog
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const { readFileSync } = require("fs");
@@ -49,7 +50,7 @@ jobs:
 
             // load and parse file contents
             const { version: oldVersion, "date-released": oldDate } = parse(
-              readFileSync("base/CITATION.cff").toString()
+              readFileSync("main/CITATION.cff").toString()
             );
             const { version: newVersion, "date-released": newDate } = parse(
               readFileSync("pr/CITATION.cff").toString()
@@ -85,22 +86,15 @@ jobs:
       github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
-      - name: Debug dump
-        uses: crazy-max/ghaction-dump-context@v2
-
-      - name: Checkout branch contents
-        uses: actions/checkout@v4
+      - name: Checkout main branch contents
+        uses: actions/checkout@v7
 
       - name: Install packages
-        run: npm install yaml semver
-
-      - name: SSH debug
-        if: runner.debug == '1'
-        uses: mxschmitt/action-tmate@v3
+        run: npm install yaml@2 semver@7
 
       - name: Get version and body
         id: version
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const { readFileSync } = require("fs");
@@ -127,7 +121,7 @@ jobs:
             return { version, body };
 
       - name: Create GitHub release
-        uses: ncipollo/release-action@v1.14.0
+        uses: ncipollo/release-action@v1.21.0
         with:
           commit: ${{ github.ref }}
           tag: v${{ fromJson(steps.version.outputs.result).version }}

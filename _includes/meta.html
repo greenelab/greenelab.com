@@ -22,7 +22,7 @@
 {% endif %}
 
 {% assign fulltitle = "" | split: "," %}
-{% if title %}
+{% if title and title != "" %}
   {% assign fulltitle = fulltitle | push: title %}
 {% endif %}
 {% if page.collection == "members" %}
@@ -33,7 +33,7 @@
     {% assign fulltitle = fulltitle | push: "Alumni" %}
   {% endif %}
 {% endif %}
-{% if site.title %}
+{% if site.title and site.title != "" %}
   {% assign fulltitle = fulltitle | push: site.title %}
 {% endif %}
 {% assign fulltitle = fulltitle | array_filter | join: " | " %}
