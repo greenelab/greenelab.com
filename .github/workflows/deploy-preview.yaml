@@ -35,7 +35,12 @@ jobs:
             const { PREVIEWS_FOLDER } = process.env;
             const { owner, repo } = context.repo;
             // get all closed PRs
-            const prs = (await github.rest.pulls.list({ owner, repo, state: "closed" })).data;
+            const prs = await github.paginate(github.rest.pulls.list, {
+              owner,
+              repo,
+              state: "closed",
+              per_page: 100,
+            });
             // remove their folders
             for (const { number } of prs)
               await rm(`${PREVIEWS_FOLDER}/pr-${number}`, { recursive: true, force: true });
