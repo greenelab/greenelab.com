@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.07.05.736581
+  title: 'HetNetEX: Exact Asymptotic Inference in Heterogeneous Biomedical Knowledge
+    Graphs'
+  authors:
+  - Tusharkanti Ghosh
+  - Lucas A. Gillenwater
+  - Casey S. Greene
+  - James C. Costello
+  publisher: openRxiv
+  date: '2026-07-06'
+  link: https://doi.org/hccfr7
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.crmeth.2026.101346
   title: Integrating single-cell and single-nucleus datasets improves bulk RNA-seq
     deconvolution
@@ -7,7 +22,7 @@
   - Adriana Ivich
   - Casey S. Greene
   publisher: Cell Reports Methods
-  date: '2026-03-01'
+  date: '2026-04-01'
   link: https://doi.org/hbt84d
   orcid: 0000-0001-8713-9213
   member: casey-greene
