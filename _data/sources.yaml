@@ -674,6 +674,7 @@
 - id: doi:10.1136/annrheumdis-2017-212935
   image: /images/research/ard_bmj_77_8_cover.jpg
 - id: doi:10.1098/rsif.2017.0387
+  image: /images/research/pmc_5938574_rsif20170387-g1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/142760
@@ -813,6 +814,7 @@
     link: https://github.org/greenelab/tribe-client
     text: Tribe web app
 - id: doi:10.1142/9789813235533_0008
+  image: /images/research/pmc_5728678_nihms921826f1_crop.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/174474
@@ -945,6 +947,7 @@
 - id: doi:10.1186/1756-0381-7-17
   image: /images/research/13040_2014_Article_115_Fig1_HTML.jpg
 - id: doi:10.1002/jcp.24662
+  image: /images/research/pmc_5604462_nihms868708f1_crop.jpg
 - id: doi:10.1186/gm550
   image: /images/research/13073_2013_Article_556_Fig4_HTML.jpg
 - id: doi:10.1371/journal.pcbi.1002957
@@ -957,6 +960,7 @@
 - id: doi:10.1007/978-3-642-37189-9_2
   image: /images/research/978-3-642-37189-9.jpg
 - id: doi:10.1111/j.1749-6632.2011.06383.x
+  image: /images/research/pmc_4753770_nihms757401f1_crop.jpg
 - id: doi:10.1093/nar/gks458
   image: /images/research/pmc_3394282_gks458f1.jpg
 - id: doi:10.1371/journal.pcbi.1002816
@@ -990,3 +994,63 @@
   - asthma
   - asthma endotypes
   - asthma comorbidities
+- id: doi:10.1101/427898
+  image: /images/research/biorxiv_427898_F1.jpg
+- id: doi:10.1101/414565
+  image: /images/research/biorxiv_414565_F1.jpg
+- id: doi:10.1101/385534
+  image: /images/research/biorxiv_385534_F1.jpg
+- id: doi:10.1101/198481
+  image: /images/research/biorxiv_198481_F1.jpg
+- id: doi:10.1101/196915
+  image: /images/research/biorxiv_196915_F1.jpg
+- id: doi:10.1101/174474
+  image: /images/research/biorxiv_174474_F1.jpg
+- id: doi:10.1101/166207
+  image: /images/research/biorxiv_166207_F1.jpg
+- id: doi:10.1101/159756
+  image: /images/research/biorxiv_159756_F1.jpg
+- id: doi:10.1101/157610
+  image: /images/research/biorxiv_157610_F1.jpg
+- id: doi:10.1101/156620
+  image: /images/research/biorxiv_156620_F1.jpg
+- id: doi:10.1101/147645
+  image: /images/research/biorxiv_147645_F1.jpg
+- id: doi:10.1101/142760
+  image: /images/research/biorxiv_142760_F1.jpg
+- id: doi:10.1101/118349
+  image: /images/research/biorxiv_118349_F1.jpg
+- id: doi:10.1101/078659
+  image: /images/research/biorxiv_078659_F1.jpg
+- id: doi:10.1101/075382
+  image: /images/research/biorxiv_075382_F1.jpg
+- id: doi:10.1101/062695
+  image: /images/research/biorxiv_062695_F1.jpg
+- id: doi:10.1101/030239
+  image: /images/research/biorxiv_030239_F1.jpg
+- id: doi:10.1371/journal.pbio.1002475
+  image: /images/research/pmc_4898821_pbio.1002475.g001.jpg
+- id: doi:10.1101/056473
+  image: /images/research/biorxiv_056473_F1.jpg
+- id: doi:10.1101/051524
+  image: /images/research/biorxiv_051524_F1_crop.jpg
+- id: doi:10.1101/039800
+  image: /images/research/biorxiv_039800_F1.jpg
+- id: doi:10.1101/030650
+  image: /images/research/biorxiv_030650_F1.jpg
+- id: doi:10.1038/NMETH.3249
+  image: /images/research/pmc_4768301_nihms648616f1.jpg
+- id: doi:10.1371/journal.pone.0069678
+  image: /images/research/pmc_3732243_pone.0069678.g001.jpg
+- id: doi:10.1186/1756-0381-4-21
+  image: /images/research/pmc_3154150_1756-0381-4-21-1.jpg
+- id: doi:10.1093/nar/gkr440
+  image: /images/research/pmc_3125802_gkr440f1.jpg
+- id: doi:10.1016/j.semnephrol.2010.07.002
+  image: /images/research/pmc_4734377_nihms-683988-f0001_crop.jpg
+- id: doi:10.1186/1756-0381-2-5
+  image: /images/research/pmc_2761303_1756-0381-2-5-1.jpg
+- id: doi:10.1186/1756-0500-2-149
+  image: /images/research/pmc_2732631_1756-0500-2-149-1.jpg
+- id: doi:10.1371/journal.pone.0005639
+  image: /images/research/pmc_2685469_pone.0005639.g001.jpg
