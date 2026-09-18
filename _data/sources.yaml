@@ -1,4 +1,5 @@
 - id: doi:10.7554/eLife.112262
+  image: /images/research/elife_112262_fig1.jpg
 - id: doi:10.1186/s13059-025-03506-9
   buttons:
   - type: preprint
