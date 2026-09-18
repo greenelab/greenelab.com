@@ -2839,7 +2839,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7c909dce-6109-48f1-89c9-07353cf36512/gr1.jpg
+  image: /images/research/1-s2.0-S2405803320302855-gr1.jpg
   tags:
   - cancer
   - open science
@@ -4735,7 +4735,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/3/21/10.1182_bloodadvances.2019000303/6/m_advancesadv2019000303absf1.png?Expires=1601620807&Signature=Lf8D4M4EhuKZCHx7TQ~aMJ0OVSEnzbYnXmcDkUY~stjMlEhNAAC5j2rOf~D~1W0sggQDkIAu4nOXAt6i~5Rj68RZk~rB2JupXyDs74bf2tMWDU8lqkz~~70UpGB5zp0uuYKFBbpgyWIH9wMLdm72nZFU5SkAi8MzI6YOE3opIN4ROZ~u9Zmu8LacXEVNFE4GMphBZ6sgSVc4BDH649sBlcuIU5FgoBjKDZmBOBK3SUFUxiCq24yCYA4551dKXWPtU1Otf4k1aQS8TAWNZMTOlGu9SEYI95chJi1uv-rFi~mlHNTFcNTSej9tyc2v8I4mZ7anqEj1KkVkf3v-EEVkZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_6855123_advancesADV2019000303absf1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/563312
@@ -4775,7 +4775,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
 - id: doi:10.1101/566455
   title: Genomic profiling of childhood tumor patient-derived xenograft models to
     enable rational clinical trial design
@@ -5271,7 +5270,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
+  image: /images/research/1-s2.0-S1534580719301789-gr1.jpg
 - id: doi:10.1038/s41592-019-0585-6
   title: Voices in methods development
   authors:
@@ -5414,7 +5413,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ea974986-ac13-4ba3-91c1-b0adba5b7ea9/gr5.jpg
+  image: /images/research/1-s2.0-S0168952518301240-gr5.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/196915
@@ -6192,7 +6191,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f320090c-144a-4c2a-add9-ce2283658b93/fx1.jpg
+  image: /images/research/1-s2.0-S2211124718304376-fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/pancancer/blob/master/tp53_analysis.sh
@@ -6996,7 +6995,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4c2909b3-3e15-4723-a8b2-1f94166415e6/fx1.jpg
+  image: /images/research/1-s2.0-S2211124718303899-fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/pancancer/blob/master/ras_analysis.sh
@@ -7847,7 +7846,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7bca2f8c-30f0-44cb-962a-cac5497cb225/fx1.jpg
+  image: /images/research/1-s2.0-S0092867418303593-fx1.jpg
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
@@ -8022,7 +8021,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://fertility-media.womenandinfants.org/logo-nejm.png
 - id: doi:10.1101/196915
   title: 'Enter the matrix: factorization uncovers knowledge from omics Names/Affiliations'
   authors:
@@ -8306,7 +8304,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/465ca2b3-1520-4417-861c-b34d6fb47193/fx1.jpg
+  image: /images/research/1-s2.0-S2405471217302314-fx1.jpg
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/078659
@@ -8458,7 +8456,7 @@
   - type: app
     link: https://github.org/greenelab/tribe-client
     text: Tribe web app
-  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
+  image: /images/research/biorxiv_055913_F4.jpg
 - id: doi:10.1101/051524
   title: Pathway and network-based strategies to translate genetic discoveries into
     effective therapies
@@ -8535,7 +8533,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
+  image: /images/research/pmc_5069748_sys0011600330002.jpg
   buttons:
   - type: preprint
     link: http://biorxiv.org/content/early/2015/11/05/030650
@@ -8842,7 +8840,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117357
+  image: /images/research/pmc_4941373_oncotarget-07-17087-g001.jpg
   buttons:
   - type: source
     link: https://bitbucket.org/greenelab/pdx-dina-manuscript-code
@@ -8921,7 +8919,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1101/030650
   title: "ADAGE analysis of publicly available gene expression data collections illuminates\n\
     \                  <i>Pseudomonas aeruginosa-host</i>\n                  interactions"
@@ -11021,7 +11018,7 @@
   publisher: 'Circulation: Cardiovascular Quality and Outcomes'
   date: '2019-07-01'
   link: https://doi.org/ggbpgq
-  image: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
+  image: /images/research/pmc_7041894_hcq-12-e005122-g002.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/159756
@@ -11345,7 +11342,7 @@
   publisher: Cell Reports
   date: '2019-11-01'
   link: https://doi.org/gg596n
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ed25df6f-6a3d-4f8b-8bc0-99089088d20e/fx1.jpg
+  image: /images/research/1-s2.0-S2211124719312689-fx1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/566455
@@ -11744,7 +11741,7 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2019-01-01'
   link: https://doi.org/gg7m58
-  image: https://www.g3journal.org/content/ggg/9/1/251/F2.medium.gif
+  image: /images/research/pmc_6325913_251f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/414565
@@ -11845,7 +11842,7 @@
   publisher: Journal of Bacteriology
   date: '2018-04-15'
   link: https://doi.org/gg7qrt
-  image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
+  image: /images/research/pmc_5869470_zjb9990946660004.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/198481
@@ -11888,7 +11885,7 @@
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: '2018-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/bin/nihms921846f2.jpg
+  image: /images/research/pmc_5760988_nihms921846f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/166207
@@ -11991,7 +11988,7 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2017-11-01'
   link: https://doi.org/gg7qrx
-  image: https://www.g3journal.org/content/ggg/7/11/3705/F2.medium.gif
+  image: /images/research/pmc_5677163_3705f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/157610
@@ -12046,7 +12043,7 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2016-12-01'
   link: https://doi.org/gg7qsd
-  image: https://www.g3journal.org/content/ggg/6/12/4097/F3.medium.gif
+  image: /images/research/pmc_5144978_4097f3.jpg
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/030239
@@ -12098,7 +12095,7 @@
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: '2016-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/bin/nihms774628f1.jpg
+  image: /images/research/pmc_4832978_nihms774628f1.jpg
   buttons:
   - url: http://psb.stanford.edu/psb-online/proceedings/psb16/greene.pdf
     text: PDF
@@ -12141,7 +12138,7 @@
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: '2015-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/bin/nihms-642080-f0001.jpg
+  image: /images/research/pmc_4299935_nihms-642080-f0001.jpg
   buttons:
   - type: source
     link: http://discovery.dartmouth.edu/~cgreene/da-psb2015/
