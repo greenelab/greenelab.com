@@ -35,4 +35,4 @@ The citations on this page were generated automatically from just identifiers us
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" filter="publisher != 'Zenodo' and publisher != 'figshare' and publisher != 'GigaScience Database' and publisher != '' and not title.to_s.start_with?('Supplementary ', 'Supplemental ', 'Data from ')" %}
+{% include list.html data="citations" component="citation" style="rich" filter="publisher != 'Zenodo' and publisher != 'figshare' and publisher != 'GigaScience Database' and publisher != '' and not title.to_s.start_with?('Supplementary ', 'Supplemental ', 'Data from ') and not id.to_s.start_with?('doi:10.17615/', 'doi:10.17863/')" %}

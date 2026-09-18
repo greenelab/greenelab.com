@@ -337,7 +337,7 @@
   tags:
   - COVID19
 - id: doi:10.1016/j.trecan.2020.10.011
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7c909dce-6109-48f1-89c9-07353cf36512/gr1.jpg
+  image: /images/research/1-s2.0-S2405803320302855-gr1.jpg
   tags:
   - cancer
   - open science
@@ -527,9 +527,8 @@
 - id: doi:10.1038/s41592-019-0585-6
   image: /images/research/image_b353934da7bf.png
 - id: doi:10.1146/annurev-biodatasci-072018-021348
-  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
 - id: doi:10.1161/CIRCOUTCOMES.118.005122
-  image: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
+  image: /images/research/pmc_7041894_hcq-12-e005122-g002.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/159756
@@ -568,7 +567,7 @@
   - type: source
     link: https://github.com/aleccrowell/LIMBR
 - id: doi:10.1016/j.devcel.2019.03.001
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
+  image: /images/research/1-s2.0-S1534580719301789-gr1.jpg
 - id: doi:10.1186/s13059-020-02113-0
   image: /images/research/pmc_7488497_13059_2020_2113_Fig1_HTML.jpg
   buttons:
@@ -600,7 +599,7 @@
   - type: preprint
     link: https://doi.org/10.1101/653105
 - id: doi:10.1182/bloodadvances.2019000303
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/3/21/10.1182_bloodadvances.2019000303/6/m_advancesadv2019000303absf1.png?Expires=1601620807&Signature=Lf8D4M4EhuKZCHx7TQ~aMJ0OVSEnzbYnXmcDkUY~stjMlEhNAAC5j2rOf~D~1W0sggQDkIAu4nOXAt6i~5Rj68RZk~rB2JupXyDs74bf2tMWDU8lqkz~~70UpGB5zp0uuYKFBbpgyWIH9wMLdm72nZFU5SkAi8MzI6YOE3opIN4ROZ~u9Zmu8LacXEVNFE4GMphBZ6sgSVc4BDH649sBlcuIU5FgoBjKDZmBOBK3SUFUxiCq24yCYA4551dKXWPtU1Otf4k1aQS8TAWNZMTOlGu9SEYI95chJi1uv-rFi~mlHNTFcNTSej9tyc2v8I4mZ7anqEj1KkVkf3v-EEVkZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_6855123_advancesADV2019000303absf1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/563312
@@ -608,7 +607,7 @@
     link: https://doi.org/10.1101/563312
     text: Classifier
 - id: doi:10.1016/j.celrep.2019.09.071
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ed25df6f-6a3d-4f8b-8bc0-99089088d20e/fx1.jpg
+  image: /images/research/1-s2.0-S2211124719312689-fx1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/566455
@@ -648,7 +647,7 @@
 - id: doi:10.1038/d41586-019-00218-6
   image: /images/research/nature_d41586-019-00218-6_16402666.jpg
 - id: doi:10.1534/g3.118.200867
-  image: https://www.g3journal.org/content/ggg/9/1/251/F2.medium.gif
+  image: /images/research/pmc_6325913_251f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/414565
@@ -681,20 +680,20 @@
   - type: source
     link: http://github.com/greenelab/deep-review
 - id: doi:10.1016/j.celrep.2018.03.076
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f320090c-144a-4c2a-add9-ce2283658b93/fx1.jpg
+  image: /images/research/1-s2.0-S2211124718304376-fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/pancancer/blob/master/tp53_analysis.sh
     text: Source for ML portion
 - id: doi:10.1016/j.celrep.2018.03.046
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4c2909b3-3e15-4723-a8b2-1f94166415e6/fx1.jpg
+  image: /images/research/1-s2.0-S2211124718303899-fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/pancancer/blob/master/ras_analysis.sh
 - id: doi:10.1016/j.cell.2018.03.035
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7bca2f8c-30f0-44cb-962a-cac5497cb225/fx1.jpg
+  image: /images/research/1-s2.0-S0092867418303593-fx1.jpg
 - id: doi:10.1128/JB.00703-17
-  image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
+  image: /images/research/pmc_5869470_zjb9990946660004.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/198481
@@ -718,14 +717,14 @@
 - id: doi:10.1142/9789813279827_0033
   image: /images/research/worldscientific_11263_cover.jpg
 - id: doi:10.1016/j.tig.2018.07.003
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ea974986-ac13-4ba3-91c1-b0adba5b7ea9/gr5.jpg
+  image: /images/research/1-s2.0-S0168952518301240-gr5.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/196915
 - id: pubmed:29218914
   image: /images/research/worldscientific_10864_cover.jpg
 - id: pmc:PMC5760988
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/bin/nihms921846f2.jpg
+  image: /images/research/pmc_5760988_nihms921846f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/166207
@@ -741,14 +740,13 @@
 - id: doi:10.1007/s40471-017-0115-y
   image: /images/research/40471_2017_115_Fig1_HTML.gif
 - id: doi:10.1016/j.cels.2017.06.003
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/465ca2b3-1520-4417-861c-b34d6fb47193/fx1.jpg
+  image: /images/research/1-s2.0-S2405471217302314-fx1.jpg
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/078659
   - type: source
     link: https://bitbucket.org/greenelab/eadage
 - id: doi:10.1056/NEJMc1705477
-  image: https://fertility-media.womenandinfants.org/logo-nejm.png
 - id: doi:10.1038/ng.3830
   image: /images/research/image_3d42d932d329.png
 - id: doi:10.1186/s13073-017-0417-1
@@ -799,12 +797,12 @@
     link: https://adage.greenelab.com/
     text: Updated app
 - id: doi:10.1534/g3.117.300172
-  image: https://www.g3journal.org/content/ggg/7/11/3705/F2.medium.gif
+  image: /images/research/pmc_5677163_3705f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/157610
 - id: doi:10.1101/055913
-  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
+  image: /images/research/biorxiv_055913_F4.jpg
   buttons:
   - type: preprint
   - type: server
@@ -846,12 +844,12 @@
   - url: https://circgenetics.ahajournals.org/content/9/2/179.full
     text: Full text (free)
 - id: doi:10.18632/oncotarget.7718
-  image: https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117357
+  image: /images/research/pmc_4941373_oncotarget-07-17087-g001.jpg
   buttons:
   - type: source
     link: https://bitbucket.org/greenelab/pdx-dina-manuscript-code
 - id: doi:10.1128/mSystems.00025-15
-  image: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
+  image: /images/research/pmc_5069748_sys0011600330002.jpg
   buttons:
   - type: preprint
     link: http://biorxiv.org/content/early/2015/11/05/030650
@@ -862,7 +860,7 @@
   - url: http://doi.org/10.1038/srep39259
     text: Tatlow et al.
 - id: doi:10.1534/g3.116.033514
-  image: https://www.g3journal.org/content/ggg/6/12/4097/F3.medium.gif
+  image: /images/research/pmc_5144978_4097f3.jpg
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/030239
@@ -902,14 +900,13 @@
   - type: source
     link: https://github.com/greenelab/adni-netwas
 - id: pmc:PMC4832978
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/bin/nihms774628f1.jpg
+  image: /images/research/pmc_4832978_nihms774628f1.jpg
   buttons:
   - url: http://psb.stanford.edu/psb-online/proceedings/psb16/greene.pdf
     text: PDF
 - id: doi:10.1093/bib/bbv018
   image: /images/research/pmc_4719066_bbv018f1p.jpg
 - id: doi:10.1093/bib/bbv087
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1038/ncomms9019
   image: /images/research/sharma_nature-communications.png
 - id: doi:10.1186/s13040-015-0050-8
@@ -940,7 +937,7 @@
   - type: app
     link: http://seek.princeton.edu/
 - id: pmc:PMC4299935
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/bin/nihms-642080-f0001.jpg
+  image: /images/research/pmc_4299935_nihms-642080-f0001.jpg
   buttons:
   - type: source
     link: http://discovery.dartmouth.edu/~cgreene/da-psb2015/
