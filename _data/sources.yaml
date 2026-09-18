@@ -1,17 +1,105 @@
+- id: doi:10.7554/eLife.112262
+  image: /images/research/elife_112262_fig1.jpg
+- id: doi:10.1101/gr.281433.125
+  image: /images/research/biorxiv_2025.09.15.676244_F1_crop.jpg
+- id: doi:10.64898/2026.07.05.736581
+  image: /images/research/biorxiv_2026.07.05.736581_F2.jpg
+- id: doi:10.1016/j.crmeth.2026.101346
+  image: /images/research/1-s2.0-S2667237526000469-gr1.jpg
+- id: doi:10.64898/2026.01.14.699527
+  image: /images/research/biorxiv_2026.01.14.699527_F1.jpg
+- id: doi:10.1101/2025.09.15.676244
+  image: /images/research/biorxiv_2025.09.15.676244_F1_crop.jpg
+- id: doi:10.1158/1055-9965.EPI-25-0762
+  image: /images/research/medrxiv_2025.01.21.25320918_F1.jpg
+- id: doi:10.1101/2025.08.20.671333
+  image: /images/research/biorxiv_2025.08.20.671333_F1.jpg
+- id: doi:10.1158/1055-9965.EPI-25-0371
+  image: /images/research/pmc_12340684_nihms-2096950-f0001_crop.jpg
+- id: doi:10.1038/s41551-024-01322-3
+  image: /images/research/41551_2024_1322_Fig1_HTML_crop.jpg
+- id: doi:10.1016/j.patter.2024.101115
+  image: /images/research/1-s2.0-S2666389924002873-gr1.jpg
+- id: doi:10.1093/jamia/ocae139
+  image: /images/research/pmc_11339502_ocae139f1.jpg
+- id: doi:10.7554/ELIFE.84855
+  image: /images/research/pmc_11132680_elife-84855-fig1.jpg
+- id: doi:10.1523/ENEURO.0313-23.2024
+  image: /images/research/pmc_11154669_eneuro-11-ENEURO.0313-23.2024-g001.jpg
+- id: doi:10.1101/2024.04.25.590992
+  image: /images/research/biorxiv_2024.04.25.590992_F1.jpg
+- id: doi:10.1101/2024.04.19.590243
+  image: /images/research/biorxiv_2024.04.19.590243_F1.jpg
+- id: doi:10.1128/spectrum.03157-23
+  image: /images/research/pmc_10986534_spectrum.03157-23.f001.jpg
+- id: doi:10.1093/gigascience/giae001
+  image: /images/research/pmc_10848215_giae001fig1.jpg
+- id: doi:10.1093/bioadv/vbae004
+  image: /images/research/pmc_10822580_vbae004f1.jpg
+- id: doi:10.1101/2023.11.01.565179
+  image: /images/research/biorxiv_2023.11.01.565179_F1.jpg
+- id: doi:10.1016/j.xgen.2023.100340
+  image: /images/research/1-s2.0-S2666979X23001155-gr1.jpg
+- id: doi:10.1093/gigascience/giad047
+  image: /images/research/pmc_10375517_giad047fig1.jpg
+- id: doi:10.1101/2022.12.04.519045
+  image: /images/research/biorxiv_2022.12.04.519045_F1.jpg
+- id: doi:10.1101/2022.06.22.497194
+  image: /images/research/biorxiv_2022.06.22.497194_F1.jpg
+- id: doi:10.1101/2022.06.09.22276222
+  image: /images/research/medrxiv_2022.06.09.22276222_F1.jpg
+- id: doi:10.1101/2022.04.14.488429
+  image: /images/research/biorxiv_2022.04.14.488429_F1.jpg
+- id: doi:10.1101/2022.04.09.487671
+  image: /images/research/biorxiv_2022.04.09.487671_F1.jpg
+- id: doi:10.1101/2022.01.24.477642
+  image: /images/research/biorxiv_2022.01.24.477642_F1.jpg
+- id: doi:10.1101/2021.10.21.21265225
+  image: /images/research/medrxiv_2021.10.21.21265225_F1.jpg
+- id: doi:10.1101/2021.07.05.450786
+  image: /images/research/biorxiv_2021.07.05.450786_F1.jpg
+- id: doi:10.1101/2021.05.26.445900
+  image: /images/research/biorxiv_2021.05.26.445900_F1_crop.jpg
+- id: doi:10.1101/2021.05.24.445440
+  image: /images/research/biorxiv_2021.05.24.445440_F1.jpg
+- id: doi:10.1101/2021.03.04.433874
+  image: /images/research/biorxiv_2021.03.04.433874_F1.jpg
+- id: doi:10.1101/2021.03.03.433798
+  image: /images/research/biorxiv_2021.03.03.433798_F1.jpg
+- id: doi:10.1101/2020.06.09.20126813
+  image: /images/research/medrxiv_2020.06.09.20126813_F1_crop.jpg
+- id: doi:10.1101/2020.04.14.927251
+  image: /images/research/biorxiv_2020.04.14.927251_F1.jpg
+- id: doi:10.1101/2020.02.17.20024133
+  image: /images/research/medrxiv_2020.02.17.20024133_F1.jpg
+- id: doi:10.1101/2020.02.12.945642
+  image: /images/research/biorxiv_2020.02.12.945642_F1_crop.jpg
+- id: doi:10.1101/653105
+  image: /images/research/biorxiv_653105_F1.jpg
+- id: doi:10.1101/573782
+  image: /images/research/biorxiv_573782_F1.jpg
+- id: doi:10.1101/566455
+  image: /images/research/biorxiv_566455_F1.jpg
 - id: doi:10.1186/s13059-025-03506-9
+  image: /images/research/13059_2025_3506_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: https://doi.org/gtsgj7
 - id: doi:10.1016/j.bonr.2025.101839
+  image: /images/research/1-s2.0-S2352187225000166-gr1.jpg
 - id: doi:10.1158/0008-5472.CAN-24-1879
+  image: /images/research/pmc_12048278_nihms-2059130-f0001_crop.jpg
 - id: doi:10.1016/j.ajhg.2024.12.007
+  image: /images/research/1-s2.0-S000292972400449X-gr1.jpg
   tags:
   - CCPM banner
 - id: doi:10.1002/mus.28301
   tags:
   - CCPM banner
 - id: doi:10.1101/2025.01.21.25320918
+  image: /images/research/medrxiv_2025.01.21.25320918_F1.jpg
 - id: doi:10.1016/j.cels.2024.08.005
+  image: /images/research/1-s2.0-S2405471224002357-gr1.jpg
 - id: doi:10.1016/j.cell.2024.12.017
   image: /images/research/405730965-4a33a603-dce7-4e31-a9fc-d2a939892749.jpg
 - id: doi:10.1371/journal.pcbi.1012742
@@ -249,7 +337,7 @@
   tags:
   - COVID19
 - id: doi:10.1016/j.trecan.2020.10.011
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7c909dce-6109-48f1-89c9-07353cf36512/gr1.jpg
+  image: /images/research/1-s2.0-S2405803320302855-gr1.jpg
   tags:
   - cancer
   - open science
@@ -439,9 +527,8 @@
 - id: doi:10.1038/s41592-019-0585-6
   image: /images/research/image_b353934da7bf.png
 - id: doi:10.1146/annurev-biodatasci-072018-021348
-  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
 - id: doi:10.1161/CIRCOUTCOMES.118.005122
-  image: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
+  image: /images/research/pmc_7041894_hcq-12-e005122-g002.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/159756
@@ -480,13 +567,14 @@
   - type: source
     link: https://github.com/aleccrowell/LIMBR
 - id: doi:10.1016/j.devcel.2019.03.001
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
+  image: /images/research/1-s2.0-S1534580719301789-gr1.jpg
 - id: doi:10.1186/s13059-020-02113-0
   image: /images/research/pmc_7488497_13059_2020_2113_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: https://www.biorxiv.org/content/10.1101/836825v1
 - id: doi:10.1126/sciadv.aba2083
+  image: /images/research/pmc_11206444_aba2083-f1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/833210
@@ -511,7 +599,7 @@
   - type: preprint
     link: https://doi.org/10.1101/653105
 - id: doi:10.1182/bloodadvances.2019000303
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/3/21/10.1182_bloodadvances.2019000303/6/m_advancesadv2019000303absf1.png?Expires=1601620807&Signature=Lf8D4M4EhuKZCHx7TQ~aMJ0OVSEnzbYnXmcDkUY~stjMlEhNAAC5j2rOf~D~1W0sggQDkIAu4nOXAt6i~5Rj68RZk~rB2JupXyDs74bf2tMWDU8lqkz~~70UpGB5zp0uuYKFBbpgyWIH9wMLdm72nZFU5SkAi8MzI6YOE3opIN4ROZ~u9Zmu8LacXEVNFE4GMphBZ6sgSVc4BDH649sBlcuIU5FgoBjKDZmBOBK3SUFUxiCq24yCYA4551dKXWPtU1Otf4k1aQS8TAWNZMTOlGu9SEYI95chJi1uv-rFi~mlHNTFcNTSej9tyc2v8I4mZ7anqEj1KkVkf3v-EEVkZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_6855123_advancesADV2019000303absf1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/563312
@@ -519,7 +607,7 @@
     link: https://doi.org/10.1101/563312
     text: Classifier
 - id: doi:10.1016/j.celrep.2019.09.071
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ed25df6f-6a3d-4f8b-8bc0-99089088d20e/fx1.jpg
+  image: /images/research/1-s2.0-S2211124719312689-fx1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/566455
@@ -534,13 +622,16 @@
   - type: source
     link: https://github.com/marislab
 - id: doi:10.1002/gepi.22262
+  image: /images/research/pmc_6980207_nihms-1048840-f0002_crop.jpg
   buttons:
   - url: https://www.penncil.org/software
     text: YETI2 Software
 - id: doi:10.1101/793091
+  image: /images/research/biorxiv_793091_F1.jpg
   buttons:
   - type: preprint
 - id: doi:10.1101/787903
+  image: /images/research/biorxiv_787903_F1.jpg
   buttons:
   - type: preprint
 - id: doi:10.1126/science.aaz5900
@@ -556,7 +647,7 @@
 - id: doi:10.1038/d41586-019-00218-6
   image: /images/research/nature_d41586-019-00218-6_16402666.jpg
 - id: doi:10.1534/g3.118.200867
-  image: https://www.g3journal.org/content/ggg/9/1/251/F2.medium.gif
+  image: /images/research/pmc_6325913_251f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/414565
@@ -582,26 +673,27 @@
 - id: doi:10.1136/annrheumdis-2017-212935
   image: /images/research/ard_bmj_77_8_cover.jpg
 - id: doi:10.1098/rsif.2017.0387
+  image: /images/research/pmc_5938574_rsif20170387-g1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/142760
   - type: source
     link: http://github.com/greenelab/deep-review
 - id: doi:10.1016/j.celrep.2018.03.076
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f320090c-144a-4c2a-add9-ce2283658b93/fx1.jpg
+  image: /images/research/1-s2.0-S2211124718304376-fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/pancancer/blob/master/tp53_analysis.sh
     text: Source for ML portion
 - id: doi:10.1016/j.celrep.2018.03.046
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4c2909b3-3e15-4723-a8b2-1f94166415e6/fx1.jpg
+  image: /images/research/1-s2.0-S2211124718303899-fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/pancancer/blob/master/ras_analysis.sh
 - id: doi:10.1016/j.cell.2018.03.035
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7bca2f8c-30f0-44cb-962a-cac5497cb225/fx1.jpg
+  image: /images/research/1-s2.0-S0092867418303593-fx1.jpg
 - id: doi:10.1128/JB.00703-17
-  image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
+  image: /images/research/pmc_5869470_zjb9990946660004.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/198481
@@ -625,14 +717,14 @@
 - id: doi:10.1142/9789813279827_0033
   image: /images/research/worldscientific_11263_cover.jpg
 - id: doi:10.1016/j.tig.2018.07.003
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ea974986-ac13-4ba3-91c1-b0adba5b7ea9/gr5.jpg
+  image: /images/research/1-s2.0-S0168952518301240-gr5.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/196915
 - id: pubmed:29218914
   image: /images/research/worldscientific_10864_cover.jpg
 - id: pmc:PMC5760988
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/bin/nihms921846f2.jpg
+  image: /images/research/pmc_5760988_nihms921846f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/166207
@@ -648,14 +740,13 @@
 - id: doi:10.1007/s40471-017-0115-y
   image: /images/research/40471_2017_115_Fig1_HTML.gif
 - id: doi:10.1016/j.cels.2017.06.003
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/465ca2b3-1520-4417-861c-b34d6fb47193/fx1.jpg
+  image: /images/research/1-s2.0-S2405471217302314-fx1.jpg
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/078659
   - type: source
     link: https://bitbucket.org/greenelab/eadage
 - id: doi:10.1056/NEJMc1705477
-  image: https://fertility-media.womenandinfants.org/logo-nejm.png
 - id: doi:10.1038/ng.3830
   image: /images/research/image_3d42d932d329.png
 - id: doi:10.1186/s13073-017-0417-1
@@ -706,12 +797,12 @@
     link: https://adage.greenelab.com/
     text: Updated app
 - id: doi:10.1534/g3.117.300172
-  image: https://www.g3journal.org/content/ggg/7/11/3705/F2.medium.gif
+  image: /images/research/pmc_5677163_3705f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/157610
 - id: doi:10.1101/055913
-  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
+  image: /images/research/biorxiv_055913_F4.jpg
   buttons:
   - type: preprint
   - type: server
@@ -721,6 +812,7 @@
     link: https://github.org/greenelab/tribe-client
     text: Tribe web app
 - id: doi:10.1142/9789813235533_0008
+  image: /images/research/pmc_5728678_nihms921826f1_crop.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/174474
@@ -752,12 +844,12 @@
   - url: https://circgenetics.ahajournals.org/content/9/2/179.full
     text: Full text (free)
 - id: doi:10.18632/oncotarget.7718
-  image: https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117357
+  image: /images/research/pmc_4941373_oncotarget-07-17087-g001.jpg
   buttons:
   - type: source
     link: https://bitbucket.org/greenelab/pdx-dina-manuscript-code
 - id: doi:10.1128/mSystems.00025-15
-  image: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
+  image: /images/research/pmc_5069748_sys0011600330002.jpg
   buttons:
   - type: preprint
     link: http://biorxiv.org/content/early/2015/11/05/030650
@@ -768,7 +860,7 @@
   - url: http://doi.org/10.1038/srep39259
     text: Tatlow et al.
 - id: doi:10.1534/g3.116.033514
-  image: https://www.g3journal.org/content/ggg/6/12/4097/F3.medium.gif
+  image: /images/research/pmc_5144978_4097f3.jpg
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/030239
@@ -808,14 +900,13 @@
   - type: source
     link: https://github.com/greenelab/adni-netwas
 - id: pmc:PMC4832978
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/bin/nihms774628f1.jpg
+  image: /images/research/pmc_4832978_nihms774628f1.jpg
   buttons:
   - url: http://psb.stanford.edu/psb-online/proceedings/psb16/greene.pdf
     text: PDF
 - id: doi:10.1093/bib/bbv018
   image: /images/research/pmc_4719066_bbv018f1p.jpg
 - id: doi:10.1093/bib/bbv087
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1038/ncomms9019
   image: /images/research/sharma_nature-communications.png
 - id: doi:10.1186/s13040-015-0050-8
@@ -846,13 +937,14 @@
   - type: app
     link: http://seek.princeton.edu/
 - id: pmc:PMC4299935
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/bin/nihms-642080-f0001.jpg
+  image: /images/research/pmc_4299935_nihms-642080-f0001.jpg
   buttons:
   - type: source
     link: http://discovery.dartmouth.edu/~cgreene/da-psb2015/
 - id: doi:10.1186/1756-0381-7-17
   image: /images/research/13040_2014_Article_115_Fig1_HTML.jpg
 - id: doi:10.1002/jcp.24662
+  image: /images/research/pmc_5604462_nihms868708f1_crop.jpg
 - id: doi:10.1186/gm550
   image: /images/research/13073_2013_Article_556_Fig4_HTML.jpg
 - id: doi:10.1371/journal.pcbi.1002957
@@ -865,6 +957,7 @@
 - id: doi:10.1007/978-3-642-37189-9_2
   image: /images/research/978-3-642-37189-9.jpg
 - id: doi:10.1111/j.1749-6632.2011.06383.x
+  image: /images/research/pmc_4753770_nihms757401f1_crop.jpg
 - id: doi:10.1093/nar/gks458
   image: /images/research/pmc_3394282_gks458f1.jpg
 - id: doi:10.1371/journal.pcbi.1002816
@@ -898,3 +991,63 @@
   - asthma
   - asthma endotypes
   - asthma comorbidities
+- id: doi:10.1101/427898
+  image: /images/research/biorxiv_427898_F1.jpg
+- id: doi:10.1101/414565
+  image: /images/research/biorxiv_414565_F1.jpg
+- id: doi:10.1101/385534
+  image: /images/research/biorxiv_385534_F1.jpg
+- id: doi:10.1101/198481
+  image: /images/research/biorxiv_198481_F1.jpg
+- id: doi:10.1101/196915
+  image: /images/research/biorxiv_196915_F1.jpg
+- id: doi:10.1101/174474
+  image: /images/research/biorxiv_174474_F1.jpg
+- id: doi:10.1101/166207
+  image: /images/research/biorxiv_166207_F1.jpg
+- id: doi:10.1101/159756
+  image: /images/research/biorxiv_159756_F1.jpg
+- id: doi:10.1101/157610
+  image: /images/research/biorxiv_157610_F1.jpg
+- id: doi:10.1101/156620
+  image: /images/research/biorxiv_156620_F1.jpg
+- id: doi:10.1101/147645
+  image: /images/research/biorxiv_147645_F1.jpg
+- id: doi:10.1101/142760
+  image: /images/research/biorxiv_142760_F1.jpg
+- id: doi:10.1101/118349
+  image: /images/research/biorxiv_118349_F1.jpg
+- id: doi:10.1101/078659
+  image: /images/research/biorxiv_078659_F1.jpg
+- id: doi:10.1101/075382
+  image: /images/research/biorxiv_075382_F1.jpg
+- id: doi:10.1101/062695
+  image: /images/research/biorxiv_062695_F1.jpg
+- id: doi:10.1101/030239
+  image: /images/research/biorxiv_030239_F1.jpg
+- id: doi:10.1371/journal.pbio.1002475
+  image: /images/research/pmc_4898821_pbio.1002475.g001.jpg
+- id: doi:10.1101/056473
+  image: /images/research/biorxiv_056473_F1.jpg
+- id: doi:10.1101/051524
+  image: /images/research/biorxiv_051524_F1_crop.jpg
+- id: doi:10.1101/039800
+  image: /images/research/biorxiv_039800_F1.jpg
+- id: doi:10.1101/030650
+  image: /images/research/biorxiv_030650_F1.jpg
+- id: doi:10.1038/NMETH.3249
+  image: /images/research/pmc_4768301_nihms648616f1.jpg
+- id: doi:10.1371/journal.pone.0069678
+  image: /images/research/pmc_3732243_pone.0069678.g001.jpg
+- id: doi:10.1186/1756-0381-4-21
+  image: /images/research/pmc_3154150_1756-0381-4-21-1.jpg
+- id: doi:10.1093/nar/gkr440
+  image: /images/research/pmc_3125802_gkr440f1.jpg
+- id: doi:10.1016/j.semnephrol.2010.07.002
+  image: /images/research/pmc_4734377_nihms-683988-f0001_crop.jpg
+- id: doi:10.1186/1756-0381-2-5
+  image: /images/research/pmc_2761303_1756-0381-2-5-1.jpg
+- id: doi:10.1186/1756-0500-2-149
+  image: /images/research/pmc_2732631_1756-0500-2-149-1.jpg
+- id: doi:10.1371/journal.pone.0005639
+  image: /images/research/pmc_2685469_pone.0005639.g001.jpg

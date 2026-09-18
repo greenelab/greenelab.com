@@ -16,8 +16,9 @@
   link: https://doi.org/hcjkts
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2025.09.15.676244_F1_crop.jpg
 - id: doi:10.64898/2026.07.05.736581
   title: 'HetNetEX: Exact Asymptotic Inference in Heterogeneous Biomedical Knowledge
     Graphs'
@@ -29,6 +30,23 @@
   publisher: openRxiv
   date: '2026-07-06'
   link: https://doi.org/hccfr7
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2026.07.05.736581_F2.jpg
+- id: doi:10.5281/zenodo.20314127
+  title: Lifecycle-aware evaluation of biomedical data ecosystems
+  authors:
+  - Ethan M. Lange
+  - Vikram Adithya Ganesh
+  - Adriana Ivich
+  - Vince Rubinetti
+  - Casey Greene
+  - Sean Davis
+  publisher: Zenodo
+  date: '2026-05-20'
+  link: https://doi.org/hcjvz6
   orcid: 0000-0001-8713-9213
   member: casey-greene
   plugin: orcid.py
@@ -44,8 +62,9 @@
   link: https://doi.org/hbt84d
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/1-s2.0-S2667237526000469-gr1.jpg
 - id: doi:10.64898/2026.01.14.699527
   title: Deconvolved tumor adipocyte proportions and high grade serous ovarian carcinoma
     survival
@@ -65,8 +84,9 @@
   link: https://doi.org/hbmcxb
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2026.01.14.699527_F1.jpg
 - id: doi:10.5281/zenodo.17228741
   title: Lab Website Template
   authors:
@@ -127,8 +147,9 @@
   link: https://doi.org/g92tv7
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/medrxiv_2025.01.21.25320918_F1.jpg
 - id: doi:10.1158/1055-9965.30517322
   title: Supplementary Figure 1 from Homologous Recombination Deficiency and Survival
     in Ovarian High-Grade Serous Carcinoma by Self-Reported Race
@@ -295,8 +316,9 @@
   link: https://doi.org/g939k7
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2025.09.15.676244_F1_crop.jpg
 - id: doi:10.1158/1055-9965.EPI-25-0371
   title: An Analytic Pipeline to Obtain Reliable Genetic Ancestry Estimates from Tumor-Derived
     RNA Sequencing Data
@@ -316,8 +338,9 @@
   link: https://doi.org/g9stn9
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_12340684_nihms-2096950-f0001_crop.jpg
 - id: doi:10.1158/1055-9965.c.8012108
   title: Data from An Analytic Pipeline to Obtain Reliable Genetic Ancestry Estimates
     from Tumor-Derived RNA Sequencing Data
@@ -413,8 +436,9 @@
   link: https://doi.org/g9x39d
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2025.08.20.671333_F1.jpg
 - id: doi:10.5281/zenodo.15597460
   title: hetionet-analysis
   authors:
@@ -511,8 +535,9 @@
   link: https://doi.org/g8wpqr
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/41551_2024_1322_Fig1_HTML_crop.jpg
 - id: doi:10.1016/j.patter.2024.101115
   title: Best holdout assessment is sufficient for cancer transcriptomic model selection
   authors:
@@ -524,8 +549,9 @@
   link: https://doi.org/g8t4kk
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/1-s2.0-S2666389924002873-gr1.jpg
 - id: doi:10.5281/zenodo.13733642
   title: Human Microbiome Compendium dataset
   authors:
@@ -614,8 +640,9 @@
   link: https://doi.org/gtw9d3
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_11339502_ocae139f1.jpg
 - id: doi:10.6084/m9.figshare.26629696
   title: Additional file 1 of Performance of computational algorithms to deconvolve
     heterogeneous bulk ovarian tumor tissue depends on experimental factors
@@ -820,8 +847,9 @@
   link: https://doi.org/gtsgj7
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2024.04.25.590992_F1.jpg
 - id: doi:10.1523/ENEURO.0313-23.2024
   title: 'MousiPLIER: A Mouse Pathway-Level Information Extractor Model'
   authors:
@@ -836,8 +864,9 @@
   link: https://doi.org/g7p7wj
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_11154669_eneuro-11-ENEURO.0313-23.2024-g001.jpg
 - id: doi:10.1093/bioadv/vbae004
   title: "Optimizer\u2019s dilemma: optimization strongly influences model selection\
     \ in transcriptomic prediction"
@@ -850,8 +879,9 @@
   link: https://doi.org/gtdh5z
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_10822580_vbae004f1.jpg
 - id: doi:10.6084/m9.figshare.c.6891506.v1
   title: Performance of computational algorithms to deconvolve heterogeneous bulk
     ovarian tumor tissue depends on experimental factors
@@ -905,8 +935,9 @@
   link: https://doi.org/gtjtj2
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_10986534_spectrum.03157-23.f001.jpg
 - id: doi:10.1101/2024.04.19.590243
   title: 'The Single-cell Pediatric Cancer Atlas: Data portal and open-source tools
     for single-cell transcriptomics of pediatric tumors'
@@ -930,8 +961,9 @@
   link: https://doi.org/gt6s6h
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2024.04.19.590243_F1.jpg
 - id: doi:10.1093/gigascience/giae001
   title: 'The probability of edge existence due to node degree: a baseline for network-based
     predictions'
@@ -947,8 +979,9 @@
   link: https://doi.org/gtcbks
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_10848215_giae001fig1.jpg
 - id: doi:10.5281/zenodo.8044955
   title: 'greenelab/phenoplier: a computational framework to integrate genetic studies
     with gene co-expression patterns'
@@ -1084,8 +1117,9 @@
   link: https://doi.org/grrw83
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_11132680_elife-84855-fig1.jpg
 - id: doi:10.1128/msystems.00927-22
   title: Application of Traditional Vaccine Development Strategies to SARS-CoV-2
   authors:
@@ -1502,8 +1536,9 @@
   link: https://doi.org/gsd85n
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_10375517_giad047fig1.jpg
 - id: doi:10.1101/2023.10.11.560955
   title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
   authors:
@@ -1562,8 +1597,9 @@
   link: https://doi.org/gs3vwj
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2023.11.01.565179_F1.jpg
 - id: doi:10.1093/nar/gkad289
   title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
     and user-created collections of genes'
@@ -1660,8 +1696,9 @@
   link: https://doi.org/gr92p6
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/1-s2.0-S2666979X23001155-gr1.jpg
 - id: doi:10.1186/s13059-023-03077-7
   title: Performance of computational algorithms to deconvolve heterogeneous bulk
     ovarian tumor tissue depends on experimental factors
@@ -2001,8 +2038,9 @@
   link: https://doi.org/gt6s6n
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/medrxiv_2022.06.09.22276222_F1.jpg
 - id: doi:10.1101/2022.04.14.488429
   title: "Compendium-wide analysis of\n                  <i>P. aeruginosa</i>\n  \
     \                core and accessory genes reveal more nuanced transcriptional\
@@ -2019,8 +2057,9 @@
   link: https://doi.org/gpxkwr
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2022.04.14.488429_F1.jpg
 - id: doi:10.1038/s41562-021-01279-2
   title: Computational audits combat disparities in recognition
   authors:
@@ -2051,8 +2090,9 @@
   link: https://doi.org/gn984c
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2022.01.24.477642_F1.jpg
 - id: doi:10.1371/journal.pbio.3001470
   title: Examining linguistic shifts between preprints and publications
   authors:
@@ -2186,8 +2226,9 @@
   link: https://doi.org/grgnw9
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2022.12.04.519045_F1.jpg
 - id: doi:10.1016/j.gpb.2022.09.011
   title: 'SOPHIE: Generative Neural Networks Separate Common and Specific Transcriptional
     Responses'
@@ -2241,8 +2282,9 @@
   link: https://doi.org/gqhgwk
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2022.06.22.497194_F1.jpg
 - id: doi:10.1016/j.csbj.2022.08.012
   title: Using genome-wide expression compendia to study microorganisms
   authors:
@@ -2295,8 +2337,9 @@
   link: https://doi.org/gpzf7p
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2022.04.09.487671_F1.jpg
 - id: doi:10.5281/zenodo.4677667
   title: Response to NOT-OD-21-066 - Racial EDI in Biomedical Research Workforce
   authors:
@@ -2796,7 +2839,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7c909dce-6109-48f1-89c9-07353cf36512/gr1.jpg
+  image: /images/research/1-s2.0-S2405803320302855-gr1.jpg
   tags:
   - cancer
   - open science
@@ -2818,8 +2861,9 @@
   link: https://doi.org/gj6qv4
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2021.05.24.445440_F1.jpg
 - id: doi:10.1093/gigascience/giab062
   title: Genetic demultiplexing of pooled single-cell RNA-sequencing samples in cancer
     facilitates effective experimental design
@@ -2913,8 +2957,9 @@
   link: https://doi.org/gj74m9
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2021.05.26.445900_F1_crop.jpg
 - id: doi:10.1128/mSystems.00233-21
   title: Identification and Development of Therapeutics for COVID-19
   authors:
@@ -3015,8 +3060,9 @@
   link: https://doi.org/gh7rph
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2021.03.04.433874_F1.jpg
 - id: doi:10.1016/j.celrep.2021.108917
   title: Macrophages in SHH subgroup medulloblastoma display dynamic heterogeneity
     that varies with treatment modality
@@ -3083,8 +3129,9 @@
   link: https://doi.org/gnbdnb
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/medrxiv_2021.10.21.21265225_F1.jpg
 - id: doi:10.48550/arxiv.2106.00657
   title: Parameterized algorithms for identifying gene co-expression modules via weighted
     clique decomposition
@@ -3127,8 +3174,9 @@
   link: https://doi.org/gk9g25
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2021.07.05.450786_F1.jpg
 - id: doi:10.1038/s41592-021-01256-7
   title: Reproducibility standards for machine learning in the life sciences
   authors:
@@ -3286,8 +3334,9 @@
   link: https://doi.org/gjb778
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2021.03.03.433798_F1.jpg
 - id: doi:10.17863/cam.53202
   title: Development and Validation of the Gene Expression Predictor of High-grade
     Serous Ovarian Carcinoma Molecular SubTYPE (PrOTYPE).
@@ -3564,8 +3613,9 @@
   link: https://doi.org/ggr64p
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2020.04.14.927251_F1.jpg
 - id: doi:10.1016/j.ccell.2020.10.014
   title: Biologically Informed Neural Networks Predict Drug Responses
   authors:
@@ -3881,6 +3931,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
+  image: /images/research/pmc_6980207_nihms-1048840-f0002_crop.jpg
   buttons:
   - url: https://www.penncil.org/software
     text: YETI2 Software
@@ -3941,8 +3992,9 @@
   link: https://doi.org/gg7m5r
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/medrxiv_2020.02.17.20024133_F1.jpg
 - id: doi:10.1101/2020.01.17.910703
   title: Graph biased feature selection of genes is better than random for many genes
   authors:
@@ -4039,8 +4091,9 @@
   link: https://doi.org/gg8skn
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/medrxiv_2020.06.09.20126813_F1_crop.jpg
 - id: doi:10.1038/s41562-020-00944-2
   title: Population-scale longitudinal mapping of COVID-19 symptoms, behaviour and
     testing
@@ -4544,8 +4597,9 @@
   link: https://doi.org/gg7m5q
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_2020.02.12.945642_F1_crop.jpg
 - id: doi:10.1093/nar/gkaa248
   title: Specific histone modifications associate with alternative exon selection
     during mammalian development
@@ -4681,7 +4735,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://ash.silverchair-cdn.com/ash/content_public/journal/bloodadvances/3/21/10.1182_bloodadvances.2019000303/6/m_advancesadv2019000303absf1.png?Expires=1601620807&Signature=Lf8D4M4EhuKZCHx7TQ~aMJ0OVSEnzbYnXmcDkUY~stjMlEhNAAC5j2rOf~D~1W0sggQDkIAu4nOXAt6i~5Rj68RZk~rB2JupXyDs74bf2tMWDU8lqkz~~70UpGB5zp0uuYKFBbpgyWIH9wMLdm72nZFU5SkAi8MzI6YOE3opIN4ROZ~u9Zmu8LacXEVNFE4GMphBZ6sgSVc4BDH649sBlcuIU5FgoBjKDZmBOBK3SUFUxiCq24yCYA4551dKXWPtU1Otf4k1aQS8TAWNZMTOlGu9SEYI95chJi1uv-rFi~mlHNTFcNTSej9tyc2v8I4mZ7anqEj1KkVkf3v-EEVkZQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /images/research/pmc_6855123_advancesADV2019000303absf1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/563312
@@ -4721,7 +4775,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.annualreviews.org/na101/home/literatum/publisher/ar/journals/content/biodatasci/2019/biodatasci.2019.2.issue-1/annurev-biodatasci-072018-021348/20190704/images/medium/bd020001.f1.gif
 - id: doi:10.1101/566455
   title: Genomic profiling of childhood tumor patient-derived xenograft models to
     enable rational clinical trial design
@@ -4798,8 +4851,9 @@
   link: https://doi.org/gg7m5w
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_566455_F1.jpg
 - id: doi:10.1186/s40478-019-0803-6
   title: Immune landscapes associated with different glioblastoma molecular subtypes
   authors:
@@ -4920,8 +4974,9 @@
   link: https://doi.org/gdxxjf
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_385534_F1.jpg
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -4936,8 +4991,9 @@
   link: https://doi.org/gfxjxf
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_573782_F1.jpg
 - id: doi:10.1038/s41587-019-0143-x
   title: Show me the models
   authors:
@@ -5127,8 +5183,9 @@
   link: https://doi.org/gg7m5x
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_653105_F1.jpg
 - id: doi:10.1016/j.devcel.2019.03.001
   title: 'The Pediatric Cell Atlas: Defining the Growth Phase of Human Development
     at Single-Cell Resolution'
@@ -5213,7 +5270,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/53518ae9-e248-4399-b5f6-90df8af8110a/gr1.jpg
+  image: /images/research/1-s2.0-S1534580719301789-gr1.jpg
 - id: doi:10.1038/s41592-019-0585-6
   title: Voices in methods development
   authors:
@@ -5356,7 +5413,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ea974986-ac13-4ba3-91c1-b0adba5b7ea9/gr5.jpg
+  image: /images/research/1-s2.0-S0168952518301240-gr5.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/196915
@@ -6134,7 +6191,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/f320090c-144a-4c2a-add9-ce2283658b93/fx1.jpg
+  image: /images/research/1-s2.0-S2211124718304376-fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/pancancer/blob/master/tp53_analysis.sh
@@ -6186,8 +6243,9 @@
   link: https://doi.org/gkwxhp
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_427898_F1.jpg
 - id: doi:10.1016/j.celrep.2018.03.046
   title: Machine Learning Detects Pan-cancer Ras Pathway Activation in The Cancer
     Genome Atlas
@@ -6937,7 +6995,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4c2909b3-3e15-4723-a8b2-1f94166415e6/fx1.jpg
+  image: /images/research/1-s2.0-S2211124718303899-fx1.jpg
   buttons:
   - type: source
     link: https://github.com/greenelab/pancancer/blob/master/ras_analysis.sh
@@ -6996,8 +7054,9 @@
   link: https://doi.org/gg7m5v
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_414565_F1.jpg
 - id: doi:10.1016/j.cell.2018.03.035
   title: Oncogenic Signaling Pathways in The Cancer Genome Atlas
   authors:
@@ -7787,7 +7846,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/7bca2f8c-30f0-44cb-962a-cac5497cb225/fx1.jpg
+  image: /images/research/1-s2.0-S0092867418303593-fx1.jpg
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
@@ -7846,8 +7905,9 @@
   link: https://doi.org/gg7m5m
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_198481_F1.jpg
 - id: doi:10.1186/s13073-017-0417-1
   title: A novel multi-network approach reveals tissue-specific cellular modulators
     of fibrosis in systemic sclerosis
@@ -7918,8 +7978,9 @@
   link: https://doi.org/gcw9f6
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_156620_F1.jpg
 - id: doi:10.1038/ng.3830
   title: Celebrating parasites
   authors:
@@ -7947,8 +8008,9 @@
   link: https://doi.org/gg7m5f
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_118349_F1.jpg
 - id: doi:10.1056/NEJMc1705477
   title: Data-Sharing Models
   authors: []
@@ -7959,7 +8021,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://fertility-media.womenandinfants.org/logo-nejm.png
 - id: doi:10.1101/196915
   title: 'Enter the matrix: factorization uncovers knowledge from omics Names/Affiliations'
   authors:
@@ -7980,8 +8041,9 @@
   link: https://doi.org/gg7m5k
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_196915_F1.jpg
 - id: doi:10.48550/arxiv.1711.04828
   title: Evaluating deep variational autoencoders trained on pan-cancer gene expression
   authors:
@@ -8005,8 +8067,9 @@
   link: https://doi.org/gcm44d
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_174474_F1.jpg
 - id: doi:10.1101/166207
   title: Functional Network Community Detection Can Disaggregate and Filter Multiple
     Underlying Pathways in Enrichment Analyses
@@ -8020,8 +8083,9 @@
   link: https://doi.org/gg7m5j
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_166207_F1.jpg
 - id: doi:10.1038/ejhg.2017.108
   title: Implicating candidate genes at GWAS signals by leveraging topologically associating
     domains
@@ -8057,8 +8121,9 @@
   link: https://doi.org/gg7m5h
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_157610_F1.jpg
 - id: doi:10.1142/9789813207813_0060
   title: NO-BOUNDARY THINKING IN BIOINFORMATICS
   authors:
@@ -8123,8 +8188,9 @@
   link: https://doi.org/gbpvh5
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_142760_F1.jpg
 - id: doi:10.1101/147645
   title: 'PathCORE-T: identifying and visualizing globally co-occurring pathways in
     large transcriptomic compendia'
@@ -8140,8 +8206,9 @@
   link: https://doi.org/gg7m5g
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_147645_F1.jpg
 - id: doi:10.1101/159756
   title: Privacy-preserving generative deep neural networks support clinical data
     sharing
@@ -8158,8 +8225,9 @@
   link: https://doi.org/gcnzrn
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_159756_F1.jpg
 - id: doi:10.1038/nbt.3780
   title: Reproducibility of computational workflows is automated using continuous
     analysis
@@ -8236,7 +8304,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/465ca2b3-1520-4417-861c-b34d6fb47193/fx1.jpg
+  image: /images/research/1-s2.0-S2405471217302314-fx1.jpg
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/078659
@@ -8261,8 +8329,9 @@
   link: https://doi.org/gcgk9c
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_078659_F1.jpg
 - id: doi:10.1101/075382
   title: A machine learning classifier trained on cancer transcriptomes detects NF1
     inactivation signal in glioblastoma
@@ -8278,8 +8347,9 @@
   link: https://doi.org/gkws7n
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_075382_F1.jpg
 - id: doi:10.1101/062695
   title: Integrative networks illuminate biological factors underlying gene-disease
     associations
@@ -8292,8 +8362,9 @@
   link: https://doi.org/gkvcfm
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_062695_F1.jpg
 - id: doi:10.1101/030239
   title: Comprehensive Cross-Population Analysis of High-Grade Serous Ovarian Cancer
     Supports No More Than Three Subtypes
@@ -8312,8 +8383,9 @@
   link: https://doi.org/gkvjh2
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_030239_F1.jpg
 - id: doi:10.1126/scitranslmed.aag3101
   title: The future is unsupervised
   authors:
@@ -8344,8 +8416,9 @@
   link: https://doi.org/f8r9b6
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_4898821_pbio.1002475.g001.jpg
 - id: doi:10.1101/056473
   title: Reproducible Computational Workflows with Continuous Analysis
   authors:
@@ -8356,8 +8429,9 @@
   link: https://doi.org/bp4s
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_056473_F1.jpg
 - id: doi:10.1101/055913
   title: 'Tribe: The collaborative platform for reproducible web-based analysis of
     gene sets'
@@ -8382,7 +8456,7 @@
   - type: app
     link: https://github.org/greenelab/tribe-client
     text: Tribe web app
-  image: https://www.biorxiv.org/content/biorxiv/early/2017/10/09/055913/F4.large.jpg
+  image: /images/research/biorxiv_055913_F4.jpg
 - id: doi:10.1101/051524
   title: Pathway and network-based strategies to translate genetic discoveries into
     effective therapies
@@ -8394,8 +8468,9 @@
   link: https://doi.org/gktznj
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_051524_F1_crop.jpg
 - id: doi:10.1101/039800
   title: Semi-Supervised Learning of the Electronic Health Record for Phenotype Stratification
   authors:
@@ -8406,8 +8481,9 @@
   link: https://doi.org/gkwx2x
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_039800_F1.jpg
 - id: doi:10.1101/038950
   title: A Novel Multi-network Approach Reveals Tissue-specific Cellular Modulators
     of Fibrosis in Systemic Sclerosis, Pulmonary Fibrosis and Pulmonary Arterial Hypertension
@@ -8457,7 +8533,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://msystems.asm.org/content/msys/1/1/e00025-15/F2.medium.gif
+  image: /images/research/pmc_5069748_sys0011600330002.jpg
   buttons:
   - type: preprint
     link: http://biorxiv.org/content/early/2015/11/05/030650
@@ -8764,7 +8840,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=viewFile&path%5B%5D=7718&path%5B%5D=22445&path%5B%5D=117357
+  image: /images/research/pmc_4941373_oncotarget-07-17087-g001.jpg
   buttons:
   - type: source
     link: https://bitbucket.org/greenelab/pdx-dina-manuscript-code
@@ -8843,7 +8919,6 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/Issue/17/1/0/m_cover.gif?Expires=1601970466&Signature=sjCGDYU3ImFTCF2Bv5~HCwmedO~gYd~zIDgRE22FynlVutRs6kjAPU8fgg7gG5~vWXhyzjsHJYM1FL-cT3SEgVSpoZS0yPgeFwUcMKi39DxOmL5bYCsX3H74Z18h-jvOkp9zJ4FDpNc0O1DLr5ri7t1BPt0-6NtrRSvyTJ2zWz7oN4Q7TDzB4nF6hFSfWjcVIVpJBHvrtkaIr92OyINhp-AHnaqMOVsjx~54uWp~55HKXtJvtbev4iN03RTov29SwLrXyXbGbz1Q5Y0eG--md6LRbzVWzcoXp8P2kUFu5imfbweMjErr1rPh~VQVtMfgySsM8IgkpEMQbVD44qTerQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
 - id: doi:10.1101/030650
   title: "ADAGE analysis of publicly available gene expression data collections illuminates\n\
     \                  <i>Pseudomonas aeruginosa-host</i>\n                  interactions"
@@ -8857,8 +8932,9 @@
   link: https://doi.org/gkw55s
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/biorxiv_030650_F1.jpg
 - id: doi:10.1093/hmg/ddv440
   title: Identification of shared and unique susceptibility pathways among cancers
     of the lung, breast, and prostate from genome-wide association studies and tissue-specific
@@ -9431,8 +9507,9 @@
   link: https://doi.org/ggfb5t
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_4768301_nihms648616f1.jpg
 - id: doi:10.1186/s13040-015-0050-8
   title: Testing multiple hypotheses through IMP weighted FDR based on a genetic functional
     network with application to a new zebrafish transcriptome study
@@ -9540,6 +9617,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
+  image: /images/research/pmc_5604462_nihms868708f1_crop.jpg
 - id: doi:10.1186/1756-0381-7-17
   title: "Computational genetics analysis of grey matter density in Alzheimer\u2019\
     s disease"
@@ -9642,8 +9720,9 @@
   link: https://doi.org/f5c52s
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_3732243_pone.0069678.g001.jpg
 - id: issn:23356936
   title: ISSN 2335-6936 - Pacific symposium on biocomputing ... (Online)
   authors: []
@@ -9682,6 +9761,7 @@
   member: casey-greene
   plugin: sources.py
   file: sources.yaml
+  image: /images/research/pmc_4753770_nihms757401f1_crop.jpg
 - id: doi:10.1371/journal.pcbi.1002816
   title: 'Chapter 2: Data-Driven View of Disease Biology'
   authors:
@@ -9755,8 +9835,9 @@
   link: https://doi.org/b44mk9
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_3154150_1756-0381-4-21-1.jpg
 - id: doi:10.1093/nar/gkr440
   title: 'PILGRM: an interactive data-driven discovery platform for expert biologists'
   authors:
@@ -9767,8 +9848,9 @@
   link: https://doi.org/fntw26
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_3125802_gkr440f1.jpg
 - id: doi:10.1007/978-3-642-12211-8_7
   title: A Model Free Method to Generate Human Genetics Datasets with Complex Gene-Disease
     Relationships
@@ -9842,8 +9924,9 @@
   link: https://doi.org/fcqz8c
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_4734377_nihms-683988-f0001_crop.jpg
 - id: doi:10.1093/bioinformatics/btq009
   title: Multifactor dimensionality reduction for graphics processing units enables
     genome-wide testing of epistasis in sporadic ALS
@@ -9899,8 +9982,9 @@
   link: https://doi.org/cwbbv6
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_2732631_1756-0500-2-149-1.jpg
 - id: wosuid:WOS:000272540600064
   title: Web of Science
   authors: []
@@ -9956,8 +10040,9 @@
   link: https://doi.org/cp74td
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_2685469_pone.0005639.g001.jpg
 - id: doi:10.1109/CEC.2009.4983027
   title: 'Nature-inspired algorithms for the genetic analysis of epistasis in common
     human diseases: Theoretical assessment of wrapper vs. filter approaches'
@@ -10029,8 +10114,9 @@
   link: https://doi.org/c2fwqq
   orcid: 0000-0001-8713-9213
   member: casey-greene
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: /images/research/pmc_2761303_1756-0381-2-5-1.jpg
 - id: doi:10.1145/1527063.1527064
   title: Solving complex problems in human genetics using GP
   authors:
@@ -10134,6 +10220,34 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.7554/eLife.112262
+  title: 'A new diagnostic modality for bovine tuberculosis: accurate and robust classification
+    of infected cattle using transcriptomics and machine learning'
+  authors:
+  - "John F O\u2019Grady"
+  - Adriana Ivich
+  - Gillian P McHugo
+  - Adnan Khan
+  - Thomas J Hall
+  - "Sarah L Faherty O\u2019Donnell"
+  - Carolina N Correia
+  - John A Browne
+  - Valentina Riggio
+  - James GD Prendergast
+  - Emily L Clark
+  - Hubert Pausch
+  - Kieran G Meade
+  - Isobel C Gormley
+  - Eamonn Gormley
+  - Stephen V Gordon
+  - Casey S Greene
+  - David E MacHugh
+  publisher: eLife Sciences Publications, Ltd
+  date: '2026-09-14'
+  link: https://doi.org/hcjvz7
+  image: /images/research/elife_112262_fig1.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s13059-025-03506-9
   title: Missing cell types in single-cell references impact deconvolution of bulk
     data but are detectable
@@ -10148,6 +10262,7 @@
   publisher: Genome Biology
   date: '2025-04-07'
   link: https://doi.org/g9fhz6
+  image: /images/research/13059_2025_3506_Fig1_HTML.jpg
   buttons:
   - type: preprint
     link: https://doi.org/gtsgj7
@@ -10165,6 +10280,7 @@
   publisher: Bone Reports
   date: '2025-06-01'
   link: https://doi.org/g9fh2s
+  image: /images/research/1-s2.0-S2352187225000166-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1158/0008-5472.CAN-24-1879
@@ -10188,6 +10304,7 @@
   publisher: Cancer Research
   date: '2025-03-10'
   link: https://doi.org/g9fh2t
+  image: /images/research/pmc_12048278_nihms-2059130-f0001_crop.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.ajhg.2024.12.007
@@ -10274,6 +10391,7 @@
   publisher: The American Journal of Human Genetics
   date: '2025-02-01'
   link: https://doi.org/g9fh2v
+  image: /images/research/1-s2.0-S000292972400449X-gr1.jpg
   tags:
   - CCPM banner
   plugin: sources.py
@@ -10317,6 +10435,7 @@
   publisher: openRxiv
   date: '2025-01-28'
   link: https://doi.org/g9fh2x
+  image: /images/research/medrxiv_2025.01.21.25320918_F1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cels.2024.08.005
@@ -10329,6 +10448,7 @@
   publisher: Cell Systems
   date: '2024-09-01'
   link: https://doi.org/nhs4
+  image: /images/research/1-s2.0-S2405471224002357-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.cell.2024.12.017
@@ -10898,7 +11018,7 @@
   publisher: 'Circulation: Cardiovascular Quality and Outcomes'
   date: '2019-07-01'
   link: https://doi.org/ggbpgq
-  image: https://www.ahajournals.org/cms/asset/297fb0cf-929f-46d3-8999-1c4742fca9f4/e005122fig02.gif
+  image: /images/research/pmc_7041894_hcq-12-e005122-g002.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/159756
@@ -10954,6 +11074,7 @@
   publisher: Science Advances
   date: '2020-09-11'
   link: https://doi.org/ghbvbf
+  image: /images/research/pmc_11206444_aba2083-f1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/833210
@@ -11221,7 +11342,7 @@
   publisher: Cell Reports
   date: '2019-11-01'
   link: https://doi.org/gg596n
-  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/ed25df6f-6a3d-4f8b-8bc0-99089088d20e/fx1.jpg
+  image: /images/research/1-s2.0-S2211124719312689-fx1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/566455
@@ -11264,6 +11385,7 @@
   publisher: openRxiv
   date: '2019-10-04'
   link: https://doi.org/gg7m52
+  image: /images/research/biorxiv_793091_F1.jpg
   buttons:
   - type: preprint
   plugin: sources.py
@@ -11326,6 +11448,7 @@
   publisher: openRxiv
   date: '2019-10-03'
   link: https://doi.org/ggh6rz
+  image: /images/research/biorxiv_787903_F1.jpg
   buttons:
   - type: preprint
   plugin: sources.py
@@ -11618,7 +11741,7 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2019-01-01'
   link: https://doi.org/gg7m58
-  image: https://www.g3journal.org/content/ggg/9/1/251/F2.medium.gif
+  image: /images/research/pmc_6325913_251f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/414565
@@ -11697,6 +11820,7 @@
   publisher: Journal of The Royal Society Interface
   date: '2018-04-01'
   link: https://doi.org/gddkhn
+  image: /images/research/pmc_5938574_rsif20170387-g1.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/142760
@@ -11718,7 +11842,7 @@
   publisher: Journal of Bacteriology
   date: '2018-04-15'
   link: https://doi.org/gg7qrt
-  image: https://jb.asm.org/content/jb/200/8/e00703-17/F4.medium.gif
+  image: /images/research/pmc_5869470_zjb9990946660004.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/198481
@@ -11761,7 +11885,7 @@
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: '2018-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5760988/bin/nihms921846f2.jpg
+  image: /images/research/pmc_5760988_nihms921846f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/166207
@@ -11864,7 +11988,7 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2017-11-01'
   link: https://doi.org/gg7qrx
-  image: https://www.g3journal.org/content/ggg/7/11/3705/F2.medium.gif
+  image: /images/research/pmc_5677163_3705f2.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/157610
@@ -11879,6 +12003,7 @@
   publisher: Biocomputing 2018
   date: '2017-11-17'
   link: https://doi.org/gfspsd
+  image: /images/research/pmc_5728678_nihms921826f1_crop.jpg
   buttons:
   - type: preprint
     link: https://doi.org/10.1101/174474
@@ -11918,7 +12043,7 @@
   publisher: G3 Genes|Genomes|Genetics
   date: '2016-12-01'
   link: https://doi.org/gg7qsd
-  image: https://www.g3journal.org/content/ggg/6/12/4097/F3.medium.gif
+  image: /images/research/pmc_5144978_4097f3.jpg
   buttons:
   - type: preprint
     link: http://dx.doi.org/10.1101/030239
@@ -11970,7 +12095,7 @@
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: '2016-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4832978/bin/nihms774628f1.jpg
+  image: /images/research/pmc_4832978_nihms774628f1.jpg
   buttons:
   - url: http://psb.stanford.edu/psb-online/proceedings/psb16/greene.pdf
     text: PDF
@@ -12013,7 +12138,7 @@
   publisher: Pacific Symposium on Biocomputing. Pacific Symposium on Biocomputing
   date: '2015-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299935/bin/nihms-642080-f0001.jpg
+  image: /images/research/pmc_4299935_nihms-642080-f0001.jpg
   buttons:
   - type: source
     link: http://discovery.dartmouth.edu/~cgreene/da-psb2015/
