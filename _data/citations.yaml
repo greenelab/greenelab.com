@@ -33,6 +33,22 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.5281/zenodo.20314127
+  title: Lifecycle-aware evaluation of biomedical data ecosystems
+  authors:
+  - Ethan M. Lange
+  - Vikram Adithya Ganesh
+  - Adriana Ivich
+  - Vince Rubinetti
+  - Casey Greene
+  - Sean Davis
+  publisher: Zenodo
+  date: '2026-05-20'
+  link: https://doi.org/hcjvz6
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.crmeth.2026.101346
   title: Integrating single-cell and single-nucleus datasets improves bulk RNA-seq
     deconvolution
@@ -10134,6 +10150,33 @@
   member: casey-greene
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.7554/eLife.112262
+  title: 'A new diagnostic modality for bovine tuberculosis: accurate and robust classification
+    of infected cattle using transcriptomics and machine learning'
+  authors:
+  - "John F O\u2019Grady"
+  - Adriana Ivich
+  - Gillian P McHugo
+  - Adnan Khan
+  - Thomas J Hall
+  - "Sarah L Faherty O\u2019Donnell"
+  - Carolina N Correia
+  - John A Browne
+  - Valentina Riggio
+  - James GD Prendergast
+  - Emily L Clark
+  - Hubert Pausch
+  - Kieran G Meade
+  - Isobel C Gormley
+  - Eamonn Gormley
+  - Stephen V Gordon
+  - Casey S Greene
+  - David E MacHugh
+  publisher: eLife Sciences Publications, Ltd
+  date: '2026-09-14'
+  link: https://doi.org/hcjvz7
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1186/s13059-025-03506-9
   title: Missing cell types in single-cell references impact deconvolution of bulk
     data but are detectable
