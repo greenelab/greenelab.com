@@ -1,6 +1,6 @@
 ---
 name: Lucas Gillenwater
-image: images/team/lucas.jpeg
+image: images/team/lucas.jpg
 role: postdoc
 meta_description: Lucas Gillenwater is a postdoctoral researcher in the Greene Lab at CU Anschutz working on biomedical model evaluation in the AI era. 
 job_title: Postdoctoral Researcher in Biomedical Informatics
@@ -14,7 +14,7 @@ expertise:
   - epidemiology
   - statistical genetics
 links:
-  orcid: 00000-0002-6995-0130
+  orcid: 0000-0002-6995-0130
   email: lucas.gillenwater@cuanschutz.edu
   google-scholar: p_jZjNYAAAAJ
   github: lagillenwater
@@ -26,7 +26,7 @@ In June of 2025, Lucas completed his PhD in Computational Bioscience at the Univ
 During graduate school he developed methods to integrate multiple omic profiles to better understand co-occurring conditions in people with Down syndrome. 
 
 Lucas has diverse research interests, from path finding algorithms through knowledge graphs to rigorous model development. 
-More recently, he is exploring the capabilities of next generation of pre-trained biomedical foundation models. 
+More recently, he is exploring the capabilities of the next generation of pre-trained biomedical foundation models.
 We are excited that AI tools lead to faster model development for drug response prediction.   
 However, model evaluation has not adapted to the AI age. 
-He is working on leakage proof evaluations that can assess if the models actually learn biology. 
+He is working on leakage-proof evaluations that can assess if the models actually learn biology.
