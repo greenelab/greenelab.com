@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.10.10.758221
+  title: Common cis-eQTLs do not explain chromosome 21 expression deviations from
+    the ploidy expectation in Down syndrome
+  authors:
+  - Lucas A Gillenwater
+  - Mary Ann Allen
+  - Milton Pividori
+  - Casey S Greene
+  - Marc Subirana-Granes
+  publisher: openRxiv
+  date: '2026-10-13'
+  link: https://doi.org/hcnb6t
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/gr.281433.125
   title: Characterizing intra- and intertumor heterogeneity in ovarian high-grade
     serous carcinoma subtypes using single-cell and spatial transcriptomics
@@ -19,6 +35,19 @@
   plugin: sources.py
   file: sources.yaml
   image: /images/research/biorxiv_2025.09.15.676244_F1_crop.jpg
+- id: doi:10.1016/j.patter.2026.101665
+  title: Generalization of biological foundation models requires prospective validation
+    across contexts
+  authors:
+  - Lucas A. Gillenwater
+  - Casey S. Greene
+  publisher: Patterns
+  date: '2026-10-01'
+  link: https://doi.org/hcnb6v
+  orcid: 0000-0001-8713-9213
+  member: casey-greene
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.07.05.736581
   title: 'HetNetEX: Exact Asymptotic Inference in Heterogeneous Biomedical Knowledge
     Graphs'
